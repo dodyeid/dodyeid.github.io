@@ -1,1 +1,101 @@
 
+{
+"379": {
+    "1": {
+      "question": "Kanye West",
+      "exp": "was mentioned a bit yesterday, so hopefully you know that he wrote the song",
+      "option_1": "Gold Digger",
+      "option_2": "Friends in Paris",
+      "right": "Gold Digger",
+      "author": "Given his stature, Mike Wazowski would have made an excellent NBA player and coach."
+    },
+    "2": {
+      "question": "Gold Digger",
+      "exp": "is built around a sample of the song",
+      "option_1": "I Got a Woman",
+      "option_2": "I am a Man",
+      "right": "I Got a Woman",
+      "author": ""
+    },
+    "3": {
+      "question": "I Got a Woman",
+      "exp": "is a song written by",
+      "option_1": "Ray Charles",
+      "option_2": "Steve Kornacki",
+      "right": "Ray Charles",
+      "author": ""
+    },
+    "4": {
+      "question": "Ray Charles",
+      "exp": "had something on His Mind. He tells us it was",
+      "option_1": "Oklahoma",
+      "option_2": "Georgia",
+      "right": "Georgia",
+      "author": ""
+    },
+    "5": {
+      "question": "Georgia",
+      "exp": "is the home state of",
+      "option_1": "Tashkent",
+      "option_2": "Jaylen Brown",
+      "right": "Jaylen Brown",
+      "author": ""
+    },
+    "6": {
+      "question": "Jaylen Brown",
+      "exp": "plays for the",
+      "option_1": "San Antonio Spurs",
+      "option_2": "Boston Celtics",
+      "right": "Boston Celtics",
+      "author": ""
+    },
+    "7": {
+      "question": "Boston Celtics",
+      "exp": "were formerly coached by",
+      "option_1": "Steve Kerr",
+      "option_2": "Ime Udoka",
+      "right": "Ime Udoka",
+      "author": ""
+    },
+    "8": {
+      "question": "Ime Udoka",
+      "exp": "has a unique relationship with",
+      "option_1": "Jayson Tatum",
+      "option_2": "Mickaël Piétrus",
+      "right": "Jayson Tatum",
+      "author": ""
+    },
+    "9": {
+      "question": "Jayson Tatum",
+      "exp": "played college basketball as a Blue Devil at",
+      "option_1": "Marquette",
+      "option_2": "Duke",
+      "right": "Duke",
+      "author": ""
+    },
+    "10": {
+      "question": "Duke",
+      "exp": "was led to five national college basketball titles under the famous coach",
+      "option_1": "Mike Krzyzewski",
+      "option_2": "Mike Wazowski",
+      "right": "Mike Krzyzewski",
+      "author": ""
+    },
+    "11": {
+      "question": "Mike Krzyzewski",
+      "exp": "won his last NCAA title in",
+      "option_1": "2015",
+      "option_2": "1919",
+      "right": "2015",
+      "author": ""
+    },
+    "12": {
+      "question": "2015",
+      "exp": "was the year in which the Euro replaced the",
+      "option_1": "Death of Michael Jackson",
+      "option_2": "Lithuanian Litas",
+      "right": "Lithuanian Litas",
+      "author": ""
+    }
+  }
+}
