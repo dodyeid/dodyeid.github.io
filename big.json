@@ -97,5 +97,103 @@
       "right": "Lithuanian Litas",
       "author": ""
     }
+  },
+    "380": {
+    "1": {
+      "question": "Kanye West",
+      "exp": "wrote the song",
+      "option_1": "God's Plan",
+      "option_2": "Flashing Lights",
+      "right": "Flashing Lights",
+      "author": "A little Kanye mayhem today, but doesn't every day have some Kanye mayhem in the world?"
+    },
+    "2": {
+      "question": "Flashing Lights",
+      "exp": "was written by",
+      "option_1": "Drake",
+      "option_2": "Kanye West",
+      "right": "Kanye West",
+      "author": ""
+    },
+    "3": {
+      "question": "Kanye West",
+      "exp": "also wrote the song",
+      "option_1": "Gold Digger",
+      "option_2": "One Dance",
+      "right": "Gold Digger",
+      "author": ""
+    },
+    "4": {
+      "question": "Gold Digger",
+      "exp": "was also written by",
+      "option_1": "Kanye West",
+      "option_2": "Nicki Minaj",
+      "right": "Kanye West",
+      "author": ""
+    },
+    "5": {
+      "question": "Kanye West",
+      "exp": "also wrote the song",
+      "option_1": "Father Stretch My Hands Pt. 1",
+      "option_2": "Mother Stretch My Neck",
+      "right": "Father Stretch My Hands Pt. 1",
+      "author": ""
+    },
+    "6": {
+      "question": "Father Stretch My Hands Pt. 1",
+      "exp": "was also written by",
+      "option_1": "Kanye West",
+      "option_2": "Travis Scott",
+      "right": "Kanye West",
+      "author": ""
+    },
+    "7": {
+      "question": "Kanye West",
+      "exp": "also wrote the song",
+      "option_1": "Spin Bout U",
+      "option_2": "Heartless",
+      "right": "Heartless",
+      "author": ""
+    },
+    "8": {
+      "question": "Heartless",
+      "exp": "was also written by",
+      "option_1": "Jay-Z",
+      "option_2": "Kanye West",
+      "right": "Kanye West",
+      "author": ""
+    },
+    "9": {
+      "question": "Kanye West",
+      "exp": "also wrote the song",
+      "option_1": "I Wonder",
+      "option_2": "I Ponder",
+      "right": "I Wonder",
+      "author": ""
+    },
+    "10": {
+      "question": "I Wonder",
+      "exp": "was also written by",
+      "option_1": "Post Malone",
+      "option_2": "Kanye West",
+      "right": "Kanye West",
+      "author": ""
+    },
+    "11": {
+      "question": "Kanye West",
+      "exp": "also wrote the song",
+      "option_1": "Closed on Sunday",
+      "option_2": "Closed on Monday",
+      "right": "Closed on Sunday",
+      "author": ""
+    },
+    "12": {
+      "question": "Closed on Sunday",
+      "exp": "was also written by",
+      "option_1": "Kanye West",
+      "option_2": "Pete Sampras",
+      "right": "Kanye West",
+      "author": ""
+    }
   }
 }
