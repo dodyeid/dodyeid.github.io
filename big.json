@@ -1,6 +1,5 @@
-
 {
-"379": {
+  "379": {
     "1": {
       "question": "Kanye West",
       "exp": "was mentioned a bit yesterday, so hopefully you know that he wrote the song",
@@ -95,6 +94,202 @@
       "option_1": "Death of Michael Jackson",
       "option_2": "Lithuanian Litas",
       "right": "Lithuanian Litas",
+      "author": ""
+    }
+  },
+  "380": {
+    "1": {
+      "question": "Idi Amin",
+      "exp": "was the military dictator of",
+      "option_1": "Angola",
+      "option_2": "Uganda",
+      "right": "Uganda",
+      "author": "Thank you Aashish for helping debug our Android App!"
+    },
+    "2": {
+      "question": "Uganda",
+      "exp": "contains a historically significant international airport at",
+      "option_1": "Entebbe",
+      "option_2": "Walvis Bay",
+      "right": "Entebbe",
+      "author": ""
+    },
+    "3": {
+      "question": "Entebbe",
+      "exp": "was the setting for a counter-terrorist hostage-rescue mission by commandos of the Israel Defense Forces that led to the killing of Yonatan, the older brother of future Israeli Prime Minister Benjamin",
+      "option_1": "Mortina",
+      "option_2": "Netanyahu",
+      "right": "Netanyahu",
+      "author": ""
+    },
+    "4": {
+      "question": "Netanyahu",
+      "exp": "is the chairman of the political party known as",
+      "option_1": "Likud",
+      "option_2": "Yesh Atid",
+      "right": "Likud",
+      "author": ""
+    },
+    "5": {
+      "question": "Likud",
+      "exp": "is considered",
+      "option_1": "Conservative",
+      "option_2": "Liberal",
+      "right": "Conservative",
+      "author": ""
+    },
+    "6": {
+      "question": "Conservative",
+      "exp": "was the ideology of the man who wrote about its 'Conscience,'",
+      "option_1": "Franklin Roosevelt",
+      "option_2": "Barry Goldwater",
+      "right": "Barry Goldwater",
+      "author": ""
+    },
+    "7": {
+      "question": "Barry Goldwater",
+      "exp": "was an American politician and United States Air Force major general who was a five-term U.S. Senator from",
+      "option_1": "Arizona",
+      "option_2": "Florida",
+      "right": "Arizona",
+      "author": ""
+    },
+    "8": {
+      "question": "Arizona",
+      "exp": "is home to the MLB team that plays at Chase Field (I know some of you knew that), the",
+      "option_1": "Diamondbacks",
+      "option_2": "Grizzlies",
+      "right": "Diamondbacks",
+      "author": ""
+    },
+    "9": {
+      "question": "Diamondbacks",
+      "exp": "are the heaviest venom",
+      "option_1": "Snakes",
+      "option_2": "Spiders",
+      "right": "Snakes",
+      "author": ""
+    },
+    "10": {
+      "question": "Snakes",
+      "exp": "are",
+      "option_1": "Ectothermic",
+      "option_2": "Endothermic",
+      "right": "Ectothermic",
+      "author": ""
+    },
+    "11": {
+      "question": "Ectothermic",
+      "exp": "is a word that comes from the",
+      "option_1": "Sanskrit",
+      "option_2": "Greek",
+      "right": "Greek",
+      "author": ""
+    },
+    "12": {
+      "question": "Greek",
+      "exp": "is the original language of",
+      "option_1": "The Old Testament",
+      "option_2": "The New Testament",
+      "right": "The New Testament",
+      "author": ""
+    }
+  },
+  "381": {
+    "1": {
+      "question": "The New Testament",
+      "exp": "includes the letter of St. Paul to the",
+      "option_1": "Dionesians",
+      "option_2": "Ephesians",
+      "right": "Ephesians",
+      "author": "Have you shared with a friend yet?"
+    },
+    "2": {
+      "question": "Ephesians",
+      "exp": "were given a 'letter' which is also known as",
+      "option_1": "Epistle",
+      "option_2": "Apollo",
+      "right": "Epistle",
+      "author": ""
+    },
+    "3": {
+      "question": "Epistle",
+      "exp": "comes from the",
+      "option_1": "Greek",
+      "option_2": "Russian",
+      "right": "Greek",
+      "author": ""
+    },
+    "4": {
+      "question": "Greek",
+      "exp": "is the nationality of",
+      "option_1": "Giannis Antetokounmpo",
+      "option_2": "Gianluigi Buffon",
+      "right": "Giannis Antetokounmpo",
+      "author": ""
+    },
+    "5": {
+      "question": "Giannis Antetokounmpo",
+      "exp": "plays for the",
+      "option_1": "Nuggets",
+      "option_2": "Bucks",
+      "right": "Bucks",
+      "author": ""
+    },
+    "6": {
+      "question": "Bucks",
+      "exp": "are an NBA team based out of",
+      "option_1": "Milwaukee",
+      "option_2": "Green Bay",
+      "right": "Milwaukee",
+      "author": ""
+    },
+    "7": {
+      "question": "Milwaukee",
+      "exp": "is the home base of",
+      "option_1": "Dell",
+      "option_2": "Harley-Davidson Motor",
+      "right": "Harley-Davidson Motor",
+      "author": ""
+    },
+    "8": {
+      "question": "Harley-Davidson Motor",
+      "exp": "was founded in",
+      "option_1": "1862",
+      "option_2": "1903",
+      "right": "1903",
+      "author": ""
+    },
+    "9": {
+      "question": "1903",
+      "exp": "was the year in which the U.S. President was",
+      "option_1": "Benjamin Harrison",
+      "option_2": "Theodore Roosevelt",
+      "right": "Theodore Roosevelt",
+      "author": ""
+    },
+    "10": {
+      "question": "Theodore Roosevelt",
+      "exp": "was campaigning for the presidency in 1912 in Milwaukee when he was shot in the chest by a would-be assassin. Thanks to his thick coat and 50-pages in his pocket (which some speculated to be a Bible), he survived the impact and continued the speech, saying 'Ladies and gentlemen, I don't know whether you fully understand that I have just been shot, but it takes more than that to kill a",
+      "option_1": "Bull Moose",
+      "option_2": "Rabid Rabbit",
+      "right": "Bull Moose",
+      "author": ""
+    },
+    "11": {
+      "question": "Bull Moose",
+      "exp": "party's official name was the",
+      "option_1": "Iron Party",
+      "option_2": "Progressive Party",
+      "right": "Progressive Party",
+      "author": ""
+    },
+    "12": {
+      "question": "Progressive Party",
+      "exp": "would describe the left-wing populist party in Spain known as",
+      "option_1": "Podemos",
+      "option_2": "Pomodoros",
+      "right": "Podemos",
       "author": ""
     }
   }
