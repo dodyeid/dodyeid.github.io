@@ -202,7 +202,7 @@
       "option_1": "Oh No",
       "option_2": "We Can",
       "right": "We Can",
-      "subj": "Linguistics",
+      "subj": "Language",
       "author": "Stay tuned for an upcoming new way to share with friends!"
     },
     "2": {
@@ -211,7 +211,7 @@
       "option_1": "Barack Obama",
       "option_2": "John McCain",
       "right": "Barack Obama",
-      "subj": "PPE"
+      "subj": "Politics"
     },
     "3": {
       "question": "Barack Obama",
@@ -219,7 +219,7 @@
       "option_1": "Dreams from My Father",
       "option_2": "My Father's Dreams",
       "right": "Dreams from My Father",
-      "subj": "PPE"
+      "subj": "Politics"
     },
     "4": {
       "question": "Dreams from My Father",
@@ -227,7 +227,7 @@
       "option_1": "Invisible Man",
       "option_2": "Guam",
       "right": "Invisible Man",
-      "subj": "PPE"
+      "subj": "Politics"
     },
     "5": {
       "question": "Invisible Man",
@@ -251,7 +251,7 @@
       "option_1": "Delphi",
       "option_2": "Alexandria",
       "right": "Delphi",
-      "subj": "History and Religion"
+      "subj": "History"
     },
     "8": {
       "question": "Delphi",
@@ -275,7 +275,7 @@
       "option_1": "Wisdom",
       "option_2": "Love",
       "right": "Love",
-      "subj": "History and Religion"
+      "subj": "History"
     },
     "11": {
       "question": "Love",
@@ -283,7 +283,7 @@
       "option_1": "Liebe",
       "option_2": "Hassen",
       "right": "Liebe",
-      "subj": "Linguistics"
+      "subj": "Language"
     },
     "12": {
       "question": "Liebe",
