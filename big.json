@@ -301,7 +301,7 @@
       "option_1": "Oh No",
       "option_2": "We Can",
       "right": "We Can",
-      "subj": "Language",
+      "subj": "Sports",
       "author": "Stay tuned for an upcoming new way to share with friends!"
     },
     "2": {
@@ -310,7 +310,7 @@
       "option_1": "Barack Obama",
       "option_2": "John McCain",
       "right": "Barack Obama",
-      "subj": "Politics"
+      "subj": "STEM"
     },
     "3": {
       "question": "Barack Obama",
@@ -318,7 +318,7 @@
       "option_1": "Dreams from My Father",
       "option_2": "My Father's Dreams",
       "right": "Dreams from My Father",
-      "subj": "Politics"
+      "subj": "Pop"
     },
     "4": {
       "question": "Dreams from My Father",
@@ -326,7 +326,7 @@
       "option_1": "Invisible Man",
       "option_2": "Guam",
       "right": "Invisible Man",
-      "subj": "Politics"
+      "subj": "Leisure"
     },
     "5": {
       "question": "Invisible Man",
@@ -350,7 +350,7 @@
       "option_1": "Delphi",
       "option_2": "Alexandria",
       "right": "Delphi",
-      "subj": "History"
+      "subj": "Politics"
     },
     "8": {
       "question": "Delphi",
