@@ -98,5 +98,103 @@
       "subj": "Literature"
     }
   },
-  "385": {"1":{"question": "Kurt Gödel", "exp": "was a famous 20th century", "option_1": "Logician", "option_2": "Archaeologist", "right": "Logician", "subj": "STEM", "author": "Happy Sunday!"},"2":{"question": "Logician", "exp": "is a predicate that might describe the Greek thinker", "option_1": "Trudeau", "option_2": "Aristotle", "right": "Aristotle", "subj": "Politics"},"3":{"question": "Aristotle", "exp": "is the first name of Jackie O's second husband, Greek Argentinian shipping magnate", "option_1": "Onassis", "option_2": "Cartagena", "right": "Onassis", "subj": "History"},"4":{"question": "Onassis", "exp": "was the second last name of the First Lady Jacqueline", "option_1": "Burnabao", "option_2": "Kennedy", "right": "Kennedy", "subj": "History"},"5":{"question": "Kennedy", "exp": "was assassinated by", "option_1": "John Wilkes Booth", "option_2": "Lee Harvey Oswald", "right": "Lee Harvey Oswald", "subj": "History"},"6":{"question": "Lee Harvey Oswald", "exp": "enlisted, in 1956, in the United States", "option_1": "Air Force", "option_2": "Marine Corps", "right": "Marine Corps", "subj": "History"},"7":{"question": "Marine Corps", "exp": "had a drill instructor by the name of", "option_1": "Donald L. Coates", "option_2": "R. Lee Emery", "right": "R. Lee Emery", "subj": "Leisure"},"8":{"question": "R. Lee Emery", "exp": "was not only a real drill instructor, but also acted as Gunnery Sergeant Hartman in the 1987 film", "option_1": "Shutter Island", "option_2": "Full Metal Jacket", "right": "Full Metal Jacket", "subj": "Leisure"},"9":{"question": "Full Metal Jacket", "exp": "was the film that gave the first breakthrough role for", "option_1": "Matthew Modine", "option_2": "Matthew Broderick", "right": "Matthew Modine", "subj": "Pop"},"10":{"question": "Matthew Modine", "exp": "portrays the villainous Dr. Martin Brenner in Netflix's", "option_1": "A Clockwork Orange", "option_2": "Stranger Things", "right": "Stranger Things", "subj": "Pop"},"11":{"question": "Stranger Things", "exp": "takes place in Hawkins,", "option_1": "Indiana", "option_2": "Florida", "right": "Indiana", "subj": "Pop"},"12":{"question": "Indiana", "exp": "is home to the University of", "option_1": "Notre Dame", "option_2": "Gonzaga", "right": "Notre Dame", "subj": "Geography"}}
+  "385": {
+    "1": {
+      "question": "Kurt Gödel",
+      "exp": "was a famous 20th century",
+      "option_1": "Logician",
+      "option_2": "Archaeologist",
+      "right": "Logician",
+      "subj": "STEM",
+      "author": "Happy Sunday!"
+    },
+    "2": {
+      "question": "Logician",
+      "exp": "is a predicate that might describe the Greek thinker",
+      "option_1": "Trudeau",
+      "option_2": "Aristotle",
+      "right": "Aristotle",
+      "subj": "Politics"
+    },
+    "3": {
+      "question": "Aristotle",
+      "exp": "is the first name of Jackie O's second husband, Greek Argentinian shipping magnate",
+      "option_1": "Onassis",
+      "option_2": "Cartagena",
+      "right": "Onassis",
+      "subj": "History"
+    },
+    "4": {
+      "question": "Onassis",
+      "exp": "was the second last name of the First Lady Jacqueline",
+      "option_1": "Burnabao",
+      "option_2": "Kennedy",
+      "right": "Kennedy",
+      "subj": "History"
+    },
+    "5": {
+      "question": "Kennedy",
+      "exp": "was assassinated by",
+      "option_1": "John Wilkes Booth",
+      "option_2": "Lee Harvey Oswald",
+      "right": "Lee Harvey Oswald",
+      "subj": "History"
+    },
+    "6": {
+      "question": "Lee Harvey Oswald",
+      "exp": "enlisted, in 1956, in the United States",
+      "option_1": "Air Force",
+      "option_2": "Marine Corps",
+      "right": "Marine Corps",
+      "subj": "History"
+    },
+    "7": {
+      "question": "Marine Corps",
+      "exp": "had a drill instructor by the name of",
+      "option_1": "Donald L. Coates",
+      "option_2": "R. Lee Emery",
+      "right": "R. Lee Emery",
+      "subj": "Leisure"
+    },
+    "8": {
+      "question": "R. Lee Emery",
+      "exp": "was not only a real drill instructor, but also acted as Gunnery Sergeant Hartman in the 1987 film",
+      "option_1": "Shutter Island",
+      "option_2": "Full Metal Jacket",
+      "right": "Full Metal Jacket",
+      "subj": "Leisure"
+    },
+    "9": {
+      "question": "Full Metal Jacket",
+      "exp": "was the film that gave the first breakthrough role for",
+      "option_1": "Matthew Modine",
+      "option_2": "Matthew Broderick",
+      "right": "Matthew Modine",
+      "subj": "Pop"
+    },
+    "10": {
+      "question": "Matthew Modine",
+      "exp": "portrays the villainous Dr. Martin Brenner in Netflix's",
+      "option_1": "A Clockwork Orange",
+      "option_2": "Stranger Things",
+      "right": "Stranger Things",
+      "subj": "Pop"
+    },
+    "11": {
+      "question": "Stranger Things",
+      "exp": "takes place in Hawkins,",
+      "option_1": "Indiana",
+      "option_2": "Florida",
+      "right": "Indiana",
+      "subj": "Pop"
+    },
+    "12": {
+      "question": "Indiana",
+      "exp": "is home to the University of",
+      "option_1": "Notre Dame",
+      "option_2": "Gonzaga",
+      "right": "Notre Dame",
+      "subj": "Geography"
+    }
+  }
 }
