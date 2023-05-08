@@ -1,103 +1,4 @@
 {
-  "384": {
-    "1": {
-      "question": "Punctuation",
-      "exp": "is a tool that was employed artfully by the poet",
-      "option_1": "E. E. Cummings",
-      "option_2": "Daniel Sturridge",
-      "right": "E. E. Cummings",
-      "subj": "Literature",
-      "author": "Give that chain a share!"
-    },
-    "2": {
-      "question": "E. E. Cummings",
-      "exp": "was a famous",
-      "option_1": "Filmmaker",
-      "option_2": "Poet",
-      "right": "Poet",
-      "subj": "Literature"
-    },
-    "3": {
-      "question": "Poet",
-      "exp": "s, and dead ones in particular, are the focus of a 'Society' featured in a film starring the talented",
-      "option_1": "Matt Damon",
-      "option_2": "Robin Williams",
-      "right": "Robin Williams",
-      "subj": "Leisure"
-    },
-    "4": {
-      "question": "Robin Williams",
-      "exp": "received an Oscar nomination for his role in Good Morning,",
-      "option_1": "Laos",
-      "option_2": "Vietnam",
-      "right": "Vietnam",
-      "subj": "Leisure"
-    },
-    "5": {
-      "question": "Vietnam",
-      "exp": "is home to a city named after the founder of the Indochina Communisty Party and leader of North Vietnam,",
-      "option_1": "Phnom Penh",
-      "option_2": "Ho Chi Minh",
-      "right": "Ho Chi Minh",
-      "subj": "Geography"
-    },
-    "6": {
-      "question": "Ho Chi Minh",
-      "exp": "City was, before the Communist victory, named",
-      "option_1": "Saigon",
-      "option_2": "Brahmaputra",
-      "right": "Saigon",
-      "subj": "History"
-    },
-    "7": {
-      "question": "Saigon",
-      "exp": "is also an American rapper with a 2011 debut album titled",
-      "option_1": "The Greatest Show on Earth",
-      "option_2": "The Greatest Story Never Told",
-      "right": "The Greatest Story Never Told",
-      "subj": "Music"
-    },
-    "8": {
-      "question": "The Greatest Story Never Told",
-      "exp": "is a statement one can describe as",
-      "option_1": "Superlative",
-      "option_2": "Exterlative",
-      "right": "Superlative",
-      "subj": "Language"
-    },
-    "9": {
-      "question": "Superlative",
-      "exp": "as an adjective means the highest of its kind, which would describe Earth's largest lake, ",
-      "option_1": "The Sea of Azov",
-      "option_2": "The Caspian Sea",
-      "right": "The Caspian Sea",
-      "subj": "Geography"
-    },
-    "10": {
-      "question": "The Caspian Sea",
-      "exp": "has an etymological relationship to a major character in",
-      "option_1": "Narnia",
-      "option_2": "Nirvana",
-      "right": "Narnia",
-      "subj": "Literature"
-    },
-    "11": {
-      "question": "Narnia",
-      "exp": "was written by the writer, scholar, and lay theologian",
-      "option_1": "J. R. R. Tolkien",
-      "option_2": "C.S. Lewis",
-      "right": "C.S. Lewis",
-      "subj": "Literature"
-    },
-    "12": {
-      "question": "C.S. Lewis",
-      "exp": "wrote the theological dream vision work",
-      "option_1": "On This Side",
-      "option_2": "The Great Divorce",
-      "right": "The Great Divorce",
-      "subj": "Literature"
-    }
-  },
   "385": {
     "1": {
       "question": "Kurt Gödel",
@@ -195,6 +96,105 @@
       "option_2": "Gonzaga",
       "right": "Notre Dame",
       "subj": "Geography"
+    }
+  },
+   "386": {
+    "1": {
+      "question": "Bain",
+      "exp": "& Company is an American management consulting company whose earliest members included",
+      "option_1": "Mitt Romney",
+      "option_2": "Patrick Dalton",
+      "right": "Mitt Romney",
+      "subj": "Business",
+      "author": "Did you collect all links today?"
+    },
+    "2": {
+      "question": "Mitt Romney",
+      "exp": "ran the organization in charge of hosting the 2002 ",
+      "option_1": "Winter Olympics",
+      "option_2": "FIFA World Cup",
+      "right": "Winter Olympics",
+      "subj": "Politics"
+    },
+    "3": {
+      "question": "Winter Olympics",
+      "exp": "includes the event known as the",
+      "option_1": "Biathlon",
+      "option_2": "Crew",
+      "right": "Biathlon",
+      "subj": "Sports"
+    },
+    "4": {
+      "question": "Biathlon",
+      "exp": "mixes cross-country skiing with",
+      "option_1": "Shooting",
+      "option_2": "Stabbing",
+      "right": "Shooting",
+      "subj": "Sports"
+    },
+    "5": {
+      "question": "Shooting",
+      "exp": "is also the act of",
+      "option_1": "Reaping",
+      "option_2": "Filming",
+      "right": "Filming",
+      "subj": "Leisure"
+    },
+    "6": {
+      "question": "Filming",
+      "exp": "was arguably invented by the French artist",
+      "option_1": "La Petite Princesse",
+      "option_2": "Louis Le Prince",
+      "right": "Louis Le Prince",
+      "subj": "History"
+    },
+    "7": {
+      "question": "Louis Le Prince",
+      "exp": "while growing up spent time in the studio of his father's friend, the pioneer of photography",
+      "option_1": "Louis Daguerre",
+      "option_2": "Vinton De Frata",
+      "right": "Louis Daguerre",
+      "subj": "History"
+    },
+    "8": {
+      "question": "Louis Daguerre",
+      "exp": "was a French artist and photographer, recognized for his invention of the eponymous",
+      "option_1": "Dagerreostar",
+      "option_2": "Daguerreotype",
+      "right": "Daguerreotype",
+      "subj": "STEM"
+    },
+    "9": {
+      "question": "Daguerreotype",
+      "exp": "proccess for taking a photograph included fuming silver-plated copper with",
+      "option_1": "Helium",
+      "option_2": "Mercury",
+      "right": "Mercury",
+      "subj": "STEM"
+    },
+    "10": {
+      "question": "Mercury",
+      "exp": "is, in our solar system, the",
+      "option_1": "Smallest",
+      "option_2": "Largest",
+      "right": "Smallest",
+      "subj": "STEM"
+    },
+    "11": {
+      "question": "Smallest",
+      "exp": "country in the world is",
+      "option_1": "San Marino",
+      "option_2": "The Vatican",
+      "right": "The Vatican",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "The Vatican",
+      "exp": "is where you'd need to go to see the painting",
+      "option_1": "The Fourth Estate",
+      "option_2": "The School of Athens",
+      "right": "The School of Athens",
+      "subj": "Art"
     }
   }
 }
