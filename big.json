@@ -1,103 +1,4 @@
 {
-   "386": {
-    "1": {
-      "question": "Bain",
-      "exp": "& Company is an American management consulting company whose earliest members included",
-      "option_1": "Mitt Romney",
-      "option_2": "Patrick Dalton",
-      "right": "Mitt Romney",
-      "subj": "Business",
-      "author": "Did you collect all links today?"
-    },
-    "2": {
-      "question": "Mitt Romney",
-      "exp": "ran the organization in charge of hosting the 2002 ",
-      "option_1": "Winter Olympics",
-      "option_2": "FIFA World Cup",
-      "right": "Winter Olympics",
-      "subj": "Politics"
-    },
-    "3": {
-      "question": "Winter Olympics",
-      "exp": "includes the event known as the",
-      "option_1": "Biathlon",
-      "option_2": "Crew",
-      "right": "Biathlon",
-      "subj": "Sports"
-    },
-    "4": {
-      "question": "Biathlon",
-      "exp": "mixes cross-country skiing with",
-      "option_1": "Shooting",
-      "option_2": "Stabbing",
-      "right": "Shooting",
-      "subj": "Sports"
-    },
-    "5": {
-      "question": "Shooting",
-      "exp": "is also the act of",
-      "option_1": "Reaping",
-      "option_2": "Filming",
-      "right": "Filming",
-      "subj": "Leisure"
-    },
-    "6": {
-      "question": "Filming",
-      "exp": "was arguably invented by the French artist",
-      "option_1": "La Petite Princesse",
-      "option_2": "Louis Le Prince",
-      "right": "Louis Le Prince",
-      "subj": "History"
-    },
-    "7": {
-      "question": "Louis Le Prince",
-      "exp": "while growing up spent time in the studio of his father's friend, the pioneer of photography",
-      "option_1": "Louis Daguerre",
-      "option_2": "Vinton De Frata",
-      "right": "Louis Daguerre",
-      "subj": "History"
-    },
-    "8": {
-      "question": "Louis Daguerre",
-      "exp": "was a French artist and photographer, recognized for his invention of the eponymous",
-      "option_1": "Dagerreostar",
-      "option_2": "Daguerreotype",
-      "right": "Daguerreotype",
-      "subj": "STEM"
-    },
-    "9": {
-      "question": "Daguerreotype",
-      "exp": "proccess for taking a photograph included fuming silver-plated copper with",
-      "option_1": "Helium",
-      "option_2": "Mercury",
-      "right": "Mercury",
-      "subj": "STEM"
-    },
-    "10": {
-      "question": "Mercury",
-      "exp": "is, in our solar system, the",
-      "option_1": "Smallest",
-      "option_2": "Largest",
-      "right": "Smallest",
-      "subj": "STEM"
-    },
-    "11": {
-      "question": "Smallest",
-      "exp": "country in the world is",
-      "option_1": "San Marino",
-      "option_2": "The Vatican",
-      "right": "The Vatican",
-      "subj": "Geography"
-    },
-    "12": {
-      "question": "The Vatican",
-      "exp": "is where you'd need to go to see the painting",
-      "option_1": "The Fourth Estate",
-      "option_2": "The School of Athens",
-      "right": "The School of Athens",
-      "subj": "Art"
-    }
-  },
   "387": {
     "1": {
       "question": "The School of Athens",
@@ -196,5 +97,106 @@
       "right": "Aspen",
       "subj": "Geography"
     }
+  },
+   {
+  "388": {
+    "1": {
+      "question": "Aspen",
+      "exp": "is a deciduous tree native to cooler areas of North America that is sometimes called",
+      "option_1": "Silverado",
+      "option_2": "Quaking",
+      "right": "Quaking",
+      "subj": "STEM",
+      "author": "Mike Ditka >>>>>>>>>"
+    },
+    "2": {
+      "question": "Quaking",
+      "exp": "is one way you might describe people associated with the Religious Society of Friends, also known as Quakers, who include among their ranks the founder of colonial Pennsylvania, William",
+      "option_1": "Sanford Ridge",
+      "option_2": "Penn",
+      "right": "Penn",
+      "subj": "History"
+    },
+    "3": {
+      "question": "Penn",
+      "exp": "State is home to some famous alumni, one of which is",
+      "option_1": "Ty Burrell",
+      "option_2": "Jodie Foster",
+      "right": "Ty Burrell",
+      "subj": "Pop"
+    },
+    "4": {
+      "question": "Ty Burrell",
+      "exp": "is an actor best known for his roll as Phil Dunphy on",
+      "option_1": "Modern Family",
+      "option_2": "Hoosier Nation",
+      "right": "Modern Family",
+      "subj": "Pop"
+    },
+    "5": {
+      "question": "Modern Family",
+      "exp": "aired on",
+      "option_1": "ABC",
+      "option_2": "BBC",
+      "right": "ABC",
+      "subj": "Leisure"
+    },
+    "6": {
+      "question": "ABC",
+      "exp": "is owned by",
+      "option_1": "HBO",
+      "option_2": "Disney",
+      "right": "Disney",
+      "subj": "Business"
+    },
+    "7": {
+      "question": "Disney",
+      "exp": "is the company behind Moana, which features the song",
+      "option_1": "You're Welcome",
+      "option_2": "What Can I Do Besides Cry",
+      "right": "You're Welcome",
+      "subj": "Pop"
+    },
+    "8": {
+      "question": "You're Welcome",
+      "exp": "is sung entirely naturally by",
+      "option_1": "John Cena",
+      "option_2": "Dwayne Johnson",
+      "right": "Dwayne Johnson",
+      "subj": "Pop"
+    },
+    "9": {
+      "question": "Dwayne Johnson",
+      "exp": "was originally a wrestler on",
+      "option_1": "WWE",
+      "option_2": "TLC",
+      "right": "WWE",
+      "subj": "Leisure"
+    },
+    "10": {
+      "question": "WWE",
+      "exp": "is chaired by Vince",
+      "option_1": "McDonald",
+      "option_2": "McMahon",
+      "right": "McMahon",
+      "subj": "Business"
+    },
+    "11": {
+      "question": "McMahon",
+      "exp": "with first name Jim was a legendary quarterback for the Chicago",
+      "option_1": "Bears",
+      "option_2": "Rams",
+      "right": "Bears",
+      "subj": "Sports"
+    },
+    "12": {
+      "question": "Bears",
+      "exp": "were once coached by the inimitable",
+      "option_1": "Mike Ditka",
+      "option_2": "Mike Wazowski",
+      "right": "Mike Ditka",
+      "subj": "Sports"
+    }
   }
+}
 }
