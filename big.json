@@ -158,23 +158,23 @@
     },
     "8": {
       "question": "Thor",
-      "option_1": "Lightning",
+      "option_1": "Grass",
       "option_2": "Thunder",
       "right": "Lightning",
-      "exp": "is the god of",
+      "exp": "is the god of thunder which often is paired with",
       "subj": "Leisure"
     },
     "9": {
       "question": "Lightning",
       "option_1": "Ben Franklin",
-      "option_2": "Thomas Edison",
+      "option_2": "Benjamin Button",
       "right": "Ben Franklin",
       "exp": "was famously studied by",
       "subj": "History"
     },
     "10": {
       "question": "Ben Franklin",
-      "option_1": "Constitution of the United States",
+      "option_1": "Compromise of 1850",
       "option_2": "Declaration of Independence",
       "right": "Declaration of Independence",
       "exp": "was a signer of the",
