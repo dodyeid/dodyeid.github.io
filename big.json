@@ -1,103 +1,4 @@
 {
-  "387": {
-    "1": {
-      "question": "The School of Athens",
-      "exp": "is a lovely fresco painted by the Italian Renaissance artist",
-      "option_1": "Donatello",
-      "option_2": "Raphael",
-      "right": "Raphael",
-      "subj": "Art",
-      "author": "Patrick Star >>>>>>>"
-    },
-    "2": {
-      "question": "Raphael",
-      "exp": "is the name of one of the",
-      "option_1": "Teen Titans Go!",
-      "option_2": "Teenage Mutant Ninja Turtles",
-      "right": "Teenage Mutant Ninja Turtles",
-      "subj": "Pop"
-    },
-    "3": {
-      "question": "Teenage Mutant Ninja Turtles",
-      "exp": "are trained by their rat sensei",
-      "option_1": "Diangello's",
-      "option_2": "Splinter",
-      "right": "Splinter",
-      "subj": "Pop"
-    },
-    "4": {
-      "question": "Splinter",
-      "exp": "may be caused by a",
-      "option_1": "Sea Urchin",
-      "option_2": "Clownfish",
-      "right": "Sea Urchin",
-      "subj": "STEM"
-    },
-    "5": {
-      "question": "Sea Urchin",
-      "exp": "are",
-      "option_1": "Echinoderms",
-      "option_2": "Ectonoderms",
-      "right": "Echinoderms",
-      "subj": "STEM"
-    },
-    "6": {
-      "question": "Echinoderms",
-      "exp": "include",
-      "option_1": "Starfish",
-      "option_2": "Kangaroos",
-      "right": "Starfish",
-      "subj": "STEM"
-    },
-    "7": {
-      "question": "Starfish",
-      "exp": "is the species of the notorious Spongebob character",
-      "option_1": "Neiman",
-      "option_2": "Patrick",
-      "right": "Patrick",
-      "subj": "Pop"
-    },
-    "8": {
-      "question": "Patrick",
-      "exp": "Mahomes is the two-time Super Bowl champion for the Kansas City Chiefs, so one might refer to him individually as a",
-      "option_1": "Dolphin",
-      "option_2": "Chief",
-      "right": "Chief",
-      "subj": "Sports"
-    },
-    "9": {
-      "question": "Chief",
-      "exp": "is the first name of American virtuoso",
-      "option_1": "Keef",
-      "option_2": "Beef",
-      "right": "Keef",
-      "subj": "Pop"
-    },
-    "10": {
-      "question": "Keef",
-      "exp": "is a nickname for",
-      "option_1": "Cannabis",
-      "option_2": "Icy Hot",
-      "right": "Cannabis",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "Cannabis",
-      "exp": "was first legalized in the state of",
-      "option_1": "South Carolina",
-      "option_2": "Colorado",
-      "right": "Colorado",
-      "subj": "History"
-    },
-    "12": {
-      "question": "Colorado",
-      "exp": "is home to the city of",
-      "option_1": "Aspen",
-      "option_2": "Boise",
-      "right": "Aspen",
-      "subj": "Geography"
-    }
-  },
   "388": {
     "1": {
       "question": "Aspen",
@@ -195,6 +96,105 @@
       "option_2": "Mike Wazowski",
       "right": "Mike Ditka",
       "subj": "Sports"
+    }
+  },
+   "339": {
+    "1": {
+      "question": "Existentialism",
+      "option_1": "Kierkegaard",
+      "option_2": "Descartes",
+      "right": "Kierkegaard",
+      "exp": "was a famous philosophical ideology supported by",
+      "author": "90% of today's path was written by ChatGPT!",
+      "subj": "Politics"
+    },
+    "2": {
+      "question": "Kierkegaard",
+      "option_1": "Denmark",
+      "option_2": "Sweden",
+      "right": "Denmark",
+      "exp": "was born in",
+      "subj": "Politics"
+    },
+    "3": {
+      "question": "Denmark",
+      "option_1": "Baltic States",
+      "option_2": "Scandinavia",
+      "right": "Scandinavia",
+      "exp": "is part of",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "Scandinavia",
+      "option_1": "Vikings",
+      "option_2": "Romans",
+      "right": "Vikings",
+      "exp": "was more famously home to the",
+      "subj": "History"
+    },
+    "5": {
+      "question": "Vikings",
+      "option_1": "Longboats",
+      "option_2": "Grandolas",
+      "right": "Longboats",
+      "exp": "were known for their use of",
+      "subj": "History"
+    },
+    "6": {
+      "question": "Longboats",
+      "option_1": "Greek Mythology",
+      "option_2": "Norse Mythology",
+      "right": "Norse Mythology",
+      "exp": "were often featured in stories of",
+      "subj": "History"
+    },
+    "7": {
+      "question": "Norse Mythology",
+      "option_1": "Thor",
+      "option_2": "Ares",
+      "right": "Thor",
+      "exp": "includes the famous god",
+      "subj": "History"
+    },
+    "8": {
+      "question": "Thor",
+      "option_1": "Lightning",
+      "option_2": "Thunder",
+      "right": "Lightning",
+      "exp": "is the god of",
+      "subj": "Leisure"
+    },
+    "9": {
+      "question": "Lightning",
+      "option_1": "Ben Franklin",
+      "option_2": "Thomas Edison",
+      "right": "Ben Franklin",
+      "exp": "was famously studied by",
+      "subj": "History"
+    },
+    "10": {
+      "question": "Ben Franklin",
+      "option_1": "Constitution of the United States",
+      "option_2": "Declaration of Independence",
+      "right": "Declaration of Independence",
+      "exp": "was a signer of the",
+      "subj": "History"
+    },
+    "11": {
+      "question": "Declaration of Independence",
+      "option_1": "1776",
+      "option_2": "1783",
+      "right": "1776",
+      "exp": "was signed in",
+      "subj": "History"
+    },
+    "12": {
+      "question": "1776",
+      "option_1": "American Revolution",
+      "option_2": "American Civil War",
+      "right": "American Revolution",
+      "exp": "was the beginning of the",
+      "subj": "History"
     }
   }
 }
