@@ -1,103 +1,4 @@
 {
-  "388": {
-    "1": {
-      "question": "Aspen",
-      "exp": "is a deciduous tree native to cooler areas of North America that is sometimes called",
-      "option_1": "Silverado",
-      "option_2": "Quaking",
-      "right": "Quaking",
-      "subj": "STEM",
-      "author": "Mike Ditka >>>>>>>>>"
-    },
-    "2": {
-      "question": "Quaking",
-      "exp": "is one way you might describe people associated with the Religious Society of Friends, also known as Quakers, who include among their ranks the founder of colonial Pennsylvania, William",
-      "option_1": "Sanford Ridge",
-      "option_2": "Penn",
-      "right": "Penn",
-      "subj": "History"
-    },
-    "3": {
-      "question": "Penn",
-      "exp": "State is home to some famous alumni, one of which is",
-      "option_1": "Ty Burrell",
-      "option_2": "Jodie Foster",
-      "right": "Ty Burrell",
-      "subj": "Pop"
-    },
-    "4": {
-      "question": "Ty Burrell",
-      "exp": "is an actor best known for his roll as Phil Dunphy on",
-      "option_1": "Modern Family",
-      "option_2": "Hoosier Nation",
-      "right": "Modern Family",
-      "subj": "Pop"
-    },
-    "5": {
-      "question": "Modern Family",
-      "exp": "aired on",
-      "option_1": "ABC",
-      "option_2": "BBC",
-      "right": "ABC",
-      "subj": "Leisure"
-    },
-    "6": {
-      "question": "ABC",
-      "exp": "is owned by",
-      "option_1": "HBO",
-      "option_2": "Disney",
-      "right": "Disney",
-      "subj": "Business"
-    },
-    "7": {
-      "question": "Disney",
-      "exp": "is the company behind Moana, which features the song",
-      "option_1": "You're Welcome",
-      "option_2": "What Can I Do Besides Cry",
-      "right": "You're Welcome",
-      "subj": "Pop"
-    },
-    "8": {
-      "question": "You're Welcome",
-      "exp": "is sung entirely naturally by",
-      "option_1": "John Cena",
-      "option_2": "Dwayne Johnson",
-      "right": "Dwayne Johnson",
-      "subj": "Pop"
-    },
-    "9": {
-      "question": "Dwayne Johnson",
-      "exp": "was originally a wrestler on",
-      "option_1": "WWE",
-      "option_2": "TLC",
-      "right": "WWE",
-      "subj": "Leisure"
-    },
-    "10": {
-      "question": "WWE",
-      "exp": "is chaired by Vince",
-      "option_1": "McDonald",
-      "option_2": "McMahon",
-      "right": "McMahon",
-      "subj": "Business"
-    },
-    "11": {
-      "question": "McMahon",
-      "exp": "with first name Jim was a legendary quarterback for the Chicago",
-      "option_1": "Bears",
-      "option_2": "Rams",
-      "right": "Bears",
-      "subj": "Sports"
-    },
-    "12": {
-      "question": "Bears",
-      "exp": "were once coached by the inimitable",
-      "option_1": "Mike Ditka",
-      "option_2": "Mike Wazowski",
-      "right": "Mike Ditka",
-      "subj": "Sports"
-    }
-  },
    "389": {
     "1": {
       "question": "Existentialism",
@@ -194,6 +95,105 @@
       "option_2": "American Civil War",
       "right": "American Revolution",
       "exp": "was the beginning of the",
+      "subj": "History"
+    }
+  },
+  "390": {
+    "1": {
+      "question": "Chris Hemsworth",
+      "exp": "gained international stardom status after his performance in the Marvel Cinematic Universe as",
+      "option_1": "Zeus",
+      "option_2": "Thor",
+      "right": "Thor",
+      "subj": "Leisure",
+      "author": "Please do leave a review or share with friends if you like the game!"
+    },
+    "2": {
+      "question": "Thor",
+      "exp": "is the Norse god of",
+      "option_1": "Prius",
+      "option_2": "Thunder",
+      "right": "Thunder",
+      "subj": "History"
+    },
+    "3": {
+      "question": "Thunder",
+      "exp": "is caused by unstable air, lift, and",
+      "option_1": "Moisture",
+      "option_2": "Desertification",
+      "right": "Moisture",
+      "subj": "STEM"
+    },
+    "4": {
+      "question": "Moisture",
+      "exp": "in trace amounts might be noticed in chemical samples via a titration method named after",
+      "option_1": "Erwin Schrödinger",
+      "option_2": "Karl Fischer",
+      "right": "Karl Fischer",
+      "subj": "STEM"
+    },
+    "5": {
+      "question": "Karl Fischer",
+      "exp": "was a chemist from",
+      "option_1": "America",
+      "option_2": "Germany",
+      "right": "Germany",
+      "subj": "Language"
+    },
+    "6": {
+      "question": "Germany",
+      "exp": "is where you'd go to find the political party known as",
+      "option_1": "Christian Social Union",
+      "option_2": "Christian Anarchic Union",
+      "right": "Christian Social Union",
+      "subj": "Politics"
+    },
+    "7": {
+      "question": "Christian Social Union",
+      "exp": "was once led by Franz Josef Strau",
+      "option_1": "ß",
+      "option_2": "θ",
+      "right": "ß",
+      "subj": "Language"
+    },
+    "8": {
+      "question": "ß",
+      "exp": "is pronounced like the 's' in",
+      "option_1": "Chi",
+      "option_2": "See",
+      "right": "See",
+      "subj": "Language"
+    },
+    "9": {
+      "question": "See",
+      "exp": "preceded by 'Holy' is another name for the",
+      "option_1": "Carthage",
+      "option_2": "Vatican",
+      "right": "Vatican",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "Vatican",
+      "exp": "is on the",
+      "option_1": "Tiber River",
+      "option_2": "Po River",
+      "right": "Tiber River",
+      "subj": "Geography"
+    },
+    "11": {
+      "question": "Tiber River",
+      "exp": "played a role in the",
+      "option_1": "Punic Wars",
+      "option_2": "Battle of Mamluk",
+      "right": "Punic Wars",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Punic Wars",
+      "exp": "featured the iconic historical figure who famously crossed the alps,",
+      "option_1": "Alexander the Great",
+      "option_2": "Hannibal",
+      "right": "Hannibal",
       "subj": "History"
     }
   }
