@@ -1,103 +1,4 @@
 {
-   "389": {
-    "1": {
-      "question": "Existentialism",
-      "option_1": "Kierkegaard",
-      "option_2": "Descartes",
-      "right": "Kierkegaard",
-      "exp": "was a famous philosophical ideology supported by",
-      "author": "90% of today's path was written by ChatGPT! Our apologies to those who played with a bug in the morning.",
-      "subj": "Politics"
-    },
-    "2": {
-      "question": "Kierkegaard",
-      "option_1": "Denmark",
-      "option_2": "Sweden",
-      "right": "Denmark",
-      "exp": "was born in",
-      "subj": "Politics"
-    },
-    "3": {
-      "question": "Denmark",
-      "option_1": "Baltic States",
-      "option_2": "Scandinavia",
-      "right": "Scandinavia",
-      "exp": "is part of",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "Scandinavia",
-      "option_1": "Vikings",
-      "option_2": "Romans",
-      "right": "Vikings",
-      "exp": "was more famously home to the",
-      "subj": "History"
-    },
-    "5": {
-      "question": "Vikings",
-      "option_1": "Longboats",
-      "option_2": "Grandolas",
-      "right": "Longboats",
-      "exp": "were known for their use of",
-      "subj": "History"
-    },
-    "6": {
-      "question": "Longboats",
-      "option_1": "Greek Mythology",
-      "option_2": "Norse Mythology",
-      "right": "Norse Mythology",
-      "exp": "were often featured in stories of",
-      "subj": "History"
-    },
-    "7": {
-      "question": "Norse Mythology",
-      "option_1": "Thor",
-      "option_2": "Ares",
-      "right": "Thor",
-      "exp": "includes the famous god",
-      "subj": "History"
-    },
-    "8": {
-      "question": "Thor",
-      "option_1": "Grass",
-      "option_2": "Lightning",
-      "right": "Lightning",
-      "exp": "is the god of thunder which often is paired with",
-      "subj": "Leisure"
-    },
-    "9": {
-      "question": "Lightning",
-      "option_1": "Ben Franklin",
-      "option_2": "Benjamin Button",
-      "right": "Ben Franklin",
-      "exp": "was famously studied by",
-      "subj": "History"
-    },
-    "10": {
-      "question": "Ben Franklin",
-      "option_1": "Compromise of 1850",
-      "option_2": "Declaration of Independence",
-      "right": "Declaration of Independence",
-      "exp": "was a signer of the",
-      "subj": "History"
-    },
-    "11": {
-      "question": "Declaration of Independence",
-      "option_1": "1776",
-      "option_2": "1783",
-      "right": "1776",
-      "exp": "was signed in",
-      "subj": "History"
-    },
-    "12": {
-      "question": "1776",
-      "option_1": "American Revolution",
-      "option_2": "American Civil War",
-      "right": "American Revolution",
-      "exp": "was the beginning of the",
-      "subj": "History"
-    }
-  },
   "390": {
     "1": {
       "question": "Chris Hemsworth",
@@ -194,6 +95,105 @@
       "option_1": "Alexander the Great",
       "option_2": "Hannibal",
       "right": "Hannibal",
+      "subj": "History"
+    }
+  },
+  "391": {
+    "1": {
+      "question": "Hannibal",
+      "exp": "Lecter is the the villain in the 1991 film 'The Silence of the Lambs' played by",
+      "option_1": "Anthony Hopkings",
+      "option_2": "Richard Gere",
+      "right": "Anthony Hopkings",
+      "subj": "Leisure",
+      "author": "Have a great weekend everyone!"
+    },
+    "2": {
+      "question": "Anthony Hopkings",
+      "exp": "recently starred in 'The Father,' a chilling depiction of",
+      "option_1": "Lou Gehrig's Disease",
+      "option_2": "Alzheimer's Disease",
+      "right": "Alzheimer's Disease",
+      "subj": "Leisure"
+    },
+    "3": {
+      "question": "Alzheimer's Disease",
+      "exp": "might be influenced by the risk factor",
+      "option_1": "Apolipoprotein",
+      "option_2": "Aposteosis",
+      "right": "Apolipoprotein",
+      "subj": "STEM"
+    },
+    "4": {
+      "question": "Apolipoprotein",
+      "exp": "is a gene on a",
+      "option_1": "Xylophone",
+      "option_2": "Chromosome",
+      "right": "Chromosome",
+      "subj": "STEM"
+    },
+    "5": {
+      "question": "Chromosome",
+      "exp": "was first discovered in 1882 by Walther",
+      "option_1": "Hemming",
+      "option_2": "Flemming",
+      "right": "Flemming",
+      "subj": "History"
+    },
+    "6": {
+      "question": "Flemming",
+      "exp": "is the misspelled last name of Ian, author of",
+      "option_1": "East of Eden",
+      "option_2": "James Bond",
+      "right": "James Bond",
+      "subj": "Literature"
+    },
+    "7": {
+      "question": "James Bond",
+      "exp": "scores were, from 1963-1987, composed by",
+      "option_1": "John Dooley",
+      "option_2": "John Barry",
+      "right": "John Barry",
+      "subj": "Music"
+    },
+    "8": {
+      "question": "John Barry",
+      "exp": "also composed the score for",
+      "option_1": "Eyes Wide Shut",
+      "option_2": "Dances with Wolves",
+      "right": "Dances with Wolves",
+      "subj": "Music"
+    },
+    "9": {
+      "question": "Dances with Wolves",
+      "exp": "is a 1990 American epic western film starring, directed, and produced by",
+      "option_1": "Kevin Toblerone",
+      "option_2": "Kevin Costner",
+      "right": "Kevin Costner",
+      "subj": "Leisure"
+    },
+    "10": {
+      "question": "Kevin Costner",
+      "exp": "starred in the 1991 American epic political thriller",
+      "option_1": "JFK",
+      "option_2": "RFK",
+      "right": "JFK",
+      "subj": "Pop"
+    },
+    "11": {
+      "question": "JFK",
+      "exp": "was (theoretically) assassinated by",
+      "option_1": "John Wilkes Booth",
+      "option_2": "Lee Harvey Oswald",
+      "right": "Lee Harvey Oswald",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Lee Harvey Oswald",
+      "exp": "was (theoretically) assassinated by",
+      "option_1": "Max Ruby",
+      "option_2": "Jack Ruby",
+      "right": "Jack Ruby",
       "subj": "History"
     }
   }
