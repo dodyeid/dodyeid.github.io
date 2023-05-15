@@ -1,104 +1,4 @@
-{
-  "391": {
-    "1": {
-      "question": "Hannibal",
-      "exp": "Lecter is the the villain in the 1991 film 'The Silence of the Lambs' played by",
-      "option_1": "Anthony Hopkins",
-      "option_2": "Richard Gere",
-      "right": "Anthony Hopkins",
-      "subj": "Leisure",
-      "author": "Have a great weekend everyone!"
-    },
-    "2": {
-      "question": "Anthony Hopkins",
-      "exp": "recently starred in 'The Father,' a chilling depiction of",
-      "option_1": "Lou Gehrig's Disease",
-      "option_2": "Alzheimer's Disease",
-      "right": "Alzheimer's Disease",
-      "subj": "Leisure"
-    },
-    "3": {
-      "question": "Alzheimer's Disease",
-      "exp": "might be influenced by the risk factor",
-      "option_1": "Apolipoprotein",
-      "option_2": "Aposteosis",
-      "right": "Apolipoprotein",
-      "subj": "STEM"
-    },
-    "4": {
-      "question": "Apolipoprotein",
-      "exp": "is a gene on a",
-      "option_1": "Xylophone",
-      "option_2": "Chromosome",
-      "right": "Chromosome",
-      "subj": "STEM"
-    },
-    "5": {
-      "question": "Chromosome",
-      "exp": "was first discovered in 1882 by Walther",
-      "option_1": "Hemming",
-      "option_2": "Flemming",
-      "right": "Flemming",
-      "subj": "History"
-    },
-    "6": {
-      "question": "Flemming",
-      "exp": "is the misspelled last name of Ian, author of",
-      "option_1": "East of Eden",
-      "option_2": "James Bond",
-      "right": "James Bond",
-      "subj": "Literature"
-    },
-    "7": {
-      "question": "James Bond",
-      "exp": "scores were, from 1963-1987, composed by",
-      "option_1": "John Dooley",
-      "option_2": "John Barry",
-      "right": "John Barry",
-      "subj": "Music"
-    },
-    "8": {
-      "question": "John Barry",
-      "exp": "also composed the score for",
-      "option_1": "Eyes Wide Shut",
-      "option_2": "Dances with Wolves",
-      "right": "Dances with Wolves",
-      "subj": "Music"
-    },
-    "9": {
-      "question": "Dances with Wolves",
-      "exp": "is a 1990 American epic western film starring, directed, and produced by",
-      "option_1": "Kevin Toblerone",
-      "option_2": "Kevin Costner",
-      "right": "Kevin Costner",
-      "subj": "Leisure"
-    },
-    "10": {
-      "question": "Kevin Costner",
-      "exp": "starred in the 1991 American epic political thriller",
-      "option_1": "JFK",
-      "option_2": "RFK",
-      "right": "JFK",
-      "subj": "Pop"
-    },
-    "11": {
-      "question": "JFK",
-      "exp": "was (theoretically) assassinated by",
-      "option_1": "John Wilkes Booth",
-      "option_2": "Lee Harvey Oswald",
-      "right": "Lee Harvey Oswald",
-      "subj": "History"
-    },
-    "12": {
-      "question": "Lee Harvey Oswald",
-      "exp": "was (theoretically) assassinated by",
-      "option_1": "Max Ruby",
-      "option_2": "Jack Ruby",
-      "right": "Jack Ruby",
-      "subj": "History"
-    }
-  },
-  
+{  
   "392": {
     "1": {
       "question": "North Korea",
@@ -195,6 +95,105 @@
       "option_1": "Egypt",
       "option_2": "Israel",
       "right": "Israel",
+      "subj": "Geography"
+    }
+  },
+  "393": {
+    "1": {
+      "question": "Margherita",
+      "exp": "Pizza is rumored to have started in a narrow alley in",
+      "option_1": "Naples",
+      "option_2": "Riga",
+      "right": "Naples",
+      "subj": "Leisure",
+      "author": "Thank you Goonie for creating the path!"
+    },
+    "2": {
+      "question": "Naples",
+      "exp": "is the capital of the Italian administrative region",
+      "option_1": "Calabria",
+      "option_2": "Campania",
+      "right": "Campania",
+      "subj": "Geography"
+    },
+    "3": {
+      "question": "Campania",
+      "exp": "is home to the island",
+      "option_1": "Sicily",
+      "option_2": "Capri",
+      "right": "Capri",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "Capri",
+      "exp": "is a fastback coupé produced from 1968 to 1986 by the European arm of",
+      "option_1": "Chevrolet",
+      "option_2": "Ford",
+      "right": "Ford",
+      "subj": "Business"
+    },
+    "5": {
+      "question": "Ford",
+      "exp": "headquarters are located in the city of",
+      "option_1": "Detroit",
+      "option_2": "Dearborn",
+      "right": "Dearborn",
+      "subj": "Business"
+    },
+    "6": {
+      "question": "Dearborn",
+      "exp": "is a city in the U.S. state of",
+      "option_1": "Michigan",
+      "option_2": "Wisconsin",
+      "right": "Michigan",
+      "subj": "Geography"
+    },
+    "7": {
+      "question": "Michigan",
+      "exp": "abbreviated is",
+      "option_1": "MI",
+      "option_2": "MN",
+      "right": "MI",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "MI",
+      "exp": ", along with do, re, fa, sol, la, ti, and do, is a symbol used as part of the pedagogical technique for teaching sight-singing called",
+      "option_1": "Sol-fa",
+      "option_2": "Diphthong",
+      "right": "Sol-fa",
+      "subj": "Music"
+    },
+    "9": {
+      "question": "Sol-fa",
+      "exp": "is a technique prominently featured in the Rodgers and Hammerstein musical",
+      "option_1": "The Sound of Music",
+      "option_2": "Our Town",
+      "right": "The Sound of Music",
+      "subj": "Music"
+    },
+    "10": {
+      "question": "The Sound of Music",
+      "exp": "is based on the real experiences of the family",
+      "option_1": "Gruber",
+      "option_2": "von Trapp",
+      "right": "von Trapp",
+      "subj": "Art"
+    },
+    "11": {
+      "question": "von Trapp",
+      "exp": "was a family and singing group from",
+      "option_1": "Austria",
+      "option_2": "Liechtenstein",
+      "right": "Austria",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Austria",
+      "exp": "is not surrounded by countries that are all landlocked, so it is not double-landlocked (the only countries that are are Liechtenstein and Uzbekistan). However, Austria does not have a coast, so it is",
+      "option_1": "Double-Landlocked",
+      "option_2": "Landlocked",
+      "right": "Landlocked",
       "subj": "Geography"
     }
   }
