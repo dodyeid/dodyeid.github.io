@@ -1,103 +1,4 @@
 {  
-  "392": {
-    "1": {
-      "question": "North Korea",
-      "exp": "borders",
-      "option_1": "China",
-      "option_2": "Turkmenistan",
-      "right": "China",
-      "subj": "Geography",
-      "author": "Happy Mother's Day!"
-    },
-    "2": {
-      "question": "China",
-      "exp": "borders",
-      "option_1": "Russia",
-      "option_2": "Sri Lanka",
-      "right": "Russia",
-      "subj": "Geography"
-    },
-    "3": {
-      "question": "Russia",
-      "exp": "borders",
-      "option_1": "Kazakhstan",
-      "option_2": "Belgium",
-      "right": "Kazakhstan",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "Kazakhstan",
-      "exp": "borders",
-      "option_1": "Moldova",
-      "option_2": "Uzbekistan",
-      "right": "Uzbekistan",
-      "subj": "Geography"
-    },
-    "5": {
-      "question": "Uzbekistan",
-      "exp": "borders",
-      "option_1": "Bangladesh",
-      "option_2": "Tajikistan",
-      "right": "Tajikistan",
-      "subj": "Geography"
-    },
-    "6": {
-      "question": "Tajikistan",
-      "exp": "borders",
-      "option_1": "Afghanistan",
-      "option_2": "Laos",
-      "right": "Afghanistan",
-      "subj": "Geography"
-    },
-    "7": {
-      "question": "Afghanistan",
-      "exp": "borders",
-      "option_1": "Pakistan",
-      "option_2": "Saudi Arabia",
-      "right": "Pakistan",
-      "subj": "Geography"
-    },
-    "8": {
-      "question": "Pakistan",
-      "exp": "borders",
-      "option_1": "Iran",
-      "option_2": "Bhutan",
-      "right": "Iran",
-      "subj": "Geography"
-    },
-    "9": {
-      "question": "Iran",
-      "exp": "borders",
-      "option_1": "Iraq",
-      "option_2": "Bulgaria",
-      "right": "Iraq",
-      "subj": "Geography"
-    },
-    "10": {
-      "question": "Iraq",
-      "exp": "borders",
-      "option_1": "Yemen",
-      "option_2": "Syria",
-      "right": "Syria",
-      "subj": "Geography"
-    },
-    "11": {
-      "question": "Syria",
-      "exp": "borders",
-      "option_1": "Lebanon",
-      "option_2": "Oman",
-      "right": "Lebanon",
-      "subj": "Geography"
-    },
-    "12": {
-      "question": "Lebanon",
-      "exp": "borders",
-      "option_1": "Egypt",
-      "option_2": "Israel",
-      "right": "Israel",
-      "subj": "Geography"
-    }
-  },
   "393": {
     "1": {
       "question": "Margherita",
@@ -195,6 +96,107 @@
       "option_2": "Landlocked",
       "right": "Landlocked",
       "subj": "Geography"
+    }
+  },
+  
+  
+  "394": {
+    "1": {
+      "question": "Samsung",
+      "exp": "is a company based in",
+      "option_1": "South Korea",
+      "option_2": "Japan",
+      "right": "South Korea",
+      "subj": "Business",
+      "author": "Prepare yourselves for our next update!"
+    },
+    "2": {
+      "question": "South Korea",
+      "exp": "has its capital at",
+      "option_1": "Seoul",
+      "option_2": "Macau",
+      "right": "Seoul",
+      "subj": "Geography"
+    },
+    "3": {
+      "question": "Seoul",
+      "exp": "is the birth city of",
+      "option_1": "Jim Hwang",
+      "option_2": "Steven Yeun",
+      "right": "Steven Yeun",
+      "subj": "Pop"
+    },
+    "4": {
+      "question": "Steven Yeun",
+      "exp": "stars in the 2020 film",
+      "option_1": "Miramoto",
+      "option_2": "Minari",
+      "right": "Minari",
+      "subj": "Art"
+    },
+    "5": {
+      "question": "Minari",
+      "exp": "focuses on a South Korean family's American rural life and literally translates to",
+      "option_1": "Water Celery",
+      "option_2": "Ocean Grass",
+      "right": "Water Celery",
+      "subj": "Leisure"
+    },
+    "6": {
+      "question": "Water Celery",
+      "exp": "can be found in the dish",
+      "option_1": "Kimchi",
+      "option_2": "Atana",
+      "right": "Kimchi",
+      "subj": "Leisure"
+    },
+    "7": {
+      "question": "Kimchi",
+      "exp": "is a traditional korean side dish of salted and fermented vegetables, such as Korean radish and napa",
+      "option_1": "Cribbage",
+      "option_2": "Cabbage",
+      "right": "Cabbage",
+      "subj": "Leisure"
+    },
+    "8": {
+      "question": "Cabbage",
+      "exp": "Patch Kids are a line of cloth dolls with plastic heads first produced in 1982 by",
+      "option_1": "Mattel",
+      "option_2": "Coleco Industries",
+      "right": "Coleco Industries",
+      "subj": "Business"
+    },
+    "9": {
+      "question": "Coleco Industries",
+      "exp": "was a company founded in 1932 in",
+      "option_1": "America",
+      "option_2": "United Kingdom",
+      "right": "America",
+      "subj": "Business"
+    },
+    "10": {
+      "question": "America",
+      "exp": "is home to the famous singer",
+      "option_1": "Amy Winehouse",
+      "option_2": "Aretha Franklin",
+      "right": "Aretha Franklin",
+      "subj": "Music"
+    },
+    "11": {
+      "question": "Aretha Franklin",
+      "exp": "had her first No. 1 hit on the Billboard Hot 100 Chart with",
+      "option_1": "Respect",
+      "option_2": "Valerie",
+      "right": "Respect",
+      "subj": "Music"
+    },
+    "12": {
+      "question": "Respect",
+      "exp": "is followed by the lyrics 'Find out what it",
+      "option_1": "Means to be",
+      "option_2": "Means to me",
+      "right": "Means to me",
+      "subj": "Music"
     }
   }
 }
