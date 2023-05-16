@@ -1,103 +1,4 @@
 {  
-  "393": {
-    "1": {
-      "question": "Margherita",
-      "exp": "Pizza is rumored to have started in a narrow alley in",
-      "option_1": "Naples",
-      "option_2": "Riga",
-      "right": "Naples",
-      "subj": "Leisure",
-      "author": "Thank you Goonie for creating the path!"
-    },
-    "2": {
-      "question": "Naples",
-      "exp": "is the capital of the Italian administrative region",
-      "option_1": "Calabria",
-      "option_2": "Campania",
-      "right": "Campania",
-      "subj": "Geography"
-    },
-    "3": {
-      "question": "Campania",
-      "exp": "is home to the island",
-      "option_1": "Sicily",
-      "option_2": "Capri",
-      "right": "Capri",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "Capri",
-      "exp": "is a fastback coupé produced from 1968 to 1986 by the European arm of",
-      "option_1": "Chevrolet",
-      "option_2": "Ford",
-      "right": "Ford",
-      "subj": "Business"
-    },
-    "5": {
-      "question": "Ford",
-      "exp": "headquarters are located in the city of",
-      "option_1": "Detroit",
-      "option_2": "Dearborn",
-      "right": "Dearborn",
-      "subj": "Business"
-    },
-    "6": {
-      "question": "Dearborn",
-      "exp": "is a city in the U.S. state of",
-      "option_1": "Michigan",
-      "option_2": "Wisconsin",
-      "right": "Michigan",
-      "subj": "Geography"
-    },
-    "7": {
-      "question": "Michigan",
-      "exp": "abbreviated is",
-      "option_1": "MI",
-      "option_2": "MN",
-      "right": "MI",
-      "subj": "Geography"
-    },
-    "8": {
-      "question": "MI",
-      "exp": ", along with do, re, fa, sol, la, ti, and do, is a symbol used as part of the pedagogical technique for teaching sight-singing called",
-      "option_1": "Sol-fa",
-      "option_2": "Diphthong",
-      "right": "Sol-fa",
-      "subj": "Music"
-    },
-    "9": {
-      "question": "Sol-fa",
-      "exp": "is a technique prominently featured in the Rodgers and Hammerstein musical",
-      "option_1": "The Sound of Music",
-      "option_2": "Our Town",
-      "right": "The Sound of Music",
-      "subj": "Music"
-    },
-    "10": {
-      "question": "The Sound of Music",
-      "exp": "is based on the real experiences of the family",
-      "option_1": "Gruber",
-      "option_2": "von Trapp",
-      "right": "von Trapp",
-      "subj": "Art"
-    },
-    "11": {
-      "question": "von Trapp",
-      "exp": "was a family and singing group from",
-      "option_1": "Austria",
-      "option_2": "Liechtenstein",
-      "right": "Austria",
-      "subj": "History"
-    },
-    "12": {
-      "question": "Austria",
-      "exp": "is not surrounded by countries that are all landlocked, so it is not double-landlocked (the only countries that are are Liechtenstein and Uzbekistan). However, Austria does not have a coast, so it is",
-      "option_1": "Double-Landlocked",
-      "option_2": "Landlocked",
-      "right": "Landlocked",
-      "subj": "Geography"
-    }
-  },  
   "394": {
     "1": {
       "question": "Samsung",
@@ -195,6 +96,105 @@
       "option_2": "Means to me",
       "right": "Means to me",
       "subj": "Music"
+    }
+  },
+  "395": {
+    "1": {
+      "question": "Miami",
+      "exp": "is home to the basketball team known as the",
+      "option_1": "Lakers",
+      "option_2": "Heat",
+      "right": "Heat",
+      "subj": "Sports",
+      "author": "Those among you who scored perfectly are trivia fanatics. I am seriously impressed."
+    },
+    "2": {
+      "question": "Heat",
+      "exp": "is something that might be measured with with unit",
+      "option_1": "Barome",
+      "option_2": "Joule",
+      "right": "Joule",
+      "subj": "STEM"
+    },
+    "3": {
+      "question": "Joule",
+      "exp": "is named after the English physicist James",
+      "option_1": "Prescott",
+      "option_2": "Williamson",
+      "right": "Prescott",
+      "subj": "History"
+    },
+    "4": {
+      "question": "Prescott",
+      "exp": "is a city in",
+      "option_1": "Idaho",
+      "option_2": "Arizona",
+      "right": "Arizona",
+      "subj": "Geography"
+    },
+    "5": {
+      "question": "Arizona",
+      "exp": "is home to the only place on earth where the saguaro cactus grows,",
+      "option_1": "The Sonoran Desert",
+      "option_2": "The Yucatan Desert",
+      "right": "The Sonoran Desert",
+      "subj": "Geography"
+    },
+    "6": {
+      "question": "The Sonoran Desert",
+      "exp": "is where you'd be if you visited",
+      "option_1": "Saguaro National Park",
+      "option_2": "Joshua Tree National Park",
+      "right": "Saguaro National Park",
+      "subj": "Geography"
+    },
+    "7": {
+      "question": "Saguaro National Park",
+      "exp": "is, of course, named after the iconic Saguaro cactus, whose name originated from the language known as",
+      "option_1": "Gurapa",
+      "option_2": "Ópata",
+      "right": "Ópata",
+      "subj": "Language"
+    },
+    "8": {
+      "question": "Ópata",
+      "exp": "without the accent on the 'Ó' is also a word in",
+      "option_1": "Romanian",
+      "option_2": "Czech",
+      "right": "Czech",
+      "subj": "Language"
+    },
+    "9": {
+      "question": "Czech",
+      "exp": "is, in one sense, the nationality of one of the greatest tennis players of all time,",
+      "option_1": "Petya Rostov",
+      "option_2": "Martina Navratilova",
+      "right": "Martina Navratilova",
+      "subj": "Sports"
+    },
+    "10": {
+      "question": "Martina Navratilova",
+      "exp": "was stripped of her Czechoslovakian citizenship when, in 1975 at age 18, she asked for political asylum from the",
+      "option_1": "Uzbekistan",
+      "option_2": "United States",
+      "right": "United States",
+      "subj": "History"
+    },
+    "11": {
+      "question": "United States",
+      "exp": "is the birth home of the famous poet, essayist, publisher, playwright, literary critic, and author",
+      "option_1": "Eliot Nass",
+      "option_2": "T.S. Eliot",
+      "right": "T.S. Eliot",
+      "subj": "Literature"
+    },
+    "12": {
+      "question": "T.S. Eliot",
+      "exp": "gained significant attention for his poem",
+      "option_1": "The Waste Land",
+      "option_2": "On Turning Tides",
+      "right": "The Waste Land",
+      "subj": "Literature"
     }
   }
 }
