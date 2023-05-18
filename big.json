@@ -1,103 +1,4 @@
 {  
-  "394": {
-    "1": {
-      "question": "Samsung",
-      "exp": "is a company based in",
-      "option_1": "South Korea",
-      "option_2": "Japan",
-      "right": "South Korea",
-      "subj": "Business",
-      "author": "Prepare yourselves for our next update!"
-    },
-    "2": {
-      "question": "South Korea",
-      "exp": "has its capital at",
-      "option_1": "Seoul",
-      "option_2": "Macau",
-      "right": "Seoul",
-      "subj": "Geography"
-    },
-    "3": {
-      "question": "Seoul",
-      "exp": "is the birth city of",
-      "option_1": "Jim Hwang",
-      "option_2": "Steven Yeun",
-      "right": "Steven Yeun",
-      "subj": "Pop"
-    },
-    "4": {
-      "question": "Steven Yeun",
-      "exp": "stars in the 2020 film",
-      "option_1": "Miramoto",
-      "option_2": "Minari",
-      "right": "Minari",
-      "subj": "Art"
-    },
-    "5": {
-      "question": "Minari",
-      "exp": "focuses on a South Korean family's American rural life and literally translates to",
-      "option_1": "Water Celery",
-      "option_2": "Ocean Grass",
-      "right": "Water Celery",
-      "subj": "Leisure"
-    },
-    "6": {
-      "question": "Water Celery",
-      "exp": "can be found in the dish",
-      "option_1": "Kimchi",
-      "option_2": "Atana",
-      "right": "Kimchi",
-      "subj": "Leisure"
-    },
-    "7": {
-      "question": "Kimchi",
-      "exp": "is a traditional korean side dish of salted and fermented vegetables, such as Korean radish and napa",
-      "option_1": "Cribbage",
-      "option_2": "Cabbage",
-      "right": "Cabbage",
-      "subj": "Leisure"
-    },
-    "8": {
-      "question": "Cabbage",
-      "exp": "Patch Kids are a line of cloth dolls with plastic heads first produced in 1982 by",
-      "option_1": "Mattel",
-      "option_2": "Coleco Industries",
-      "right": "Coleco Industries",
-      "subj": "Business"
-    },
-    "9": {
-      "question": "Coleco Industries",
-      "exp": "was a company founded in 1932 in",
-      "option_1": "America",
-      "option_2": "United Kingdom",
-      "right": "America",
-      "subj": "Business"
-    },
-    "10": {
-      "question": "America",
-      "exp": "is home to the famous singer",
-      "option_1": "Amy Winehouse",
-      "option_2": "Aretha Franklin",
-      "right": "Aretha Franklin",
-      "subj": "Music"
-    },
-    "11": {
-      "question": "Aretha Franklin",
-      "exp": "had her first No. 1 hit on the Billboard Hot 100 Chart with",
-      "option_1": "Respect",
-      "option_2": "Valerie",
-      "right": "Respect",
-      "subj": "Music"
-    },
-    "12": {
-      "question": "Respect",
-      "exp": "is followed by the lyrics 'Find out what it",
-      "option_1": "Means to be",
-      "option_2": "Means to me",
-      "right": "Means to me",
-      "subj": "Music"
-    }
-  },
   "395": {
     "1": {
       "question": "Miami",
@@ -195,6 +96,105 @@
       "option_2": "On Turning Tides",
       "right": "The Waste Land",
       "subj": "Literature"
+    }
+  },
+  "396": {
+    "1": {
+      "question": "Hamlet",
+      "exp": "takes place in",
+      "option_1": "Iceland",
+      "option_2": "Denmark",
+      "right": "Denmark",
+      "subj": "Literature",
+      "author": ""
+    },
+    "2": {
+      "question": "Denmark",
+      "exp": "has its capital at",
+      "option_1": "Oslo",
+      "option_2": "Coppenhagen",
+      "right": "Coppenhagen",
+      "subj": "Geography"
+    },
+    "3": {
+      "question": "Coppenhagen",
+      "exp": "is on the islands of Amager and",
+      "option_1": "Jutland",
+      "option_2": "Zealand",
+      "right": "Zealand",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "Zealand",
+      "exp": "means",
+      "option_1": "See Land",
+      "option_2": "Sea Land",
+      "right": "Sea Land",
+      "subj": "Language"
+    },
+    "5": {
+      "question": "Sea Land",
+      "exp": "preceded by 'New' in Dutch is the etymology of",
+      "option_1": "New Zealand",
+      "option_2": "Iceland",
+      "right": "New Zealand",
+      "subj": "Language"
+    },
+    "6": {
+      "question": "New Zealand",
+      "exp": "was formerly led by Prime Minister",
+      "option_1": "Hobart",
+      "option_2": "Jacinda Ardern",
+      "right": "Jacinda Ardern",
+      "subj": "Politics"
+    },
+    "7": {
+      "question": "Jacinda Ardern",
+      "exp": "speaks",
+      "option_1": "Moana",
+      "option_2": "Māori",
+      "right": "Māori",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "Māori",
+      "exp": "inspired the Disney film",
+      "option_1": "Mulan",
+      "option_2": "Moana",
+      "right": "Moana",
+      "subj": "Pop"
+    },
+    "9": {
+      "question": "Moana",
+      "exp": "features the voice of",
+      "option_1": "Vince Diesel",
+      "option_2": "Dwayne Johnson",
+      "right": "Dwayne Johnson",
+      "subj": "Leisure"
+    },
+    "10": {
+      "question": "Dwayne Johnson",
+      "exp": "stars in recent adaptations of",
+      "option_1": "Jumanji",
+      "option_2": "Vertigo",
+      "right": "Jumanji",
+      "subj": "Leisure"
+    },
+    "11": {
+      "question": "Jumanji",
+      "exp": "the original starred, as Judy Shepherd,",
+      "option_1": "Kirsten Dunst",
+      "option_2": "David Brier",
+      "right": "Kirsten Dunst",
+      "subj": "Leisure"
+    },
+    "12": {
+      "question": "Kirsten Dunst",
+      "exp": "plays Mary Jane in the original, and best, adaptation of",
+      "option_1": "Wag the Dog",
+      "option_2": "Spiderman",
+      "right": "Spiderman",
+      "subj": "Leisure"
     }
   }
 }
