@@ -1,103 +1,4 @@
 {  
-  "395": {
-    "1": {
-      "question": "Miami",
-      "exp": "is home to the basketball team known as the",
-      "option_1": "Lakers",
-      "option_2": "Heat",
-      "right": "Heat",
-      "subj": "Sports",
-      "author": "Those among you who scored perfectly are trivia fanatics. I am seriously impressed."
-    },
-    "2": {
-      "question": "Heat",
-      "exp": "is something that might be measured with with unit",
-      "option_1": "Barome",
-      "option_2": "Joule",
-      "right": "Joule",
-      "subj": "STEM"
-    },
-    "3": {
-      "question": "Joule",
-      "exp": "is named after the English physicist James",
-      "option_1": "Prescott",
-      "option_2": "Williamson",
-      "right": "Prescott",
-      "subj": "History"
-    },
-    "4": {
-      "question": "Prescott",
-      "exp": "is a city in",
-      "option_1": "Idaho",
-      "option_2": "Arizona",
-      "right": "Arizona",
-      "subj": "Geography"
-    },
-    "5": {
-      "question": "Arizona",
-      "exp": "is home to the only place on earth where the saguaro cactus grows,",
-      "option_1": "The Sonoran Desert",
-      "option_2": "The Yucatan Desert",
-      "right": "The Sonoran Desert",
-      "subj": "Geography"
-    },
-    "6": {
-      "question": "The Sonoran Desert",
-      "exp": "is where you'd be if you visited",
-      "option_1": "Saguaro National Park",
-      "option_2": "Joshua Tree National Park",
-      "right": "Saguaro National Park",
-      "subj": "Geography"
-    },
-    "7": {
-      "question": "Saguaro National Park",
-      "exp": "is, of course, named after the iconic Saguaro cactus, whose name originated from the language known as",
-      "option_1": "Gurapa",
-      "option_2": "Ópata",
-      "right": "Ópata",
-      "subj": "Language"
-    },
-    "8": {
-      "question": "Ópata",
-      "exp": "without the accent on the 'Ó' is also a word in",
-      "option_1": "Romanian",
-      "option_2": "Czech",
-      "right": "Czech",
-      "subj": "Language"
-    },
-    "9": {
-      "question": "Czech",
-      "exp": "is, in one sense, the nationality of one of the greatest tennis players of all time,",
-      "option_1": "Petya Rostov",
-      "option_2": "Martina Navratilova",
-      "right": "Martina Navratilova",
-      "subj": "Sports"
-    },
-    "10": {
-      "question": "Martina Navratilova",
-      "exp": "was stripped of her Czechoslovakian citizenship when, in 1975 at age 18, she asked for political asylum from the",
-      "option_1": "Uzbekistan",
-      "option_2": "United States",
-      "right": "United States",
-      "subj": "History"
-    },
-    "11": {
-      "question": "United States",
-      "exp": "is the birth home of the famous poet, essayist, publisher, playwright, literary critic, and author",
-      "option_1": "Eliot Nass",
-      "option_2": "T.S. Eliot",
-      "right": "T.S. Eliot",
-      "subj": "Literature"
-    },
-    "12": {
-      "question": "T.S. Eliot",
-      "exp": "gained significant attention for his poem",
-      "option_1": "The Waste Land",
-      "option_2": "On Turning Tides",
-      "right": "The Waste Land",
-      "subj": "Literature"
-    }
-  },
   "396": {
     "1": {
       "question": "Hamlet",
@@ -194,6 +95,105 @@
       "option_1": "Wag the Dog",
       "option_2": "Spiderman",
       "right": "Spiderman",
+      "subj": "Leisure"
+    }
+  },
+  "397": {
+    "1": {
+      "question": "Fleetwood Mac",
+      "exp": "has had many members over the years, one of whom was",
+      "option_1": "Catherine Vie",
+      "option_2": "Stevie Nicks",
+      "right": "Stevie Nicks",
+      "subj": "Music",
+      "author": ""
+    },
+    "2": {
+      "question": "Stevie Nicks",
+      "exp": "is from",
+      "option_1": "Manchester",
+      "option_2": "Phoenix",
+      "right": "Phoenix",
+      "subj": "Music"
+    },
+    "3": {
+      "question": "Phoenix",
+      "exp": "is where you might find some",
+      "option_1": "Cacti",
+      "option_2": "Taiga",
+      "right": "Cacti",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "Cacti",
+      "exp": "can also be found in",
+      "option_1": "Mexico",
+      "option_2": "Congo",
+      "right": "Mexico",
+      "subj": "Geography"
+    },
+    "5": {
+      "question": "Mexico",
+      "exp": "is home to the famous artist",
+      "option_1": "Frida Kahlo",
+      "option_2": "Arceda Almady",
+      "right": "Frida Kahlo",
+      "subj": "Art"
+    },
+    "6": {
+      "question": "Frida Kahlo",
+      "exp": "is primarily known for her ability to create a",
+      "option_1": "Computer",
+      "option_2": "Self-Portrait",
+      "right": "Self-Portrait",
+      "subj": "Art"
+    },
+    "7": {
+      "question": "Self-Portrait",
+      "exp": "was painted over 30 times over the life of",
+      "option_1": "El Salvador Dali",
+      "option_2": "Vincent Van Gogh",
+      "right": "Vincent Van Gogh",
+      "subj": "Art"
+    },
+    "8": {
+      "question": "Vincent Van Gogh",
+      "exp": "was played, in 'Eternity's Gate,' by",
+      "option_1": "Matt Damon",
+      "option_2": "Willem Dafoe",
+      "right": "Willem Dafoe",
+      "subj": "Leisure"
+    },
+    "9": {
+      "question": "Willem Dafoe",
+      "exp": "played, in the non-controversially best Spiderman series, the",
+      "option_1": "Doc Oc",
+      "option_2": "Green Goblin",
+      "right": "Green Goblin",
+      "subj": "Leisure"
+    },
+    "10": {
+      "question": "Green Goblin",
+      "exp": "is a character in the Marvel comic series",
+      "option_1": "Superman",
+      "option_2": "Spiderman",
+      "right": "Spiderman",
+      "subj": "Leisure"
+    },
+    "11": {
+      "question": "Spiderman",
+      "exp": "has been played by many people, but none more objectively iconic than",
+      "option_1": "Pom Polland",
+      "option_2": "Tobey Maguire",
+      "right": "Tobey Maguire",
+      "subj": "Pop"
+    },
+    "12": {
+      "question": "Tobey Maguire",
+      "exp": "also starred in the 2009 film",
+      "option_1": "Brothers",
+      "option_2": "Sisters",
+      "right": "Brothers",
       "subj": "Leisure"
     }
   }
