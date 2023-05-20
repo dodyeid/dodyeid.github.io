@@ -1,103 +1,4 @@
 {  
-  "396": {
-    "1": {
-      "question": "Hamlet",
-      "exp": "takes place in",
-      "option_1": "Iceland",
-      "option_2": "Denmark",
-      "right": "Denmark",
-      "subj": "Literature",
-      "author": ""
-    },
-    "2": {
-      "question": "Denmark",
-      "exp": "has its capital at",
-      "option_1": "Oslo",
-      "option_2": "Coppenhagen",
-      "right": "Coppenhagen",
-      "subj": "Geography"
-    },
-    "3": {
-      "question": "Coppenhagen",
-      "exp": "is on the islands of Amager and",
-      "option_1": "Jutland",
-      "option_2": "Zealand",
-      "right": "Zealand",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "Zealand",
-      "exp": "means",
-      "option_1": "See Land",
-      "option_2": "Sea Land",
-      "right": "Sea Land",
-      "subj": "Language"
-    },
-    "5": {
-      "question": "Sea Land",
-      "exp": "preceded by 'New' in Dutch is the etymology of",
-      "option_1": "New Zealand",
-      "option_2": "Iceland",
-      "right": "New Zealand",
-      "subj": "Language"
-    },
-    "6": {
-      "question": "New Zealand",
-      "exp": "was formerly led by Prime Minister",
-      "option_1": "Hobart",
-      "option_2": "Jacinda Ardern",
-      "right": "Jacinda Ardern",
-      "subj": "Politics"
-    },
-    "7": {
-      "question": "Jacinda Ardern",
-      "exp": "speaks",
-      "option_1": "Moana",
-      "option_2": "Māori",
-      "right": "Māori",
-      "subj": "Geography"
-    },
-    "8": {
-      "question": "Māori",
-      "exp": "inspired the Disney film",
-      "option_1": "Mulan",
-      "option_2": "Moana",
-      "right": "Moana",
-      "subj": "Pop"
-    },
-    "9": {
-      "question": "Moana",
-      "exp": "features the voice of",
-      "option_1": "Vince Diesel",
-      "option_2": "Dwayne Johnson",
-      "right": "Dwayne Johnson",
-      "subj": "Leisure"
-    },
-    "10": {
-      "question": "Dwayne Johnson",
-      "exp": "stars in recent adaptations of",
-      "option_1": "Jumanji",
-      "option_2": "Vertigo",
-      "right": "Jumanji",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "Jumanji",
-      "exp": "the original starred, as Judy Shepherd,",
-      "option_1": "Kirsten Dunst",
-      "option_2": "David Brier",
-      "right": "Kirsten Dunst",
-      "subj": "Leisure"
-    },
-    "12": {
-      "question": "Kirsten Dunst",
-      "exp": "plays Mary Jane in the original, and best, adaptation of",
-      "option_1": "Wag the Dog",
-      "option_2": "Spiderman",
-      "right": "Spiderman",
-      "subj": "Leisure"
-    }
-  },
   "397": {
     "1": {
       "question": "Fleetwood Mac",
@@ -195,6 +96,105 @@
       "option_2": "Sisters",
       "right": "Brothers",
       "subj": "Leisure"
+    }
+  },
+  "397": {
+    "1": {
+      "question": "Lou Gherig",
+      "exp": "played for the",
+      "option_1": "New York Yankees",
+      "option_2": "Red Sox",
+      "right": "New York Yankees",
+      "subj": "Sports",
+      "author": "Baseball and Brad Pitt fans rejoice!"
+    },
+    "2": {
+      "question": "New York Yankees",
+      "exp": "at one point had the legend",
+      "option_1": "Miguel Cabrera",
+      "option_2": "Yogi Berra",
+      "right": "Yogi Berra",
+      "subj": "Sports"
+    },
+    "3": {
+      "question": "Yogi Berra",
+      "exp": "at the end of his career played for the",
+      "option_1": "Minnesota Twins",
+      "option_2": "New York Mets",
+      "right": "New York Mets",
+      "subj": "Sports"
+    },
+    "4": {
+      "question": "New York Mets",
+      "exp": "had the legendary pitcher",
+      "option_1": "Mickey Mantle",
+      "option_2": "Tom Seaver",
+      "right": "Tom Seaver",
+      "subj": "Sports"
+    },
+    "5": {
+      "question": "Tom Seaver",
+      "exp": "also played for the",
+      "option_1": "Florida Marlins",
+      "option_2": "Chicago White Sox",
+      "right": "Chicago White Sox",
+      "subj": "Sports"
+    },
+    "6": {
+      "question": "Chicago White Sox",
+      "exp": "once had the player",
+      "option_1": "Luke Holmes",
+      "option_2": "Luke Appling",
+      "right": "Luke Appling",
+      "subj": "Sports"
+    },
+    "7": {
+      "question": "Luke Appling",
+      "exp": "played his entire career for the",
+      "option_1": "Chicago White Sox",
+      "option_2": "San Francisco Giants",
+      "right": "Chicago White Sox",
+      "subj": "Sports"
+    },
+    "8": {
+      "question": "Chicago White Sox",
+      "exp": "also had the famous player",
+      "option_1": "Jim Brown",
+      "option_2": "Frank Thomas",
+      "right": "Frank Thomas",
+      "subj": "Sports"
+    },
+    "9": {
+      "question": "Frank Thomas",
+      "exp": "finished his career with the",
+      "option_1": "St. Louis Cardinals",
+      "option_2": "Oakland Athletics",
+      "right": "Oakland Athletics",
+      "subj": "Sports"
+    },
+    "10": {
+      "question": "Oakland Athletics",
+      "exp": "were the star team in the sports drama",
+      "option_1": "Make My Day",
+      "option_2": "Moneyball",
+      "right": "Moneyball",
+      "subj": "Leisure"
+    },
+    "11": {
+      "question": "Moneyball",
+      "exp": "stars",
+      "option_1": "Angelina Jolie",
+      "option_2": "Brad Pitt",
+      "right": "Brad Pitt",
+      "subj": "Leisure"
+    },
+    "12": {
+      "question": "Brad Pitt",
+      "exp": "was at one point married to",
+      "option_1": "Jennifer Anniston",
+      "option_2": "Sarah Spade",
+      "right": "Jennifer Anniston",
+      "subj": "Pop"
     }
   }
 }
