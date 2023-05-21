@@ -1,103 +1,4 @@
 {  
-  "397": {
-    "1": {
-      "question": "Fleetwood Mac",
-      "exp": "has had many members over the years, one of whom was",
-      "option_1": "Catherine Vie",
-      "option_2": "Stevie Nicks",
-      "right": "Stevie Nicks",
-      "subj": "Music",
-      "author": ""
-    },
-    "2": {
-      "question": "Stevie Nicks",
-      "exp": "is from",
-      "option_1": "Manchester",
-      "option_2": "Phoenix",
-      "right": "Phoenix",
-      "subj": "Music"
-    },
-    "3": {
-      "question": "Phoenix",
-      "exp": "is where you might find some",
-      "option_1": "Cacti",
-      "option_2": "Taiga",
-      "right": "Cacti",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "Cacti",
-      "exp": "can also be found in",
-      "option_1": "Mexico",
-      "option_2": "Congo",
-      "right": "Mexico",
-      "subj": "Geography"
-    },
-    "5": {
-      "question": "Mexico",
-      "exp": "is home to the famous artist",
-      "option_1": "Frida Kahlo",
-      "option_2": "Arceda Almady",
-      "right": "Frida Kahlo",
-      "subj": "Art"
-    },
-    "6": {
-      "question": "Frida Kahlo",
-      "exp": "is primarily known for her ability to create a",
-      "option_1": "Computer",
-      "option_2": "Self-Portrait",
-      "right": "Self-Portrait",
-      "subj": "Art"
-    },
-    "7": {
-      "question": "Self-Portrait",
-      "exp": "was painted over 30 times over the life of",
-      "option_1": "El Salvador Dali",
-      "option_2": "Vincent Van Gogh",
-      "right": "Vincent Van Gogh",
-      "subj": "Art"
-    },
-    "8": {
-      "question": "Vincent Van Gogh",
-      "exp": "was played, in 'Eternity's Gate,' by",
-      "option_1": "Matt Damon",
-      "option_2": "Willem Dafoe",
-      "right": "Willem Dafoe",
-      "subj": "Leisure"
-    },
-    "9": {
-      "question": "Willem Dafoe",
-      "exp": "played, in the non-controversially best Spiderman series, the",
-      "option_1": "Doc Oc",
-      "option_2": "Green Goblin",
-      "right": "Green Goblin",
-      "subj": "Leisure"
-    },
-    "10": {
-      "question": "Green Goblin",
-      "exp": "is a character in the Marvel comic series",
-      "option_1": "Superman",
-      "option_2": "Spiderman",
-      "right": "Spiderman",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "Spiderman",
-      "exp": "has been played by many people, but none more objectively iconic than",
-      "option_1": "Pom Polland",
-      "option_2": "Tobey Maguire",
-      "right": "Tobey Maguire",
-      "subj": "Pop"
-    },
-    "12": {
-      "question": "Tobey Maguire",
-      "exp": "also starred in the 2009 film",
-      "option_1": "Brothers",
-      "option_2": "Sisters",
-      "right": "Brothers",
-      "subj": "Leisure"
-    }
-  },
   "398": {
     "1": {
       "question": "Lou Gherig",
@@ -195,6 +96,106 @@
       "option_2": "Sarah Spade",
       "right": "Jennifer Anniston",
       "subj": "Pop"
+    }
+  },
+  
+  "399": {
+    "1": {
+      "question": "Botswana",
+      "exp": "is a nation on the continent of",
+      "option_1": "Africa",
+      "option_2": "Europe",
+      "right": "Africa",
+      "subj": "Geography",
+      "author": "Thank you Yasmin Luthra for helping write this game some time ago ~"
+    },
+    "2": {
+      "question": "Africa",
+      "exp": "is the home continent of the world famous writer",
+      "option_1": "Helen Garner",
+      "option_2": "Chimamanda Ngozi Adichie",
+      "right": "Chimamanda Ngozi Adichie",
+      "subj": "Literature"
+    },
+    "3": {
+      "question": "Chimamanda Ngozi Adichie",
+      "exp": "wrote the 2003 novel 'Purple",
+      "option_1": "Hibiscus",
+      "option_2": "Tulip",
+      "right": "Hibiscus",
+      "subj": "Literature"
+    },
+    "4": {
+      "question": "Hibiscus",
+      "exp": "belongs to the family",
+      "option_1": "Malvaceae",
+      "option_2": "Liliaceae",
+      "right": "Malvaceae",
+      "subj": "STEM"
+    },
+    "5": {
+      "question": "Malvaceae",
+      "exp": "are also known as",
+      "option_1": "Malvataros",
+      "option_2": "Mallows",
+      "right": "Mallows",
+      "subj": "STEM"
+    },
+    "6": {
+      "question": "Mallows",
+      "exp": "contain the important economic member",
+      "option_1": "Cacao",
+      "option_2": "Caulipowell",
+      "right": "Cacao",
+      "subj": "STEM"
+    },
+    "7": {
+      "question": "Cacao",
+      "exp": "seeds are known as",
+      "option_1": "Kellogs",
+      "option_2": "Cocoa Beans",
+      "right": "Cocoa Beans",
+      "subj": "Business"
+    },
+    "8": {
+      "question": "Cocoa Beans",
+      "exp": "are the most produced in the nation of",
+      "option_1": "Russia",
+      "option_2": "Ivory Coast",
+      "right": "Ivory Coast",
+      "subj": "Geography"
+    },
+    "9": {
+      "question": "Ivory Coast",
+      "exp": "is a former French colony and is officially known as the Republic of",
+      "option_1": "Côte d'Ivoire",
+      "option_2": "Ivoire de Côte",
+      "right": "Côte d'Ivoire",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "Côte d'Ivoire",
+      "exp": "has its de facto capital at",
+      "option_1": "Allmatan",
+      "option_2": "Abidjan",
+      "right": "Abidjan",
+      "subj": "Geography"
+    },
+    "11": {
+      "question": "Abidjan",
+      "exp": "is on the",
+      "option_1": "Indian Ocean",
+      "option_2": "Atlantic Ocean",
+      "right": "Atlantic Ocean",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "Atlantic Ocean",
+      "exp": "",
+      "option_1": "Covers 20% of Earth's Surface",
+      "option_2": "Covers 33% of Earth's surface",
+      "right": "Covers 20% of Earth's Surface",
+      "subj": "Geography"
     }
   }
 }
