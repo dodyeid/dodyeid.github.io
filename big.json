@@ -1,104 +1,4 @@
 {  
-  "398": {
-    "1": {
-      "question": "Lou Gherig",
-      "exp": "played for the",
-      "option_1": "New York Yankees",
-      "option_2": "Red Sox",
-      "right": "New York Yankees",
-      "subj": "Sports",
-      "author": "Baseball and Brad Pitt fans rejoice!"
-    },
-    "2": {
-      "question": "New York Yankees",
-      "exp": "at one point had the legend",
-      "option_1": "Miguel Cabrera",
-      "option_2": "Yogi Berra",
-      "right": "Yogi Berra",
-      "subj": "Sports"
-    },
-    "3": {
-      "question": "Yogi Berra",
-      "exp": "at the end of his career played for the",
-      "option_1": "Minnesota Twins",
-      "option_2": "New York Mets",
-      "right": "New York Mets",
-      "subj": "Sports"
-    },
-    "4": {
-      "question": "New York Mets",
-      "exp": "had the legendary pitcher",
-      "option_1": "Mickey Mantle",
-      "option_2": "Tom Seaver",
-      "right": "Tom Seaver",
-      "subj": "Sports"
-    },
-    "5": {
-      "question": "Tom Seaver",
-      "exp": "also played for the",
-      "option_1": "Florida Marlins",
-      "option_2": "Chicago White Sox",
-      "right": "Chicago White Sox",
-      "subj": "Sports"
-    },
-    "6": {
-      "question": "Chicago White Sox",
-      "exp": "once had the player",
-      "option_1": "Luke Holmes",
-      "option_2": "Luke Appling",
-      "right": "Luke Appling",
-      "subj": "Sports"
-    },
-    "7": {
-      "question": "Luke Appling",
-      "exp": "played his entire career for the",
-      "option_1": "Chicago White Sox",
-      "option_2": "San Francisco Giants",
-      "right": "Chicago White Sox",
-      "subj": "Sports"
-    },
-    "8": {
-      "question": "Chicago White Sox",
-      "exp": "also had the famous player",
-      "option_1": "Jim Brown",
-      "option_2": "Frank Thomas",
-      "right": "Frank Thomas",
-      "subj": "Sports"
-    },
-    "9": {
-      "question": "Frank Thomas",
-      "exp": "finished his career with the",
-      "option_1": "St. Louis Cardinals",
-      "option_2": "Oakland Athletics",
-      "right": "Oakland Athletics",
-      "subj": "Sports"
-    },
-    "10": {
-      "question": "Oakland Athletics",
-      "exp": "were the star team in the sports drama",
-      "option_1": "Make My Day",
-      "option_2": "Moneyball",
-      "right": "Moneyball",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "Moneyball",
-      "exp": "stars",
-      "option_1": "Angelina Jolie",
-      "option_2": "Brad Pitt",
-      "right": "Brad Pitt",
-      "subj": "Leisure"
-    },
-    "12": {
-      "question": "Brad Pitt",
-      "exp": "was at one point married to",
-      "option_1": "Jennifer Anniston",
-      "option_2": "Sarah Spade",
-      "right": "Jennifer Anniston",
-      "subj": "Pop"
-    }
-  },
-  
   "399": {
     "1": {
       "question": "Botswana",
@@ -195,6 +95,105 @@
       "option_1": "Covers 20% of Earth's Surface",
       "option_2": "Covers 33% of Earth's surface",
       "right": "Covers 20% of Earth's Surface",
+      "subj": "Geography"
+    }
+  },
+  "400": {
+    "1": {
+      "question": "Brian Chesky",
+      "exp": "is the founder and CEO of",
+      "option_1": "Airbnb",
+      "option_2": "Uber",
+      "right": "Airbnb",
+      "subj": "Business",
+      "author": ""
+    },
+    "2": {
+      "question": "Airbnb",
+      "exp": "is headquartered in",
+      "option_1": "San Francisco",
+      "option_2": "Olympia",
+      "right": "San Francisco",
+      "subj": "Business"
+    },
+    "3": {
+      "question": "San Francisco",
+      "exp": "is where you'd go to visit",
+      "option_1": "Coit Tower",
+      "option_2": "Dunbarton Palace",
+      "right": "Coit Tower",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "Coit Tower",
+      "exp": "is named after Lillie Hitchcock Coit, a wealthy socialite who loved to chase",
+      "option_1": "Fire",
+      "option_2": "Bungalow",
+      "right": "Fire",
+      "subj": "History"
+    },
+    "5": {
+      "question": "Fire",
+      "exp": "eventually consumed",
+      "option_1": "The Library of Alexandria",
+      "option_2": "The Triangle Pantwaist",
+      "right": "The Library of Alexandria",
+      "subj": "History"
+    },
+    "6": {
+      "question": "The Library of Alexandria",
+      "exp": "was frequented by the great scholar",
+      "option_1": "Dewey",
+      "option_2": "Euclid",
+      "right": "Euclid",
+      "subj": "History"
+    },
+    "7": {
+      "question": "Euclid",
+      "exp": "is considered to be the father of",
+      "option_1": "Calculus",
+      "option_2": "Geometry",
+      "right": "Geometry",
+      "subj": "STEM"
+    },
+    "8": {
+      "question": "Geometry",
+      "exp": "was re-postulated in 1899 by",
+      "option_1": "Daniel Hilbert",
+      "option_2": "David Hilbert",
+      "right": "David Hilbert",
+      "subj": "STEM"
+    },
+    "9": {
+      "question": "David Hilbert",
+      "exp": "posited a famous paradox of infinity called the Hilbert",
+      "option_1": "Hotel",
+      "option_2": "Locomotive",
+      "right": "Hotel",
+      "subj": "STEM"
+    },
+    "10": {
+      "question": "Hotel",
+      "exp": "chains are abundant, but a famous one is",
+      "option_1": "Hilton",
+      "option_2": "Cher-a-ton",
+      "right": "Hilton",
+      "subj": "Business"
+    },
+    "11": {
+      "question": "Hilton",
+      "exp": "first name Conrad, is the great-grandfather of",
+      "option_1": "Paris",
+      "option_2": "Winnifred",
+      "right": "Paris",
+      "subj": "Pop"
+    },
+    "12": {
+      "question": "Paris",
+      "exp": "is located on the",
+      "option_1": "Loire",
+      "option_2": "Seine",
+      "right": "Seine",
       "subj": "Geography"
     }
   }
