@@ -1,103 +1,4 @@
 {  
-  "399": {
-    "1": {
-      "question": "Botswana",
-      "exp": "is a nation on the continent of",
-      "option_1": "Africa",
-      "option_2": "Europe",
-      "right": "Africa",
-      "subj": "Geography",
-      "author": "Thank you Yasmin Luthra for helping write this game some time ago ~"
-    },
-    "2": {
-      "question": "Africa",
-      "exp": "is the home continent of the world famous writer",
-      "option_1": "Helen Garner",
-      "option_2": "Chimamanda Ngozi Adichie",
-      "right": "Chimamanda Ngozi Adichie",
-      "subj": "Literature"
-    },
-    "3": {
-      "question": "Chimamanda Ngozi Adichie",
-      "exp": "wrote the 2003 novel 'Purple",
-      "option_1": "Hibiscus",
-      "option_2": "Tulip",
-      "right": "Hibiscus",
-      "subj": "Literature"
-    },
-    "4": {
-      "question": "Hibiscus",
-      "exp": "belongs to the family",
-      "option_1": "Malvaceae",
-      "option_2": "Liliaceae",
-      "right": "Malvaceae",
-      "subj": "STEM"
-    },
-    "5": {
-      "question": "Malvaceae",
-      "exp": "are also known as",
-      "option_1": "Malvataros",
-      "option_2": "Mallows",
-      "right": "Mallows",
-      "subj": "STEM"
-    },
-    "6": {
-      "question": "Mallows",
-      "exp": "contain the important economic member",
-      "option_1": "Cacao",
-      "option_2": "Caulipowell",
-      "right": "Cacao",
-      "subj": "STEM"
-    },
-    "7": {
-      "question": "Cacao",
-      "exp": "seeds are known as",
-      "option_1": "Kellogs",
-      "option_2": "Cocoa Beans",
-      "right": "Cocoa Beans",
-      "subj": "Business"
-    },
-    "8": {
-      "question": "Cocoa Beans",
-      "exp": "are the most produced in the nation of",
-      "option_1": "Russia",
-      "option_2": "Ivory Coast",
-      "right": "Ivory Coast",
-      "subj": "Geography"
-    },
-    "9": {
-      "question": "Ivory Coast",
-      "exp": "is a former French colony and is officially known as the Republic of",
-      "option_1": "Côte d'Ivoire",
-      "option_2": "Ivoire de Côte",
-      "right": "Côte d'Ivoire",
-      "subj": "Geography"
-    },
-    "10": {
-      "question": "Côte d'Ivoire",
-      "exp": "has its de facto capital at",
-      "option_1": "Allmatan",
-      "option_2": "Abidjan",
-      "right": "Abidjan",
-      "subj": "Geography"
-    },
-    "11": {
-      "question": "Abidjan",
-      "exp": "is on the",
-      "option_1": "Indian Ocean",
-      "option_2": "Atlantic Ocean",
-      "right": "Atlantic Ocean",
-      "subj": "Geography"
-    },
-    "12": {
-      "question": "Atlantic Ocean",
-      "exp": "",
-      "option_1": "Covers 20% of Earth's Surface",
-      "option_2": "Covers 33% of Earth's surface",
-      "right": "Covers 20% of Earth's Surface",
-      "subj": "Geography"
-    }
-  },
   "400": {
     "1": {
       "question": "Brian Chesky",
@@ -194,6 +95,106 @@
       "option_1": "Loire",
       "option_2": "Seine",
       "right": "Seine",
+      "subj": "Geography"
+    }
+  },
+  
+  "401": {
+    "1": {
+      "question": "India",
+      "exp": "contains the states of",
+      "option_1": "Guangdong",
+      "option_2": "Odisha",
+      "right": "Odisha",
+      "subj": "Geography",
+      "author": "Indian geography pros where you at?"
+    },
+    "2": {
+      "question": "Odisha",
+      "exp": "borders the state of",
+      "option_1": "Himachal Pradesh",
+      "option_2": "Andhra Pradesh",
+      "right": "Andhra Pradesh",
+      "subj": "Geography"
+    },
+    "3": {
+      "question": "Andhra Pradesh",
+      "exp": "borders the state of",
+      "option_1": "Tamil Nadu",
+      "option_2": "Punjab",
+      "right": "Tamil Nadu",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "Tamil Nadu",
+      "exp": "borders the state of",
+      "option_1": "Kerala",
+      "option_2": "Rajasthan",
+      "right": "Kerala",
+      "subj": "Geography"
+    },
+    "5": {
+      "question": "Kerala",
+      "exp": "borders the state of",
+      "option_1": "Karnataka",
+      "option_2": "Maharashtra",
+      "right": "Karnataka",
+      "subj": "Geography"
+    },
+    "6": {
+      "question": "Karnataka",
+      "exp": "borders the state of",
+      "option_1": "Maharashtra",
+      "option_2": "Gujarat",
+      "right": "Maharashtra",
+      "subj": "Geography"
+    },
+    "7": {
+      "question": "Maharashtra",
+      "exp": "borders the state of",
+      "option_1": "Gujarat",
+      "option_2": "Mizoram",
+      "right": "Gujarat",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "Gujarat",
+      "exp": "borders the state of",
+      "option_1": "Bihar",
+      "option_2": "Rajasthan",
+      "right": "Rajasthan",
+      "subj": "Geography"
+    },
+    "9": {
+      "question": "Rajasthan",
+      "exp": "borders the state of",
+      "option_1": "Ladakh",
+      "option_2": "Punjab",
+      "right": "Punjab",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "Punjab",
+      "exp": "borders the state of",
+      "option_1": "Jammu and Kashmir",
+      "option_2": "Meghalaya",
+      "right": "Jammu and Kashmir",
+      "subj": "Geography"
+    },
+    "11": {
+      "question": "Jammu and Kashmir",
+      "exp": "borders the state of",
+      "option_1": "Ladakh",
+      "option_2": "Nagaland",
+      "right": "Ladakh",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "Ladakh",
+      "exp": "borders the state of",
+      "option_1": "Himachal Pradesh",
+      "option_2": "West Bengal",
+      "right": "Himachal Pradesh",
       "subj": "Geography"
     }
   }
