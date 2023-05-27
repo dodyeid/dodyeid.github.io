@@ -197,5 +197,106 @@
       "right": "Kuomintang",
       "subj": "History"
     }
+  },
+  
+  
+  "406": {
+    "1": {
+      "question": "Jared Fogle",
+      "exp": "is a convicted criminal and former spokesman for",
+      "option_1": "Subway",
+      "option_2": "Quiznos",
+      "right": "Subway",
+      "subj": "Business",
+      "author": ""
+    },
+    "2": {
+      "question": "Subway",
+      "exp": "has its international headquarters in",
+      "option_1": "Kansas",
+      "option_2": "Connecticut",
+      "right": "Connecticut",
+      "subj": "Business"
+    },
+    "3": {
+      "question": "Connecticut",
+      "exp": "Compromise was an agreement reached during the Constitutional Convention of 1787 that in part defined the legislative structure and representation each state would have under the United States Constitution. It retained the bicameral legislature as proposed by Roger",
+      "option_1": "Oglethorpe",
+      "option_2": "Sherman",
+      "right": "Sherman",
+      "subj": "History"
+    },
+    "4": {
+      "question": "Sherman",
+      "exp": "was a late 19th century United States Senator who was the principal author of the namesake",
+      "option_1": "Antitrust Act",
+      "option_2": "Homestead Act",
+      "right": "Antitrust Act",
+      "subj": "History"
+    },
+    "5": {
+      "question": "Antitrust Act",
+      "exp": "deals with the concept of",
+      "option_1": "Monopoly",
+      "option_2": "Panopticon",
+      "right": "Monopoly",
+      "subj": "Politics"
+    },
+    "6": {
+      "question": "Monopoly",
+      "exp": "the game features a property that ends with 'Avenue' and starts with",
+      "option_1": "Baltic",
+      "option_2": "Iowa",
+      "right": "Baltic",
+      "subj": "Leisure"
+    },
+    "7": {
+      "question": "Baltic",
+      "exp": "countries include",
+      "option_1": "Romania",
+      "option_2": "Estonia",
+      "right": "Estonia",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "Estonia",
+      "exp": "has its second largest city at",
+      "option_1": "Kaunas",
+      "option_2": "Tartu",
+      "right": "Tartu",
+      "subj": "Geography"
+    },
+    "9": {
+      "question": "Tartu",
+      "exp": "has a population of around",
+      "option_1": "100,000 people",
+      "option_2": "500,000 people",
+      "right": "100,000 people",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "100,000 people",
+      "exp": "is a song by American rock band",
+      "option_1": "Queens of the Stone Age",
+      "option_2": "Kings of Leon",
+      "right": "Kings of Leon",
+      "subj": "Pop"
+    },
+    "11": {
+      "question": "Kings of Leon",
+      "exp": "were monarchs on the",
+      "option_1": "Iberian Peninsula",
+      "option_2": "Cape of Good Hope",
+      "right": "Iberian Peninsula",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Iberian Peninsula",
+      "exp": "is where you'd find the soccer team",
+      "option_1": "Atalanta B.C.",
+      "option_2": "S.L. Benfica",
+      "right": "S.L. Benfica",
+      "subj": "Sports"
+    }
   }
 }
