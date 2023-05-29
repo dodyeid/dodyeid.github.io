@@ -1,105 +1,4 @@
-{  
-  "405": {
-    "1": {
-      "question": "Last Theorem",
-      "exp": "is the name given to a peculiar mathematical problem posed by Pierre de",
-      "option_1": "Fermat",
-      "option_2": "Format",
-      "right": "Fermat",
-      "subj": "STEM",
-      "author": "Chinese history buffs where you at?"
-    },
-    "2": {
-      "question": "Fermat",
-      "exp": "was",
-      "option_1": "Russian",
-      "option_2": "French",
-      "right": "French",
-      "subj": "Language"
-    },
-    "3": {
-      "question": "French",
-      "exp": "was the nationality of",
-      "option_1": "Paul Gauguin",
-      "option_2": "Emile Zulla",
-      "right": "Paul Gauguin",
-      "subj": "History"
-    },
-    "4": {
-      "question": "Paul Gauguin",
-      "exp": "is well known for his relationship with",
-      "option_1": "Tonga",
-      "option_2": "Vincent Van Gogh",
-      "right": "Vincent Van Gogh",
-      "subj": "Art"
-    },
-    "5": {
-      "question": "Vincent Van Gogh",
-      "exp": "cut off his",
-      "option_1": "Toe",
-      "option_2": "Ear",
-      "right": "Ear",
-      "subj": "History"
-    },
-    "6": {
-      "question": "Ear",
-      "exp": "contains the",
-      "option_1": "Cochlea",
-      "option_2": "Portica",
-      "right": "Cochlea",
-      "subj": "STEM"
-    },
-    "7": {
-      "question": "Cochlea",
-      "exp": "is shaped like a",
-      "option_1": "Prism",
-      "option_2": "Spiral",
-      "right": "Spiral",
-      "subj": "STEM"
-    },
-    "8": {
-      "question": "Spiral",
-      "exp": "in the shape of an eye can be found in the logo for",
-      "option_1": "AMD",
-      "option_2": "NVIDIA",
-      "right": "NVIDIA",
-      "subj": "Business"
-    },
-    "9": {
-      "question": "NVIDIA",
-      "exp": "was founded by current CEO,",
-      "option_1": "Jensen Huang",
-      "option_2": "Jeremy Furman",
-      "right": "Jensen Huang",
-      "subj": "Business"
-    },
-    "10": {
-      "question": "Jensen Huang",
-      "exp": "was born in",
-      "option_1": "Japan",
-      "option_2": "Taiwan",
-      "right": "Taiwan",
-      "subj": "Language"
-    },
-    "11": {
-      "question": "Taiwan",
-      "exp": "is also known as",
-      "option_1": "Formosa",
-      "option_2": "Hunan",
-      "right": "Formosa",
-      "subj": "Geography"
-    },
-    "12": {
-      "question": "Formosa",
-      "exp": "is home to the historic political party known as the",
-      "option_1": "Kuomintang",
-      "option_2": "Ürümqi",
-      "right": "Kuomintang",
-      "subj": "History"
-    }
-  },
-  
-  "406": {
+{ "406": {
     "1": {
       "question": "The Great Gatsby",
       "exp": "is a novel written by",
@@ -197,6 +96,105 @@
       "right": "Graceland",
       "subj": "Pop"
     }
-  }
+  },
   
+  "407": {
+    "1": {
+      "question": "Steven Pinker",
+      "exp": "is a famous psychologist at",
+      "option_1": "Princeton",
+      "option_2": "Harvard",
+      "right": "Harvard",
+      "subj": "STEM",
+      "author": ""
+    },
+    "2": {
+      "question": "Harvard",
+      "exp": "is a college in",
+      "option_1": "Cambridge",
+      "option_2": "Boston",
+      "right": "Cambridge",
+      "subj": "Geography"
+    },
+    "3": {
+      "question": "Cambridge",
+      "exp": "is also a university city in",
+      "option_1": "Ukraine",
+      "option_2": "England",
+      "right": "England",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "England",
+      "exp": "is the home of the singer",
+      "option_1": "David Bowie",
+      "option_2": "Stevie Wonder",
+      "right": "David Bowie",
+      "subj": "Music"
+    },
+    "5": {
+      "question": "David Bowie",
+      "exp": "collaborated with Queen to release the song",
+      "option_1": "Moon Man",
+      "option_2": "Under Pressure",
+      "right": "Under Pressure",
+      "subj": "Music"
+    },
+    "6": {
+      "question": "Under Pressure",
+      "exp": "has a bass line that is eerily similar to the bass line of",
+      "option_1": "Sundown",
+      "option_2": "Ice Ice Baby",
+      "right": "Ice Ice Baby",
+      "subj": "Music"
+    },
+    "7": {
+      "question": "Ice Ice Baby",
+      "exp": "is a song written by",
+      "option_1": "Vanilla Ice",
+      "option_2": "Manilla Mice",
+      "right": "Vanilla Ice",
+      "subj": "Music"
+    },
+    "8": {
+      "question": "Vanilla Ice",
+      "exp": "is the stage name for Robert",
+      "option_1": "Van Dyke",
+      "option_2": "Van Winkle",
+      "right": "Van Winkle",
+      "subj": "Music"
+    },
+    "9": {
+      "question": "Van Winkle",
+      "exp": ", preceded by Rip, is a short story by the American author",
+      "option_1": "Herman Melville",
+      "option_2": "Washington Irving",
+      "right": "Washington Irving",
+      "subj": "Literature"
+    },
+    "10": {
+      "question": "Washington Irving",
+      "exp": "also wrote about a Hessian solider as a Headless Horseman in",
+      "option_1": "The Legend of Tom Sawyer",
+      "option_2": "The Legend of Sleepy Hollow",
+      "right": "The Legend of Sleepy Hollow",
+      "subj": "Literature"
+    },
+    "11": {
+      "question": "The Legend of Sleepy Hollow",
+      "exp": "attained enduring popularity thanks to its inspiration for many costumes on",
+      "option_1": "Easter",
+      "option_2": "Halloween",
+      "right": "Halloween",
+      "subj": "Leisure"
+    },
+    "12": {
+      "question": "Halloween",
+      "exp": "is when one would most likely be able to watch",
+      "option_1": "The Rocky Horror Picture Show",
+      "option_2": "Ringu",
+      "right": "The Rocky Horror Picture Show",
+      "subj": "Leisure"
+    }
+  }
 }
