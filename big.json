@@ -1,103 +1,4 @@
 {  
-  "407": {
-    "1": {
-      "question": "Steven Pinker",
-      "exp": "is a famous psychologist at",
-      "option_1": "Princeton",
-      "option_2": "Harvard",
-      "right": "Harvard",
-      "subj": "STEM",
-      "author": ""
-    },
-    "2": {
-      "question": "Harvard",
-      "exp": "is a college in",
-      "option_1": "Cambridge",
-      "option_2": "Boston",
-      "right": "Cambridge",
-      "subj": "Geography"
-    },
-    "3": {
-      "question": "Cambridge",
-      "exp": "is also a university city in",
-      "option_1": "Ukraine",
-      "option_2": "England",
-      "right": "England",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "England",
-      "exp": "is the home of the singer",
-      "option_1": "David Bowie",
-      "option_2": "Stevie Wonder",
-      "right": "David Bowie",
-      "subj": "Music"
-    },
-    "5": {
-      "question": "David Bowie",
-      "exp": "collaborated with Queen to release the song",
-      "option_1": "Moon Man",
-      "option_2": "Under Pressure",
-      "right": "Under Pressure",
-      "subj": "Music"
-    },
-    "6": {
-      "question": "Under Pressure",
-      "exp": "has a bass line that is eerily similar to the bass line of",
-      "option_1": "Sundown",
-      "option_2": "Ice Ice Baby",
-      "right": "Ice Ice Baby",
-      "subj": "Music"
-    },
-    "7": {
-      "question": "Ice Ice Baby",
-      "exp": "is a song written by",
-      "option_1": "Vanilla Ice",
-      "option_2": "Manilla Mice",
-      "right": "Vanilla Ice",
-      "subj": "Music"
-    },
-    "8": {
-      "question": "Vanilla Ice",
-      "exp": "is the stage name for Robert",
-      "option_1": "Van Dyke",
-      "option_2": "Van Winkle",
-      "right": "Van Winkle",
-      "subj": "Music"
-    },
-    "9": {
-      "question": "Van Winkle",
-      "exp": ", preceded by Rip, is a short story by the American author",
-      "option_1": "Herman Melville",
-      "option_2": "Washington Irving",
-      "right": "Washington Irving",
-      "subj": "Literature"
-    },
-    "10": {
-      "question": "Washington Irving",
-      "exp": "also wrote about a Hessian solider as a Headless Horseman in",
-      "option_1": "The Legend of Tom Sawyer",
-      "option_2": "The Legend of Sleepy Hollow",
-      "right": "The Legend of Sleepy Hollow",
-      "subj": "Literature"
-    },
-    "11": {
-      "question": "The Legend of Sleepy Hollow",
-      "exp": "attained enduring popularity thanks to its inspiration for many costumes on",
-      "option_1": "Easter",
-      "option_2": "Halloween",
-      "right": "Halloween",
-      "subj": "Leisure"
-    },
-    "12": {
-      "question": "Halloween",
-      "exp": "is when one would most likely be able to watch",
-      "option_1": "The Rocky Horror Picture Show",
-      "option_2": "Ringu",
-      "right": "The Rocky Horror Picture Show",
-      "subj": "Leisure"
-    }
-  }, 
   "408": {
     "1": {
       "question": "The Rocky Horror Picture Show",
@@ -195,6 +96,105 @@
       "option_2": "I. M. Pei",
       "right": "I. M. Pei",
       "subj": "Sports"
+    }
+  },
+  "409": {
+    "1": {
+      "question": "Joe Exotic",
+      "exp": "is nicknamed 'Tiger King' which starts with",
+      "option_1": "Bear",
+      "option_2": "Tiger",
+      "right": "Tiger",
+      "subj": "Pop",
+      "author": ""
+    },
+    "2": {
+      "question": "Tiger",
+      "exp": "plays a central role in the 2001 novel",
+      "option_1": "On Troubled Shoulders",
+      "option_2": "Life of Pi",
+      "right": "Life of Pi",
+      "subj": "Literature"
+    },
+    "3": {
+      "question": "Life of Pi",
+      "exp": "was written by",
+      "option_1": "Ian Englebard",
+      "option_2": "Yann Martel",
+      "right": "Yann Martel",
+      "subj": "Literature"
+    },
+    "4": {
+      "question": "Yann Martel",
+      "exp": "wrote 'Life of Pi,' which was adapted into a 2012 film directed by",
+      "option_1": "Ang Lee",
+      "option_2": "David Mukarjee",
+      "right": "Ang Lee",
+      "subj": "Leisure"
+    },
+    "5": {
+      "question": "Ang Lee",
+      "exp": "is a filmmaker from",
+      "option_1": "Taiwan",
+      "option_2": "Korea",
+      "right": "Taiwan",
+      "subj": "Language"
+    },
+    "6": {
+      "question": "Taiwan",
+      "exp": "is home to the large city",
+      "option_1": "Hunan",
+      "option_2": "Kaohsiung",
+      "right": "Kaohsiung",
+      "subj": "Geography"
+    },
+    "7": {
+      "question": "Kaohsiung",
+      "exp": "is on the",
+      "option_1": "Coast",
+      "option_2": "Landlocked",
+      "right": "Coast",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "Coast",
+      "exp": "Guard, in movie form:",
+      "option_1": "The Watchtower",
+      "option_2": "The Guardian",
+      "right": "The Guardian",
+      "subj": "Leisure"
+    },
+    "9": {
+      "question": "The Guardian",
+      "exp": "stars Kevin Costner and",
+      "option_1": "Ashton Kutcher",
+      "option_2": "Christian Bale",
+      "right": "Ashton Kutcher",
+      "subj": "Leisure"
+    },
+    "10": {
+      "question": "Ashton Kutcher",
+      "exp": "portrayed Michael Kelso in a show about the",
+      "option_1": "60s",
+      "option_2": "70s",
+      "right": "70s",
+      "subj": "Leisure"
+    },
+    "11": {
+      "question": "70s",
+      "exp": "saw the beginning of the",
+      "option_1": "Geraldine Ferraro Lost",
+      "option_2": "Lebanese Civil War",
+      "right": "Lebanese Civil War",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Lebanese Civil War",
+      "exp": "officially came to an end with the",
+      "option_1": "Taif Agreement",
+      "option_2": "Khuzestan Accord",
+      "right": "Taif Agreement",
+      "subj": "History"
     }
   }
 }
