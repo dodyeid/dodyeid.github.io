@@ -1,103 +1,4 @@
 {  
-  "408": {
-    "1": {
-      "question": "The Rocky Horror Picture Show",
-      "exp": "is a musical comedy horror film released in",
-      "option_1": "1975",
-      "option_2": "1935",
-      "right": "1975",
-      "subj": "Music",
-      "author": ""
-    },
-    "2": {
-      "question": "1975",
-      "exp": "is when the world was introduced to the psychological drama film based on the novel by Ken Kesey,",
-      "option_1": "One Flew Over the Cuckoo's Nest",
-      "option_2": "Billy the Kid",
-      "right": "One Flew Over the Cuckoo's Nest",
-      "subj": "Leisure"
-    },
-    "3": {
-      "question": "One Flew Over the Cuckoo's Nest",
-      "exp": "stars the famous",
-      "option_1": "Leonardo DiCaprio",
-      "option_2": "Jack Nicholson",
-      "right": "Jack Nicholson",
-      "subj": "Leisure"
-    },
-    "4": {
-      "question": "Jack Nicholson",
-      "exp": "stars in the 2006 epic crime thriller",
-      "option_1": "The Departed",
-      "option_2": "The Revenant",
-      "right": "The Departed",
-      "subj": "Leisure"
-    },
-    "5": {
-      "question": "The Departed",
-      "exp": "takes place in",
-      "option_1": "Chicago",
-      "option_2": "Boston",
-      "right": "Boston",
-      "subj": "Leisure"
-    },
-    "6": {
-      "question": "Boston",
-      "exp": "is situated on the",
-      "option_1": "Charles River",
-      "option_2": "Potomac River",
-      "right": "Charles River",
-      "subj": "Geography"
-    },
-    "7": {
-      "question": "Charles River",
-      "exp": "is named after the first of only two Charles' to rule England,",
-      "option_1": "King Charles IX",
-      "option_2": "King Charles I",
-      "right": "King Charles I",
-      "subj": "History"
-    },
-    "8": {
-      "question": "King Charles I",
-      "exp": "was tried, convicted, and executed for high treason in 1649 during the",
-      "option_1": "War of the Roses",
-      "option_2": "English Civil War",
-      "right": "English Civil War",
-      "subj": "History"
-    },
-    "9": {
-      "question": "English Civil War",
-      "exp": "saw fighting between Parliamentarians, known as Roundheads, and Royalists, known as ",
-      "option_1": "Baldheads",
-      "option_2": "Cavaliers",
-      "right": "Cavaliers",
-      "subj": "History"
-    },
-    "10": {
-      "question": "Cavaliers",
-      "exp": "are an NBA team in the city of",
-      "option_1": "Wilmington",
-      "option_2": "Cleveland",
-      "right": "Cleveland",
-      "subj": "Sports"
-    },
-    "11": {
-      "question": "Cleveland",
-      "exp": "is where you'd go to see the",
-      "option_1": "Basketball Hall of Fame",
-      "option_2": "Rock and Roll Hall of Fame",
-      "right": "Rock and Roll Hall of Fame",
-      "subj": "Sports"
-    },
-    "12": {
-      "question": "Rock and Roll Hall of Fame",
-      "exp": "was designed by the famous architect",
-      "option_1": "W.E. Fraser",
-      "option_2": "I. M. Pei",
-      "right": "I. M. Pei",
-      "subj": "Sports"
-    }
-  },
   "409": {
     "1": {
       "question": "Joe Exotic",
@@ -195,6 +96,106 @@
       "option_2": "Khuzestan Accord",
       "right": "Taif Agreement",
       "subj": "History"
+    }
+  },
+  
+  "410": {
+    "1": {
+      "question": "Circle of Life",
+      "exp": "is the opening number to the musical",
+      "option_1": "Mulan",
+      "option_2": "The Lion King",
+      "right": "The Lion King",
+      "subj": "Music",
+      "author": "Did you connect everything?"
+    },
+    "2": {
+      "question": "The Lion King",
+      "exp": "has the character",
+      "option_1": "Bonazi",
+      "option_2": "Simba",
+      "right": "Simba",
+      "subj": "Leisure"
+    },
+    "3": {
+      "question": "Simba",
+      "exp": "in the 1994 film was voiced as an adult by",
+      "option_1": "Matthew Broderick",
+      "option_2": "Matthew Modine",
+      "right": "Matthew Broderick",
+      "subj": "Leisure"
+    },
+    "4": {
+      "question": "Matthew Broderick",
+      "exp": "starred as the title character in",
+      "option_1": "Bad Boy!",
+      "option_2": "Ferris Bueller's Day Off",
+      "right": "Ferris Bueller's Day Off",
+      "subj": "Leisure"
+    },
+    "5": {
+      "question": "Ferris Bueller's Day Off",
+      "exp": "features many Chicago landmarks, including",
+      "option_1": "Mount Rushmore",
+      "option_2": "Wrigley Field",
+      "right": "Wrigley Field",
+      "subj": "Leisure"
+    },
+    "6": {
+      "question": "Wrigley Field",
+      "exp": "saw many players over time, including",
+      "option_1": "Mike Ditka",
+      "option_2": "Sammy Sosa",
+      "right": "Sammy Sosa",
+      "subj": "Sports"
+    },
+    "7": {
+      "question": "Sammy Sosa",
+      "exp": "was born in the",
+      "option_1": "Costa Rica",
+      "option_2": "Dominican Republic",
+      "right": "Dominican Republic",
+      "subj": "Language"
+    },
+    "8": {
+      "question": "Dominican Republic",
+      "exp": "is where you'd find the city of",
+      "option_1": "Del Brisattos",
+      "option_2": "Higüey",
+      "right": "Higüey",
+      "subj": "Geography"
+    },
+    "9": {
+      "question": "Higüey",
+      "exp": "has an economy based on many types of tropical agriculture, including",
+      "option_1": "Cacao",
+      "option_2": "Manaus",
+      "right": "Cacao",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "Cacao",
+      "exp": "has its linguistic roots in Aztecan, or",
+      "option_1": "Quecala",
+      "option_2": "Nahuatl ",
+      "right": "Nahuatl ",
+      "subj": "Language"
+    },
+    "11": {
+      "question": "Nahuatl ",
+      "exp": "is native to modern-day",
+      "option_1": "Portugal",
+      "option_2": "Mexico",
+      "right": "Mexico",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Mexico",
+      "exp": "is home to the legendary soccer (futbol) player",
+      "option_1": "Hugo Sánchez",
+      "option_2": "Diego Maradona",
+      "right": "Hugo Sánchez",
+      "subj": "Sports"
     }
   }
 }
