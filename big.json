@@ -1,104 +1,4 @@
-{  
-  "409": {
-    "1": {
-      "question": "Joe Exotic",
-      "exp": "is nicknamed 'Tiger King' which starts with",
-      "option_1": "Bear",
-      "option_2": "Tiger",
-      "right": "Tiger",
-      "subj": "Pop",
-      "author": ""
-    },
-    "2": {
-      "question": "Tiger",
-      "exp": "plays a central role in the 2001 novel",
-      "option_1": "On Troubled Shoulders",
-      "option_2": "Life of Pi",
-      "right": "Life of Pi",
-      "subj": "Literature"
-    },
-    "3": {
-      "question": "Life of Pi",
-      "exp": "was written by",
-      "option_1": "Ian Englebard",
-      "option_2": "Yann Martel",
-      "right": "Yann Martel",
-      "subj": "Literature"
-    },
-    "4": {
-      "question": "Yann Martel",
-      "exp": "wrote 'Life of Pi,' which was adapted into a 2012 film directed by",
-      "option_1": "Ang Lee",
-      "option_2": "David Mukarjee",
-      "right": "Ang Lee",
-      "subj": "Leisure"
-    },
-    "5": {
-      "question": "Ang Lee",
-      "exp": "is a filmmaker from",
-      "option_1": "Taiwan",
-      "option_2": "Korea",
-      "right": "Taiwan",
-      "subj": "Language"
-    },
-    "6": {
-      "question": "Taiwan",
-      "exp": "is home to the large city",
-      "option_1": "Hunan",
-      "option_2": "Kaohsiung",
-      "right": "Kaohsiung",
-      "subj": "Geography"
-    },
-    "7": {
-      "question": "Kaohsiung",
-      "exp": "is on the",
-      "option_1": "Coast",
-      "option_2": "Landlocked",
-      "right": "Coast",
-      "subj": "Geography"
-    },
-    "8": {
-      "question": "Coast",
-      "exp": "Guard, in movie form:",
-      "option_1": "The Watchtower",
-      "option_2": "The Guardian",
-      "right": "The Guardian",
-      "subj": "Leisure"
-    },
-    "9": {
-      "question": "The Guardian",
-      "exp": "stars Kevin Costner and",
-      "option_1": "Ashton Kutcher",
-      "option_2": "Christian Bale",
-      "right": "Ashton Kutcher",
-      "subj": "Leisure"
-    },
-    "10": {
-      "question": "Ashton Kutcher",
-      "exp": "portrayed Michael Kelso in a show about the",
-      "option_1": "60s",
-      "option_2": "70s",
-      "right": "70s",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "70s",
-      "exp": "saw the beginning of the",
-      "option_1": "Geraldine Ferraro Lost",
-      "option_2": "Lebanese Civil War",
-      "right": "Lebanese Civil War",
-      "subj": "History"
-    },
-    "12": {
-      "question": "Lebanese Civil War",
-      "exp": "officially came to an end with the",
-      "option_1": "Taif Agreement",
-      "option_2": "Khuzestan Accord",
-      "right": "Taif Agreement",
-      "subj": "History"
-    }
-  },
-  
+{    
   "410": {
     "1": {
       "question": "Circle of Life",
@@ -196,6 +96,106 @@
       "option_2": "Diego Maradona",
       "right": "Hugo Sánchez",
       "subj": "Sports"
+    }
+  },
+  
+  "411": {
+    "1": {
+      "question": "Steve Harvey",
+      "exp": "is the host of",
+      "option_1": "Family Feud",
+      "option_2": "Jeopardy!",
+      "right": "Family Feud",
+      "subj": "Leisure",
+      "author": "All films lead to Joe Biden."
+    },
+    "2": {
+      "question": "Family Feud",
+      "exp": "was originally hosted by",
+      "option_1": "Richard Dworkin",
+      "option_2": "Richard Dawson",
+      "right": "Richard Dawson",
+      "subj": "History"
+    },
+    "3": {
+      "question": "Richard Dawson",
+      "exp": "was well known for playing",
+      "option_1": "Captain Peter Sarros",
+      "option_2": "Corporal Peter Newkirk",
+      "right": "Corporal Peter Newkirk",
+      "subj": "Leisure"
+    },
+    "4": {
+      "question": "Corporal Peter Newkirk",
+      "exp": "was a character in the show",
+      "option_1": "M*A*S*H",
+      "option_2": "Hogan's Heroes",
+      "right": "Hogan's Heroes",
+      "subj": "Leisure"
+    },
+    "5": {
+      "question": "Hogan's Heroes",
+      "exp": "is set in",
+      "option_1": "Nazi Germany",
+      "option_2": "Vietnam",
+      "right": "Nazi Germany",
+      "subj": "Leisure"
+    },
+    "6": {
+      "question": "Nazi Germany",
+      "exp": "is the setting of the film",
+      "option_1": "Inglourious Basterds",
+      "option_2": "Random Hearts",
+      "right": "Inglourious Basterds",
+      "subj": "Leisure"
+    },
+    "7": {
+      "question": "Inglourious Basterds",
+      "exp": "features the haunting",
+      "option_1": "Daniella Brulla",
+      "option_2": "Christoph Waltz",
+      "right": "Christoph Waltz",
+      "subj": "Leisure"
+    },
+    "8": {
+      "question": "Christoph Waltz",
+      "exp": "plays the villain in James Bond",
+      "option_1": "No Time to Die",
+      "option_2": "No Time to Cry",
+      "right": "No Time to Die",
+      "subj": "Leisure"
+    },
+    "9": {
+      "question": "No Time to Die",
+      "exp": "was released in",
+      "option_1": "2001",
+      "option_2": "2021",
+      "right": "2021",
+      "subj": "Leisure"
+    },
+    "10": {
+      "question": "2021",
+      "exp": "saw the inauguration of",
+      "option_1": "Joe Biden",
+      "option_2": "Barack Obama",
+      "right": "Joe Biden",
+      "subj": "Politics"
+    },
+    "11": {
+      "question": "Joe Biden",
+      "exp": "was a United States Senator from",
+      "option_1": "Iowa",
+      "option_2": "Delaware",
+      "right": "Delaware",
+      "subj": "Politics"
+    },
+    "12": {
+      "question": "Delaware",
+      "exp": "is where you might go to visit",
+      "option_1": "Spartanburg",
+      "option_2": "Rehoboth Beach",
+      "right": "Rehoboth Beach",
+      "subj": "Geography"
     }
   }
 }
