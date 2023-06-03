@@ -1,104 +1,4 @@
-{    
-  "410": {
-    "1": {
-      "question": "Circle of Life",
-      "exp": "is the opening number to the musical",
-      "option_1": "Mulan",
-      "option_2": "The Lion King",
-      "right": "The Lion King",
-      "subj": "Music",
-      "author": "Did you connect everything?"
-    },
-    "2": {
-      "question": "The Lion King",
-      "exp": "has the character",
-      "option_1": "Bonazi",
-      "option_2": "Simba",
-      "right": "Simba",
-      "subj": "Leisure"
-    },
-    "3": {
-      "question": "Simba",
-      "exp": "in the 1994 film was voiced as an adult by",
-      "option_1": "Matthew Broderick",
-      "option_2": "Matthew Modine",
-      "right": "Matthew Broderick",
-      "subj": "Leisure"
-    },
-    "4": {
-      "question": "Matthew Broderick",
-      "exp": "starred as the title character in",
-      "option_1": "Bad Boy!",
-      "option_2": "Ferris Bueller's Day Off",
-      "right": "Ferris Bueller's Day Off",
-      "subj": "Leisure"
-    },
-    "5": {
-      "question": "Ferris Bueller's Day Off",
-      "exp": "features many Chicago landmarks, including",
-      "option_1": "Mount Rushmore",
-      "option_2": "Wrigley Field",
-      "right": "Wrigley Field",
-      "subj": "Leisure"
-    },
-    "6": {
-      "question": "Wrigley Field",
-      "exp": "saw many players over time, including",
-      "option_1": "Mike Ditka",
-      "option_2": "Sammy Sosa",
-      "right": "Sammy Sosa",
-      "subj": "Sports"
-    },
-    "7": {
-      "question": "Sammy Sosa",
-      "exp": "was born in the",
-      "option_1": "Costa Rica",
-      "option_2": "Dominican Republic",
-      "right": "Dominican Republic",
-      "subj": "Language"
-    },
-    "8": {
-      "question": "Dominican Republic",
-      "exp": "is where you'd find the city of",
-      "option_1": "Del Brisattos",
-      "option_2": "Higüey",
-      "right": "Higüey",
-      "subj": "Geography"
-    },
-    "9": {
-      "question": "Higüey",
-      "exp": "has an economy based on many types of tropical agriculture, including",
-      "option_1": "Cacao",
-      "option_2": "Manaus",
-      "right": "Cacao",
-      "subj": "Geography"
-    },
-    "10": {
-      "question": "Cacao",
-      "exp": "has its linguistic roots in Aztecan, or",
-      "option_1": "Quecala",
-      "option_2": "Nahuatl ",
-      "right": "Nahuatl ",
-      "subj": "Language"
-    },
-    "11": {
-      "question": "Nahuatl ",
-      "exp": "is native to modern-day",
-      "option_1": "Portugal",
-      "option_2": "Mexico",
-      "right": "Mexico",
-      "subj": "History"
-    },
-    "12": {
-      "question": "Mexico",
-      "exp": "is home to the legendary soccer (futbol) player",
-      "option_1": "Hugo Sánchez",
-      "option_2": "Diego Maradona",
-      "right": "Hugo Sánchez",
-      "subj": "Sports"
-    }
-  },
-  
+{      
   "411": {
     "1": {
       "question": "Steve Harvey",
@@ -196,6 +96,107 @@
       "option_2": "Rehoboth Beach",
       "right": "Rehoboth Beach",
       "subj": "Geography"
+    }
+  },
+  
+  
+  "412": {
+    "1": {
+      "question": "José Mourinho",
+      "exp": "is from",
+      "option_1": "Mexico",
+      "option_2": "Portugal",
+      "right": "Portugal",
+      "subj": "Sports",
+      "author": "Soccer or football?"
+    },
+    "2": {
+      "question": "Portugal",
+      "exp": "is also home to the soccer player",
+      "option_1": "Bruno Fernandes",
+      "option_2": "Alvaro Morata",
+      "right": "Bruno Fernandes",
+      "subj": "Sports"
+    },
+    "3": {
+      "question": "Bruno Fernandes",
+      "exp": "plays for",
+      "option_1": "Manchester City",
+      "option_2": "Manchester United",
+      "right": "Manchester United",
+      "subj": "Sports"
+    },
+    "4": {
+      "question": "Manchester United",
+      "exp": "was formerly coached by the highly praised",
+      "option_1": "Ole Gunnar Solskjær",
+      "option_2": "Arsène Wang",
+      "right": "Ole Gunnar Solskjær",
+      "subj": "Sports"
+    },
+    "5": {
+      "question": "Ole Gunnar Solskjær",
+      "exp": "is from",
+      "option_1": "Norway",
+      "option_2": "Iceland",
+      "right": "Norway",
+      "subj": "Sports"
+    },
+    "6": {
+      "question": "Norway",
+      "exp": "is home to the soccer player",
+      "option_1": "Erling Haaland",
+      "option_2": "Dušan Vlahović",
+      "right": "Erling Haaland",
+      "subj": "Sports"
+    },
+    "7": {
+      "question": "Erling Haaland",
+      "exp": "played for",
+      "option_1": "Borussia Dortmund",
+      "option_2": "Bochum",
+      "right": "Borussia Dortmund",
+      "subj": "Sports"
+    },
+    "8": {
+      "question": "Borussia Dortmund",
+      "exp": "is in the",
+      "option_1": "Roshn Saudi League ",
+      "option_2": "Bundesliga",
+      "right": "Bundesliga",
+      "subj": "Sports"
+    },
+    "9": {
+      "question": "Bundesliga",
+      "exp": "was home to the player",
+      "option_1": "Michael Schumacher",
+      "option_2": "Toni Schumacher",
+      "right": "Toni Schumacher",
+      "subj": "Sports"
+    },
+    "10": {
+      "question": "Toni Schumacher",
+      "exp": "controversially collided with French defender",
+      "option_1": "Ivo Rudic",
+      "option_2": "Patrick Battiston",
+      "right": "Patrick Battiston",
+      "subj": "Sports"
+    },
+    "11": {
+      "question": "Patrick Battiston",
+      "exp": "played for",
+      "option_1": "England",
+      "option_2": "France",
+      "right": "France",
+      "subj": "Sports"
+    },
+    "12": {
+      "question": "France",
+      "exp": "is home to Paris Saint Germain, a team you'd support if you for any reason decided to support",
+      "option_1": "Lionel Messi",
+      "option_2": "Lukaku",
+      "right": "Lionel Messi",
+      "subj": "Sports"
     }
   }
 }
