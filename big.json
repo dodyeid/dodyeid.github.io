@@ -198,5 +198,207 @@
       "right": "Lionel Messi",
       "subj": "Sports"
     }
+  },
+  
+  
+  "413": {
+    "1": {
+      "question": "José Mourinho",
+      "exp": "is from",
+      "option_1": "Mexico",
+      "option_2": "Portugal",
+      "right": "Portugal",
+      "subj": "Sports",
+      "author": "Soccer or football?"
+    },
+    "2": {
+      "question": "Portugal",
+      "exp": "is also home to the soccer player",
+      "option_1": "Bruno Fernandes",
+      "option_2": "Alvaro Morata",
+      "right": "Bruno Fernandes",
+      "subj": "Sports"
+    },
+    "3": {
+      "question": "Bruno Fernandes",
+      "exp": "plays for",
+      "option_1": "Manchester City",
+      "option_2": "Manchester United",
+      "right": "Manchester United",
+      "subj": "Sports"
+    },
+    "4": {
+      "question": "Manchester United",
+      "exp": "was formerly coached by the highly praised",
+      "option_1": "Ole Gunnar Solskjær",
+      "option_2": "Arsène Wang",
+      "right": "Ole Gunnar Solskjær",
+      "subj": "Sports"
+    },
+    "5": {
+      "question": "Ole Gunnar Solskjær",
+      "exp": "is from",
+      "option_1": "Norway",
+      "option_2": "Iceland",
+      "right": "Norway",
+      "subj": "Sports"
+    },
+    "6": {
+      "question": "Norway",
+      "exp": "is home to the soccer player",
+      "option_1": "Erling Haaland",
+      "option_2": "Dušan Vlahović",
+      "right": "Erling Haaland",
+      "subj": "Sports"
+    },
+    "7": {
+      "question": "Erling Haaland",
+      "exp": "played for",
+      "option_1": "Borussia Dortmund",
+      "option_2": "Bochum",
+      "right": "Borussia Dortmund",
+      "subj": "Sports"
+    },
+    "8": {
+      "question": "Borussia Dortmund",
+      "exp": "is in the",
+      "option_1": "Roshn Saudi League ",
+      "option_2": "Bundesliga",
+      "right": "Bundesliga",
+      "subj": "Sports"
+    },
+    "9": {
+      "question": "Bundesliga",
+      "exp": "was home to the player",
+      "option_1": "Michael Schumacher",
+      "option_2": "Toni Schumacher",
+      "right": "Toni Schumacher",
+      "subj": "Sports"
+    },
+    "10": {
+      "question": "Toni Schumacher",
+      "exp": "controversially collided with French defender",
+      "option_1": "Ivo Rudic",
+      "option_2": "Patrick Battiston",
+      "right": "Patrick Battiston",
+      "subj": "Sports"
+    },
+    "11": {
+      "question": "Patrick Battiston",
+      "exp": "played for",
+      "option_1": "England",
+      "option_2": "France",
+      "right": "France",
+      "subj": "Sports"
+    },
+    "12": {
+      "question": "France",
+      "exp": "is home to Paris Saint Germain, a team you'd support if you for any reason decided to support",
+      "option_1": "Lionel Messi",
+      "option_2": "Lukaku",
+      "right": "Lionel Messi",
+      "subj": "Sports"
+    }
+  },
+  
+  
+  "414": {
+    "1": {
+      "question": "José Mourinho",
+      "exp": "is from",
+      "option_1": "Mexico",
+      "option_2": "Portugal",
+      "right": "Portugal",
+      "subj": "Sports",
+      "author": "Soccer or football?"
+    },
+    "2": {
+      "question": "Portugal",
+      "exp": "is also home to the soccer player",
+      "option_1": "Bruno Fernandes",
+      "option_2": "Alvaro Morata",
+      "right": "Bruno Fernandes",
+      "subj": "Sports"
+    },
+    "3": {
+      "question": "Bruno Fernandes",
+      "exp": "plays for",
+      "option_1": "Manchester City",
+      "option_2": "Manchester United",
+      "right": "Manchester United",
+      "subj": "Sports"
+    },
+    "4": {
+      "question": "Manchester United",
+      "exp": "was formerly coached by the highly praised",
+      "option_1": "Ole Gunnar Solskjær",
+      "option_2": "Arsène Wang",
+      "right": "Ole Gunnar Solskjær",
+      "subj": "Sports"
+    },
+    "5": {
+      "question": "Ole Gunnar Solskjær",
+      "exp": "is from",
+      "option_1": "Norway",
+      "option_2": "Iceland",
+      "right": "Norway",
+      "subj": "Sports"
+    },
+    "6": {
+      "question": "Norway",
+      "exp": "is home to the soccer player",
+      "option_1": "Erling Haaland",
+      "option_2": "Dušan Vlahović",
+      "right": "Erling Haaland",
+      "subj": "Sports"
+    },
+    "7": {
+      "question": "Erling Haaland",
+      "exp": "played for",
+      "option_1": "Borussia Dortmund",
+      "option_2": "Bochum",
+      "right": "Borussia Dortmund",
+      "subj": "Sports"
+    },
+    "8": {
+      "question": "Borussia Dortmund",
+      "exp": "is in the",
+      "option_1": "Roshn Saudi League ",
+      "option_2": "Bundesliga",
+      "right": "Bundesliga",
+      "subj": "Sports"
+    },
+    "9": {
+      "question": "Bundesliga",
+      "exp": "was home to the player",
+      "option_1": "Michael Schumacher",
+      "option_2": "Toni Schumacher",
+      "right": "Toni Schumacher",
+      "subj": "Sports"
+    },
+    "10": {
+      "question": "Toni Schumacher",
+      "exp": "controversially collided with French defender",
+      "option_1": "Ivo Rudic",
+      "option_2": "Patrick Battiston",
+      "right": "Patrick Battiston",
+      "subj": "Sports"
+    },
+    "11": {
+      "question": "Patrick Battiston",
+      "exp": "played for",
+      "option_1": "England",
+      "option_2": "France",
+      "right": "France",
+      "subj": "Sports"
+    },
+    "12": {
+      "question": "France",
+      "exp": "is home to Paris Saint Germain, a team you'd support if you for any reason decided to support",
+      "option_1": "Lionel Messi",
+      "option_2": "Lukaku",
+      "right": "Lionel Messi",
+      "subj": "Sports"
+    }
   }
 }
