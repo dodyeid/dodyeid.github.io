@@ -1,105 +1,4 @@
-{      
-  "411": {
-    "1": {
-      "question": "Steve Harvey",
-      "exp": "is the host of",
-      "option_1": "Family Feud",
-      "option_2": "Jeopardy!",
-      "right": "Family Feud",
-      "subj": "Leisure",
-      "author": "All films lead to Joe Biden."
-    },
-    "2": {
-      "question": "Family Feud",
-      "exp": "was originally hosted by",
-      "option_1": "Richard Dworkin",
-      "option_2": "Richard Dawson",
-      "right": "Richard Dawson",
-      "subj": "History"
-    },
-    "3": {
-      "question": "Richard Dawson",
-      "exp": "was well known for playing",
-      "option_1": "Captain Peter Sarros",
-      "option_2": "Corporal Peter Newkirk",
-      "right": "Corporal Peter Newkirk",
-      "subj": "Leisure"
-    },
-    "4": {
-      "question": "Corporal Peter Newkirk",
-      "exp": "was a character in the show",
-      "option_1": "M*A*S*H",
-      "option_2": "Hogan's Heroes",
-      "right": "Hogan's Heroes",
-      "subj": "Leisure"
-    },
-    "5": {
-      "question": "Hogan's Heroes",
-      "exp": "is set in",
-      "option_1": "Nazi Germany",
-      "option_2": "Vietnam",
-      "right": "Nazi Germany",
-      "subj": "Leisure"
-    },
-    "6": {
-      "question": "Nazi Germany",
-      "exp": "is the setting of the film",
-      "option_1": "Inglourious Basterds",
-      "option_2": "Random Hearts",
-      "right": "Inglourious Basterds",
-      "subj": "Leisure"
-    },
-    "7": {
-      "question": "Inglourious Basterds",
-      "exp": "features the haunting",
-      "option_1": "Daniella Brulla",
-      "option_2": "Christoph Waltz",
-      "right": "Christoph Waltz",
-      "subj": "Leisure"
-    },
-    "8": {
-      "question": "Christoph Waltz",
-      "exp": "plays the villain in James Bond",
-      "option_1": "No Time to Die",
-      "option_2": "No Time to Cry",
-      "right": "No Time to Die",
-      "subj": "Leisure"
-    },
-    "9": {
-      "question": "No Time to Die",
-      "exp": "was released in",
-      "option_1": "2001",
-      "option_2": "2021",
-      "right": "2021",
-      "subj": "Leisure"
-    },
-    "10": {
-      "question": "2021",
-      "exp": "saw the inauguration of",
-      "option_1": "Joe Biden",
-      "option_2": "Barack Obama",
-      "right": "Joe Biden",
-      "subj": "Politics"
-    },
-    "11": {
-      "question": "Joe Biden",
-      "exp": "was a United States Senator from",
-      "option_1": "Iowa",
-      "option_2": "Delaware",
-      "right": "Delaware",
-      "subj": "Politics"
-    },
-    "12": {
-      "question": "Delaware",
-      "exp": "is where you might go to visit",
-      "option_1": "Spartanburg",
-      "option_2": "Rehoboth Beach",
-      "right": "Rehoboth Beach",
-      "subj": "Geography"
-    }
-  },
-  
-  
+{        
   "412": {
     "1": {
       "question": "José Mourinho",
@@ -201,204 +100,103 @@
   },
   
   
-  "431": {
+  "413": {
     "1": {
-      "question": "José Mourinho",
-      "exp": "is from",
-      "option_1": "Mexico",
-      "option_2": "Portugal",
-      "right": "Portugal",
-      "subj": "Sports",
-      "author": "Soccer or football?"
+      "question": "The Great Gatsby",
+      "exp": "is a novel by",
+      "option_1": "Donna Tartt",
+      "option_2": "F. Scott Fitzgerald",
+      "right": "F. Scott Fitzgerald",
+      "subj": "Literature",
+      "author": "Book worms are you here?"
     },
     "2": {
-      "question": "Portugal",
-      "exp": "is also home to the soccer player",
-      "option_1": "Bruno Fernandes",
-      "option_2": "Alvaro Morata",
-      "right": "Bruno Fernandes",
-      "subj": "Sports"
+      "question": "F. Scott Fitzgerald",
+      "exp": "also wrote",
+      "option_1": "Gone with the Wind",
+      "option_2": "Tender is the Night",
+      "right": "Tender is the Night",
+      "subj": "Literature"
     },
     "3": {
-      "question": "Bruno Fernandes",
-      "exp": "plays for",
-      "option_1": "Manchester City",
-      "option_2": "Manchester United",
-      "right": "Manchester United",
-      "subj": "Sports"
+      "question": "Tender is the Night",
+      "exp": "is a 1934 novel that chronicles the rise and fall of Dick Diver, who succumbs to",
+      "option_1": "Alcoholism",
+      "option_2": "Dengue Fever",
+      "right": "Alcoholism",
+      "subj": "Literature"
     },
     "4": {
-      "question": "Manchester United",
-      "exp": "was formerly coached by the highly praised",
-      "option_1": "Ole Gunnar Solskjær",
-      "option_2": "Arsène Wang",
-      "right": "Ole Gunnar Solskjær",
-      "subj": "Sports"
+      "question": "Alcoholism",
+      "exp": "is a prominent motif in the novel",
+      "option_1": "Their Eyes Were Watching God",
+      "option_2": "The Sun Also Rises",
+      "right": "The Sun Also Rises",
+      "subj": "Literature"
     },
     "5": {
-      "question": "Ole Gunnar Solskjær",
-      "exp": "is from",
-      "option_1": "Norway",
-      "option_2": "Iceland",
-      "right": "Norway",
-      "subj": "Sports"
+      "question": "The Sun Also Rises",
+      "exp": "is a 1926 novel that portrays American and British expats who travel from Paris to Pamplona to watch the running of the bulls and bullfights by author",
+      "option_1": "Ernest Hemingway",
+      "option_2": "John Crestillo",
+      "right": "Ernest Hemingway",
+      "subj": "Literature"
     },
     "6": {
-      "question": "Norway",
-      "exp": "is home to the soccer player",
-      "option_1": "Erling Haaland",
-      "option_2": "Dušan Vlahović",
-      "right": "Erling Haaland",
-      "subj": "Sports"
+      "question": "Ernest Hemingway",
+      "exp": "spent his final days before tragically committing suicide in Ketchum,",
+      "option_1": "Idaho",
+      "option_2": "Alaska",
+      "right": "Idaho",
+      "subj": "Literature"
     },
     "7": {
-      "question": "Erling Haaland",
-      "exp": "played for",
-      "option_1": "Borussia Dortmund",
-      "option_2": "Bochum",
-      "right": "Borussia Dortmund",
-      "subj": "Sports"
+      "question": "Idaho",
+      "exp": ", and more specifically Sandpoint, is the home of Marilynne Robinson and the setting of her 1980 novel",
+      "option_1": "Housekeeping",
+      "option_2": "City of Thieves",
+      "right": "Housekeeping",
+      "subj": "Literature"
     },
     "8": {
-      "question": "Borussia Dortmund",
-      "exp": "is in the",
-      "option_1": "Roshn Saudi League ",
-      "option_2": "Bundesliga",
-      "right": "Bundesliga",
-      "subj": "Sports"
+      "question": "Housekeeping",
+      "exp": "is a 'haunting, poetic story, drowned in water and light, about three generations of women' by",
+      "option_1": "Marilynne Robinson",
+      "option_2": "Anthony Doerr",
+      "right": "Marilynne Robinson",
+      "subj": "Literature"
     },
     "9": {
-      "question": "Bundesliga",
-      "exp": "was home to the player",
-      "option_1": "Michael Schumacher",
-      "option_2": "Toni Schumacher",
-      "right": "Toni Schumacher",
-      "subj": "Sports"
+      "question": "Marilynne Robinson",
+      "exp": "also wrote",
+      "option_1": "Gilead",
+      "option_2": "Cana",
+      "right": "Gilead",
+      "subj": "Literature"
     },
     "10": {
-      "question": "Toni Schumacher",
-      "exp": "controversially collided with French defender",
-      "option_1": "Ivo Rudic",
-      "option_2": "Patrick Battiston",
-      "right": "Patrick Battiston",
-      "subj": "Sports"
+      "question": "Gilead",
+      "exp": "first appears in the Book of",
+      "option_1": "Corinth",
+      "option_2": "Genesis",
+      "right": "Genesis",
+      "subj": "Literature"
     },
     "11": {
-      "question": "Patrick Battiston",
-      "exp": "played for",
-      "option_1": "England",
-      "option_2": "France",
-      "right": "France",
-      "subj": "Sports"
+      "question": "Genesis",
+      "exp": "features the story of Cain and Abel, which is frequently alluded to in the novel",
+      "option_1": "Seventh Son",
+      "option_2": "East of Eden",
+      "right": "East of Eden",
+      "subj": "Literature"
     },
     "12": {
-      "question": "France",
-      "exp": "is home to Paris Saint Germain, a team you'd support if you for any reason decided to support",
-      "option_1": "Lionel Messi",
-      "option_2": "Lukaku",
-      "right": "Lionel Messi",
-      "subj": "Sports"
-    }
-  },
-  
-  
-  "414": {
-    "1": {
-      "question": "José Mourinho",
-      "exp": "is from",
-      "option_1": "Mexico",
-      "option_2": "Portugal",
-      "right": "Portugal",
-      "subj": "Sports",
-      "author": "Soccer or football?"
-    },
-    "2": {
-      "question": "Portugal",
-      "exp": "is also home to the soccer player",
-      "option_1": "Bruno Fernandes",
-      "option_2": "Alvaro Morata",
-      "right": "Bruno Fernandes",
-      "subj": "Sports"
-    },
-    "3": {
-      "question": "Bruno Fernandes",
-      "exp": "plays for",
-      "option_1": "Manchester City",
-      "option_2": "Manchester United",
-      "right": "Manchester United",
-      "subj": "Sports"
-    },
-    "4": {
-      "question": "Manchester United",
-      "exp": "was formerly coached by the highly praised",
-      "option_1": "Ole Gunnar Solskjær",
-      "option_2": "Arsène Wang",
-      "right": "Ole Gunnar Solskjær",
-      "subj": "Sports"
-    },
-    "5": {
-      "question": "Ole Gunnar Solskjær",
-      "exp": "is from",
-      "option_1": "Norway",
-      "option_2": "Iceland",
-      "right": "Norway",
-      "subj": "Sports"
-    },
-    "6": {
-      "question": "Norway",
-      "exp": "is home to the soccer player",
-      "option_1": "Erling Haaland",
-      "option_2": "Dušan Vlahović",
-      "right": "Erling Haaland",
-      "subj": "Sports"
-    },
-    "7": {
-      "question": "Erling Haaland",
-      "exp": "played for",
-      "option_1": "Borussia Dortmund",
-      "option_2": "Bochum",
-      "right": "Borussia Dortmund",
-      "subj": "Sports"
-    },
-    "8": {
-      "question": "Borussia Dortmund",
-      "exp": "is in the",
-      "option_1": "Roshn Saudi League ",
-      "option_2": "Bundesliga",
-      "right": "Bundesliga",
-      "subj": "Sports"
-    },
-    "9": {
-      "question": "Bundesliga",
-      "exp": "was home to the player",
-      "option_1": "Michael Schumacher",
-      "option_2": "Toni Schumacher",
-      "right": "Toni Schumacher",
-      "subj": "Sports"
-    },
-    "10": {
-      "question": "Toni Schumacher",
-      "exp": "controversially collided with French defender",
-      "option_1": "Ivo Rudic",
-      "option_2": "Patrick Battiston",
-      "right": "Patrick Battiston",
-      "subj": "Sports"
-    },
-    "11": {
-      "question": "Patrick Battiston",
-      "exp": "played for",
-      "option_1": "England",
-      "option_2": "France",
-      "right": "France",
-      "subj": "Sports"
-    },
-    "12": {
-      "question": "France",
-      "exp": "is home to Paris Saint Germain, a team you'd support if you for any reason decided to support",
-      "option_1": "Lionel Messi",
-      "option_2": "Lukaku",
-      "right": "Lionel Messi",
-      "subj": "Sports"
+      "question": "East of Eden",
+      "exp": "is a novel about the Trask and Hamilton families in California's Salinas Valley that explores themes of good and evil, fate and free will, and the relationship between father and sons. It is written by",
+      "option_1": "John Steinbeck",
+      "option_2": "William Faulkner",
+      "right": "John Steinbeck",
+      "subj": "Literature"
     }
   }
 }
