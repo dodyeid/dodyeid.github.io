@@ -1,105 +1,4 @@
-{        
-  "412": {
-    "1": {
-      "question": "José Mourinho",
-      "exp": "is from",
-      "option_1": "Mexico",
-      "option_2": "Portugal",
-      "right": "Portugal",
-      "subj": "Sports",
-      "author": "Soccer or football?"
-    },
-    "2": {
-      "question": "Portugal",
-      "exp": "is also home to the soccer player",
-      "option_1": "Bruno Fernandes",
-      "option_2": "Alvaro Morata",
-      "right": "Bruno Fernandes",
-      "subj": "Sports"
-    },
-    "3": {
-      "question": "Bruno Fernandes",
-      "exp": "plays for",
-      "option_1": "Manchester City",
-      "option_2": "Manchester United",
-      "right": "Manchester United",
-      "subj": "Sports"
-    },
-    "4": {
-      "question": "Manchester United",
-      "exp": "was formerly coached by the highly praised",
-      "option_1": "Ole Gunnar Solskjær",
-      "option_2": "Arsène Wang",
-      "right": "Ole Gunnar Solskjær",
-      "subj": "Sports"
-    },
-    "5": {
-      "question": "Ole Gunnar Solskjær",
-      "exp": "is from",
-      "option_1": "Norway",
-      "option_2": "Iceland",
-      "right": "Norway",
-      "subj": "Sports"
-    },
-    "6": {
-      "question": "Norway",
-      "exp": "is home to the soccer player",
-      "option_1": "Erling Haaland",
-      "option_2": "Dušan Vlahović",
-      "right": "Erling Haaland",
-      "subj": "Sports"
-    },
-    "7": {
-      "question": "Erling Haaland",
-      "exp": "played for",
-      "option_1": "Borussia Dortmund",
-      "option_2": "Bochum",
-      "right": "Borussia Dortmund",
-      "subj": "Sports"
-    },
-    "8": {
-      "question": "Borussia Dortmund",
-      "exp": "is in the",
-      "option_1": "Roshn Saudi League ",
-      "option_2": "Bundesliga",
-      "right": "Bundesliga",
-      "subj": "Sports"
-    },
-    "9": {
-      "question": "Bundesliga",
-      "exp": "was home to the player",
-      "option_1": "Michael Schumacher",
-      "option_2": "Toni Schumacher",
-      "right": "Toni Schumacher",
-      "subj": "Sports"
-    },
-    "10": {
-      "question": "Toni Schumacher",
-      "exp": "controversially collided with French defender",
-      "option_1": "Ivo Rudic",
-      "option_2": "Patrick Battiston",
-      "right": "Patrick Battiston",
-      "subj": "Sports"
-    },
-    "11": {
-      "question": "Patrick Battiston",
-      "exp": "played for",
-      "option_1": "England",
-      "option_2": "France",
-      "right": "France",
-      "subj": "Sports"
-    },
-    "12": {
-      "question": "France",
-      "exp": "is home to Paris Saint Germain, a team you'd support if you for any reason decided to support",
-      "option_1": "Lionel Messi",
-      "option_2": "Lukaku",
-      "right": "Lionel Messi",
-      "subj": "Sports"
-    }
-  },
-  
-  
+{       
   "413": {
     "1": {
       "question": "The Great Gatsby",
@@ -200,103 +99,103 @@
     }
   },
   
-  "423": {
+  "414": {
     "1": {
-      "question": "The Great Gatsby",
-      "exp": "is a novel by",
-      "option_1": "Donna Tartt",
-      "option_2": "F. Scott Fitzgerald",
-      "right": "F. Scott Fitzgerald",
-      "subj": "Literature",
-      "author": "Book worms are you here?"
+      "question": "Denver",
+      "exp": "is home to the",
+      "option_1": "Celtics",
+      "option_2": "Nuggets",
+      "right": "Nuggets",
+      "subj": "Sports",
+      "author": "Are you watching the NBA finals?"
     },
     "2": {
-      "question": "F. Scott Fitzgerald",
-      "exp": "also wrote",
-      "option_1": "Gone with the Wind",
-      "option_2": "Tender is the Night",
-      "right": "Tender is the Night",
-      "subj": "Literature"
+      "question": "Nuggets",
+      "exp": "have the famous player",
+      "option_1": "Nikola Jokić",
+      "option_2": "Gabe Vincent",
+      "right": "Nikola Jokić",
+      "subj": "Sports"
     },
     "3": {
-      "question": "Tender is the Night",
-      "exp": "is a 1934 novel that chronicles the rise and fall of Dick Diver, who succumbs to",
-      "option_1": "Alcoholism",
-      "option_2": "Dengue Fever",
-      "right": "Alcoholism",
-      "subj": "Literature"
+      "question": "Nikola Jokić",
+      "exp": "is from",
+      "option_1": "Croatia",
+      "option_2": "Serbia",
+      "right": "Serbia",
+      "subj": "Language"
     },
     "4": {
-      "question": "Alcoholism",
-      "exp": "is a prominent motif in the novel",
-      "option_1": "Their Eyes Were Watching God",
-      "option_2": "The Sun Also Rises",
-      "right": "The Sun Also Rises",
-      "subj": "Literature"
+      "question": "Serbia",
+      "exp": "is the home country of",
+      "option_1": "Novak Djokovic",
+      "option_2": "Ronald McDoogelberry",
+      "right": "Novak Djokovic",
+      "subj": "Sports"
     },
     "5": {
-      "question": "The Sun Also Rises",
-      "exp": "is a 1926 novel that portrays American and British expats who travel from Paris to Pamplona to watch the running of the bulls and bullfights by author",
-      "option_1": "Ernest Hemingway",
-      "option_2": "John Crestillo",
-      "right": "Ernest Hemingway",
-      "subj": "Literature"
+      "question": "Novak Djokovic",
+      "exp": "plays",
+      "option_1": "Squash",
+      "option_2": "Tennis",
+      "right": "Tennis",
+      "subj": "Sports"
     },
     "6": {
-      "question": "Ernest Hemingway",
-      "exp": "spent his final days before tragically committing suicide in Ketchum,",
-      "option_1": "Idaho",
-      "option_2": "Alaska",
-      "right": "Idaho",
-      "subj": "Literature"
+      "question": "Tennis",
+      "exp": "tournaments are plentiful, and one of the most famous is not 'Wimbleton' but rather",
+      "option_1": "Wimbleton",
+      "option_2": "Wimbledon",
+      "right": "Wimbledon",
+      "subj": "Language"
     },
     "7": {
-      "question": "Idaho",
-      "exp": ", and more specifically Sandpoint, is the home of Marilynne Robinson and the setting of her 1980 novel",
-      "option_1": "Housekeeping",
-      "option_2": "City of Thieves",
-      "right": "Housekeeping",
-      "subj": "Literature"
+      "question": "Wimbledon",
+      "exp": "is held in",
+      "option_1": "Glasgow",
+      "option_2": "London",
+      "right": "London",
+      "subj": "Sports"
     },
     "8": {
-      "question": "Housekeeping",
-      "exp": "is a 'haunting, poetic story, drowned in water and light, about three generations of women' by",
-      "option_1": "Marilynne Robinson",
-      "option_2": "Anthony Doerr",
-      "right": "Marilynne Robinson",
-      "subj": "Literature"
+      "question": "London",
+      "exp": "is where you would go to see",
+      "option_1": "St. Anne's Cathedral",
+      "option_2": "St. Paul's Cathedral",
+      "right": "St. Paul's Cathedral",
+      "subj": "Geography"
     },
     "9": {
-      "question": "Marilynne Robinson",
-      "exp": "also wrote",
-      "option_1": "Gilead",
-      "option_2": "Cana",
-      "right": "Gilead",
-      "subj": "Literature"
+      "question": "St. Paul's Cathedral",
+      "exp": "is named after a man formerly known as",
+      "option_1": "Gaul",
+      "option_2": "Saul",
+      "right": "Saul",
+      "subj": "History"
     },
     "10": {
-      "question": "Gilead",
-      "exp": "first appears in the Book of",
-      "option_1": "Corinth",
-      "option_2": "Genesis",
-      "right": "Genesis",
-      "subj": "Literature"
+      "question": "Saul",
+      "exp": "became Paul on the road to",
+      "option_1": "Damascus",
+      "option_2": "Tunis",
+      "right": "Damascus",
+      "subj": "History"
     },
     "11": {
-      "question": "Genesis",
-      "exp": "features the story of Cain and Abel, which is frequently alluded to in the novel",
-      "option_1": "Seventh Son",
-      "option_2": "East of Eden",
-      "right": "East of Eden",
-      "subj": "Literature"
+      "question": "Damascus",
+      "exp": "is the capital of",
+      "option_1": "Syria",
+      "option_2": "Lebanon",
+      "right": "Syria",
+      "subj": "Geography"
     },
     "12": {
-      "question": "East of Eden",
-      "exp": "is a novel about the Trask and Hamilton families in California's Salinas Valley that explores themes of good and evil, fate and free will, and the relationship between father and sons. It is written by",
-      "option_1": "John Steinbeck",
-      "option_2": "William Faulkner",
-      "right": "John Steinbeck",
-      "subj": "Literature"
+      "question": "Syria",
+      "exp": "is currently led by",
+      "option_1": "Josip Broz Tito",
+      "option_2": "Bashar al-Assad",
+      "right": "Bashar al-Assad",
+      "subj": "Politics"
     }
   }
 }
