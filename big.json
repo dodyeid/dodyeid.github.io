@@ -1,104 +1,4 @@
-{       
-  "413": {
-    "1": {
-      "question": "The Great Gatsby",
-      "exp": "is a novel by",
-      "option_1": "Donna Tartt",
-      "option_2": "F. Scott Fitzgerald",
-      "right": "F. Scott Fitzgerald",
-      "subj": "Literature",
-      "author": "Book worms are you here?"
-    },
-    "2": {
-      "question": "F. Scott Fitzgerald",
-      "exp": "also wrote",
-      "option_1": "Gone with the Wind",
-      "option_2": "Tender is the Night",
-      "right": "Tender is the Night",
-      "subj": "Literature"
-    },
-    "3": {
-      "question": "Tender is the Night",
-      "exp": "is a 1934 novel that chronicles the rise and fall of Dick Diver, who succumbs to",
-      "option_1": "Alcoholism",
-      "option_2": "Dengue Fever",
-      "right": "Alcoholism",
-      "subj": "Literature"
-    },
-    "4": {
-      "question": "Alcoholism",
-      "exp": "is a prominent motif in the novel",
-      "option_1": "Their Eyes Were Watching God",
-      "option_2": "The Sun Also Rises",
-      "right": "The Sun Also Rises",
-      "subj": "Literature"
-    },
-    "5": {
-      "question": "The Sun Also Rises",
-      "exp": "is a 1926 novel that portrays American and British expats who travel from Paris to Pamplona to watch the running of the bulls and bullfights by author",
-      "option_1": "Ernest Hemingway",
-      "option_2": "John Crestillo",
-      "right": "Ernest Hemingway",
-      "subj": "Literature"
-    },
-    "6": {
-      "question": "Ernest Hemingway",
-      "exp": "spent his final days before tragically committing suicide in Ketchum,",
-      "option_1": "Idaho",
-      "option_2": "Alaska",
-      "right": "Idaho",
-      "subj": "Literature"
-    },
-    "7": {
-      "question": "Idaho",
-      "exp": ", and more specifically Sandpoint, is the home of Marilynne Robinson and the setting of her 1980 novel",
-      "option_1": "Housekeeping",
-      "option_2": "City of Thieves",
-      "right": "Housekeeping",
-      "subj": "Literature"
-    },
-    "8": {
-      "question": "Housekeeping",
-      "exp": "is a 'haunting, poetic story, drowned in water and light, about three generations of women' by",
-      "option_1": "Marilynne Robinson",
-      "option_2": "Anthony Doerr",
-      "right": "Marilynne Robinson",
-      "subj": "Literature"
-    },
-    "9": {
-      "question": "Marilynne Robinson",
-      "exp": "also wrote",
-      "option_1": "Gilead",
-      "option_2": "Cana",
-      "right": "Gilead",
-      "subj": "Literature"
-    },
-    "10": {
-      "question": "Gilead",
-      "exp": "first appears in the Book of",
-      "option_1": "Corinth",
-      "option_2": "Genesis",
-      "right": "Genesis",
-      "subj": "Literature"
-    },
-    "11": {
-      "question": "Genesis",
-      "exp": "features the story of Cain and Abel, which is frequently alluded to in the novel",
-      "option_1": "Seventh Son",
-      "option_2": "East of Eden",
-      "right": "East of Eden",
-      "subj": "Literature"
-    },
-    "12": {
-      "question": "East of Eden",
-      "exp": "is a novel about the Trask and Hamilton families in California's Salinas Valley that explores themes of good and evil, fate and free will, and the relationship between father and sons. It is written by",
-      "option_1": "John Steinbeck",
-      "option_2": "William Faulkner",
-      "right": "John Steinbeck",
-      "subj": "Literature"
-    }
-  },
-  
+{    
   "414": {
     "1": {
       "question": "Denver",
@@ -196,6 +96,106 @@
       "option_2": "Bashar al-Assad",
       "right": "Bashar al-Assad",
       "subj": "Politics"
+    }
+  },
+  
+  "415": {
+    "1": {
+      "question": "Denver",
+      "exp": "is home to the American folk band",
+      "option_1": "The Yawpipers",
+      "option_2": "The Lumineers",
+      "right": "The Lumineers",
+      "subj": "Music",
+      "author": "Are you a generalist?"
+    },
+    "2": {
+      "question": "The Lumineers",
+      "exp": "wrote the song",
+      "option_1": "Ophelia",
+      "option_2": "Everybody Knows",
+      "right": "Ophelia",
+      "subj": "Music"
+    },
+    "3": {
+      "question": "Ophelia",
+      "exp": "is a character in Hamlet who dies of",
+      "option_1": "Stabbing",
+      "option_2": "Drowning",
+      "right": "Drowning",
+      "subj": "Literature"
+    },
+    "4": {
+      "question": "Drowning",
+      "exp": "was the unfortunate fate that met",
+      "option_1": "Whitney Houston",
+      "option_2": "Princess Diana",
+      "right": "Whitney Houston",
+      "subj": "History"
+    },
+    "5": {
+      "question": "Whitney Houston",
+      "exp": "created a soul-ballad arrangement of",
+      "option_1": "I Will Always Hear You",
+      "option_2": "I Will Always Love You",
+      "right": "I Will Always Love You",
+      "subj": "Music"
+    },
+    "6": {
+      "question": "I Will Always Love You",
+      "exp": "was originally written by",
+      "option_1": "Tears for Fears",
+      "option_2": "Dolly Parton",
+      "right": "Dolly Parton",
+      "subj": "Music"
+    },
+    "7": {
+      "question": "Dolly Parton",
+      "exp": "starred in the film",
+      "option_1": "60 hours",
+      "option_2": "9 to 5",
+      "right": "9 to 5",
+      "subj": "Pop"
+    },
+    "8": {
+      "question": "9 to 5",
+      "exp": "was released in",
+      "option_1": "1908",
+      "option_2": "1980",
+      "right": "1980",
+      "subj": "History"
+    },
+    "9": {
+      "question": "1980",
+      "exp": "was the year of the election of",
+      "option_1": "Ronald Reagan",
+      "option_2": "Walter Mondale",
+      "right": "Ronald Reagan",
+      "subj": "Politics"
+    },
+    "10": {
+      "question": "Ronald Reagan",
+      "exp": "suffered an unsuccessful assassination attempt at the hands of",
+      "option_1": "Robert Wegman Sr.",
+      "option_2": "John Hinckley Jr.",
+      "right": "John Hinckley Jr.",
+      "subj": "Politics"
+    },
+    "11": {
+      "question": "John Hinckley Jr.",
+      "exp": "tried to kill Reagan to impress",
+      "option_1": "Jodie Foster",
+      "option_2": "Jane Goodall",
+      "right": "Jodie Foster",
+      "subj": "Politics"
+    },
+    "12": {
+      "question": "Jodie Foster",
+      "exp": "received an Academy Award for Best Supporting Actress nomination for her role in",
+      "option_1": "Taxi Driver",
+      "option_2": "Pulp Fiction",
+      "right": "Taxi Driver",
+      "subj": "Leisure"
     }
   }
 }
