@@ -1,104 +1,4 @@
-{      
-  "415": {
-    "1": {
-      "question": "Denver",
-      "exp": "is home to the American folk band",
-      "option_1": "The Yawpipers",
-      "option_2": "The Lumineers",
-      "right": "The Lumineers",
-      "subj": "Music",
-      "author": "Are you a generalist?"
-    },
-    "2": {
-      "question": "The Lumineers",
-      "exp": "wrote the song",
-      "option_1": "Ophelia",
-      "option_2": "Everybody Knows",
-      "right": "Ophelia",
-      "subj": "Music"
-    },
-    "3": {
-      "question": "Ophelia",
-      "exp": "is a character in Hamlet who dies of",
-      "option_1": "Stabbing",
-      "option_2": "Drowning",
-      "right": "Drowning",
-      "subj": "Literature"
-    },
-    "4": {
-      "question": "Drowning",
-      "exp": "was the unfortunate fate that met",
-      "option_1": "Whitney Houston",
-      "option_2": "Princess Diana",
-      "right": "Whitney Houston",
-      "subj": "History"
-    },
-    "5": {
-      "question": "Whitney Houston",
-      "exp": "created a soul-ballad arrangement of",
-      "option_1": "I Will Always Hear You",
-      "option_2": "I Will Always Love You",
-      "right": "I Will Always Love You",
-      "subj": "Music"
-    },
-    "6": {
-      "question": "I Will Always Love You",
-      "exp": "was originally written by",
-      "option_1": "Tears for Fears",
-      "option_2": "Dolly Parton",
-      "right": "Dolly Parton",
-      "subj": "Music"
-    },
-    "7": {
-      "question": "Dolly Parton",
-      "exp": "starred in the film",
-      "option_1": "60 hours",
-      "option_2": "9 to 5",
-      "right": "9 to 5",
-      "subj": "Pop"
-    },
-    "8": {
-      "question": "9 to 5",
-      "exp": "was released in",
-      "option_1": "1908",
-      "option_2": "1980",
-      "right": "1980",
-      "subj": "History"
-    },
-    "9": {
-      "question": "1980",
-      "exp": "was the year of the election of",
-      "option_1": "Ronald Reagan",
-      "option_2": "Walter Mondale",
-      "right": "Ronald Reagan",
-      "subj": "Politics"
-    },
-    "10": {
-      "question": "Ronald Reagan",
-      "exp": "suffered an unsuccessful assassination attempt at the hands of",
-      "option_1": "Robert Wegman Sr.",
-      "option_2": "John Hinckley Jr.",
-      "right": "John Hinckley Jr.",
-      "subj": "Politics"
-    },
-    "11": {
-      "question": "John Hinckley Jr.",
-      "exp": "tried to kill Reagan to impress",
-      "option_1": "Jodie Foster",
-      "option_2": "Jane Goodall",
-      "right": "Jodie Foster",
-      "subj": "Politics"
-    },
-    "12": {
-      "question": "Jodie Foster",
-      "exp": "received an Academy Award for Best Supporting Actress nomination for her role in",
-      "option_1": "Taxi Driver",
-      "option_2": "Pulp Fiction",
-      "right": "Taxi Driver",
-      "subj": "Leisure"
-    }
-  },
-  
+{       
   "416": {
     "1": {
       "question": "Inception",
@@ -196,6 +96,106 @@
       "option_2": "Further Development",
       "right": "Scott Pilgrim vs. The World",
       "subj": "Leisure"
+    }
+  },
+  
+  "417": {
+    "1": {
+      "question": "Julius Caesar",
+      "exp": "was stabbed to death in March on the",
+      "option_1": "Ides",
+      "option_2": "Scores",
+      "right": "Ides",
+      "subj": "History",
+      "author": "Beware the Scores of March!"
+    },
+    "2": {
+      "question": "Ides",
+      "exp": "means a day falling roughly in the middle on the month. In March, May, July, and October, it is on the",
+      "option_1": "14th",
+      "option_2": "15th",
+      "right": "15th",
+      "subj": "Language"
+    },
+    "3": {
+      "question": "15th",
+      "exp": "state added to the Union was",
+      "option_1": "Kentucky",
+      "option_2": "Delaware",
+      "right": "Kentucky",
+      "subj": "History"
+    },
+    "4": {
+      "question": "Kentucky",
+      "exp": "basketball team mascot is",
+      "option_1": "The Wildcat",
+      "option_2": "The Grizzlies",
+      "right": "The Wildcat",
+      "subj": "Sports"
+    },
+    "5": {
+      "question": "The Wildcat",
+      "exp": "is part of the genus",
+      "option_1": "Decayus",
+      "option_2": "Felis",
+      "right": "Felis",
+      "subj": "STEM"
+    },
+    "6": {
+      "question": "Felis",
+      "exp": "is part of a taxonomic system founded by",
+      "option_1": "Carl Linnaeus",
+      "option_2": "Chester Wycliffe",
+      "right": "Carl Linnaeus",
+      "subj": "STEM"
+    },
+    "7": {
+      "question": "Carl Linnaeus",
+      "exp": "was from",
+      "option_1": "Iceland",
+      "option_2": "Sweden",
+      "right": "Sweden",
+      "subj": "History"
+    },
+    "8": {
+      "question": "Sweden",
+      "exp": "is home to the famous pop group",
+      "option_1": "AHA",
+      "option_2": "ABBA",
+      "right": "ABBA",
+      "subj": "Pop"
+    },
+    "9": {
+      "question": "ABBA",
+      "exp": "wrote the song",
+      "option_1": "Ripping Through My Fingers",
+      "option_2": "Voulez-Vous",
+      "right": "Voulez-Vous",
+      "subj": "Music"
+    },
+    "10": {
+      "question": "Voulez-Vous",
+      "exp": "is french for",
+      "option_1": "Will you go?",
+      "option_2": "Would you like?",
+      "right": "Would you like?",
+      "subj": "Language"
+    },
+    "11": {
+      "question": "Would you like?",
+      "exp": "in Spanish is",
+      "option_1": "Quiere Usted",
+      "option_2": "Carrat Targot",
+      "right": "Quiere Usted",
+      "subj": "Language"
+    },
+    "12": {
+      "question": "Quiere Usted",
+      "exp": "is",
+      "option_1": "Spanish",
+      "option_2": "Portuguese ",
+      "right": "Spanish",
+      "subj": "Language"
     }
   }
 }
