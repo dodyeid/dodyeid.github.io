@@ -1,104 +1,4 @@
-{       
-  "416": {
-    "1": {
-      "question": "Inception",
-      "exp": "is a 2010 mind-bending thriller directed by Christopher Nolan starring",
-      "option_1": "Leonardo DiCaprio",
-      "option_2": "Anna Schwartz",
-      "right": "Leonardo DiCaprio",
-      "subj": "Leisure",
-      "author": "Film buffs where you at?"
-    },
-    "2": {
-      "question": "Leonardo DiCaprio",
-      "exp": "also stars in the Martin Scorsese film",
-      "option_1": "The Wolf of Wall Street",
-      "option_2": "The Puppy of Main Street",
-      "right": "The Wolf of Wall Street",
-      "subj": "Leisure"
-    },
-    "3": {
-      "question": "The Wolf of Wall Street",
-      "exp": "also features",
-      "option_1": "James Earl Ray",
-      "option_2": "Jonah Hill",
-      "right": "Jonah Hill",
-      "subj": "Leisure"
-    },
-    "4": {
-      "question": "Jonah Hill",
-      "exp": "also stars in the 2011 film glorifying statistics in baseball,",
-      "option_1": "Downton Abbey",
-      "option_2": "Moneyball",
-      "right": "Moneyball",
-      "subj": "Leisure"
-    },
-    "5": {
-      "question": "Moneyball",
-      "exp": "stars a man hoping to save the Oakland A's with math played by",
-      "option_1": "Brad Pitt",
-      "option_2": "Angelina Jolie",
-      "right": "Brad Pitt",
-      "subj": "Leisure"
-    },
-    "6": {
-      "question": "Brad Pitt",
-      "exp": "also stars in the 2019 Quentin Tarantino film",
-      "option_1": "Romeo and Juliet",
-      "option_2": "Once Upon a Time in Hollywood",
-      "right": "Once Upon a Time in Hollywood",
-      "subj": "Leisure"
-    },
-    "7": {
-      "question": "Once Upon a Time in Hollywood",
-      "exp": "also stars, as Sharon Tate,",
-      "option_1": "Margot Robbie",
-      "option_2": "Kate Winslet",
-      "right": "Margot Robbie",
-      "subj": "Leisure"
-    },
-    "8": {
-      "question": "Margot Robbie",
-      "exp": "plays figure skater Tonya Harding in the film",
-      "option_1": "Me, Escalanta",
-      "option_2": "I, Tonya",
-      "right": "I, Tonya",
-      "subj": "Leisure"
-    },
-    "9": {
-      "question": "I, Tonya",
-      "exp": "also features Tonya Harding's mother played by",
-      "option_1": "Allison Janney",
-      "option_2": "Kirsten Dunst",
-      "right": "Allison Janney",
-      "subj": "Leisure"
-    },
-    "10": {
-      "question": "Allison Janney",
-      "exp": "also played as the lead character's mother in",
-      "option_1": "Juno",
-      "option_2": "Juneau",
-      "right": "Juno",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "Juno",
-      "exp": "is a 2007 comedy-drama film about an unexpected teenage pregnancy co-starring ",
-      "option_1": "Michael Cera",
-      "option_2": "James Bateman",
-      "right": "Michael Cera",
-      "subj": "Leisure"
-    },
-    "12": {
-      "question": "Michael Cera",
-      "exp": "was a main character in Arrested Development (not Further Development) and also played Scott Pilgrim in",
-      "option_1": "Scott Pilgrim vs. The World",
-      "option_2": "Further Development",
-      "right": "Scott Pilgrim vs. The World",
-      "subj": "Leisure"
-    }
-  },
-  
+{         
   "417": {
     "1": {
       "question": "Julius Caesar",
@@ -196,6 +96,107 @@
       "option_2": "Portuguese ",
       "right": "Spanish",
       "subj": "Language"
+    }
+  },
+  
+  
+  "418": {
+    "1": {
+      "question": "I.M Pei",
+      "exp": "was a Chinese-American architect who designed the glass-and-steel pyramid for",
+      "option_1": "Angkor Wat",
+      "option_2": "The Louvre",
+      "right": "The Louvre",
+      "subj": "History",
+      "author": "Beep, boop, bop - Tom Hanks!"
+    },
+    "2": {
+      "question": "The Louvre",
+      "exp": "is home to the painting",
+      "option_1": "The Last Supper",
+      "option_2": "Liberty Leading the People",
+      "right": "Liberty Leading the People",
+      "subj": "Art"
+    },
+    "3": {
+      "question": "Liberty Leading the People",
+      "exp": "is sometimes erroneously considered to depict the French Revolution of 1789, when in reality it glorifies the",
+      "option_1": "French Revolution of 1789",
+      "option_2": "July Revolution of 1830",
+      "right": "July Revolution of 1830",
+      "subj": "Art"
+    },
+    "4": {
+      "question": "July Revolution of 1830",
+      "exp": "saw much fighting in the city of",
+      "option_1": "Paris",
+      "option_2": "Moscow",
+      "right": "Paris",
+      "subj": "History"
+    },
+    "5": {
+      "question": "Paris",
+      "exp": "is where you would find La Basilique du",
+      "option_1": "Sacré-Cœur",
+      "option_2": "Sante-Dechemel",
+      "right": "Sacré-Cœur",
+      "subj": "Geography"
+    },
+    "6": {
+      "question": "Sacré-Cœur",
+      "exp": "is French for",
+      "option_1": "Sacred Heart",
+      "option_2": "Sacred Hill",
+      "right": "Sacred Heart",
+      "subj": "Language"
+    },
+    "7": {
+      "question": "Sacred Heart",
+      "exp": "is a private Catholic university and alma mater of Kevin Nealon located in",
+      "option_1": "Connecticut",
+      "option_2": "Algeria",
+      "right": "Connecticut",
+      "subj": "Leisure"
+    },
+    "8": {
+      "question": "Connecticut",
+      "exp": "is the home of actress",
+      "option_1": "Donna Winslow",
+      "option_2": "Meg Ryan",
+      "right": "Meg Ryan",
+      "subj": "Pop"
+    },
+    "9": {
+      "question": "Meg Ryan",
+      "exp": "starred in a film that has first word",
+      "option_1": "Clueless",
+      "option_2": "Sleepless",
+      "right": "Sleepless",
+      "subj": "Pop"
+    },
+    "10": {
+      "question": "Sleepless",
+      "exp": "in Seattle' is a film that stars Meg Ryan and",
+      "option_1": "Tom Hanks",
+      "option_2": "Tim Allen",
+      "right": "Tom Hanks",
+      "subj": "Leisure"
+    },
+    "11": {
+      "question": "Tom Hanks",
+      "exp": "plays the title role in",
+      "option_1": "A Man Called Otto",
+      "option_2": "A Woman Called Mary",
+      "right": "A Man Called Otto",
+      "subj": "Leisure"
+    },
+    "12": {
+      "question": "A Man Called Otto",
+      "exp": "was originally a film created in",
+      "option_1": "Austria",
+      "option_2": "Sweden",
+      "right": "Sweden",
+      "subj": "Leisure"
     }
   }
 }
