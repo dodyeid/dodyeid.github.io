@@ -1,105 +1,4 @@
-{   
-  "418": {
-    "1": {
-      "question": "I.M Pei",
-      "exp": "was a Chinese-American architect who designed the glass-and-steel pyramid for",
-      "option_1": "Angkor Wat",
-      "option_2": "The Louvre",
-      "right": "The Louvre",
-      "subj": "History",
-      "author": "Beep, boop, bop - Tom Hanks!"
-    },
-    "2": {
-      "question": "The Louvre",
-      "exp": "is home to the painting",
-      "option_1": "The Last Supper",
-      "option_2": "Liberty Leading the People",
-      "right": "Liberty Leading the People",
-      "subj": "Art"
-    },
-    "3": {
-      "question": "Liberty Leading the People",
-      "exp": "is sometimes erroneously considered to depict the French Revolution of 1789, when in reality it glorifies the",
-      "option_1": "French Revolution of 1789",
-      "option_2": "July Revolution of 1830",
-      "right": "July Revolution of 1830",
-      "subj": "Art"
-    },
-    "4": {
-      "question": "July Revolution of 1830",
-      "exp": "saw much fighting in the city of",
-      "option_1": "Paris",
-      "option_2": "Moscow",
-      "right": "Paris",
-      "subj": "History"
-    },
-    "5": {
-      "question": "Paris",
-      "exp": "is where you would find La Basilique du",
-      "option_1": "Sacré-Cœur",
-      "option_2": "Sante-Dechemel",
-      "right": "Sacré-Cœur",
-      "subj": "Geography"
-    },
-    "6": {
-      "question": "Sacré-Cœur",
-      "exp": "is French for",
-      "option_1": "Sacred Heart",
-      "option_2": "Sacred Hill",
-      "right": "Sacred Heart",
-      "subj": "Language"
-    },
-    "7": {
-      "question": "Sacred Heart",
-      "exp": "is a private Catholic university and alma mater of Kevin Nealon located in",
-      "option_1": "Connecticut",
-      "option_2": "Algeria",
-      "right": "Connecticut",
-      "subj": "Leisure"
-    },
-    "8": {
-      "question": "Connecticut",
-      "exp": "is the home of actress",
-      "option_1": "Donna Winslow",
-      "option_2": "Meg Ryan",
-      "right": "Meg Ryan",
-      "subj": "Pop"
-    },
-    "9": {
-      "question": "Meg Ryan",
-      "exp": "starred in a film that has first word",
-      "option_1": "Clueless",
-      "option_2": "Sleepless",
-      "right": "Sleepless",
-      "subj": "Pop"
-    },
-    "10": {
-      "question": "Sleepless",
-      "exp": "in Seattle' is a film that stars Meg Ryan and",
-      "option_1": "Tom Hanks",
-      "option_2": "Tim Allen",
-      "right": "Tom Hanks",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "Tom Hanks",
-      "exp": "plays the title role in",
-      "option_1": "A Man Called Otto",
-      "option_2": "A Woman Called Mary",
-      "right": "A Man Called Otto",
-      "subj": "Leisure"
-    },
-    "12": {
-      "question": "A Man Called Otto",
-      "exp": "was originally a film created in",
-      "option_1": "Austria",
-      "option_2": "Sweden",
-      "right": "Sweden",
-      "subj": "Leisure"
-    }
-  },
-  
-  
+{     
   "419": {
     "1": {
       "question": "Louis XVI",
@@ -197,6 +96,107 @@
       "option_2": "River Lee",
       "right": "River Lee",
       "subj": "Geography"
+    }
+  },
+  
+  
+  "420": {
+    "1": {
+      "question": "Texas",
+      "exp": "is the home of",
+      "option_1": "Lyndon Johnson",
+      "option_2": "Dwight Eisenhower",
+      "right": "Lyndon Johnson",
+      "subj": "History",
+      "author": ""
+    },
+    "2": {
+      "question": "Lyndon Johnson",
+      "exp": "was married to",
+      "option_1": "Lady Bird",
+      "option_2": "Lemonade Lucy",
+      "right": "Lady Bird",
+      "subj": "History"
+    },
+    "3": {
+      "question": "Lady Bird",
+      "exp": "initiated a project named",
+      "option_1": "Beautification",
+      "option_2": "Rectification",
+      "right": "Beautification",
+      "subj": "History"
+    },
+    "4": {
+      "question": "Beautification",
+      "exp": "entailed bringing to Washington D.C. the",
+      "option_1": "River Draining",
+      "option_2": "Cherry Blossom",
+      "right": "Cherry Blossom",
+      "subj": "History"
+    },
+    "5": {
+      "question": "Cherry Blossom",
+      "exp": "is most famous and abundant in",
+      "option_1": "Romania",
+      "option_2": "Japan",
+      "right": "Japan",
+      "subj": "Geography"
+    },
+    "6": {
+      "question": "Japan",
+      "exp": "is home to the famous film director",
+      "option_1": "Yi-Mou Zhang",
+      "option_2": "Akira Kurosawa",
+      "right": "Akira Kurosawa",
+      "subj": "Leisure"
+    },
+    "7": {
+      "question": "Akira Kurosawa",
+      "exp": "created",
+      "option_1": "Throne of Blood",
+      "option_2": "Palace of Blood",
+      "right": "Throne of Blood",
+      "subj": "Leisure"
+    },
+    "8": {
+      "question": "Throne of Blood",
+      "exp": "transposes from Medieval Scotland to feudal Japan the Shakespeare play",
+      "option_1": "Romeo and Juliet",
+      "option_2": "Macbeth",
+      "right": "Macbeth",
+      "subj": "Literature"
+    },
+    "9": {
+      "question": "Macbeth",
+      "exp": "contains the lines",
+      "option_1": "Fair is foul, and foul is fair",
+      "option_2": "Trouble mortalizes the noble",
+      "right": "Fair is foul, and foul is fair",
+      "subj": "Literature"
+    },
+    "10": {
+      "question": "Fair is foul, and foul is fair",
+      "exp": "is a line spoken by the",
+      "option_1": "Three Witches",
+      "option_2": "Five Sisters",
+      "right": "Three Witches",
+      "subj": "Literature"
+    },
+    "11": {
+      "question": "Three Witches",
+      "exp": "hold a resemblance to the",
+      "option_1": "Three Stars",
+      "option_2": "Three Fates",
+      "right": "Three Fates",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Three Fates",
+      "exp": "were personifications of",
+      "option_1": "Delirium",
+      "option_2": "Destiny",
+      "right": "Destiny",
+      "subj": "Language"
     }
   }
 }
