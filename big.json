@@ -1,105 +1,4 @@
-{       
-  "422": {
-    "1": {
-      "question": "The Alamo",
-      "exp": "Remember it? Go to",
-      "option_1": "San Antonio",
-      "option_2": "Austin",
-      "right": "San Antonio",
-      "subj": "Geography",
-      "author": ""
-    },
-    "2": {
-      "question": "San Antonio",
-      "exp": "is Spanish for",
-      "option_1": "Saint Anne",
-      "option_2": "Saint Anthony",
-      "right": "Saint Anthony",
-      "subj": "Language"
-    },
-    "3": {
-      "question": "Saint Anthony",
-      "exp": "is more formally Saint Anthony of",
-      "option_1": "Vienna",
-      "option_2": "Padua",
-      "right": "Padua",
-      "subj": "History"
-    },
-    "4": {
-      "question": "Padua",
-      "exp": "is a city in",
-      "option_1": "Italy",
-      "option_2": "Portugal",
-      "right": "Italy",
-      "subj": "Geography"
-    },
-    "5": {
-      "question": "Italy",
-      "exp": "is the home of the parents of",
-      "option_1": "Marisa Tomei",
-      "option_2": "Logan Reese",
-      "right": "Marisa Tomei",
-      "subj": "Pop"
-    },
-    "6": {
-      "question": "Marisa Tomei",
-      "exp": "was not in Sam Raimi's Spiderman 2 (but she was in the non-numbered Tom Holland Spiderman). She was best supporting actress for her role in",
-      "option_1": "My Cousin Vinny",
-      "option_2": "Spiderman 2",
-      "right": "My Cousin Vinny",
-      "subj": "Leisure"
-    },
-    "7": {
-      "question": "My Cousin Vinny",
-      "exp": "stars",
-      "option_1": "Joe Pesci",
-      "option_2": "Joe Biden",
-      "right": "Joe Pesci",
-      "subj": "Leisure"
-    },
-    "8": {
-      "question": "Joe Pesci",
-      "exp": "also plays in",
-      "option_1": "The Irishman",
-      "option_2": "Taxi Driver",
-      "right": "The Irishman",
-      "subj": "Leisure"
-    },
-    "9": {
-      "question": "The Irishman",
-      "exp": "was directed by",
-      "option_1": "Martin Scorsese",
-      "option_2": "William Faulkner",
-      "right": "Martin Scorsese",
-      "subj": "Leisure"
-    },
-    "10": {
-      "question": "Martin Scorsese",
-      "exp": "directed",
-      "option_1": "Waning Coyote",
-      "option_2": "Raging Bull",
-      "right": "Raging Bull",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "Raging Bull",
-      "exp": "stars",
-      "option_1": "Frankie Gallagher",
-      "option_2": "Robert de Niro",
-      "right": "Robert de Niro",
-      "subj": "Leisure"
-    },
-    "12": {
-      "question": "Robert de Niro",
-      "exp": "is not in Cape Tear (were you thinking Cape Fear?) but does play young",
-      "option_1": "Vito Corleone",
-      "option_2": "Cape Tear",
-      "right": "Vito Corleone",
-      "subj": "Leisure"
-    }
-  },
-  
-  
+{  
   "423": {
     "1": {
       "question": "Las Vegas",
@@ -197,6 +96,107 @@
       "option_2": "13",
       "right": "39",
       "subj": "STEM"
+    }
+  },
+  
+  
+  "424": {
+    "1": {
+      "question": "Tim Allen",
+      "exp": "voiced",
+      "option_1": "Buzz Lightyear",
+      "option_2": "Woody",
+      "right": "Buzz Lightyear",
+      "subj": "Pop",
+      "author": "Buzz Lightyear - the lesser known existentialist."
+    },
+    "2": {
+      "question": "Buzz Lightyear",
+      "exp": "is a",
+      "option_1": "Puzzle",
+      "option_2": "Toy",
+      "right": "Toy",
+      "subj": "Leisure"
+    },
+    "3": {
+      "question": "Toy",
+      "exp": "is the industry for",
+      "option_1": "LEGO",
+      "option_2": "Jello",
+      "right": "LEGO",
+      "subj": "Leisure"
+    },
+    "4": {
+      "question": "LEGO",
+      "exp": "is headquartered in",
+      "option_1": "Denmark",
+      "option_2": "Italy",
+      "right": "Denmark",
+      "subj": "Leisure"
+    },
+    "5": {
+      "question": "Denmark",
+      "exp": "is the nationality of",
+      "option_1": "Ivan the Terrible",
+      "option_2": "Søren Kierkegaard",
+      "right": "Søren Kierkegaard",
+      "subj": "Politics"
+    },
+    "6": {
+      "question": "Søren Kierkegaard",
+      "exp": "is famous for his work on",
+      "option_1": "Sedevacantism",
+      "option_2": "Existentialism",
+      "right": "Existentialism",
+      "subj": "Politics"
+    },
+    "7": {
+      "question": "Existentialism",
+      "exp": "was made famous by",
+      "option_1": "Ahab",
+      "option_2": "Jean-Paul Sartre",
+      "right": "Jean-Paul Sartre",
+      "subj": "History"
+    },
+    "8": {
+      "question": "Jean-Paul Sartre",
+      "exp": "was",
+      "option_1": "French",
+      "option_2": "Russian",
+      "right": "French",
+      "subj": "History"
+    },
+    "9": {
+      "question": "French",
+      "exp": "is the language of artist",
+      "option_1": "Vincent Van Gogh",
+      "option_2": "Pierre-Auguste Renoir",
+      "right": "Pierre-Auguste Renoir",
+      "subj": "Art"
+    },
+    "10": {
+      "question": "Pierre-Auguste Renoir",
+      "exp": "painted",
+      "option_1": "Bal du moulin rouge",
+      "option_2": "Bal du moulin de la Galette",
+      "right": "Bal du moulin de la Galette",
+      "subj": "Art"
+    },
+    "11": {
+      "question": "Bal du moulin de la Galette",
+      "exp": "is currently housed at the",
+      "option_1": "Musée d'Orsay",
+      "option_2": "Versailles",
+      "right": "Musée d'Orsay",
+      "subj": "Art"
+    },
+    "12": {
+      "question": "Musée d'Orsay",
+      "exp": "was formerly a",
+      "option_1": "Cathedral",
+      "option_2": "Train Station",
+      "right": "Train Station",
+      "subj": "Geography"
     }
   }
 }
