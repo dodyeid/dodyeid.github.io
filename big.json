@@ -1,104 +1,4 @@
-{     
-  "421": {
-    "1": {
-      "question": "Volleyball",
-      "exp": "is a sport that has the position of",
-      "option_1": "Lebra",
-      "option_2": "Libero",
-      "right": "Libero",
-      "subj": "Sports",
-      "author": ""
-    },
-    "2": {
-      "question": "Libero",
-      "exp": "is an Italian word meaning",
-      "option_1": "Tall",
-      "option_2": "Free",
-      "right": "Free",
-      "subj": "Language"
-    },
-    "3": {
-      "question": "Free",
-      "exp": "in French is",
-      "option_1": "Gratuit",
-      "option_2": "Sanspayei",
-      "right": "Gratuit",
-      "subj": "Language"
-    },
-    "4": {
-      "question": "Gratuit",
-      "exp": "is etymologically related to gratuity, or a",
-      "option_1": "Tip",
-      "option_2": "Tilt",
-      "right": "Tip",
-      "subj": "Language"
-    },
-    "5": {
-      "question": "Tip",
-      "exp": "is sometimes metaphorically mentioned with an",
-      "option_1": "Iceberg",
-      "option_2": "Sandal",
-      "right": "Iceberg",
-      "subj": "Language"
-    },
-    "6": {
-      "question": "Iceberg",
-      "exp": "is a type of",
-      "option_1": "Tomatoes",
-      "option_2": "Lettuce",
-      "right": "Lettuce",
-      "subj": "Leisure"
-    },
-    "7": {
-      "question": "Lettuce",
-      "exp": "can be found in a",
-      "option_1": "Big Mac",
-      "option_2": "Quarter Pounder",
-      "right": "Big Mac",
-      "subj": "Leisure"
-    },
-    "8": {
-      "question": "Big Mac",
-      "exp": "is",
-      "option_1": "Under 600 calories",
-      "option_2": "Over 2,000 Calories",
-      "right": "Under 600 calories",
-      "subj": "Leisure"
-    },
-    "9": {
-      "question": "Under 600 calories",
-      "exp": "are unites of",
-      "option_1": "Energy",
-      "option_2": "Linids",
-      "right": "Energy",
-      "subj": "STEM"
-    },
-    "10": {
-      "question": "Energy",
-      "exp": "can be measured in a",
-      "option_1": "Jewel",
-      "option_2": "Joule",
-      "right": "Joule",
-      "subj": "STEM"
-    },
-    "11": {
-      "question": "Joule",
-      "exp": "is named after",
-      "option_1": "Wilmot",
-      "option_2": "Prescott",
-      "right": "Prescott",
-      "subj": "History"
-    },
-    "12": {
-      "question": "Prescott",
-      "exp": "Bush was the father of George H.W.",
-      "option_1": "Barnham",
-      "option_2": "Bush",
-      "right": "Bush",
-      "subj": "History"
-    }
-  },
-  
+{       
   "422": {
     "1": {
       "question": "The Alamo",
@@ -196,6 +96,107 @@
       "option_2": "Cape Tear",
       "right": "Vito Corleone",
       "subj": "Leisure"
+    }
+  },
+  
+  
+  "423": {
+    "1": {
+      "question": "Las Vegas",
+      "exp": "is home to the most recent Stanley Cup Champions",
+      "option_1": "The Panthers",
+      "option_2": "The Golden Knights",
+      "right": "The Golden Knights",
+      "subj": "Sports",
+      "author": "Hockey fans and math whizzes unite!"
+    },
+    "2": {
+      "question": "The Golden Knights",
+      "exp": "are coached by",
+      "option_1": "Landon Donovan",
+      "option_2": "Bruce Cassidy",
+      "right": "Bruce Cassidy",
+      "subj": "Sports"
+    },
+    "3": {
+      "question": "Bruce Cassidy",
+      "exp": "was the former coach of the",
+      "option_1": "Boston Bruins",
+      "option_2": "Chicago Blackhawks",
+      "right": "Boston Bruins",
+      "subj": "Sports"
+    },
+    "4": {
+      "question": "Boston Bruins",
+      "exp": "was the home of the legend",
+      "option_1": "Bobby Orr",
+      "option_2": "Stan Mikita",
+      "right": "Bobby Orr",
+      "subj": "Sports"
+    },
+    "5": {
+      "question": "Bobby Orr",
+      "exp": "was ",
+      "option_1": "Mexican",
+      "option_2": "Canadian",
+      "right": "Canadian",
+      "subj": "Sports"
+    },
+    "6": {
+      "question": "Canadian",
+      "exp": "is the national home of the hockey team the",
+      "option_1": "Icepickers",
+      "option_2": "Oilers",
+      "right": "Oilers",
+      "subj": "Sports"
+    },
+    "7": {
+      "question": "Oilers",
+      "exp": "are based in",
+      "option_1": "Seattle",
+      "option_2": "Edmonton",
+      "right": "Edmonton",
+      "subj": "Sports"
+    },
+    "8": {
+      "question": "Edmonton",
+      "exp": "is the capital of",
+      "option_1": "Alberta",
+      "option_2": "Saskatchewan",
+      "right": "Alberta",
+      "subj": "Geography"
+    },
+    "9": {
+      "question": "Alberta",
+      "exp": "is home to the city of",
+      "option_1": "Calgary",
+      "option_2": "Provincetown",
+      "right": "Calgary",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "Calgary",
+      "exp": "is home to more than",
+      "option_1": "500,000 people",
+      "option_2": "1.4 million people",
+      "right": "1.4 million people",
+      "subj": "Geography"
+    },
+    "11": {
+      "question": "1.4 million people",
+      "exp": "is a",
+      "option_1": "Prime Number",
+      "option_2": "Composite Number",
+      "right": "Prime Number",
+      "subj": "STEM"
+    },
+    "12": {
+      "question": "Prime Number",
+      "exp": "would describe the number",
+      "option_1": "39",
+      "option_2": "13",
+      "right": "13",
+      "subj": "STEM"
     }
   }
 }
