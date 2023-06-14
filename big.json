@@ -187,15 +187,15 @@
       "exp": "is a",
       "option_1": "Prime Number",
       "option_2": "Composite Number",
-      "right": "Prime Number",
+      "right": "Composite Number",
       "subj": "STEM"
     },
     "12": {
-      "question": "Prime Number",
+      "question": "Composite Number",
       "exp": "would describe the number",
       "option_1": "39",
       "option_2": "13",
-      "right": "13",
+      "right": "39",
       "subj": "STEM"
     }
   }
