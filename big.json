@@ -1,105 +1,4 @@
 {  
-  "423": {
-    "1": {
-      "question": "Las Vegas",
-      "exp": "is home to the most recent Stanley Cup Champions",
-      "option_1": "The Panthers",
-      "option_2": "The Golden Knights",
-      "right": "The Golden Knights",
-      "subj": "Sports",
-      "author": "Hockey fans and math whizzes unite! Thank you Ben Palmer for your help today. We apologize for the previous error in this game."
-    },
-    "2": {
-      "question": "The Golden Knights",
-      "exp": "are coached by",
-      "option_1": "Landon Donovan",
-      "option_2": "Bruce Cassidy",
-      "right": "Bruce Cassidy",
-      "subj": "Sports"
-    },
-    "3": {
-      "question": "Bruce Cassidy",
-      "exp": "was the former coach of the",
-      "option_1": "Boston Bruins",
-      "option_2": "Chicago Blackhawks",
-      "right": "Boston Bruins",
-      "subj": "Sports"
-    },
-    "4": {
-      "question": "Boston Bruins",
-      "exp": "was the home of the legend",
-      "option_1": "Bobby Orr",
-      "option_2": "Stan Mikita",
-      "right": "Bobby Orr",
-      "subj": "Sports"
-    },
-    "5": {
-      "question": "Bobby Orr",
-      "exp": "was ",
-      "option_1": "Mexican",
-      "option_2": "Canadian",
-      "right": "Canadian",
-      "subj": "Sports"
-    },
-    "6": {
-      "question": "Canadian",
-      "exp": "is the national home of the hockey team the",
-      "option_1": "Icepickers",
-      "option_2": "Oilers",
-      "right": "Oilers",
-      "subj": "Sports"
-    },
-    "7": {
-      "question": "Oilers",
-      "exp": "are based in",
-      "option_1": "Seattle",
-      "option_2": "Edmonton",
-      "right": "Edmonton",
-      "subj": "Sports"
-    },
-    "8": {
-      "question": "Edmonton",
-      "exp": "is the capital of",
-      "option_1": "Alberta",
-      "option_2": "Saskatchewan",
-      "right": "Alberta",
-      "subj": "Geography"
-    },
-    "9": {
-      "question": "Alberta",
-      "exp": "is home to the city of",
-      "option_1": "Calgary",
-      "option_2": "Provincetown",
-      "right": "Calgary",
-      "subj": "Geography"
-    },
-    "10": {
-      "question": "Calgary",
-      "exp": "is home to more than",
-      "option_1": "500,000 people",
-      "option_2": "1.4 million people",
-      "right": "1.4 million people",
-      "subj": "Geography"
-    },
-    "11": {
-      "question": "1.4 million people",
-      "exp": "is a",
-      "option_1": "Prime Number",
-      "option_2": "Composite Number",
-      "right": "Composite Number",
-      "subj": "STEM"
-    },
-    "12": {
-      "question": "Composite Number",
-      "exp": "would describe the number",
-      "option_1": "39",
-      "option_2": "13",
-      "right": "39",
-      "subj": "STEM"
-    }
-  },
-  
-  
   "424": {
     "1": {
       "question": "Tim Allen",
@@ -197,6 +96,107 @@
       "option_2": "Train Station",
       "right": "Train Station",
       "subj": "Geography"
+    }
+  },
+
+  
+  "425": {
+    "1": {
+      "question": "Stevie Nicks",
+      "exp": "was one of the lead singers for",
+      "option_1": "Judas Priest",
+      "option_2": "Fleetwood Mac",
+      "right": "Fleetwood Mac",
+      "subj": "Pop",
+      "author": "Does Pope Francis listen to The Cranberries?"
+    },
+    "2": {
+      "question": "Fleetwood Mac",
+      "exp": "famously sang about",
+      "option_1": "Dreams",
+      "option_2": "Coriander",
+      "right": "Dreams",
+      "subj": "Music"
+    },
+    "3": {
+      "question": "Dreams",
+      "exp": "is also a song by",
+      "option_1": "Ted Hughes",
+      "option_2": "The Cranberries",
+      "right": "The Cranberries",
+      "subj": "Music"
+    },
+    "4": {
+      "question": "The Cranberries",
+      "exp": "were a rock band based out of",
+      "option_1": "Ireland",
+      "option_2": "England",
+      "right": "Ireland",
+      "subj": "Pop"
+    },
+    "5": {
+      "question": "Ireland",
+      "exp": "has its capital at",
+      "option_1": "Dublin",
+      "option_2": "Lucerne",
+      "right": "Dublin",
+      "subj": "Geography"
+    },
+    "6": {
+      "question": "Dublin",
+      "exp": "is the setting for the novel",
+      "option_1": "East of Eden",
+      "option_2": "Ulysses",
+      "right": "Ulysses",
+      "subj": "Literature"
+    },
+    "7": {
+      "question": "Ulysses",
+      "exp": "takes place over the course of a single day - June 16, 1904 - and was written by",
+      "option_1": "James Joyce",
+      "option_2": "Stephen Wright",
+      "right": "James Joyce",
+      "subj": "Literature"
+    },
+    "8": {
+      "question": "James Joyce",
+      "exp": "grew up to rebel against his",
+      "option_1": "Islam",
+      "option_2": "Catholicism",
+      "right": "Catholicism",
+      "subj": "History"
+    },
+    "9": {
+      "question": "Catholicism",
+      "exp": "is a faith currently headed on earth by Pope",
+      "option_1": "Francis",
+      "option_2": "Francine",
+      "right": "Francis",
+      "subj": "Politics"
+    },
+    "10": {
+      "question": "Francis",
+      "exp": "is also the name of a saint from",
+      "option_1": "Assisi",
+      "option_2": "Cagliari",
+      "right": "Assisi",
+      "subj": "History"
+    },
+    "11": {
+      "question": "Assisi",
+      "exp": "is a town in",
+      "option_1": "Italy",
+      "option_2": "San Marino",
+      "right": "Italy",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "Italy",
+      "exp": "is the home country of the opera composer",
+      "option_1": "Giacomo Puccini",
+      "option_2": "Giancarlo Esposito",
+      "right": "Giacomo Puccini",
+      "subj": "Music"
     }
   }
 }
