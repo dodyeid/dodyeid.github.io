@@ -1,105 +1,4 @@
-{    
-  "426": {
-    "1": {
-      "question": "Critical",
-      "exp": "is a word similar to",
-      "option_1": "Polemic",
-      "option_2": "Anemic",
-      "right": "Polemic",
-      "subj": "Language",
-      "author": "Vocab fanatics are you there?"
-    },
-    "2": {
-      "question": "Polemic",
-      "exp": "is most related to the word",
-      "option_1": "Alcoholic",
-      "option_2": "Vitriolic",
-      "right": "Vitriolic",
-      "subj": "Language"
-    },
-    "3": {
-      "question": "Vitriolic",
-      "exp": "is most related to the word",
-      "option_1": "Acrimonious",
-      "option_2": "Sanctimonious",
-      "right": "Acrimonious",
-      "subj": "Language"
-    },
-    "4": {
-      "question": "Acrimonious",
-      "exp": "is most related to the word",
-      "option_1": "Wankerous",
-      "option_2": "Rancorous",
-      "right": "Rancorous",
-      "subj": "Language"
-    },
-    "5": {
-      "question": "Rancorous",
-      "exp": "is most related to the word",
-      "option_1": "Vindictive",
-      "option_2": "Witty",
-      "right": "Vindictive",
-      "subj": "Language"
-    },
-    "6": {
-      "question": "Vindictive",
-      "exp": "is most related to the word",
-      "option_1": "Implacable",
-      "option_2": "Complaisant",
-      "right": "Implacable",
-      "subj": "Language"
-    },
-    "7": {
-      "question": "Implacable",
-      "exp": "is most related to the word",
-      "option_1": "Inexplicable",
-      "option_2": "Inexorable",
-      "right": "Inexorable",
-      "subj": "Language"
-    },
-    "8": {
-      "question": "Inexorable",
-      "exp": "is most related to the word",
-      "option_1": "Possessed",
-      "option_2": "Unstoppable",
-      "right": "Unstoppable",
-      "subj": "Language"
-    },
-    "9": {
-      "question": "Unstoppable",
-      "exp": "is most related to the word",
-      "option_1": "Invincible",
-      "option_2": "Incredible",
-      "right": "Invincible",
-      "subj": "Language"
-    },
-    "10": {
-      "question": "Invincible",
-      "exp": "is most related to the word",
-      "option_1": "Indefatigable",
-      "option_2": "Fastidious",
-      "right": "Indefatigable",
-      "subj": "Language"
-    },
-    "11": {
-      "question": "Indefatigable",
-      "exp": "is most related to the word",
-      "option_1": "Gassy",
-      "option_2": "Unflagging",
-      "right": "Unflagging",
-      "subj": "Language"
-    },
-    "12": {
-      "question": "Unflagging",
-      "exp": "is most related to the word",
-      "option_1": "Remitting",
-      "option_2": "Tenacious",
-      "right": "Tenacious",
-      "subj": "Language"
-    }
-  },
-
-  
+{   
   "427": {
     "1": {
       "question": "Andy Garcia",
@@ -197,6 +96,107 @@
       "option_2": "Homecoming",
       "right": "Homecoming",
       "subj": "Music"
+    }
+  },
+
+  
+  "428": {
+    "1": {
+      "question": "The Third of May, 1808",
+      "exp": "was painted by",
+      "option_1": "Francisco de Goya",
+      "option_2": "Pablo Picasso",
+      "right": "Francisco de Goya",
+      "subj": "Art",
+      "author": "Is 'The Godfather Part III' a good film?"
+    },
+    "2": {
+      "question": "Francisco de Goya",
+      "exp": "was a painter and printmaker from",
+      "option_1": "Spain",
+      "option_2": "Brazil",
+      "right": "Spain",
+      "subj": "Art"
+    },
+    "3": {
+      "question": "Spain",
+      "exp": "was the home of one of the greatest architects of the 20th century",
+      "option_1": "Marco Aurelio",
+      "option_2": "Antoni Gaudí",
+      "right": "Antoni Gaudí",
+      "subj": "Art"
+    },
+    "4": {
+      "question": "Antoni Gaudí",
+      "exp": "s main work is the unfinished church that, before COVID, was slated to be completed by 2026: the",
+      "option_1": "Sagrada Familia",
+      "option_2": "Guantanamo",
+      "right": "Sagrada Familia",
+      "subj": "Art"
+    },
+    "5": {
+      "question": "Sagrada Familia",
+      "exp": "is located in the city of",
+      "option_1": "Madrid",
+      "option_2": "Barcelona",
+      "right": "Barcelona",
+      "subj": "Geography"
+    },
+    "6": {
+      "question": "Barcelona",
+      "exp": "is part of the Spanish autonomous region",
+      "option_1": "Juan de Fuca",
+      "option_2": "Catalonia",
+      "right": "Catalonia",
+      "subj": "Geography"
+    },
+    "7": {
+      "question": "Catalonia",
+      "exp": "is partially covered by the",
+      "option_1": "Atlas Mountains",
+      "option_2": "Pyrenees Mountains",
+      "right": "Pyrenees Mountains",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "Pyrenees Mountains",
+      "exp": "are where you would go to find the sandwiched microstate of",
+      "option_1": "Andorra",
+      "option_2": "Pandora",
+      "right": "Andorra",
+      "subj": "Geography"
+    },
+    "9": {
+      "question": "Andorra",
+      "exp": "is known for its luxurious",
+      "option_1": "Ski Resorts",
+      "option_2": "Mediterranean Beaches",
+      "right": "Ski Resorts",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "Ski Resorts",
+      "exp": "are less likely to be found in the Canadian province of Prince Edward Island compared to",
+      "option_1": "Prince Edward Island",
+      "option_2": "Quebec",
+      "right": "Quebec",
+      "subj": "Geography"
+    },
+    "11": {
+      "question": "Quebec",
+      "exp": "is home to the famous cuisine known as",
+      "option_1": "Cartailline",
+      "option_2": "Poutine",
+      "right": "Poutine",
+      "subj": "Leisure"
+    },
+    "12": {
+      "question": "Poutine",
+      "exp": "is a dish traditionally featuring French fries, gravy, and",
+      "option_1": "Cheese Curds",
+      "option_2": "Ricotta",
+      "right": "Cheese Curds",
+      "subj": "Leisure"
     }
   }
 }
