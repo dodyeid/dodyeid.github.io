@@ -1,105 +1,4 @@
-{   
-  "428": {
-    "1": {
-      "question": "The Third of May, 1808",
-      "exp": "was painted by",
-      "option_1": "Francisco de Goya",
-      "option_2": "Pablo Picasso",
-      "right": "Francisco de Goya",
-      "subj": "Art",
-      "author": "Is 'The Godfather Part III' a good film?"
-    },
-    "2": {
-      "question": "Francisco de Goya",
-      "exp": "was a painter and printmaker from",
-      "option_1": "Spain",
-      "option_2": "Brazil",
-      "right": "Spain",
-      "subj": "Art"
-    },
-    "3": {
-      "question": "Spain",
-      "exp": "was the home of one of the greatest architects of the 20th century",
-      "option_1": "Marco Aurelio",
-      "option_2": "Antoni Gaudí",
-      "right": "Antoni Gaudí",
-      "subj": "Art"
-    },
-    "4": {
-      "question": "Antoni Gaudí",
-      "exp": "s main work is the unfinished church that, before COVID, was slated to be completed by 2026: the",
-      "option_1": "Sagrada Familia",
-      "option_2": "Guantanamo",
-      "right": "Sagrada Familia",
-      "subj": "Art"
-    },
-    "5": {
-      "question": "Sagrada Familia",
-      "exp": "is located in the city of",
-      "option_1": "Madrid",
-      "option_2": "Barcelona",
-      "right": "Barcelona",
-      "subj": "Geography"
-    },
-    "6": {
-      "question": "Barcelona",
-      "exp": "is part of the Spanish autonomous region",
-      "option_1": "Juan de Fuca",
-      "option_2": "Catalonia",
-      "right": "Catalonia",
-      "subj": "Geography"
-    },
-    "7": {
-      "question": "Catalonia",
-      "exp": "is partially covered by the",
-      "option_1": "Atlas Mountains",
-      "option_2": "Pyrenees Mountains",
-      "right": "Pyrenees Mountains",
-      "subj": "Geography"
-    },
-    "8": {
-      "question": "Pyrenees Mountains",
-      "exp": "are where you would go to find the sandwiched microstate of",
-      "option_1": "Andorra",
-      "option_2": "Pandora",
-      "right": "Andorra",
-      "subj": "Geography"
-    },
-    "9": {
-      "question": "Andorra",
-      "exp": "is known for its luxurious",
-      "option_1": "Ski Resorts",
-      "option_2": "Mediterranean Beaches",
-      "right": "Ski Resorts",
-      "subj": "Geography"
-    },
-    "10": {
-      "question": "Ski Resorts",
-      "exp": "are less likely to be found in the Canadian province of Prince Edward Island compared to",
-      "option_1": "Prince Edward Island",
-      "option_2": "Quebec",
-      "right": "Quebec",
-      "subj": "Geography"
-    },
-    "11": {
-      "question": "Quebec",
-      "exp": "is home to the famous cuisine known as",
-      "option_1": "Cartailline",
-      "option_2": "Poutine",
-      "right": "Poutine",
-      "subj": "Leisure"
-    },
-    "12": {
-      "question": "Poutine",
-      "exp": "is a dish traditionally featuring French fries, gravy, and",
-      "option_1": "Cheese Curds",
-      "option_2": "Ricotta",
-      "right": "Cheese Curds",
-      "subj": "Leisure"
-    }
-  },
-
-  
+{     
   "429": {
     "1": {
       "question": "Colorado",
@@ -197,6 +96,106 @@
       "option_2": "Joko Widodo",
       "right": "Joko Widodo",
       "subj": "Politics"
+    }
+  },
+  
+  "430": {
+    "1": {
+      "question": "Life Insurance Company",
+      "exp": "is the designation of",
+      "option_1": "Prudential",
+      "option_2": "State Harm",
+      "right": "Prudential",
+      "subj": "Business",
+      "author": ""
+    },
+    "2": {
+      "question": "Prudential",
+      "exp": "uses, as its logo, the",
+      "option_1": "Rock of Gibraltar",
+      "option_2": "Mt. Everest",
+      "right": "Rock of Gibraltar",
+      "subj": "Business"
+    },
+    "3": {
+      "question": "Rock of Gibraltar",
+      "exp": "overlooks the entrance to the",
+      "option_1": "Mediterranean Sea",
+      "option_2": "Black Sea",
+      "right": "Mediterranean Sea",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "Mediterranean Sea",
+      "exp": "is the setting of the 1955 American romantic thriller",
+      "option_1": "To Catch a Spy",
+      "option_2": "To Catch a Thief",
+      "right": "To Catch a Thief",
+      "subj": "Leisure"
+    },
+    "5": {
+      "question": "To Catch a Thief",
+      "exp": "was directed by the legendary",
+      "option_1": "Alfred Nobel",
+      "option_2": "Alfred Hitchcock",
+      "right": "Alfred Hitchcock",
+      "subj": "History"
+    },
+    "6": {
+      "question": "Alfred Hitchcock",
+      "exp": "directed one of the most iconic psychological horror films of all-time,",
+      "option_1": "Leelo",
+      "option_2": "Psycho",
+      "right": "Psycho",
+      "subj": "History"
+    },
+    "7": {
+      "question": "Psycho",
+      "exp": "preceded by the word 'American' is another wild film with eccentric businessman (and psycho) Patrick Bateman played by",
+      "option_1": "Christian Bale",
+      "option_2": "Genevieve Starr",
+      "right": "Christian Bale",
+      "subj": "Pop"
+    },
+    "8": {
+      "question": "Christian Bale",
+      "exp": "is technically the stepson of",
+      "option_1": "Gloria Steinem",
+      "option_2": "Sorshibi Flaoran",
+      "right": "Gloria Steinem",
+      "subj": "Pop"
+    },
+    "9": {
+      "question": "Gloria Steinem",
+      "exp": "is the co-founder of the first national American feminist magazine, called",
+      "option_1": "Ms.",
+      "option_2": "Mrs.",
+      "right": "Ms.",
+      "subj": "History"
+    },
+    "10": {
+      "question": "Ms.",
+      "exp": "had, on its first cover, the goddess Kali from the religion of",
+      "option_1": "Hinduism",
+      "option_2": "Buddhism",
+      "right": "Hinduism",
+      "subj": "History"
+    },
+    "11": {
+      "question": "Hinduism",
+      "exp": "is also known as the eternal",
+      "option_1": "Dharma",
+      "option_2": "Verdas",
+      "right": "Dharma",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Dharma",
+      "exp": "deals with the inherit nature of",
+      "option_1": "Reality",
+      "option_2": "Probability",
+      "right": "Reality",
+      "subj": "History"
     }
   }
 }
