@@ -1,104 +1,4 @@
-{     
-  "430": {
-    "1": {
-      "question": "Life Insurance Company",
-      "exp": "is the designation of",
-      "option_1": "Prudential",
-      "option_2": "State Harm",
-      "right": "Prudential",
-      "subj": "Business",
-      "author": ""
-    },
-    "2": {
-      "question": "Prudential",
-      "exp": "uses, as its logo, the",
-      "option_1": "Rock of Gibraltar",
-      "option_2": "Mt. Everest",
-      "right": "Rock of Gibraltar",
-      "subj": "Business"
-    },
-    "3": {
-      "question": "Rock of Gibraltar",
-      "exp": "overlooks the entrance to the",
-      "option_1": "Mediterranean Sea",
-      "option_2": "Black Sea",
-      "right": "Mediterranean Sea",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "Mediterranean Sea",
-      "exp": "is the setting of the 1955 American romantic thriller",
-      "option_1": "To Catch a Spy",
-      "option_2": "To Catch a Thief",
-      "right": "To Catch a Thief",
-      "subj": "Leisure"
-    },
-    "5": {
-      "question": "To Catch a Thief",
-      "exp": "was directed by the legendary",
-      "option_1": "Alfred Nobel",
-      "option_2": "Alfred Hitchcock",
-      "right": "Alfred Hitchcock",
-      "subj": "History"
-    },
-    "6": {
-      "question": "Alfred Hitchcock",
-      "exp": "directed one of the most iconic psychological horror films of all-time,",
-      "option_1": "Leelo",
-      "option_2": "Psycho",
-      "right": "Psycho",
-      "subj": "History"
-    },
-    "7": {
-      "question": "Psycho",
-      "exp": "preceded by the word 'American' is another wild film with eccentric businessman (and psycho) Patrick Bateman played by",
-      "option_1": "Christian Bale",
-      "option_2": "Genevieve Starr",
-      "right": "Christian Bale",
-      "subj": "Pop"
-    },
-    "8": {
-      "question": "Christian Bale",
-      "exp": "is technically the stepson of",
-      "option_1": "Gloria Steinem",
-      "option_2": "Sorshibi Flaoran",
-      "right": "Gloria Steinem",
-      "subj": "Pop"
-    },
-    "9": {
-      "question": "Gloria Steinem",
-      "exp": "is the co-founder of the first national American feminist magazine, called",
-      "option_1": "Ms.",
-      "option_2": "Mrs.",
-      "right": "Ms.",
-      "subj": "History"
-    },
-    "10": {
-      "question": "Ms.",
-      "exp": "had, on its first cover, the goddess Kali from the religion of",
-      "option_1": "Hinduism",
-      "option_2": "Buddhism",
-      "right": "Hinduism",
-      "subj": "History"
-    },
-    "11": {
-      "question": "Hinduism",
-      "exp": "is also known as the eternal",
-      "option_1": "Dharma",
-      "option_2": "Verdas",
-      "right": "Dharma",
-      "subj": "History"
-    },
-    "12": {
-      "question": "Dharma",
-      "exp": "deals with the inherit nature of",
-      "option_1": "Reality",
-      "option_2": "Probability",
-      "right": "Reality",
-      "subj": "History"
-    }
-  },
-  
+{       
   "431": {
     "1": {
       "question": "Johnny Depp",
@@ -196,6 +96,107 @@
       "option_2": "Jack Dorsey",
       "right": "Jack Dorsey",
       "subj": "Business"
+    }
+  },
+
+  
+  "432": {
+    "1": {
+      "question": "The Phantom of the Opera",
+      "exp": "was originally a novel written by",
+      "option_1": "Père Lachaise Cemetery",
+      "option_2": "Gaston Leroux",
+      "right": "Gaston Leroux",
+      "subj": "Music",
+      "author": ""
+    },
+    "2": {
+      "question": "Gaston Leroux",
+      "exp": "was",
+      "option_1": "Italian",
+      "option_2": "French",
+      "right": "French",
+      "subj": "Language"
+    },
+    "3": {
+      "question": "French",
+      "exp": "was the nationality of",
+      "option_1": "King Louis IX",
+      "option_2": "King Edward I",
+      "right": "King Louis IX",
+      "subj": "History"
+    },
+    "4": {
+      "question": "King Louis IX",
+      "exp": "was the only King of France to undergo",
+      "option_1": "Canonization",
+      "option_2": "Democratization",
+      "right": "Canonization",
+      "subj": "History"
+    },
+    "5": {
+      "question": "Canonization",
+      "exp": "is the process of becoming a saint in the Catholic Church and wa, in its earliest manifestation, done to",
+      "option_1": "The Penitent Thief",
+      "option_2": "King Louis XIV",
+      "right": "The Penitent Thief",
+      "subj": "History"
+    },
+    "6": {
+      "question": "The Penitent Thief",
+      "exp": "has his feast day in the Catholic Church today (March 25) and is prominently mentioned in the 1946 film",
+      "option_1": "The Hoodlum Saint",
+      "option_2": "Friends",
+      "right": "The Hoodlum Saint",
+      "subj": "Leisure"
+    },
+    "7": {
+      "question": "The Hoodlum Saint",
+      "exp": "is an American drama film that stars",
+      "option_1": "Esther Lestrange",
+      "option_2": "William Powell",
+      "right": "William Powell",
+      "subj": "Leisure"
+    },
+    "8": {
+      "question": "William Powell",
+      "exp": "was an early American film star famous for his role in",
+      "option_1": "The Thin Man",
+      "option_2": "The Real Man",
+      "right": "The Thin Man",
+      "subj": "Leisure"
+    },
+    "9": {
+      "question": "The Thin Man",
+      "exp": "is a 1934 novel by",
+      "option_1": "Nora Jones",
+      "option_2": "Dashiell Hammett",
+      "right": "Dashiell Hammett",
+      "subj": "Literature"
+    },
+    "10": {
+      "question": "Dashiell Hammett",
+      "exp": "created the enduring detective",
+      "option_1": "Colby Club",
+      "option_2": "Sam Spade",
+      "right": "Sam Spade",
+      "subj": "Literature"
+    },
+    "11": {
+      "question": "Sam Spade",
+      "exp": "is played on screen by",
+      "option_1": "Humphrey Bogart",
+      "option_2": "William O'Connell",
+      "right": "Humphrey Bogart",
+      "subj": "Leisure"
+    },
+    "12": {
+      "question": "Humphrey Bogart",
+      "exp": "won the Academy Award for Best Actor once for his role in",
+      "option_1": "The African Queen",
+      "option_2": "The Irish King",
+      "right": "The African Queen",
+      "subj": "Leisure"
     }
   }
 }
