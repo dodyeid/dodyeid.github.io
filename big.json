@@ -1,105 +1,4 @@
 {       
-  "431": {
-    "1": {
-      "question": "Johnny Depp",
-      "exp": "portrayed",
-      "option_1": "Jack Sparrow",
-      "option_2": "Davy Jones",
-      "right": "Jack Sparrow",
-      "subj": "Pop",
-      "author": "Bayou TriviaLinked fans - thanks for your endless love and support."
-    },
-    "2": {
-      "question": "Jack Sparrow",
-      "exp": "is central to the film series Pirates of the",
-      "option_1": "Ionian",
-      "option_2": "Caribbean",
-      "right": "Caribbean",
-      "subj": "Leisure"
-    },
-    "3": {
-      "question": "Caribbean",
-      "exp": "is home to the nation of",
-      "option_1": "Easter Island",
-      "option_2": "Dominica",
-      "right": "Dominica",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "Dominica",
-      "exp": "has its capital at",
-      "option_1": "Bridgetown",
-      "option_2": "Roseau",
-      "right": "Roseau",
-      "subj": "Geography"
-    },
-    "5": {
-      "question": "Roseau",
-      "exp": "is known for its roots in the world of",
-      "option_1": "Constanza",
-      "option_2": "Creole",
-      "right": "Creole",
-      "subj": "History"
-    },
-    "6": {
-      "question": "Creole",
-      "exp": "dish:",
-      "option_1": "Gumpy",
-      "option_2": "Gumbo",
-      "right": "Gumbo",
-      "subj": "Leisure"
-    },
-    "7": {
-      "question": "Gumbo",
-      "exp": "is the official state cuisine of",
-      "option_1": "Indiana",
-      "option_2": "Louisiana",
-      "right": "Louisiana",
-      "subj": "Geography"
-    },
-    "8": {
-      "question": "Louisiana",
-      "exp": "recently legalized the sport of",
-      "option_1": "Noodling",
-      "option_2": "Terramenting",
-      "right": "Noodling",
-      "subj": "Sports"
-    },
-    "9": {
-      "question": "Noodling",
-      "exp": "involves barehanded-catching of",
-      "option_1": "Catfish",
-      "option_2": "Crabs",
-      "right": "Catfish",
-      "subj": "Sports"
-    },
-    "10": {
-      "question": "Catfish",
-      "exp": "is a term also used to describe a",
-      "option_1": "Fake SAT Score",
-      "option_2": "Fake Profile",
-      "right": "Fake Profile",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "Fake Profile",
-      "exp": "might be found on",
-      "option_1": "Twitter",
-      "option_2": "TSA Pre-Check",
-      "right": "Twitter",
-      "subj": "Business"
-    },
-    "12": {
-      "question": "Twitter",
-      "exp": "was co-founded by",
-      "option_1": "Emmett Shear",
-      "option_2": "Jack Dorsey",
-      "right": "Jack Dorsey",
-      "subj": "Business"
-    }
-  },
-
-  
   "432": {
     "1": {
       "question": "The Phantom of the Opera",
@@ -197,6 +96,107 @@
       "option_2": "The Irish King",
       "right": "The African Queen",
       "subj": "Leisure"
+    }
+  },
+
+  
+  "433": {
+    "1": {
+      "question": "Riyadh",
+      "exp": "is about 420 km away from the",
+      "option_1": "Sea of Azov",
+      "option_2": "Persian Gulf",
+      "right": "Persian Gulf",
+      "subj": "Geography",
+      "author": "Some believe Bill Gates to be an active COD player to this day."
+    },
+    "2": {
+      "question": "Persian Gulf",
+      "exp": "can be accessed from the Gulf of Oman via the",
+      "option_1": "Strait of Molucca",
+      "option_2": "Strait of Hormuz",
+      "right": "Strait of Hormuz",
+      "subj": "Geography"
+    },
+    "3": {
+      "question": "Strait of Hormuz",
+      "exp": "was once conquered by",
+      "option_1": "Norway",
+      "option_2": "Portugal",
+      "right": "Portugal",
+      "subj": "History"
+    },
+    "4": {
+      "question": "Portugal",
+      "exp": "has a national dish known as",
+      "option_1": "Cod",
+      "option_2": "Haddock",
+      "right": "Cod",
+      "subj": "Leisure"
+    },
+    "5": {
+      "question": "Cod",
+      "exp": "is also an acronym for the popular video game franchise",
+      "option_1": "Call of Duty",
+      "option_2": "Call of Dody",
+      "right": "Call of Duty",
+      "subj": "Business"
+    },
+    "6": {
+      "question": "Call of Duty",
+      "exp": "is published by",
+      "option_1": "Warner Bros.",
+      "option_2": "Activision",
+      "right": "Activision",
+      "subj": "Business"
+    },
+    "7": {
+      "question": "Activision",
+      "exp": "was purchased, in 2022, by the tech giant",
+      "option_1": "Microsoft",
+      "option_2": "Apple",
+      "right": "Microsoft",
+      "subj": "Business"
+    },
+    "8": {
+      "question": "Microsoft",
+      "exp": "was co-founded by Paul Allen and",
+      "option_1": "Bill Gates",
+      "option_2": "Steve Jobs",
+      "right": "Bill Gates",
+      "subj": "Business"
+    },
+    "9": {
+      "question": "Bill Gates",
+      "exp": "owns a large estate in Bellevue, WA nicknamed the 2.0 version of",
+      "option_1": "Delphi",
+      "option_2": "Xanadu",
+      "right": "Xanadu",
+      "subj": "Business"
+    },
+    "10": {
+      "question": "Xanadu",
+      "exp": "is the fictional estate of the powerful, wealthy, and lonely Charles Kane, the subject of Orson Welles' 1941 film",
+      "option_1": "Citizen Kane",
+      "option_2": "It's a Wonderful Life",
+      "right": "Citizen Kane",
+      "subj": "History"
+    },
+    "11": {
+      "question": "Citizen Kane",
+      "exp": "speaks the famous final words,",
+      "option_1": "Rosemary",
+      "option_2": "Rosebud",
+      "right": "Rosebud",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Rosebud",
+      "exp": "reservation is a Sioux reservation in",
+      "option_1": "South Dakota",
+      "option_2": "South Carolina",
+      "right": "South Dakota",
+      "subj": "History"
     }
   }
 }
