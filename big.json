@@ -1,105 +1,4 @@
-{       
-  "432": {
-    "1": {
-      "question": "The Phantom of the Opera",
-      "exp": "was originally a novel written by",
-      "option_1": "Père Lachaise Cemetery",
-      "option_2": "Gaston Leroux",
-      "right": "Gaston Leroux",
-      "subj": "Music",
-      "author": ""
-    },
-    "2": {
-      "question": "Gaston Leroux",
-      "exp": "was",
-      "option_1": "Italian",
-      "option_2": "French",
-      "right": "French",
-      "subj": "Language"
-    },
-    "3": {
-      "question": "French",
-      "exp": "was the nationality of",
-      "option_1": "King Louis IX",
-      "option_2": "King Edward I",
-      "right": "King Louis IX",
-      "subj": "History"
-    },
-    "4": {
-      "question": "King Louis IX",
-      "exp": "was the only King of France to undergo",
-      "option_1": "Canonization",
-      "option_2": "Democratization",
-      "right": "Canonization",
-      "subj": "History"
-    },
-    "5": {
-      "question": "Canonization",
-      "exp": "is the process of becoming a saint in the Catholic Church and wa, in its earliest manifestation, done to",
-      "option_1": "The Penitent Thief",
-      "option_2": "King Louis XIV",
-      "right": "The Penitent Thief",
-      "subj": "History"
-    },
-    "6": {
-      "question": "The Penitent Thief",
-      "exp": "has his feast day in the Catholic Church today (March 25) and is prominently mentioned in the 1946 film",
-      "option_1": "The Hoodlum Saint",
-      "option_2": "Friends",
-      "right": "The Hoodlum Saint",
-      "subj": "Leisure"
-    },
-    "7": {
-      "question": "The Hoodlum Saint",
-      "exp": "is an American drama film that stars",
-      "option_1": "Esther Lestrange",
-      "option_2": "William Powell",
-      "right": "William Powell",
-      "subj": "Leisure"
-    },
-    "8": {
-      "question": "William Powell",
-      "exp": "was an early American film star famous for his role in",
-      "option_1": "The Thin Man",
-      "option_2": "The Real Man",
-      "right": "The Thin Man",
-      "subj": "Leisure"
-    },
-    "9": {
-      "question": "The Thin Man",
-      "exp": "is a 1934 novel by",
-      "option_1": "Nora Jones",
-      "option_2": "Dashiell Hammett",
-      "right": "Dashiell Hammett",
-      "subj": "Literature"
-    },
-    "10": {
-      "question": "Dashiell Hammett",
-      "exp": "created the enduring detective",
-      "option_1": "Colby Club",
-      "option_2": "Sam Spade",
-      "right": "Sam Spade",
-      "subj": "Literature"
-    },
-    "11": {
-      "question": "Sam Spade",
-      "exp": "is played on screen by",
-      "option_1": "Humphrey Bogart",
-      "option_2": "William O'Connell",
-      "right": "Humphrey Bogart",
-      "subj": "Leisure"
-    },
-    "12": {
-      "question": "Humphrey Bogart",
-      "exp": "won the Academy Award for Best Actor once for his role in",
-      "option_1": "The African Queen",
-      "option_2": "The Irish King",
-      "right": "The African Queen",
-      "subj": "Leisure"
-    }
-  },
-
-  
+{         
   "433": {
     "1": {
       "question": "Riyadh",
@@ -197,6 +96,107 @@
       "option_2": "South Carolina",
       "right": "South Dakota",
       "subj": "History"
+    }
+  },
+
+  
+  "434": {
+    "1": {
+      "question": "Gustav Mahler",
+      "exp": "was an Austro-Bohemian Romantic",
+      "option_1": "Engineer",
+      "option_2": "Composer",
+      "right": "Composer",
+      "subj": "Music",
+      "author": ""
+    },
+    "2": {
+      "question": "Composer",
+      "exp": "was the occupation of",
+      "option_1": "Dmitri Shostakovich",
+      "option_2": "Dmitri Mendeleev",
+      "right": "Dmitri Shostakovich",
+      "subj": "Music"
+    },
+    "3": {
+      "question": "Dmitri Shostakovich",
+      "exp": "was a composer and pianist who eventually defected from the",
+      "option_1": "Tibet",
+      "option_2": "Soviet Union",
+      "right": "Soviet Union",
+      "subj": "History"
+    },
+    "4": {
+      "question": "Soviet Union",
+      "exp": "dissolved, leaving in its wake many new independent nations such as",
+      "option_1": "Armenia",
+      "option_2": "Pakistan",
+      "right": "Armenia",
+      "subj": "Geography"
+    },
+    "5": {
+      "question": "Armenia",
+      "exp": "is the origin for the last name of",
+      "option_1": "Robert Mugabe",
+      "option_2": "Kim Kardashian",
+      "right": "Kim Kardashian",
+      "subj": "Language"
+    },
+    "6": {
+      "question": "Kim Kardashian",
+      "exp": "is the daughter of",
+      "option_1": "Jeffrey Kardashian",
+      "option_2": "Robert Kardashian",
+      "right": "Robert Kardashian",
+      "subj": "Pop"
+    },
+    "7": {
+      "question": "Robert Kardashian",
+      "exp": "was a friend and defense attorney for",
+      "option_1": "Casey Anthony",
+      "option_2": "O.J. Simpson",
+      "right": "O.J. Simpson",
+      "subj": "History"
+    },
+    "8": {
+      "question": "O.J. Simpson",
+      "exp": "played primarily for the",
+      "option_1": "Buffalo Bills",
+      "option_2": "New England Patriots",
+      "right": "Buffalo Bills",
+      "subj": "Sports"
+    },
+    "9": {
+      "question": "Buffalo Bills",
+      "exp": "quarterback is",
+      "option_1": "Josh Allen",
+      "option_2": "Tim Allen",
+      "right": "Josh Allen",
+      "subj": "Sports"
+    },
+    "10": {
+      "question": "Josh Allen",
+      "exp": "played college football at the University of",
+      "option_1": "Resurrection",
+      "option_2": "Wyoming",
+      "right": "Wyoming",
+      "subj": "Sports"
+    },
+    "11": {
+      "question": "Wyoming",
+      "exp": "is home to the city of",
+      "option_1": "Cody",
+      "option_2": "Dody",
+      "right": "Cody",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "Cody",
+      "exp": "was part of the iconic 'Suite Life' television duo with",
+      "option_1": "Zack",
+      "option_2": "Ruby",
+      "right": "Zack",
+      "subj": "Leisure"
     }
   }
 }
