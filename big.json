@@ -1,105 +1,4 @@
-{         
-  "433": {
-    "1": {
-      "question": "Riyadh",
-      "exp": "is about 420 km away from the",
-      "option_1": "Sea of Azov",
-      "option_2": "Persian Gulf",
-      "right": "Persian Gulf",
-      "subj": "Geography",
-      "author": "Some believe Bill Gates to be an active COD player to this day."
-    },
-    "2": {
-      "question": "Persian Gulf",
-      "exp": "can be accessed from the Gulf of Oman via the",
-      "option_1": "Strait of Molucca",
-      "option_2": "Strait of Hormuz",
-      "right": "Strait of Hormuz",
-      "subj": "Geography"
-    },
-    "3": {
-      "question": "Strait of Hormuz",
-      "exp": "was once conquered by",
-      "option_1": "Norway",
-      "option_2": "Portugal",
-      "right": "Portugal",
-      "subj": "History"
-    },
-    "4": {
-      "question": "Portugal",
-      "exp": "has a national dish known as",
-      "option_1": "Cod",
-      "option_2": "Haddock",
-      "right": "Cod",
-      "subj": "Leisure"
-    },
-    "5": {
-      "question": "Cod",
-      "exp": "is also an acronym for the popular video game franchise",
-      "option_1": "Call of Duty",
-      "option_2": "Call of Dody",
-      "right": "Call of Duty",
-      "subj": "Business"
-    },
-    "6": {
-      "question": "Call of Duty",
-      "exp": "is published by",
-      "option_1": "Warner Bros.",
-      "option_2": "Activision",
-      "right": "Activision",
-      "subj": "Business"
-    },
-    "7": {
-      "question": "Activision",
-      "exp": "was purchased, in 2022, by the tech giant",
-      "option_1": "Microsoft",
-      "option_2": "Apple",
-      "right": "Microsoft",
-      "subj": "Business"
-    },
-    "8": {
-      "question": "Microsoft",
-      "exp": "was co-founded by Paul Allen and",
-      "option_1": "Bill Gates",
-      "option_2": "Steve Jobs",
-      "right": "Bill Gates",
-      "subj": "Business"
-    },
-    "9": {
-      "question": "Bill Gates",
-      "exp": "owns a large estate in Bellevue, WA nicknamed the 2.0 version of",
-      "option_1": "Delphi",
-      "option_2": "Xanadu",
-      "right": "Xanadu",
-      "subj": "Business"
-    },
-    "10": {
-      "question": "Xanadu",
-      "exp": "is the fictional estate of the powerful, wealthy, and lonely Charles Kane, the subject of Orson Welles' 1941 film",
-      "option_1": "Citizen Kane",
-      "option_2": "It's a Wonderful Life",
-      "right": "Citizen Kane",
-      "subj": "History"
-    },
-    "11": {
-      "question": "Citizen Kane",
-      "exp": "speaks the famous final words,",
-      "option_1": "Rosemary",
-      "option_2": "Rosebud",
-      "right": "Rosebud",
-      "subj": "History"
-    },
-    "12": {
-      "question": "Rosebud",
-      "exp": "reservation is a Sioux reservation in",
-      "option_1": "South Dakota",
-      "option_2": "South Carolina",
-      "right": "South Dakota",
-      "subj": "History"
-    }
-  },
-
-  
+{           
   "434": {
     "1": {
       "question": "Gustav Mahler",
@@ -197,6 +96,107 @@
       "option_2": "Ruby",
       "right": "Zack",
       "subj": "Leisure"
+    }
+  },
+
+  
+  "435": {
+    "1": {
+      "question": "On the Street Where You Live",
+      "exp": "is a song in",
+      "option_1": "Oklahoma!",
+      "option_2": "My Fair Lady",
+      "right": "My Fair Lady",
+      "subj": "Music",
+      "author": ""
+    },
+    "2": {
+      "question": "My Fair Lady",
+      "exp": "is a stage musical based on",
+      "option_1": "Credo",
+      "option_2": "Pygmalion",
+      "right": "Pygmalion",
+      "subj": "Music"
+    },
+    "3": {
+      "question": "Pygmalion",
+      "exp": "is a play by",
+      "option_1": "Geraldine Ferraro",
+      "option_2": "George Bernard Shaw",
+      "right": "George Bernard Shaw",
+      "subj": "Literature"
+    },
+    "4": {
+      "question": "George Bernard Shaw",
+      "exp": "also wrote",
+      "option_1": "Man and Superman",
+      "option_2": "Saint Marco",
+      "right": "Man and Superman",
+      "subj": "Literature"
+    },
+    "5": {
+      "question": "Man and Superman",
+      "exp": "opened at the",
+      "option_1": "Royal Court Theatre",
+      "option_2": "Opéra national de Paris",
+      "right": "Royal Court Theatre",
+      "subj": "History"
+    },
+    "6": {
+      "question": "Royal Court Theatre",
+      "exp": "is a non-commercial theather in",
+      "option_1": "London",
+      "option_2": "Dublin",
+      "right": "London",
+      "subj": "Geography"
+    },
+    "7": {
+      "question": "London",
+      "exp": "is on the",
+      "option_1": "Severn",
+      "option_2": "Thames",
+      "right": "Thames",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "Thames",
+      "exp": "flows into the",
+      "option_1": "Ionian Sea",
+      "option_2": "North Sea",
+      "right": "North Sea",
+      "subj": "Geography"
+    },
+    "9": {
+      "question": "North Sea",
+      "exp": "also borders",
+      "option_1": "Denmark",
+      "option_2": "Moldova",
+      "right": "Denmark",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "Denmark",
+      "exp": "was once led by King",
+      "option_1": "Philipp of Anju",
+      "option_2": "Christian X",
+      "right": "Christian X",
+      "subj": "History"
+    },
+    "11": {
+      "question": "Christian X",
+      "exp": "died in",
+      "option_1": "1947",
+      "option_2": "42",
+      "right": "1947",
+      "subj": "History"
+    },
+    "12": {
+      "question": "1947",
+      "exp": "saw the third phase of the",
+      "option_1": "American Civil War",
+      "option_2": "Greek Civil War",
+      "right": "Greek Civil War",
+      "subj": "History"
     }
   }
 }
