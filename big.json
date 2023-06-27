@@ -1,105 +1,4 @@
-{           
-  "434": {
-    "1": {
-      "question": "Gustav Mahler",
-      "exp": "was an Austro-Bohemian Romantic",
-      "option_1": "Engineer",
-      "option_2": "Composer",
-      "right": "Composer",
-      "subj": "Music",
-      "author": ""
-    },
-    "2": {
-      "question": "Composer",
-      "exp": "was the occupation of",
-      "option_1": "Dmitri Shostakovich",
-      "option_2": "Dmitri Mendeleev",
-      "right": "Dmitri Shostakovich",
-      "subj": "Music"
-    },
-    "3": {
-      "question": "Dmitri Shostakovich",
-      "exp": "was a composer and pianist who eventually defected from the",
-      "option_1": "Tibet",
-      "option_2": "Soviet Union",
-      "right": "Soviet Union",
-      "subj": "History"
-    },
-    "4": {
-      "question": "Soviet Union",
-      "exp": "dissolved, leaving in its wake many new independent nations such as",
-      "option_1": "Armenia",
-      "option_2": "Pakistan",
-      "right": "Armenia",
-      "subj": "Geography"
-    },
-    "5": {
-      "question": "Armenia",
-      "exp": "is the origin for the last name of",
-      "option_1": "Robert Mugabe",
-      "option_2": "Kim Kardashian",
-      "right": "Kim Kardashian",
-      "subj": "Language"
-    },
-    "6": {
-      "question": "Kim Kardashian",
-      "exp": "is the daughter of",
-      "option_1": "Jeffrey Kardashian",
-      "option_2": "Robert Kardashian",
-      "right": "Robert Kardashian",
-      "subj": "Pop"
-    },
-    "7": {
-      "question": "Robert Kardashian",
-      "exp": "was a friend and defense attorney for",
-      "option_1": "Casey Anthony",
-      "option_2": "O.J. Simpson",
-      "right": "O.J. Simpson",
-      "subj": "History"
-    },
-    "8": {
-      "question": "O.J. Simpson",
-      "exp": "played primarily for the",
-      "option_1": "Buffalo Bills",
-      "option_2": "New England Patriots",
-      "right": "Buffalo Bills",
-      "subj": "Sports"
-    },
-    "9": {
-      "question": "Buffalo Bills",
-      "exp": "quarterback is",
-      "option_1": "Josh Allen",
-      "option_2": "Tim Allen",
-      "right": "Josh Allen",
-      "subj": "Sports"
-    },
-    "10": {
-      "question": "Josh Allen",
-      "exp": "played college football at the University of",
-      "option_1": "Resurrection",
-      "option_2": "Wyoming",
-      "right": "Wyoming",
-      "subj": "Sports"
-    },
-    "11": {
-      "question": "Wyoming",
-      "exp": "is home to the city of",
-      "option_1": "Cody",
-      "option_2": "Dody",
-      "right": "Cody",
-      "subj": "Geography"
-    },
-    "12": {
-      "question": "Cody",
-      "exp": "was part of the iconic 'Suite Life' television duo with",
-      "option_1": "Zack",
-      "option_2": "Ruby",
-      "right": "Zack",
-      "subj": "Leisure"
-    }
-  },
-
-  
+{             
   "435": {
     "1": {
       "question": "On the Street Where You Live",
@@ -196,6 +95,107 @@
       "option_1": "American Civil War",
       "option_2": "Greek Civil War",
       "right": "Greek Civil War",
+      "subj": "History"
+    }
+  },
+
+  {
+  "436": {
+    "1": {
+      "question": "Toothpaste",
+      "exp": "brand:",
+      "option_1": "Colgate",
+      "option_2": "Brest",
+      "right": "Colgate",
+      "subj": "Business",
+      "author": ""
+    },
+    "2": {
+      "question": "Colgate",
+      "exp": "is a private liberal arts college in the New York city of",
+      "option_1": "Miami",
+      "option_2": "Hamilton",
+      "right": "Hamilton",
+      "subj": "Geography"
+    },
+    "3": {
+      "question": "Hamilton",
+      "exp": "is a musical by",
+      "option_1": "Bob Fosse",
+      "option_2": "Lin-Manuel Miranda",
+      "right": "Lin-Manuel Miranda",
+      "subj": "Music"
+    },
+    "4": {
+      "question": "Lin-Manuel Miranda",
+      "exp": "is also known for his musical",
+      "option_1": "Below Deck",
+      "option_2": "In the Heights",
+      "right": "In the Heights",
+      "subj": "Music"
+    },
+    "5": {
+      "question": "In the Heights",
+      "exp": "is a story centered around a",
+      "option_1": "Jamaican Neighborhood",
+      "option_2": "Dominican Neighborhood",
+      "right": "Dominican Neighborhood",
+      "subj": "Music"
+    },
+    "6": {
+      "question": "Dominican Neighborhood",
+      "exp": "is, by definition, definitely something you'd see in the Dominican city of",
+      "option_1": "Paramaribo",
+      "option_2": "Santo Domingo",
+      "right": "Santo Domingo",
+      "subj": "Geography"
+    },
+    "7": {
+      "question": "Santo Domingo",
+      "exp": "means",
+      "option_1": "Saint Domino",
+      "option_2": "Saint Dominic",
+      "right": "Saint Dominic",
+      "subj": "Language"
+    },
+    "8": {
+      "question": "Saint Dominic",
+      "exp": "was the founder of the Dominican Catholic order from the historical region of",
+      "option_1": "Sicily",
+      "option_2": "Castille",
+      "right": "Castille",
+      "subj": "History"
+    },
+    "9": {
+      "question": "Castille",
+      "exp": "is on the",
+      "option_1": "Iberian Peninsula",
+      "option_2": "Yucatan Peninsula",
+      "right": "Iberian Peninsula",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "Iberian Peninsula",
+      "exp": "is the location of the former Roman province in Portugal called",
+      "option_1": "Gaul",
+      "option_2": "Lusitania",
+      "right": "Lusitania",
+      "subj": "History"
+    },
+    "11": {
+      "question": "Lusitania",
+      "exp": "was a British Ocean Liner whose sinking precipitated the American involvement in",
+      "option_1": "World War I",
+      "option_2": "Vietnam War",
+      "right": "World War I",
+      "subj": "History"
+    },
+    "12": {
+      "question": "World War I",
+      "exp": "was the subject of the recent film",
+      "option_1": "1939",
+      "option_2": "1917",
+      "right": "1917",
       "subj": "History"
     }
   }
