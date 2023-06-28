@@ -1,104 +1,104 @@
-{             
-  "435": {
+{  
+  "437": {
     "1": {
-      "question": "On the Street Where You Live",
-      "exp": "is a song in",
-      "option_1": "Oklahoma!",
-      "option_2": "My Fair Lady",
-      "right": "My Fair Lady",
-      "subj": "Music",
+      "question": "Where the Crawdads Sing",
+      "exp": "is a coming-of-age murder mystery novel by",
+      "option_1": "Delia Owens",
+      "option_2": "Dean Koontz",
+      "right": "Delia Owens",
+      "subj": "Literature",
       "author": ""
     },
     "2": {
-      "question": "My Fair Lady",
-      "exp": "is a stage musical based on",
-      "option_1": "Credo",
-      "option_2": "Pygmalion",
-      "right": "Pygmalion",
-      "subj": "Music"
+      "question": "Delia Owens",
+      "exp": "is from",
+      "option_1": "United Kingdom",
+      "option_2": "America",
+      "right": "America",
+      "subj": "Literature"
     },
     "3": {
-      "question": "Pygmalion",
-      "exp": "is a play by",
-      "option_1": "Geraldine Ferraro",
-      "option_2": "George Bernard Shaw",
-      "right": "George Bernard Shaw",
-      "subj": "Literature"
+      "question": "America",
+      "exp": "was a main belligerent in the",
+      "option_1": "Russo-Japanese War",
+      "option_2": "Vietnam War",
+      "right": "Vietnam War",
+      "subj": "History"
     },
     "4": {
-      "question": "George Bernard Shaw",
-      "exp": "also wrote",
-      "option_1": "Man and Superman",
-      "option_2": "Saint Marco",
-      "right": "Man and Superman",
-      "subj": "Literature"
+      "question": "Vietnam War",
+      "exp": "temporarily saw fighting stop thanks to a peace accord named after the city of",
+      "option_1": "Paris",
+      "option_2": "Beirut",
+      "right": "Paris",
+      "subj": "History"
     },
     "5": {
-      "question": "Man and Superman",
-      "exp": "opened at the",
-      "option_1": "Royal Court Theatre",
-      "option_2": "Opéra national de Paris",
-      "right": "Royal Court Theatre",
+      "question": "Paris",
+      "exp": "was brought to its modern style during renovations in the 19th century crafted by ",
+      "option_1": "Hildermann",
+      "option_2": "Haussmann",
+      "right": "Haussmann",
       "subj": "History"
     },
     "6": {
-      "question": "Royal Court Theatre",
-      "exp": "is a non-commercial theather in",
-      "option_1": "London",
-      "option_2": "Dublin",
-      "right": "London",
-      "subj": "Geography"
+      "question": "Haussmann",
+      "exp": "is descended from families from",
+      "option_1": "Germany",
+      "option_2": "Russia",
+      "right": "Germany",
+      "subj": "History"
     },
     "7": {
-      "question": "London",
-      "exp": "is on the",
-      "option_1": "Severn",
-      "option_2": "Thames",
-      "right": "Thames",
+      "question": "Germany",
+      "exp": "is home to the city of",
+      "option_1": "Sazzleburg",
+      "option_2": "Munich",
+      "right": "Munich",
       "subj": "Geography"
     },
     "8": {
-      "question": "Thames",
-      "exp": "flows into the",
-      "option_1": "Ionian Sea",
-      "option_2": "North Sea",
-      "right": "North Sea",
-      "subj": "Geography"
+      "question": "Munich",
+      "exp": "is home to the famous soccer player",
+      "option_1": "Franz Beckenbauer",
+      "option_2": "Leon Spaninx",
+      "right": "Franz Beckenbauer",
+      "subj": "Sports"
     },
     "9": {
-      "question": "North Sea",
-      "exp": "also borders",
-      "option_1": "Denmark",
-      "option_2": "Moldova",
-      "right": "Denmark",
-      "subj": "Geography"
+      "question": "Franz Beckenbauer",
+      "exp": "won the FIFA world cup in 1974 and",
+      "option_1": "1930",
+      "option_2": "1990",
+      "right": "1990",
+      "subj": "Sports"
     },
     "10": {
-      "question": "Denmark",
-      "exp": "was once led by King",
-      "option_1": "Philipp of Anju",
-      "option_2": "Christian X",
-      "right": "Christian X",
-      "subj": "History"
+      "question": "1990",
+      "exp": "was the year when Paul Thomas Anderson released",
+      "option_1": "Planes, Trains, and Automobiles",
+      "option_2": "Magnolia",
+      "right": "Magnolia",
+      "subj": "Leisure"
     },
     "11": {
-      "question": "Christian X",
-      "exp": "died in",
-      "option_1": "1947",
-      "option_2": "42",
-      "right": "1947",
-      "subj": "History"
+      "question": "Magnolia",
+      "exp": "was directed by",
+      "option_1": "Quentin Tarantino",
+      "option_2": "Paul Thomas Anderson",
+      "right": "Paul Thomas Anderson",
+      "subj": "Leisure"
     },
     "12": {
-      "question": "1947",
-      "exp": "saw the third phase of the",
-      "option_1": "American Civil War",
-      "option_2": "Greek Civil War",
-      "right": "Greek Civil War",
-      "subj": "History"
+      "question": "Paul Thomas Anderson",
+      "exp": "also directed",
+      "option_1": "All Quiet on the Western Front",
+      "option_2": "There Will Be Blood",
+      "right": "There Will Be Blood",
+      "subj": "Leisure"
     }
   },
-
+  
   "436": {
     "1": {
       "question": "Toothpaste",
