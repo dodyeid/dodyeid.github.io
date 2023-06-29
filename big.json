@@ -99,103 +99,103 @@
     }
   },
   
-  "436": {
+  "438": {
     "1": {
-      "question": "Toothpaste",
-      "exp": "brand:",
-      "option_1": "Colgate",
-      "option_2": "Brest",
-      "right": "Colgate",
-      "subj": "Business",
+      "question": "Germany",
+      "exp": "claimed four 'protectorates' in Africa: Togo, Cameroon, German East Africa, and German West Africa (today's ",
+      "option_1": "Namibia",
+      "option_2": "São Tomé and Príncipe",
+      "right": "Namibia",
+      "subj": "History",
       "author": ""
     },
     "2": {
-      "question": "Colgate",
-      "exp": "is a private liberal arts college in the New York city of",
-      "option_1": "Miami",
-      "option_2": "Hamilton",
-      "right": "Hamilton",
-      "subj": "Geography"
+      "question": "Namibia",
+      "exp": "is where you might find",
+      "option_1": "Connolaetius",
+      "option_2": "Wildebeests",
+      "right": "Wildebeests",
+      "subj": "STEM"
     },
     "3": {
-      "question": "Hamilton",
-      "exp": "is a musical by",
-      "option_1": "Bob Fosse",
-      "option_2": "Lin-Manuel Miranda",
-      "right": "Lin-Manuel Miranda",
-      "subj": "Music"
+      "question": "Wildebeests",
+      "exp": "create the tragic stampede in",
+      "option_1": "The Lion King",
+      "option_2": "The Little Mermaid",
+      "right": "The Lion King",
+      "subj": "Leisure"
     },
     "4": {
-      "question": "Lin-Manuel Miranda",
-      "exp": "is also known for his musical",
-      "option_1": "Below Deck",
-      "option_2": "In the Heights",
-      "right": "In the Heights",
-      "subj": "Music"
+      "question": "The Lion King",
+      "exp": "has many similarities to, though is purportedly not inspired by,",
+      "option_1": "Hamlet",
+      "option_2": "Uh Oh, Othello!",
+      "right": "Hamlet",
+      "subj": "Literature"
     },
     "5": {
-      "question": "In the Heights",
-      "exp": "is a story centered around a",
-      "option_1": "Jamaican Neighborhood",
-      "option_2": "Dominican Neighborhood",
-      "right": "Dominican Neighborhood",
-      "subj": "Music"
+      "question": "Hamlet",
+      "exp": "was written by",
+      "option_1": "William Shakespeare",
+      "option_2": "Christopher Marlowe",
+      "right": "William Shakespeare",
+      "subj": "Literature"
     },
     "6": {
-      "question": "Dominican Neighborhood",
-      "exp": "is, by definition, definitely something you'd see in the Dominican city of",
-      "option_1": "Paramaribo",
-      "option_2": "Santo Domingo",
-      "right": "Santo Domingo",
-      "subj": "Geography"
+      "question": "William Shakespeare",
+      "exp": "is depicted as having a fictional love affair with Viola de Lesseps in the 1998 film",
+      "option_1": "Shakespeare in Bankruptcy",
+      "option_2": "Shakespeare in Love",
+      "right": "Shakespeare in Love",
+      "subj": "Leisure"
     },
     "7": {
-      "question": "Santo Domingo",
-      "exp": "means",
-      "option_1": "Saint Domino",
-      "option_2": "Saint Dominic",
-      "right": "Saint Dominic",
-      "subj": "Language"
+      "question": "Shakespeare in Love",
+      "exp": "was produced by",
+      "option_1": "Harvey Weinstein",
+      "option_2": "Harold Wingate",
+      "right": "Harvey Weinstein",
+      "subj": "History"
     },
     "8": {
-      "question": "Saint Dominic",
-      "exp": "was the founder of the Dominican Catholic order from the historical region of",
-      "option_1": "Sicily",
-      "option_2": "Castille",
-      "right": "Castille",
+      "question": "Harvey Weinstein",
+      "exp": "is a former film producer and convicted sex offender whose abuses were famously investigated by",
+      "option_1": "Ronan Farrow",
+      "option_2": "Clara Warrow",
+      "right": "Ronan Farrow",
       "subj": "History"
     },
     "9": {
-      "question": "Castille",
-      "exp": "is on the",
-      "option_1": "Iberian Peninsula",
-      "option_2": "Yucatan Peninsula",
-      "right": "Iberian Peninsula",
-      "subj": "Geography"
+      "question": "Ronan Farrow",
+      "exp": "was born to actress Mia Darrow and filmmaker",
+      "option_1": "Woody Allen",
+      "option_2": "Tim Allen",
+      "right": "Woody Allen",
+      "subj": "History"
     },
     "10": {
-      "question": "Iberian Peninsula",
-      "exp": "is the location of the former Roman province in Portugal called",
-      "option_1": "Gaul",
-      "option_2": "Lusitania",
-      "right": "Lusitania",
-      "subj": "History"
+      "question": "Woody Allen",
+      "exp": "directed the film Midnight in",
+      "option_1": "Paris",
+      "option_2": "Toulouse",
+      "right": "Paris",
+      "subj": "Leisure"
     },
     "11": {
-      "question": "Lusitania",
-      "exp": "was a British Ocean Liner whose sinking precipitated the American involvement in",
-      "option_1": "World War I",
-      "option_2": "Vietnam War",
-      "right": "World War I",
-      "subj": "History"
+      "question": "Paris",
+      "exp": "is a city on the",
+      "option_1": "Loire",
+      "option_2": "Seine",
+      "right": "Seine",
+      "subj": "Geography"
     },
     "12": {
-      "question": "World War I",
-      "exp": "was the subject of the recent film",
-      "option_1": "1939",
-      "option_2": "1917",
-      "right": "1917",
-      "subj": "History"
+      "question": "Seine",
+      "exp": "empties into the English Channel at the city of",
+      "option_1": "Le Havre",
+      "option_2": "Nice",
+      "right": "Le Havre",
+      "subj": "Geography"
     }
   }
 }
