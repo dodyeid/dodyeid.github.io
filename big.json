@@ -1,104 +1,4 @@
 {  
-  "438": {
-    "1": {
-      "question": "Germany",
-      "exp": "claimed four 'protectorates' in Africa: Togo, Cameroon, German East Africa, and German West Africa (today's ",
-      "option_1": "Namibia",
-      "option_2": "São Tomé and Príncipe",
-      "right": "Namibia",
-      "subj": "History",
-      "author": ""
-    },
-    "2": {
-      "question": "Namibia",
-      "exp": "is where you might find",
-      "option_1": "Connolaetius",
-      "option_2": "Wildebeests",
-      "right": "Wildebeests",
-      "subj": "STEM"
-    },
-    "3": {
-      "question": "Wildebeests",
-      "exp": "create the tragic stampede in",
-      "option_1": "The Lion King",
-      "option_2": "The Little Mermaid",
-      "right": "The Lion King",
-      "subj": "Leisure"
-    },
-    "4": {
-      "question": "The Lion King",
-      "exp": "has many similarities to, though is purportedly not inspired by,",
-      "option_1": "Hamlet",
-      "option_2": "Uh Oh, Othello!",
-      "right": "Hamlet",
-      "subj": "Literature"
-    },
-    "5": {
-      "question": "Hamlet",
-      "exp": "was written by",
-      "option_1": "William Shakespeare",
-      "option_2": "Christopher Marlowe",
-      "right": "William Shakespeare",
-      "subj": "Literature"
-    },
-    "6": {
-      "question": "William Shakespeare",
-      "exp": "is depicted as having a fictional love affair with Viola de Lesseps in the 1998 film",
-      "option_1": "Shakespeare in Bankruptcy",
-      "option_2": "Shakespeare in Love",
-      "right": "Shakespeare in Love",
-      "subj": "Leisure"
-    },
-    "7": {
-      "question": "Shakespeare in Love",
-      "exp": "was produced by",
-      "option_1": "Harvey Weinstein",
-      "option_2": "Harold Wingate",
-      "right": "Harvey Weinstein",
-      "subj": "History"
-    },
-    "8": {
-      "question": "Harvey Weinstein",
-      "exp": "is a former film producer and convicted sex offender whose abuses were famously investigated by",
-      "option_1": "Ronan Farrow",
-      "option_2": "Clara Warrow",
-      "right": "Ronan Farrow",
-      "subj": "History"
-    },
-    "9": {
-      "question": "Ronan Farrow",
-      "exp": "was born to actress Mia Darrow and filmmaker",
-      "option_1": "Woody Allen",
-      "option_2": "Tim Allen",
-      "right": "Woody Allen",
-      "subj": "History"
-    },
-    "10": {
-      "question": "Woody Allen",
-      "exp": "directed the film Midnight in",
-      "option_1": "Paris",
-      "option_2": "Toulouse",
-      "right": "Paris",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "Paris",
-      "exp": "is a city on the",
-      "option_1": "Loire",
-      "option_2": "Seine",
-      "right": "Seine",
-      "subj": "Geography"
-    },
-    "12": {
-      "question": "Seine",
-      "exp": "empties into the English Channel at the city of",
-      "option_1": "Le Havre",
-      "option_2": "Nice",
-      "right": "Le Havre",
-      "subj": "Geography"
-    }
-  },
-  
   "439": {
     "1": {
       "question": "Free Willy",
@@ -196,6 +96,106 @@
       "option_2": "Franciscan",
       "right": "Franciscan",
       "subj": "History"
+    }
+  },
+  
+  "440": {
+    "1": {
+      "question": "McDonald's",
+      "exp": "grew into the company that it is today under the leadership of",
+      "option_1": "Johnny Kroc",
+      "option_2": "Ray Kroc",
+      "right": "Ray Kroc",
+      "subj": "Business",
+      "author": ""
+    },
+    "2": {
+      "question": "Ray Kroc",
+      "exp": "was portrayed in the film 'The Founder' by the actor",
+      "option_1": "Michael Keaton",
+      "option_2": "Gary Oldman",
+      "right": "Michael Keaton",
+      "subj": "Leisure"
+    },
+    "3": {
+      "question": "Michael Keaton",
+      "exp": "is also famous for playing",
+      "option_1": "Batman",
+      "option_2": "Superman",
+      "right": "Batman",
+      "subj": "Leisure"
+    },
+    "4": {
+      "question": "Batman",
+      "exp": "frequently fights the",
+      "option_1": "Bat Spray Woman",
+      "option_2": "The Joker",
+      "right": "The Joker",
+      "subj": "Leisure"
+    },
+    "5": {
+      "question": "The Joker",
+      "exp": "was played by the legendary",
+      "option_1": "Heath Ledger",
+      "option_2": "John Wingam",
+      "right": "Heath Ledger",
+      "subj": "Pop"
+    },
+    "6": {
+      "question": "Heath Ledger",
+      "exp": "also stars in the film",
+      "option_1": "10 Things I Hate About You",
+      "option_2": "Twelve Reasons Why",
+      "right": "10 Things I Hate About You",
+      "subj": "Leisure"
+    },
+    "7": {
+      "question": "10 Things I Hate About You",
+      "exp": "is a modern twist on Shakespeare's classic,",
+      "option_1": "The Taming of the Shrooms",
+      "option_2": "The Taming of the Shrew",
+      "right": "The Taming of the Shrew",
+      "subj": "Leisure"
+    },
+    "8": {
+      "question": "The Taming of the Shrew",
+      "exp": "was written by",
+      "option_1": "William Shakespeare",
+      "option_2": "Christopher Marlowe",
+      "right": "William Shakespeare",
+      "subj": "Literature"
+    },
+    "9": {
+      "question": "William Shakespeare",
+      "exp": "also wrote the classic",
+      "option_1": "Winslet",
+      "option_2": "Hamlet",
+      "right": "Hamlet",
+      "subj": "Literature"
+    },
+    "10": {
+      "question": "Hamlet",
+      "exp": "was the Prince of",
+      "option_1": "Denmark",
+      "option_2": "Sweden",
+      "right": "Denmark",
+      "subj": "Literature"
+    },
+    "11": {
+      "question": "Denmark",
+      "exp": "is connected to Sweden via a bridge called",
+      "option_1": "Øresund",
+      "option_2": "Galmund",
+      "right": "Øresund",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "Øresund",
+      "exp": "Bridge connects the Danish city of Coppenhagen to the Swedish city of",
+      "option_1": "Gitmo",
+      "option_2": "Malmö",
+      "right": "Malmö",
+      "subj": "Geography"
     }
   }
 }
