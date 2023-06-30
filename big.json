@@ -1,104 +1,4 @@
 {  
-  "437": {
-    "1": {
-      "question": "Where the Crawdads Sing",
-      "exp": "is a coming-of-age murder mystery novel by",
-      "option_1": "Delia Owens",
-      "option_2": "Dean Koontz",
-      "right": "Delia Owens",
-      "subj": "Literature",
-      "author": ""
-    },
-    "2": {
-      "question": "Delia Owens",
-      "exp": "is from",
-      "option_1": "United Kingdom",
-      "option_2": "America",
-      "right": "America",
-      "subj": "Literature"
-    },
-    "3": {
-      "question": "America",
-      "exp": "was a main belligerent in the",
-      "option_1": "Russo-Japanese War",
-      "option_2": "Vietnam War",
-      "right": "Vietnam War",
-      "subj": "History"
-    },
-    "4": {
-      "question": "Vietnam War",
-      "exp": "temporarily saw fighting stop thanks to a peace accord named after the city of",
-      "option_1": "Paris",
-      "option_2": "Beirut",
-      "right": "Paris",
-      "subj": "History"
-    },
-    "5": {
-      "question": "Paris",
-      "exp": "was brought to its modern style during renovations in the 19th century crafted by ",
-      "option_1": "Hildermann",
-      "option_2": "Haussmann",
-      "right": "Haussmann",
-      "subj": "History"
-    },
-    "6": {
-      "question": "Haussmann",
-      "exp": "is descended from families from",
-      "option_1": "Germany",
-      "option_2": "Russia",
-      "right": "Germany",
-      "subj": "History"
-    },
-    "7": {
-      "question": "Germany",
-      "exp": "is home to the city of",
-      "option_1": "Sazzleburg",
-      "option_2": "Munich",
-      "right": "Munich",
-      "subj": "Geography"
-    },
-    "8": {
-      "question": "Munich",
-      "exp": "is home to the famous soccer player",
-      "option_1": "Franz Beckenbauer",
-      "option_2": "Leon Spaninx",
-      "right": "Franz Beckenbauer",
-      "subj": "Sports"
-    },
-    "9": {
-      "question": "Franz Beckenbauer",
-      "exp": "won the FIFA world cup in 1974 and",
-      "option_1": "1930",
-      "option_2": "1990",
-      "right": "1990",
-      "subj": "Sports"
-    },
-    "10": {
-      "question": "1990",
-      "exp": "was the year when Paul Thomas Anderson released",
-      "option_1": "Planes, Trains, and Automobiles",
-      "option_2": "Magnolia",
-      "right": "Magnolia",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "Magnolia",
-      "exp": "was directed by",
-      "option_1": "Quentin Tarantino",
-      "option_2": "Paul Thomas Anderson",
-      "right": "Paul Thomas Anderson",
-      "subj": "Leisure"
-    },
-    "12": {
-      "question": "Paul Thomas Anderson",
-      "exp": "also directed",
-      "option_1": "All Quiet on the Western Front",
-      "option_2": "There Will Be Blood",
-      "right": "There Will Be Blood",
-      "subj": "Leisure"
-    }
-  },
-  
   "438": {
     "1": {
       "question": "Germany",
@@ -196,6 +96,106 @@
       "option_2": "Nice",
       "right": "Le Havre",
       "subj": "Geography"
+    }
+  },
+  
+  "439": {
+    "1": {
+      "question": "Free Willy",
+      "exp": "is a 1993 American family drama film about an orphaned boy who befriended a captive",
+      "option_1": "Whale",
+      "option_2": "Shark",
+      "right": "Whale",
+      "subj": "Leisure",
+      "author": ""
+    },
+    "2": {
+      "question": "Whale",
+      "exp": "is the animal in which this man was said to have spent three days:",
+      "option_1": "Joshua",
+      "option_2": "Jonah",
+      "right": "Jonah",
+      "subj": "History"
+    },
+    "3": {
+      "question": "Jonah",
+      "exp": "was reportedly commanded by God to preach to the city of",
+      "option_1": "Nineveh",
+      "option_2": "Tabor",
+      "right": "Nineveh",
+      "subj": "History"
+    },
+    "4": {
+      "question": "Nineveh",
+      "exp": "is in present day",
+      "option_1": "Turkey",
+      "option_2": "Iraq",
+      "right": "Iraq",
+      "subj": "Geography"
+    },
+    "5": {
+      "question": "Iraq",
+      "exp": "is home to the historic region of",
+      "option_1": "Hyderabad",
+      "option_2": "Mesopotamia",
+      "right": "Mesopotamia",
+      "subj": "Geography"
+    },
+    "6": {
+      "question": "Mesopotamia",
+      "exp": "is known as the",
+      "option_1": "Cradle of Civilization",
+      "option_2": "Temple of Doom",
+      "right": "Cradle of Civilization",
+      "subj": "History"
+    },
+    "7": {
+      "question": "Cradle of Civilization",
+      "exp": "is a nickname also given to",
+      "option_1": "United States of America",
+      "option_2": "Ancient India",
+      "right": "Ancient India",
+      "subj": "History"
+    },
+    "8": {
+      "question": "Ancient India",
+      "exp": "in Persian is known as",
+      "option_1": "Hindustan",
+      "option_2": "Mongolia",
+      "right": "Hindustan",
+      "subj": "History"
+    },
+    "9": {
+      "question": "Hindustan",
+      "exp": "was of foremost interest to the joint-stock trading company known as the",
+      "option_1": "British East India Company",
+      "option_2": "Australian Century Company",
+      "right": "British East India Company",
+      "subj": "History"
+    },
+    "10": {
+      "question": "British East India Company",
+      "exp": "had its first voyage in 1601 commanded by",
+      "option_1": "James Lancaster",
+      "option_2": "Hernan Cortez",
+      "right": "James Lancaster",
+      "subj": "History"
+    },
+    "11": {
+      "question": "James Lancaster",
+      "exp": "commanded a fleet a ships, one of which was called the Edward",
+      "option_1": "Bonaventure",
+      "option_2": "Santa Maria",
+      "right": "Bonaventure",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Bonaventure",
+      "exp": "was an Italian Catholic",
+      "option_1": "Lutheran",
+      "option_2": "Franciscan",
+      "right": "Franciscan",
+      "subj": "History"
     }
   }
 }
