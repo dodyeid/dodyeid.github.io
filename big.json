@@ -1,104 +1,4 @@
-{  
-  "439": {
-    "1": {
-      "question": "Free Willy",
-      "exp": "is a 1993 American family drama film about an orphaned boy who befriended a captive",
-      "option_1": "Whale",
-      "option_2": "Shark",
-      "right": "Whale",
-      "subj": "Leisure",
-      "author": ""
-    },
-    "2": {
-      "question": "Whale",
-      "exp": "is the animal in which this man was said to have spent three days:",
-      "option_1": "Joshua",
-      "option_2": "Jonah",
-      "right": "Jonah",
-      "subj": "History"
-    },
-    "3": {
-      "question": "Jonah",
-      "exp": "was reportedly commanded by God to preach to the city of",
-      "option_1": "Nineveh",
-      "option_2": "Tabor",
-      "right": "Nineveh",
-      "subj": "History"
-    },
-    "4": {
-      "question": "Nineveh",
-      "exp": "is in present day",
-      "option_1": "Turkey",
-      "option_2": "Iraq",
-      "right": "Iraq",
-      "subj": "Geography"
-    },
-    "5": {
-      "question": "Iraq",
-      "exp": "is home to the historic region of",
-      "option_1": "Hyderabad",
-      "option_2": "Mesopotamia",
-      "right": "Mesopotamia",
-      "subj": "Geography"
-    },
-    "6": {
-      "question": "Mesopotamia",
-      "exp": "is known as the",
-      "option_1": "Cradle of Civilization",
-      "option_2": "Temple of Doom",
-      "right": "Cradle of Civilization",
-      "subj": "History"
-    },
-    "7": {
-      "question": "Cradle of Civilization",
-      "exp": "is a nickname also given to",
-      "option_1": "United States of America",
-      "option_2": "Ancient India",
-      "right": "Ancient India",
-      "subj": "History"
-    },
-    "8": {
-      "question": "Ancient India",
-      "exp": "in Persian is known as",
-      "option_1": "Hindustan",
-      "option_2": "Mongolia",
-      "right": "Hindustan",
-      "subj": "History"
-    },
-    "9": {
-      "question": "Hindustan",
-      "exp": "was of foremost interest to the joint-stock trading company known as the",
-      "option_1": "British East India Company",
-      "option_2": "Australian Century Company",
-      "right": "British East India Company",
-      "subj": "History"
-    },
-    "10": {
-      "question": "British East India Company",
-      "exp": "had its first voyage in 1601 commanded by",
-      "option_1": "James Lancaster",
-      "option_2": "Hernan Cortez",
-      "right": "James Lancaster",
-      "subj": "History"
-    },
-    "11": {
-      "question": "James Lancaster",
-      "exp": "commanded a fleet a ships, one of which was called the Edward",
-      "option_1": "Bonaventure",
-      "option_2": "Santa Maria",
-      "right": "Bonaventure",
-      "subj": "History"
-    },
-    "12": {
-      "question": "Bonaventure",
-      "exp": "was an Italian Catholic",
-      "option_1": "Lutheran",
-      "option_2": "Franciscan",
-      "right": "Franciscan",
-      "subj": "History"
-    }
-  },
-  
+{    
   "440": {
     "1": {
       "question": "McDonald's",
@@ -196,6 +96,106 @@
       "option_2": "Malmö",
       "right": "Malmö",
       "subj": "Geography"
+    }
+  },
+  
+  "441": {
+    "1": {
+      "question": "Jeopardy!",
+      "exp": "is a game show that was once hosted by the legendary",
+      "option_1": "Arnold Marquette",
+      "option_2": "Alex Trebek",
+      "right": "Alex Trebek",
+      "subj": "Leisure",
+      "author": ""
+    },
+    "2": {
+      "question": "Alex Trebek",
+      "exp": "is from",
+      "option_1": "Canada",
+      "option_2": "Denmark",
+      "right": "Canada",
+      "subj": "Language"
+    },
+    "3": {
+      "question": "Canada",
+      "exp": "is currently led by",
+      "option_1": "Jonathan Curtow",
+      "option_2": "Justin Trudeau",
+      "right": "Justin Trudeau",
+      "subj": "Politics"
+    },
+    "4": {
+      "question": "Justin Trudeau",
+      "exp": "was preceded by",
+      "option_1": "Donald Darker",
+      "option_2": "Stephen Harper",
+      "right": "Stephen Harper",
+      "subj": "Politics"
+    },
+    "5": {
+      "question": "Stephen Harper",
+      "exp": "was in office in the",
+      "option_1": "20th Century",
+      "option_2": "21st Century",
+      "right": "21st Century",
+      "subj": "Politics"
+    },
+    "6": {
+      "question": "21st Century",
+      "exp": "is a time during which the following intellectual was alive:",
+      "option_1": "Michel Foucault",
+      "option_2": "Noam Chomsky",
+      "right": "Noam Chomsky",
+      "subj": "Politics"
+    },
+    "7": {
+      "question": "Noam Chomsky",
+      "exp": "is known as the father of",
+      "option_1": "Hermeneutics",
+      "option_2": "Linguistics",
+      "right": "Linguistics",
+      "subj": "Language"
+    },
+    "8": {
+      "question": "Linguistics",
+      "exp": "is a discipline in which you might study",
+      "option_1": "Semantics",
+      "option_2": "Phenomonology",
+      "right": "Semantics",
+      "subj": "Language"
+    },
+    "9": {
+      "question": "Semantics",
+      "exp": "is the study of",
+      "option_1": "Eating",
+      "option_2": "Meaning",
+      "right": "Meaning",
+      "subj": "Language"
+    },
+    "10": {
+      "question": "Meaning",
+      "exp": "is a philosophical concept that we all think about, but this guy thought about it a lot:",
+      "option_1": "William Aberfore",
+      "option_2": "Thomas Aquinas",
+      "right": "Thomas Aquinas",
+      "subj": "History"
+    },
+    "11": {
+      "question": "Thomas Aquinas",
+      "exp": "is considered a",
+      "option_1": "Master of the Arts",
+      "option_2": "Doctor of the Church",
+      "right": "Doctor of the Church",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Doctor of the Church",
+      "exp": "is a title bestowed on",
+      "option_1": "Catherine of Sienna",
+      "option_2": "Saint Gregory of Nebitarsuss",
+      "right": "Catherine of Sienna",
+      "subj": "History"
     }
   }
 }
