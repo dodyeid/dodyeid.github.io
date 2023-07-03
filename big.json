@@ -1,103 +1,4 @@
 {    
-  "440": {
-    "1": {
-      "question": "McDonald's",
-      "exp": "grew into the company that it is today under the leadership of",
-      "option_1": "Johnny Kroc",
-      "option_2": "Ray Kroc",
-      "right": "Ray Kroc",
-      "subj": "Business",
-      "author": ""
-    },
-    "2": {
-      "question": "Ray Kroc",
-      "exp": "was portrayed in the film 'The Founder' by the actor",
-      "option_1": "Michael Keaton",
-      "option_2": "Gary Oldman",
-      "right": "Michael Keaton",
-      "subj": "Leisure"
-    },
-    "3": {
-      "question": "Michael Keaton",
-      "exp": "is also famous for playing",
-      "option_1": "Batman",
-      "option_2": "Superman",
-      "right": "Batman",
-      "subj": "Leisure"
-    },
-    "4": {
-      "question": "Batman",
-      "exp": "frequently fights the",
-      "option_1": "Bat Spray Woman",
-      "option_2": "The Joker",
-      "right": "The Joker",
-      "subj": "Leisure"
-    },
-    "5": {
-      "question": "The Joker",
-      "exp": "was played by the legendary",
-      "option_1": "Heath Ledger",
-      "option_2": "John Wingam",
-      "right": "Heath Ledger",
-      "subj": "Pop"
-    },
-    "6": {
-      "question": "Heath Ledger",
-      "exp": "also stars in the film",
-      "option_1": "10 Things I Hate About You",
-      "option_2": "Twelve Reasons Why",
-      "right": "10 Things I Hate About You",
-      "subj": "Leisure"
-    },
-    "7": {
-      "question": "10 Things I Hate About You",
-      "exp": "is a modern twist on Shakespeare's classic,",
-      "option_1": "The Taming of the Shrooms",
-      "option_2": "The Taming of the Shrew",
-      "right": "The Taming of the Shrew",
-      "subj": "Leisure"
-    },
-    "8": {
-      "question": "The Taming of the Shrew",
-      "exp": "was written by",
-      "option_1": "William Shakespeare",
-      "option_2": "Christopher Marlowe",
-      "right": "William Shakespeare",
-      "subj": "Literature"
-    },
-    "9": {
-      "question": "William Shakespeare",
-      "exp": "also wrote the classic",
-      "option_1": "Winslet",
-      "option_2": "Hamlet",
-      "right": "Hamlet",
-      "subj": "Literature"
-    },
-    "10": {
-      "question": "Hamlet",
-      "exp": "was the Prince of",
-      "option_1": "Denmark",
-      "option_2": "Sweden",
-      "right": "Denmark",
-      "subj": "Literature"
-    },
-    "11": {
-      "question": "Denmark",
-      "exp": "is connected to Sweden via a bridge called",
-      "option_1": "Øresund",
-      "option_2": "Galmund",
-      "right": "Øresund",
-      "subj": "Geography"
-    },
-    "12": {
-      "question": "Øresund",
-      "exp": "Bridge connects the Danish city of Coppenhagen to the Swedish city of",
-      "option_1": "Gitmo",
-      "option_2": "Malmö",
-      "right": "Malmö",
-      "subj": "Geography"
-    }
-  },
   
   "441": {
     "1": {
@@ -196,6 +97,107 @@
       "option_2": "Saint Gregory of Nebitarsuss",
       "right": "Catherine of Sienna",
       "subj": "History"
+    }
+  },
+
+  
+  "442": {
+    "1": {
+      "question": "Emma Woodhouse",
+      "exp": "is described as 'handsome, clever, and rich, with a comfortable home and a happy disposition... and had lived nearly twenty-one years in the world with very little to distress or vex her' in the opening lines of the novel Emma by",
+      "option_1": "Jane Austen",
+      "option_2": "Charlotte Brontë",
+      "right": "Jane Austen",
+      "subj": "Literature",
+      "author": ""
+    },
+    "2": {
+      "question": "Jane Austen",
+      "exp": "'s most famous novel is arguably",
+      "option_1": "Pride and Prejudice",
+      "option_2": "Scents and Sensuality",
+      "right": "Pride and Prejudice",
+      "subj": "Literature"
+    },
+    "3": {
+      "question": "Pride and Prejudice",
+      "exp": "follows the character development of",
+      "option_1": "Elizabeth Bennet",
+      "option_2": "Henrietta Lacks",
+      "right": "Elizabeth Bennet",
+      "subj": "Literature"
+    },
+    "4": {
+      "question": "Elizabeth Bennet",
+      "exp": "was portrayed in 2005 by",
+      "option_1": "Jenna Barry",
+      "option_2": "Keira Knightley",
+      "right": "Keira Knightley",
+      "subj": "Leisure"
+    },
+    "5": {
+      "question": "Keira Knightley",
+      "exp": "achieved global stardom for playing Elizabeth Swann in the swashbuckler fantasy series",
+      "option_1": "Pirates of the Caribbean",
+      "option_2": "The Phantom Chalice",
+      "right": "Pirates of the Caribbean",
+      "subj": "Pop"
+    },
+    "6": {
+      "question": "Pirates of the Caribbean",
+      "exp": "is a film series following the adventures of",
+      "option_1": "Captain Jack Sparrow",
+      "option_2": "Captain Amber Heard",
+      "right": "Captain Jack Sparrow",
+      "subj": "Pop"
+    },
+    "7": {
+      "question": "Captain Jack Sparrow",
+      "exp": "was played by",
+      "option_1": "Johnny Depp",
+      "option_2": "Orlando Bloom",
+      "right": "Johnny Depp",
+      "subj": "Pop"
+    },
+    "8": {
+      "question": "Johnny Depp",
+      "exp": "received absolutely no publicity for his disputes with",
+      "option_1": "Amber Heard",
+      "option_2": "Amber Felt",
+      "right": "Amber Heard",
+      "subj": "Pop"
+    },
+    "9": {
+      "question": "Amber Heard",
+      "exp": "plays Mera in the",
+      "option_1": "Marvel Cinematic Universe",
+      "option_2": "DC Universe",
+      "right": "DC Universe",
+      "subj": "Pop"
+    },
+    "10": {
+      "question": "DC Universe",
+      "exp": "includes the film",
+      "option_1": "Spiderman 2",
+      "option_2": "Batman v Superman: Dawn of Justice",
+      "right": "Batman v Superman: Dawn of Justice",
+      "subj": "Pop"
+    },
+    "11": {
+      "question": "Batman v Superman: Dawn of Justice",
+      "exp": "includes this actor as Batman:",
+      "option_1": "Ben Affleck",
+      "option_2": "Amy Poehler",
+      "right": "Ben Affleck",
+      "subj": "Pop"
+    },
+    "12": {
+      "question": "Ben Affleck",
+      "exp": "gained worldwide recognition when he and Matt Damon won the Golden Globe and Academy Award for Best Original Screenplay for writing",
+      "option_1": "Fargo",
+      "option_2": "Good Will Hunting",
+      "right": "Good Will Hunting",
+      "subj": "Pop"
     }
   }
 }
