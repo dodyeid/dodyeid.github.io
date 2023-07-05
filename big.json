@@ -1,105 +1,4 @@
-{      
-  "442": {
-    "1": {
-      "question": "Emma Woodhouse",
-      "exp": "is described as 'handsome, clever, and rich, with a comfortable home and a happy disposition... and had lived nearly twenty-one years in the world with very little to distress or vex her' in the opening lines of the novel Emma by",
-      "option_1": "Jane Austen",
-      "option_2": "Charlotte Brontë",
-      "right": "Jane Austen",
-      "subj": "Literature",
-      "author": ""
-    },
-    "2": {
-      "question": "Jane Austen",
-      "exp": "'s most famous novel is arguably",
-      "option_1": "Pride and Prejudice",
-      "option_2": "Scents and Sensuality",
-      "right": "Pride and Prejudice",
-      "subj": "Literature"
-    },
-    "3": {
-      "question": "Pride and Prejudice",
-      "exp": "follows the character development of",
-      "option_1": "Elizabeth Bennet",
-      "option_2": "Henrietta Lacks",
-      "right": "Elizabeth Bennet",
-      "subj": "Literature"
-    },
-    "4": {
-      "question": "Elizabeth Bennet",
-      "exp": "was portrayed in 2005 by",
-      "option_1": "Jenna Barry",
-      "option_2": "Keira Knightley",
-      "right": "Keira Knightley",
-      "subj": "Leisure"
-    },
-    "5": {
-      "question": "Keira Knightley",
-      "exp": "achieved global stardom for playing Elizabeth Swann in the swashbuckler fantasy series",
-      "option_1": "Pirates of the Caribbean",
-      "option_2": "The Phantom Chalice",
-      "right": "Pirates of the Caribbean",
-      "subj": "Pop"
-    },
-    "6": {
-      "question": "Pirates of the Caribbean",
-      "exp": "is a film series following the adventures of",
-      "option_1": "Captain Jack Sparrow",
-      "option_2": "Captain Amber Heard",
-      "right": "Captain Jack Sparrow",
-      "subj": "Pop"
-    },
-    "7": {
-      "question": "Captain Jack Sparrow",
-      "exp": "was played by",
-      "option_1": "Johnny Depp",
-      "option_2": "Orlando Bloom",
-      "right": "Johnny Depp",
-      "subj": "Pop"
-    },
-    "8": {
-      "question": "Johnny Depp",
-      "exp": "received absolutely no publicity for his disputes with",
-      "option_1": "Amber Heard",
-      "option_2": "Amber Felt",
-      "right": "Amber Heard",
-      "subj": "Pop"
-    },
-    "9": {
-      "question": "Amber Heard",
-      "exp": "plays Mera in the",
-      "option_1": "Marvel Cinematic Universe",
-      "option_2": "DC Universe",
-      "right": "DC Universe",
-      "subj": "Pop"
-    },
-    "10": {
-      "question": "DC Universe",
-      "exp": "includes the film",
-      "option_1": "Spiderman 2",
-      "option_2": "Batman v Superman: Dawn of Justice",
-      "right": "Batman v Superman: Dawn of Justice",
-      "subj": "Pop"
-    },
-    "11": {
-      "question": "Batman v Superman: Dawn of Justice",
-      "exp": "includes this actor as Batman:",
-      "option_1": "Ben Affleck",
-      "option_2": "Amy Poehler",
-      "right": "Ben Affleck",
-      "subj": "Pop"
-    },
-    "12": {
-      "question": "Ben Affleck",
-      "exp": "gained worldwide recognition when he and Matt Damon won the Golden Globe and Academy Award for Best Original Screenplay for writing",
-      "option_1": "Fargo",
-      "option_2": "Good Will Hunting",
-      "right": "Good Will Hunting",
-      "subj": "Pop"
-    }
-  },
-
-  
+{       
   "443": {
     "1": {
       "question": "Apple",
@@ -197,6 +96,107 @@
       "option_2": "Hudson River",
       "right": "Hudson River",
       "subj": "Geography"
+    }
+  },
+
+  
+  "444": {
+    "1": {
+      "question": "Richard Wagner",
+      "exp": "had his own opera house built for the production of his operas. It's called the Bayreuth Festspielhaus, and it's located in the German town of",
+      "option_1": "Stalingrad",
+      "option_2": "Bayreuth",
+      "right": "Bayreuth",
+      "subj": "Music",
+      "author": "A perfect score today is extremely impressive. Not that it never is."
+    },
+    "2": {
+      "question": "Bayreuth",
+      "exp": "has a name nearly identical to the capital of",
+      "option_1": "Lebanon",
+      "option_2": "Algeria",
+      "right": "Lebanon",
+      "subj": "Geography"
+    },
+    "3": {
+      "question": "Lebanon",
+      "exp": "is famous for its large, historic, and biblical",
+      "option_1": "Pine Trees",
+      "option_2": "Cedar Trees",
+      "right": "Cedar Trees",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "Cedar Trees",
+      "exp": "are native to the mountains of the western Himalayas and the",
+      "option_1": "Japan",
+      "option_2": "Mediterranean",
+      "right": "Mediterranean",
+      "subj": "Geography"
+    },
+    "5": {
+      "question": "Mediterranean",
+      "exp": "Sea touches",
+      "option_1": "Switzerland",
+      "option_2": "Croatia",
+      "right": "Croatia",
+      "subj": "Geography"
+    },
+    "6": {
+      "question": "Croatia",
+      "exp": "is the home of the famous soccer player",
+      "option_1": "Yann Sommer",
+      "option_2": "Luka Modric",
+      "right": "Luka Modric",
+      "subj": "Language"
+    },
+    "7": {
+      "question": "Luka Modric",
+      "exp": "plays as a midfielder for the La Liga soccer club",
+      "option_1": "Manchester City",
+      "option_2": "Real Madrid",
+      "right": "Real Madrid",
+      "subj": "Sports"
+    },
+    "8": {
+      "question": "Real Madrid",
+      "exp": "is a team based in the country of",
+      "option_1": "Italy",
+      "option_2": "Spain",
+      "right": "Spain",
+      "subj": "Sports"
+    },
+    "9": {
+      "question": "Spain",
+      "exp": "is the home of artist",
+      "option_1": "António de Oliveira Salazar",
+      "option_2": "Salvador Dalí",
+      "right": "Salvador Dalí",
+      "subj": "Art"
+    },
+    "10": {
+      "question": "Salvador Dalí",
+      "exp": "once said 'The difference between a madman and me is that I am not mad' a year before he painted his melting work,",
+      "option_1": "The Insistence of Being",
+      "option_2": "The Persistence of Memory",
+      "right": "The Persistence of Memory",
+      "subj": "Art"
+    },
+    "11": {
+      "question": "The Persistence of Memory",
+      "exp": "features melting",
+      "option_1": "Clocks",
+      "option_2": "Skis",
+      "right": "Clocks",
+      "subj": "Music"
+    },
+    "12": {
+      "question": "Clocks",
+      "exp": "is a song by the British rock band",
+      "option_1": "U2",
+      "option_2": "Coldplay",
+      "right": "Coldplay",
+      "subj": "Music"
     }
   }
 }
