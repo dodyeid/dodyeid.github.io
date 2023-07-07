@@ -1,105 +1,4 @@
-{         
-  "444": {
-    "1": {
-      "question": "Richard Wagner",
-      "exp": "had his own opera house built for the production of his operas. It's called the Bayreuth Festspielhaus, and it's located in the German town of",
-      "option_1": "Stalingrad",
-      "option_2": "Bayreuth",
-      "right": "Bayreuth",
-      "subj": "Music",
-      "author": "A perfect score today is extremely impressive. Not that it never is."
-    },
-    "2": {
-      "question": "Bayreuth",
-      "exp": "has a name nearly identical to the capital of",
-      "option_1": "Lebanon",
-      "option_2": "Algeria",
-      "right": "Lebanon",
-      "subj": "Geography"
-    },
-    "3": {
-      "question": "Lebanon",
-      "exp": "is famous for its large, historic, and biblical",
-      "option_1": "Pine Trees",
-      "option_2": "Cedar Trees",
-      "right": "Cedar Trees",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "Cedar Trees",
-      "exp": "are native to the mountains of the western Himalayas and the",
-      "option_1": "Japan",
-      "option_2": "Mediterranean",
-      "right": "Mediterranean",
-      "subj": "Geography"
-    },
-    "5": {
-      "question": "Mediterranean",
-      "exp": "Sea touches",
-      "option_1": "Switzerland",
-      "option_2": "Croatia",
-      "right": "Croatia",
-      "subj": "Geography"
-    },
-    "6": {
-      "question": "Croatia",
-      "exp": "is the home of the famous soccer player",
-      "option_1": "Yann Sommer",
-      "option_2": "Luka Modric",
-      "right": "Luka Modric",
-      "subj": "Language"
-    },
-    "7": {
-      "question": "Luka Modric",
-      "exp": "plays as a midfielder for the La Liga soccer club",
-      "option_1": "Manchester City",
-      "option_2": "Real Madrid",
-      "right": "Real Madrid",
-      "subj": "Sports"
-    },
-    "8": {
-      "question": "Real Madrid",
-      "exp": "is a team based in the country of",
-      "option_1": "Italy",
-      "option_2": "Spain",
-      "right": "Spain",
-      "subj": "Sports"
-    },
-    "9": {
-      "question": "Spain",
-      "exp": "is the home of artist",
-      "option_1": "António de Oliveira Salazar",
-      "option_2": "Salvador Dalí",
-      "right": "Salvador Dalí",
-      "subj": "Art"
-    },
-    "10": {
-      "question": "Salvador Dalí",
-      "exp": "once said 'The difference between a madman and me is that I am not mad' a year before he painted his melting work,",
-      "option_1": "The Insistence of Being",
-      "option_2": "The Persistence of Memory",
-      "right": "The Persistence of Memory",
-      "subj": "Art"
-    },
-    "11": {
-      "question": "The Persistence of Memory",
-      "exp": "features melting",
-      "option_1": "Clocks",
-      "option_2": "Skis",
-      "right": "Clocks",
-      "subj": "Music"
-    },
-    "12": {
-      "question": "Clocks",
-      "exp": "is a song by the British rock band",
-      "option_1": "U2",
-      "option_2": "Coldplay",
-      "right": "Coldplay",
-      "subj": "Music"
-    }
-  },
-
-  
+{           
   "445": {
     "1": {
       "question": "Blank Space",
@@ -197,6 +96,107 @@
       "option_2": "Anthropic Principle",
       "right": "Fungi",
       "subj": "STEM"
+    }
+  },
+
+  
+  "446": {
+    "1": {
+      "question": "Dave Ramsey",
+      "exp": "is a expert (or villain?) on",
+      "option_1": "Rafael Cruz",
+      "option_2": "Money",
+      "right": "Money",
+      "subj": "Pop",
+      "author": ""
+    },
+    "2": {
+      "question": "Money",
+      "exp": "comes in many currencies, one of which is the",
+      "option_1": "Libra",
+      "option_2": "Shekel",
+      "right": "Shekel",
+      "subj": "Business"
+    },
+    "3": {
+      "question": "Shekel",
+      "exp": "is the currency of",
+      "option_1": "Israel",
+      "option_2": "Iraq",
+      "right": "Israel",
+      "subj": "Business"
+    },
+    "4": {
+      "question": "Israel",
+      "exp": "borders the",
+      "option_1": "Sea of Galilee",
+      "option_2": "Sea of Okhotz",
+      "right": "Sea of Galilee",
+      "subj": "Geography"
+    },
+    "5": {
+      "question": "Sea of Galilee",
+      "exp": "is the body of water overlooked by the old fishing village",
+      "option_1": "Tel Aviv-Yafo",
+      "option_2": "Capernaum",
+      "right": "Capernaum",
+      "subj": "Geography"
+    },
+    "6": {
+      "question": "Capernaum",
+      "exp": "was a frequent location for the works of",
+      "option_1": "Jesus",
+      "option_2": "Phil Collins",
+      "right": "Jesus",
+      "subj": "History"
+    },
+    "7": {
+      "question": "Jesus",
+      "exp": "was born in",
+      "option_1": "Zero",
+      "option_2": "46",
+      "right": "Zero",
+      "subj": "History"
+    },
+    "8": {
+      "question": "Zero",
+      "exp": "as a numeral was first found by",
+      "option_1": "Brahmagupta",
+      "option_2": "Brahmaputra",
+      "right": "Brahmagupta",
+      "subj": "History"
+    },
+    "9": {
+      "question": "Brahmagupta",
+      "exp": "was",
+      "option_1": "Buddhist",
+      "option_2": "Hindu",
+      "right": "Hindu",
+      "subj": "History"
+    },
+    "10": {
+      "question": "Hindu",
+      "exp": "gods include",
+      "option_1": "Boaz",
+      "option_2": "Vishnu",
+      "right": "Vishnu",
+      "subj": "History"
+    },
+    "11": {
+      "question": "Vishnu",
+      "exp": "is known as the",
+      "option_1": "Preserver",
+      "option_2": "Destroyer",
+      "right": "Preserver",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Preserver",
+      "exp": "in Italian is",
+      "option_1": "Distruttore",
+      "option_2": "Conservatore",
+      "right": "Conservatore",
+      "subj": "Language"
     }
   }
 }
