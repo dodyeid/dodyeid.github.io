@@ -1,105 +1,4 @@
 {           
-  "445": {
-    "1": {
-      "question": "Blank Space",
-      "exp": "is a song by",
-      "option_1": "Justin Bieber",
-      "option_2": "Taylor Swift",
-      "right": "Taylor Swift",
-      "subj": "Music",
-      "author": ""
-    },
-    "2": {
-      "question": "Taylor Swift",
-      "exp": "is named after",
-      "option_1": "Zachary Taylor",
-      "option_2": "James Taylor",
-      "right": "James Taylor",
-      "subj": "Music"
-    },
-    "3": {
-      "question": "James Taylor",
-      "exp": "covered 'You've Got A Friend' by",
-      "option_1": "Carole King",
-      "option_2": "Billie Jean King",
-      "right": "Carole King",
-      "subj": "Music"
-    },
-    "4": {
-      "question": "Carole King",
-      "exp": "told him… you make me feel like",
-      "option_1": "An Unnatural Nature",
-      "option_2": "A Natural Woman",
-      "right": "A Natural Woman",
-      "subj": "Music"
-    },
-    "5": {
-      "question": "A Natural Woman",
-      "exp": "features vocals and a",
-      "option_1": "Guitar",
-      "option_2": "Piano",
-      "right": "Piano",
-      "subj": "Music"
-    },
-    "6": {
-      "question": "Piano",
-      "exp": "is a fairly popular instrument, and one of its best players today is",
-      "option_1": "Yuja Wang",
-      "option_2": "Jeremy Akin",
-      "right": "Yuja Wang",
-      "subj": "Music"
-    },
-    "7": {
-      "question": "Yuja Wang",
-      "exp": "was born in",
-      "option_1": "Beijing",
-      "option_2": "Tokyo",
-      "right": "Beijing",
-      "subj": "Language"
-    },
-    "8": {
-      "question": "Beijing",
-      "exp": "is where you'd go to find",
-      "option_1": "Tiananmen Square",
-      "option_2": "Irrawady River",
-      "right": "Tiananmen Square",
-      "subj": "Geography"
-    },
-    "9": {
-      "question": "Tiananmen Square",
-      "exp": "is where you'd find the",
-      "option_1": "Great Hall of Dien Bien",
-      "option_2": "Mausoleum of Mao Zedong",
-      "right": "Mausoleum of Mao Zedong",
-      "subj": "Geography"
-    },
-    "10": {
-      "question": "Mausoleum of Mao Zedong",
-      "exp": "is where you can find Mao subject to",
-      "option_1": "Taxidermy",
-      "option_2": "Embalming",
-      "right": "Embalming",
-      "subj": "STEM"
-    },
-    "11": {
-      "question": "Embalming",
-      "exp": "is the art and science of preserving human remains by treating them to forestall",
-      "option_1": "Decomposition",
-      "option_2": "Deconstruction",
-      "right": "Decomposition",
-      "subj": "Language"
-    },
-    "12": {
-      "question": "Decomposition",
-      "exp": "is a favorite pastime for",
-      "option_1": "Fungi",
-      "option_2": "Anthropic Principle",
-      "right": "Fungi",
-      "subj": "STEM"
-    }
-  },
-
-  
   "446": {
     "1": {
       "question": "Dave Ramsey",
@@ -197,6 +96,107 @@
       "option_2": "Conservatore",
       "right": "Conservatore",
       "subj": "Language"
+    }
+  },
+
+  
+  "447": {
+    "1": {
+      "question": "Levitating",
+      "exp": "is a song by",
+      "option_1": "Dua Lipa",
+      "option_2": "Duo Lingo",
+      "right": "Dua Lipa",
+      "subj": "Music",
+      "author": ""
+    },
+    "2": {
+      "question": "Dua Lipa",
+      "exp": "was born in",
+      "option_1": "Bucharest",
+      "option_2": "London",
+      "right": "London",
+      "subj": "Pop"
+    },
+    "3": {
+      "question": "London",
+      "exp": "is the home of",
+      "option_1": "Adele",
+      "option_2": "Adelaide",
+      "right": "Adele",
+      "subj": "Pop"
+    },
+    "4": {
+      "question": "Adele",
+      "exp": "wrote",
+      "option_1": "Hello",
+      "option_2": "Goodbye",
+      "right": "Hello",
+      "subj": "Pop"
+    },
+    "5": {
+      "question": "Hello",
+      "exp": "Goodbye is a song by the",
+      "option_1": "Beatles",
+      "option_2": "Beetles",
+      "right": "Beatles",
+      "subj": "Pop"
+    },
+    "6": {
+      "question": "Beatles",
+      "exp": "drummer was Ringo",
+      "option_1": "Harelson",
+      "option_2": "Starr",
+      "right": "Starr",
+      "subj": "Pop"
+    },
+    "7": {
+      "question": "Starr",
+      "exp": "(first name Ken) was an American lawyer and judge who authored the Starr Report, which led to the impeachment of",
+      "option_1": "Richard Nixon",
+      "option_2": "Bill Clinton",
+      "right": "Bill Clinton",
+      "subj": "History"
+    },
+    "8": {
+      "question": "Bill Clinton",
+      "exp": "was born in",
+      "option_1": "Seneca Falls, New York",
+      "option_2": "Hope, Arkansas",
+      "right": "Hope, Arkansas",
+      "subj": "History"
+    },
+    "9": {
+      "question": "Hope, Arkansas",
+      "exp": "population is estimated to be around",
+      "option_1": "10000",
+      "option_2": "100000",
+      "right": "10000",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "10000",
+      "exp": "is a",
+      "option_1": "Natural Number",
+      "option_2": "Fibonacci Series",
+      "right": "Natural Number",
+      "subj": "STEM"
+    },
+    "11": {
+      "question": "Natural Number",
+      "exp": "can be represented with",
+      "option_1": "Pi",
+      "option_2": "Fingers",
+      "right": "Fingers",
+      "subj": "STEM"
+    },
+    "12": {
+      "question": "Fingers",
+      "exp": "in lady variety can be found in the Italian dessert",
+      "option_1": "Tiramisu",
+      "option_2": "Tuna Tartare",
+      "right": "Tiramisu",
+      "subj": "Leisure"
     }
   }
 }
