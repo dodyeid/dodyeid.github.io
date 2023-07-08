@@ -1,105 +1,4 @@
-{           
-  "446": {
-    "1": {
-      "question": "Dave Ramsey",
-      "exp": "is an expert (or villain?) on",
-      "option_1": "Rafael Cruz",
-      "option_2": "Money",
-      "right": "Money",
-      "subj": "Pop",
-      "author": ""
-    },
-    "2": {
-      "question": "Money",
-      "exp": "comes in many currencies, one of which is the",
-      "option_1": "Libra",
-      "option_2": "Shekel",
-      "right": "Shekel",
-      "subj": "Business"
-    },
-    "3": {
-      "question": "Shekel",
-      "exp": "is the currency of",
-      "option_1": "Israel",
-      "option_2": "Iraq",
-      "right": "Israel",
-      "subj": "Business"
-    },
-    "4": {
-      "question": "Israel",
-      "exp": "borders the",
-      "option_1": "Sea of Galilee",
-      "option_2": "Sea of Okhotz",
-      "right": "Sea of Galilee",
-      "subj": "Geography"
-    },
-    "5": {
-      "question": "Sea of Galilee",
-      "exp": "is the body of water overlooked by the old fishing village",
-      "option_1": "Tel Aviv-Yafo",
-      "option_2": "Capernaum",
-      "right": "Capernaum",
-      "subj": "Geography"
-    },
-    "6": {
-      "question": "Capernaum",
-      "exp": "was a frequent location for the works of",
-      "option_1": "Jesus",
-      "option_2": "Phil Collins",
-      "right": "Jesus",
-      "subj": "History"
-    },
-    "7": {
-      "question": "Jesus",
-      "exp": "was born in the year",
-      "option_1": "Zero",
-      "option_2": "46",
-      "right": "Zero",
-      "subj": "History"
-    },
-    "8": {
-      "question": "Zero",
-      "exp": "as a numeral was first found by",
-      "option_1": "Brahmagupta",
-      "option_2": "Brahmaputra",
-      "right": "Brahmagupta",
-      "subj": "History"
-    },
-    "9": {
-      "question": "Brahmagupta",
-      "exp": "was",
-      "option_1": "Buddhist",
-      "option_2": "Hindu",
-      "right": "Hindu",
-      "subj": "History"
-    },
-    "10": {
-      "question": "Hindu",
-      "exp": "gods include",
-      "option_1": "Boaz",
-      "option_2": "Vishnu",
-      "right": "Vishnu",
-      "subj": "History"
-    },
-    "11": {
-      "question": "Vishnu",
-      "exp": "is known as the",
-      "option_1": "Preserver",
-      "option_2": "Destroyer",
-      "right": "Preserver",
-      "subj": "History"
-    },
-    "12": {
-      "question": "Preserver",
-      "exp": "in Italian is",
-      "option_1": "Distruttore",
-      "option_2": "Conservatore",
-      "right": "Conservatore",
-      "subj": "Language"
-    }
-  },
-
-  
+{       
   "447": {
     "1": {
       "question": "Levitating",
@@ -197,6 +96,107 @@
       "option_2": "Tuna Tartare",
       "right": "Tiramisu",
       "subj": "Leisure"
+    }
+  },
+
+  
+  "448": {
+    "1": {
+      "question": "Tears in Heaven",
+      "exp": "is a tragic song written by",
+      "option_1": "Jimi Hendrix",
+      "option_2": "Eric Clapton",
+      "right": "Eric Clapton",
+      "subj": "Music",
+      "author": ""
+    },
+    "2": {
+      "question": "Eric Clapton",
+      "exp": "is a writer and lead vocalist for the song",
+      "option_1": "Carla",
+      "option_2": "Layla",
+      "right": "Layla",
+      "subj": "Music"
+    },
+    "3": {
+      "question": "Layla",
+      "exp": "is the Hebrew and Arabic word for",
+      "option_1": "Night",
+      "option_2": "Day",
+      "right": "Night",
+      "subj": "Language"
+    },
+    "4": {
+      "question": "Night",
+      "exp": "is a chilling autobiographical account of survival in a Nazi death camp by",
+      "option_1": "Elie Wiesel",
+      "option_2": "Neil Gaiman",
+      "right": "Elie Wiesel",
+      "subj": "Literature"
+    },
+    "5": {
+      "question": "Elie Wiesel",
+      "exp": "was a professor of humanities at",
+      "option_1": "Wharton School of Finance",
+      "option_2": "Boston University",
+      "right": "Boston University",
+      "subj": "Literature"
+    },
+    "6": {
+      "question": "Boston University",
+      "exp": "is the alma mater of",
+      "option_1": "Alexandria Ocasio-Cortez",
+      "option_2": "Catherine Cortez Matso",
+      "right": "Alexandria Ocasio-Cortez",
+      "subj": "Politics"
+    },
+    "7": {
+      "question": "Alexandria Ocasio-Cortez",
+      "exp": "is a U.S. representative for New York's 14th congressional district in",
+      "option_1": "Albany",
+      "option_2": "New York City",
+      "right": "New York City",
+      "subj": "Politics"
+    },
+    "8": {
+      "question": "New York City",
+      "exp": "is the subject of the 2009 pop hit",
+      "option_1": "Empire State of Mind",
+      "option_2": "Georgia on My Mind",
+      "right": "Empire State of Mind",
+      "subj": "Music"
+    },
+    "9": {
+      "question": "Empire State of Mind",
+      "exp": "is a song performed by Jay-Z and",
+      "option_1": "Alicia Keys",
+      "option_2": "Mariah Carey",
+      "right": "Alicia Keys",
+      "subj": "Music"
+    },
+    "10": {
+      "question": "Alicia Keys",
+      "exp": "released her debut album in 2001 called",
+      "option_1": "Songs in A Minor",
+      "option_2": "Justified",
+      "right": "Songs in A Minor",
+      "subj": "Music"
+    },
+    "11": {
+      "question": "Songs in A Minor",
+      "exp": "has songs entirely written, arranged, and produced by Alicia Keys herself, who was a",
+      "option_1": "Classically Trained Pianist",
+      "option_2": "Classically Trained Violinist",
+      "right": "Classically Trained Pianist",
+      "subj": "Music"
+    },
+    "12": {
+      "question": "Classically Trained Pianist",
+      "exp": "is how one might describe",
+      "option_1": "Chopin",
+      "option_2": "Emile Dupont",
+      "right": "Chopin",
+      "subj": "Music"
     }
   }
 }
