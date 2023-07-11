@@ -1,105 +1,4 @@
-{        
-  "448": {
-    "1": {
-      "question": "Tears in Heaven",
-      "exp": "is a tragic song written by",
-      "option_1": "Jimi Hendrix",
-      "option_2": "Eric Clapton",
-      "right": "Eric Clapton",
-      "subj": "Music",
-      "author": ""
-    },
-    "2": {
-      "question": "Eric Clapton",
-      "exp": "is a writer and lead vocalist for the song",
-      "option_1": "Carla",
-      "option_2": "Layla",
-      "right": "Layla",
-      "subj": "Music"
-    },
-    "3": {
-      "question": "Layla",
-      "exp": "is the Hebrew and Arabic word for",
-      "option_1": "Night",
-      "option_2": "Day",
-      "right": "Night",
-      "subj": "Language"
-    },
-    "4": {
-      "question": "Night",
-      "exp": "is a chilling autobiographical account of survival in a Nazi death camp by",
-      "option_1": "Elie Wiesel",
-      "option_2": "Neil Gaiman",
-      "right": "Elie Wiesel",
-      "subj": "Literature"
-    },
-    "5": {
-      "question": "Elie Wiesel",
-      "exp": "was a professor of humanities at",
-      "option_1": "Wharton School of Finance",
-      "option_2": "Boston University",
-      "right": "Boston University",
-      "subj": "Literature"
-    },
-    "6": {
-      "question": "Boston University",
-      "exp": "is the alma mater of",
-      "option_1": "Alexandria Ocasio-Cortez",
-      "option_2": "Catherine Cortez Matso",
-      "right": "Alexandria Ocasio-Cortez",
-      "subj": "Politics"
-    },
-    "7": {
-      "question": "Alexandria Ocasio-Cortez",
-      "exp": "is a U.S. representative for New York's 14th congressional district in",
-      "option_1": "Albany",
-      "option_2": "New York City",
-      "right": "New York City",
-      "subj": "Politics"
-    },
-    "8": {
-      "question": "New York City",
-      "exp": "is the subject of the 2009 pop hit",
-      "option_1": "Empire State of Mind",
-      "option_2": "Georgia on My Mind",
-      "right": "Empire State of Mind",
-      "subj": "Music"
-    },
-    "9": {
-      "question": "Empire State of Mind",
-      "exp": "is a song performed by Jay-Z and",
-      "option_1": "Alicia Keys",
-      "option_2": "Mariah Carey",
-      "right": "Alicia Keys",
-      "subj": "Music"
-    },
-    "10": {
-      "question": "Alicia Keys",
-      "exp": "released her debut album in 2001 called",
-      "option_1": "Songs in A Minor",
-      "option_2": "Justified",
-      "right": "Songs in A Minor",
-      "subj": "Music"
-    },
-    "11": {
-      "question": "Songs in A Minor",
-      "exp": "has songs entirely written, arranged, and produced by Alicia Keys herself, who was a",
-      "option_1": "Classically Trained Pianist",
-      "option_2": "Classically Trained Violinist",
-      "right": "Classically Trained Pianist",
-      "subj": "Music"
-    },
-    "12": {
-      "question": "Classically Trained Pianist",
-      "exp": "is how one might describe",
-      "option_1": "Chopin",
-      "option_2": "Emile Dupont",
-      "right": "Chopin",
-      "subj": "Music"
-    }
-  },
-
-  
+{          
   "449": {
     "1": {
       "question": "Philip II",
@@ -197,6 +96,107 @@
       "option_2": "Paris",
       "right": "Paris",
       "subj": "Pop"
+    }
+  },
+
+  
+  "450": {
+    "1": {
+      "question": "Dickens",
+      "exp": "wrote about London and",
+      "option_1": "Dubrovnik",
+      "option_2": "Paris",
+      "right": "Paris",
+      "subj": "Literature",
+      "author": ""
+    },
+    "2": {
+      "question": "Paris",
+      "exp": "is on the",
+      "option_1": "Seine",
+      "option_2": "Loire",
+      "right": "Seine",
+      "subj": "Geography"
+    },
+    "3": {
+      "question": "Seine",
+      "exp": "empties at the port of",
+      "option_1": "Le Havre",
+      "option_2": "Cordoba",
+      "right": "Le Havre",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "Le Havre",
+      "exp": "is one point along the",
+      "option_1": "Tour de France",
+      "option_2": "Tour de Campignon",
+      "right": "Tour de France",
+      "subj": "Sports"
+    },
+    "5": {
+      "question": "Tour de France",
+      "exp": "has some notable records set by",
+      "option_1": "Eddy Merckx",
+      "option_2": "Donovan Summer",
+      "right": "Eddy Merckx",
+      "subj": "Sports"
+    },
+    "6": {
+      "question": "Eddy Merckx",
+      "exp": "is from",
+      "option_1": "Belgium",
+      "option_2": "Canada",
+      "right": "Belgium",
+      "subj": "Language"
+    },
+    "7": {
+      "question": "Belgium",
+      "exp": "is where you'd find the ethnic group",
+      "option_1": "Walloons",
+      "option_2": "Balloons",
+      "right": "Walloons",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "Walloons",
+      "exp": "speak",
+      "option_1": "French",
+      "option_2": "Spanish",
+      "right": "French",
+      "subj": "Language"
+    },
+    "9": {
+      "question": "French",
+      "exp": "is the first language of",
+      "option_1": "Inspector Gadget",
+      "option_2": "Inspector Clouseau",
+      "right": "Inspector Clouseau",
+      "subj": "Leisure"
+    },
+    "10": {
+      "question": "Inspector Clouseau",
+      "exp": "spends his days chasing the",
+      "option_1": "Pink Panther",
+      "option_2": "Scarlett Letter",
+      "right": "Pink Panther",
+      "subj": "Leisure"
+    },
+    "11": {
+      "question": "Pink Panther",
+      "exp": "theme song features a",
+      "option_1": "Saxophone",
+      "option_2": "Trombone",
+      "right": "Saxophone",
+      "subj": "Music"
+    },
+    "12": {
+      "question": "Saxophone",
+      "exp": "was played by the iconic",
+      "option_1": "John Coltrane",
+      "option_2": "Trumpet",
+      "right": "John Coltrane",
+      "subj": "Music"
     }
   }
 }
