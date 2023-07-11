@@ -1,105 +1,4 @@
-{          
-  "449": {
-    "1": {
-      "question": "Philip II",
-      "exp": "was the king of",
-      "option_1": "Spain",
-      "option_2": "Romania",
-      "right": "Spain",
-      "subj": "History",
-      "author": ""
-    },
-    "2": {
-      "question": "Spain",
-      "exp": "borders the tiny country of",
-      "option_1": "Andorra",
-      "option_2": "Malta",
-      "right": "Andorra",
-      "subj": "Geography"
-    },
-    "3": {
-      "question": "Andorra",
-      "exp": "is located in the mountain range known as the",
-      "option_1": "Taklimakan",
-      "option_2": "Pyrenees",
-      "right": "Pyrenees",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "Pyrenees",
-      "exp": "in the 'Great' variety is a",
-      "option_1": "Dog Breed",
-      "option_2": "African Tiger",
-      "right": "Dog Breed",
-      "subj": "STEM"
-    },
-    "5": {
-      "question": "Dog Breed",
-      "exp": "s come in many varieities. One of which is the",
-      "option_1": "Chihulyan",
-      "option_2": "Pomeranian",
-      "right": "Pomeranian",
-      "subj": "STEM"
-    },
-    "6": {
-      "question": "Pomeranian",
-      "exp": "is a dog breed that has been made popular by a number of royal owners since the 18th century, including",
-      "option_1": "Edgar Allen Schmoe",
-      "option_2": "Queen Victoria",
-      "right": "Queen Victoria",
-      "subj": "History"
-    },
-    "7": {
-      "question": "Queen Victoria",
-      "exp": "was the first British monarch to ever celebrate 60 years on the thrown, also known as her",
-      "option_1": "Diamond Jubilee",
-      "option_2": "Longest Serving British Monarch",
-      "right": "Diamond Jubilee",
-      "subj": "History"
-    },
-    "8": {
-      "question": "Diamond Jubilee",
-      "exp": "was also celebrated in 2012 for 60 years of rule by",
-      "option_1": "King Charles I",
-      "option_2": "Queen Elizabeth II",
-      "right": "Queen Elizabeth II",
-      "subj": "History"
-    },
-    "9": {
-      "question": "Queen Elizabeth II",
-      "exp": "lived to see the age of",
-      "option_1": "101",
-      "option_2": "96",
-      "right": "96",
-      "subj": "History"
-    },
-    "10": {
-      "question": "96",
-      "exp": "is the current age of",
-      "option_1": "Tony Bennett",
-      "option_2": "Benny Andersson",
-      "right": "Tony Bennett",
-      "subj": "Pop"
-    },
-    "11": {
-      "question": "Tony Bennett",
-      "exp": "has his first top-10 record in 1962 for the song",
-      "option_1": "Under the Weeping Sun",
-      "option_2": "I Left My Heart in San Francisco",
-      "right": "I Left My Heart in San Francisco",
-      "subj": "Pop"
-    },
-    "12": {
-      "question": "I Left My Heart in San Francisco",
-      "exp": "mentions, right at the start, 'the loveliness of",
-      "option_1": "Rome",
-      "option_2": "Paris",
-      "right": "Paris",
-      "subj": "Pop"
-    }
-  },
-
-  
+{     
   "450": {
     "1": {
       "question": "Dickens",
@@ -197,6 +96,107 @@
       "option_2": "Trumpet",
       "right": "John Coltrane",
       "subj": "Music"
+    }
+  },
+
+  
+  "451": {
+    "1": {
+      "question": "Bruce Springsteen",
+      "exp": "wrote the melodramatic song",
+      "option_1": "Walk Like a Man",
+      "option_2": "Warring Men",
+      "right": "Walk Like a Man",
+      "subj": "Music",
+      "author": ""
+    },
+    "2": {
+      "question": "Walk Like a Man",
+      "exp": "is an oldies pop song by",
+      "option_1": "The Four Seasons",
+      "option_2": "The Red Diner",
+      "right": "The Four Seasons",
+      "subj": "Music"
+    },
+    "3": {
+      "question": "The Four Seasons",
+      "exp": "features the iconic falsetto of",
+      "option_1": "Timothy Darden",
+      "option_2": "Frankie Valli",
+      "right": "Frankie Valli",
+      "subj": "Pop"
+    },
+    "4": {
+      "question": "Frankie Valli",
+      "exp": "is known for his unusually powerful lead",
+      "option_1": "Andante",
+      "option_2": "Falsetto",
+      "right": "Falsetto",
+      "subj": "Music"
+    },
+    "5": {
+      "question": "Falsetto",
+      "exp": "is a",
+      "option_1": "Anthropic Principle",
+      "option_2": "Vocal Register",
+      "right": "Vocal Register",
+      "subj": "Music"
+    },
+    "6": {
+      "question": "Vocal Register",
+      "exp": "includes the normal voice, known as",
+      "option_1": "Modal",
+      "option_2": "Temporal",
+      "right": "Modal",
+      "subj": "STEM"
+    },
+    "7": {
+      "question": "Modal",
+      "exp": "means relating not to substance but rather",
+      "option_1": "Substance",
+      "option_2": "Form",
+      "right": "Form",
+      "subj": "Language"
+    },
+    "8": {
+      "question": "Form",
+      "exp": "is a synonym of",
+      "option_1": "Transinstantation",
+      "option_2": "Configuration",
+      "right": "Configuration",
+      "subj": "Language"
+    },
+    "9": {
+      "question": "Configuration",
+      "exp": "is not a class in Harry Potter (you were thinking Transfiguration), but instead is more suited as a word to denote a structure of",
+      "option_1": "Electrons",
+      "option_2": "Harry Potter",
+      "right": "Electrons",
+      "subj": "STEM"
+    },
+    "10": {
+      "question": "Electrons",
+      "exp": "were discovered in the cathode ray experiment by",
+      "option_1": "J.J. Watt",
+      "option_2": "J.J. Thomson",
+      "right": "J.J. Thomson",
+      "subj": "History"
+    },
+    "11": {
+      "question": "J.J. Thomson",
+      "exp": "was a",
+      "option_1": "Nobel Laureate",
+      "option_2": "Prime Minister",
+      "right": "Nobel Laureate",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Nobel Laureate",
+      "exp": "was a title established under the will of Alfred Nobel, a multi-disciplinary expert from",
+      "option_1": "Sweden",
+      "option_2": "Nauru",
+      "right": "Sweden",
+      "subj": "History"
     }
   }
 }
