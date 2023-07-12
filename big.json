@@ -1,105 +1,4 @@
-{     
-  "450": {
-    "1": {
-      "question": "Dickens",
-      "exp": "wrote about London and",
-      "option_1": "Dubrovnik",
-      "option_2": "Paris",
-      "right": "Paris",
-      "subj": "Literature",
-      "author": ""
-    },
-    "2": {
-      "question": "Paris",
-      "exp": "is on the",
-      "option_1": "Seine",
-      "option_2": "Loire",
-      "right": "Seine",
-      "subj": "Geography"
-    },
-    "3": {
-      "question": "Seine",
-      "exp": "empties at the port of",
-      "option_1": "Le Havre",
-      "option_2": "Cordoba",
-      "right": "Le Havre",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "Le Havre",
-      "exp": "is one point along the",
-      "option_1": "Tour de France",
-      "option_2": "Tour de Campignon",
-      "right": "Tour de France",
-      "subj": "Sports"
-    },
-    "5": {
-      "question": "Tour de France",
-      "exp": "has some notable records set by",
-      "option_1": "Eddy Merckx",
-      "option_2": "Donovan Summer",
-      "right": "Eddy Merckx",
-      "subj": "Sports"
-    },
-    "6": {
-      "question": "Eddy Merckx",
-      "exp": "is from",
-      "option_1": "Belgium",
-      "option_2": "Canada",
-      "right": "Belgium",
-      "subj": "Language"
-    },
-    "7": {
-      "question": "Belgium",
-      "exp": "is where you'd find the ethnic group",
-      "option_1": "Walloons",
-      "option_2": "Balloons",
-      "right": "Walloons",
-      "subj": "Geography"
-    },
-    "8": {
-      "question": "Walloons",
-      "exp": "speak",
-      "option_1": "French",
-      "option_2": "Spanish",
-      "right": "French",
-      "subj": "Language"
-    },
-    "9": {
-      "question": "French",
-      "exp": "is the first language of",
-      "option_1": "Inspector Gadget",
-      "option_2": "Inspector Clouseau",
-      "right": "Inspector Clouseau",
-      "subj": "Leisure"
-    },
-    "10": {
-      "question": "Inspector Clouseau",
-      "exp": "spends his days chasing the",
-      "option_1": "Pink Panther",
-      "option_2": "Scarlett Letter",
-      "right": "Pink Panther",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "Pink Panther",
-      "exp": "theme song features a",
-      "option_1": "Saxophone",
-      "option_2": "Trombone",
-      "right": "Saxophone",
-      "subj": "Music"
-    },
-    "12": {
-      "question": "Saxophone",
-      "exp": "was played by the iconic",
-      "option_1": "John Coltrane",
-      "option_2": "Trumpet",
-      "right": "John Coltrane",
-      "subj": "Music"
-    }
-  },
-
-  
+{       
   "451": {
     "1": {
       "question": "Bruce Springsteen",
@@ -196,6 +95,107 @@
       "option_1": "Sweden",
       "option_2": "Nauru",
       "right": "Sweden",
+      "subj": "History"
+    }
+  },
+
+  
+  "452": {
+    "1": {
+      "question": "Pennsylvania",
+      "exp": "is home to the city of",
+      "option_1": "Philadelphia",
+      "option_2": "Yakima",
+      "right": "Philadelphia",
+      "subj": "Geography",
+      "author": ""
+    },
+    "2": {
+      "question": "Philadelphia",
+      "exp": "is home to the MLB team the",
+      "option_1": "Phillies",
+      "option_2": "Panthers",
+      "right": "Phillies",
+      "subj": "Sports"
+    },
+    "3": {
+      "question": "Phillies",
+      "exp": "had a somewhat famous dude named",
+      "option_1": "Mike Schmidt",
+      "option_2": "Karl Anderson",
+      "right": "Mike Schmidt",
+      "subj": "Sports"
+    },
+    "4": {
+      "question": "Mike Schmidt",
+      "exp": "was born in",
+      "option_1": "Ohio",
+      "option_2": "Hokkaido",
+      "right": "Ohio",
+      "subj": "Language"
+    },
+    "5": {
+      "question": "Ohio",
+      "exp": "currently has a Senator named",
+      "option_1": "J.D. Vance",
+      "option_2": "Howard Dean",
+      "right": "J.D. Vance",
+      "subj": "Politics"
+    },
+    "6": {
+      "question": "J.D. Vance",
+      "exp": "wrote",
+      "option_1": "In the Willamette",
+      "option_2": "Hillbilly Elegy",
+      "right": "Hillbilly Elegy",
+      "subj": "Literature"
+    },
+    "7": {
+      "question": "Hillbilly Elegy",
+      "exp": "is a",
+      "option_1": "Memoir",
+      "option_2": "Romance",
+      "right": "Memoir",
+      "subj": "Literature"
+    },
+    "8": {
+      "question": "Memoir",
+      "exp": "is the genre of",
+      "option_1": "The Invisible Neighbor",
+      "option_2": "Educated",
+      "right": "Educated",
+      "subj": "Literature"
+    },
+    "9": {
+      "question": "Educated",
+      "exp": "was written by",
+      "option_1": "Tara Westover",
+      "option_2": "Tamara Westover",
+      "right": "Tara Westover",
+      "subj": "Language"
+    },
+    "10": {
+      "question": "Tara Westover",
+      "exp": "was raised in",
+      "option_1": "U.S. Virgin Islands",
+      "option_2": "Idaho",
+      "right": "Idaho",
+      "subj": "Literature"
+    },
+    "11": {
+      "question": "Idaho",
+      "exp": "has its highest point at",
+      "option_1": "Borah Peak",
+      "option_2": "Mount Marcy",
+      "right": "Borah Peak",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "Borah Peak",
+      "exp": "is named after the 19th century Republican progressive",
+      "option_1": "William Borah",
+      "option_2": "Theodore Borah",
+      "right": "William Borah",
       "subj": "History"
     }
   }
