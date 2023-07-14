@@ -1,105 +1,4 @@
 {       
-  "451": {
-    "1": {
-      "question": "Bruce Springsteen",
-      "exp": "wrote the melodramatic song",
-      "option_1": "Walk Like a Man",
-      "option_2": "Warring Men",
-      "right": "Walk Like a Man",
-      "subj": "Music",
-      "author": ""
-    },
-    "2": {
-      "question": "Walk Like a Man",
-      "exp": "is an oldies pop song by",
-      "option_1": "The Four Seasons",
-      "option_2": "The Red Diner",
-      "right": "The Four Seasons",
-      "subj": "Music"
-    },
-    "3": {
-      "question": "The Four Seasons",
-      "exp": "features the iconic falsetto of",
-      "option_1": "Timothy Darden",
-      "option_2": "Frankie Valli",
-      "right": "Frankie Valli",
-      "subj": "Pop"
-    },
-    "4": {
-      "question": "Frankie Valli",
-      "exp": "is known for his unusually powerful lead",
-      "option_1": "Andante",
-      "option_2": "Falsetto",
-      "right": "Falsetto",
-      "subj": "Music"
-    },
-    "5": {
-      "question": "Falsetto",
-      "exp": "is a",
-      "option_1": "Anthropic Principle",
-      "option_2": "Vocal Register",
-      "right": "Vocal Register",
-      "subj": "Music"
-    },
-    "6": {
-      "question": "Vocal Register",
-      "exp": "includes the normal voice, known as",
-      "option_1": "Modal",
-      "option_2": "Temporal",
-      "right": "Modal",
-      "subj": "STEM"
-    },
-    "7": {
-      "question": "Modal",
-      "exp": "means relating not to substance but rather",
-      "option_1": "Substance",
-      "option_2": "Form",
-      "right": "Form",
-      "subj": "Language"
-    },
-    "8": {
-      "question": "Form",
-      "exp": "is a synonym of",
-      "option_1": "Transinstantation",
-      "option_2": "Configuration",
-      "right": "Configuration",
-      "subj": "Language"
-    },
-    "9": {
-      "question": "Configuration",
-      "exp": "is not a class in Harry Potter (you were thinking Transfiguration), but instead is more suited as a word to denote a structure of",
-      "option_1": "Electrons",
-      "option_2": "Harry Potter",
-      "right": "Electrons",
-      "subj": "STEM"
-    },
-    "10": {
-      "question": "Electrons",
-      "exp": "were discovered in the cathode ray experiment by",
-      "option_1": "J.J. Watt",
-      "option_2": "J.J. Thomson",
-      "right": "J.J. Thomson",
-      "subj": "History"
-    },
-    "11": {
-      "question": "J.J. Thomson",
-      "exp": "was a",
-      "option_1": "Nobel Laureate",
-      "option_2": "Prime Minister",
-      "right": "Nobel Laureate",
-      "subj": "History"
-    },
-    "12": {
-      "question": "Nobel Laureate",
-      "exp": "was a title established under the will of Alfred Nobel, a multi-disciplinary expert from",
-      "option_1": "Sweden",
-      "option_2": "Nauru",
-      "right": "Sweden",
-      "subj": "History"
-    }
-  },
-
-  
   "452": {
     "1": {
       "question": "Pennsylvania",
@@ -197,6 +96,106 @@
       "option_2": "Theodore Borah",
       "right": "William Borah",
       "subj": "History"
+    }
+  },
+  
+  "453": {
+    "1": {
+      "question": "Justin Timberlake",
+      "exp": "wrote the song",
+      "option_1": "Up and Down the Town",
+      "option_2": "What Goes Around Comes Around",
+      "right": "What Goes Around Comes Around",
+      "subj": "Pop",
+      "author": ""
+    },
+    "2": {
+      "question": "What Goes Around Comes Around",
+      "exp": "is an",
+      "option_1": "Idiom",
+      "option_2": "Idiot",
+      "right": "Idiom",
+      "subj": "Language"
+    },
+    "3": {
+      "question": "Idiom",
+      "exp": "for example:",
+      "option_1": "Break a leg",
+      "option_2": "Dawn of Don",
+      "right": "Break a leg",
+      "subj": "Language"
+    },
+    "4": {
+      "question": "Break a leg",
+      "exp": "is something you might hear in",
+      "option_1": "Theater",
+      "option_2": "White Collar",
+      "right": "Theater",
+      "subj": "Language"
+    },
+    "5": {
+      "question": "Theater",
+      "exp": "is where one might watch",
+      "option_1": "Our Town",
+      "option_2": "Our House",
+      "right": "Our Town",
+      "subj": "Literature"
+    },
+    "6": {
+      "question": "Our Town",
+      "exp": "is a play by",
+      "option_1": "Franklin Donaghue",
+      "option_2": "Thornton Wilder",
+      "right": "Thornton Wilder",
+      "subj": "Literature"
+    },
+    "7": {
+      "question": "Thornton Wilder",
+      "exp": "won a Pulitzer Prize for the novel",
+      "option_1": "The Power and the Glory",
+      "option_2": "The Bridge of San Luis",
+      "right": "The Bridge of San Luis",
+      "subj": "Literature"
+    },
+    "8": {
+      "question": "The Bridge of San Luis",
+      "exp": "in French would be about",
+      "option_1": "Saint Louis",
+      "option_2": "Saint Dominic",
+      "right": "Saint Louis",
+      "subj": "Language"
+    },
+    "9": {
+      "question": "Saint Louis",
+      "exp": "is home to the MLB team",
+      "option_1": "The Brewers",
+      "option_2": "The Cardinals",
+      "right": "The Cardinals",
+      "subj": "Sports"
+    },
+    "10": {
+      "question": "The Cardinals",
+      "exp": "was the team of",
+      "option_1": "Puyol",
+      "option_2": "Albert Pujols",
+      "right": "Albert Pujols",
+      "subj": "Sports"
+    },
+    "11": {
+      "question": "Albert Pujols",
+      "exp": "was American-",
+      "option_1": "Argentinian",
+      "option_2": "Dominican",
+      "right": "Dominican",
+      "subj": "Sports"
+    },
+    "12": {
+      "question": "Dominican",
+      "exp": "is the type of bachata music given to the world by",
+      "option_1": "Antonio Salazar",
+      "option_2": "Luis Vargas",
+      "right": "Luis Vargas",
+      "subj": "Pop"
     }
   }
 }
