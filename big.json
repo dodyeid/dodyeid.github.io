@@ -1,104 +1,4 @@
-{       
-  "452": {
-    "1": {
-      "question": "Pennsylvania",
-      "exp": "is home to the city of",
-      "option_1": "Philadelphia",
-      "option_2": "Yakima",
-      "right": "Philadelphia",
-      "subj": "Geography",
-      "author": ""
-    },
-    "2": {
-      "question": "Philadelphia",
-      "exp": "is home to the MLB team the",
-      "option_1": "Phillies",
-      "option_2": "Panthers",
-      "right": "Phillies",
-      "subj": "Sports"
-    },
-    "3": {
-      "question": "Phillies",
-      "exp": "had a somewhat famous dude named",
-      "option_1": "Mike Schmidt",
-      "option_2": "Karl Anderson",
-      "right": "Mike Schmidt",
-      "subj": "Sports"
-    },
-    "4": {
-      "question": "Mike Schmidt",
-      "exp": "was born in",
-      "option_1": "Ohio",
-      "option_2": "Hokkaido",
-      "right": "Ohio",
-      "subj": "Language"
-    },
-    "5": {
-      "question": "Ohio",
-      "exp": "currently has a Senator named",
-      "option_1": "J.D. Vance",
-      "option_2": "Howard Dean",
-      "right": "J.D. Vance",
-      "subj": "Politics"
-    },
-    "6": {
-      "question": "J.D. Vance",
-      "exp": "wrote",
-      "option_1": "In the Willamette",
-      "option_2": "Hillbilly Elegy",
-      "right": "Hillbilly Elegy",
-      "subj": "Literature"
-    },
-    "7": {
-      "question": "Hillbilly Elegy",
-      "exp": "is a",
-      "option_1": "Memoir",
-      "option_2": "Romance",
-      "right": "Memoir",
-      "subj": "Literature"
-    },
-    "8": {
-      "question": "Memoir",
-      "exp": "is the genre of",
-      "option_1": "The Invisible Neighbor",
-      "option_2": "Educated",
-      "right": "Educated",
-      "subj": "Literature"
-    },
-    "9": {
-      "question": "Educated",
-      "exp": "was written by",
-      "option_1": "Tara Westover",
-      "option_2": "Tamara Westover",
-      "right": "Tara Westover",
-      "subj": "Language"
-    },
-    "10": {
-      "question": "Tara Westover",
-      "exp": "was raised in",
-      "option_1": "U.S. Virgin Islands",
-      "option_2": "Idaho",
-      "right": "Idaho",
-      "subj": "Literature"
-    },
-    "11": {
-      "question": "Idaho",
-      "exp": "has its highest point at",
-      "option_1": "Borah Peak",
-      "option_2": "Mount Marcy",
-      "right": "Borah Peak",
-      "subj": "Geography"
-    },
-    "12": {
-      "question": "Borah Peak",
-      "exp": "is named after the 19th century Republican progressive",
-      "option_1": "William Borah",
-      "option_2": "Theodore Borah",
-      "right": "William Borah",
-      "subj": "History"
-    }
-  },
-  
+{         
   "453": {
     "1": {
       "question": "Justin Timberlake",
@@ -196,6 +96,107 @@
       "option_2": "Luis Vargas",
       "right": "Luis Vargas",
       "subj": "Pop"
+    }
+  },
+
+  
+  "454": {
+    "1": {
+      "question": "Patrick Mahomes",
+      "exp": "is the quarterback for the",
+      "option_1": "Titans",
+      "option_2": "Chiefs",
+      "right": "Chiefs",
+      "subj": "Sports",
+      "author": ""
+    },
+    "2": {
+      "question": "Chiefs",
+      "exp": "are the NFL team for",
+      "option_1": "Kansas City",
+      "option_2": "Minneapolis",
+      "right": "Kansas City",
+      "subj": "Sports"
+    },
+    "3": {
+      "question": "Kansas City",
+      "exp": "is a city on the",
+      "option_1": "Missouri River",
+      "option_2": "Mississippi River",
+      "right": "Missouri River",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "Missouri River",
+      "exp": "showed the way for the expedition of",
+      "option_1": "Johnny and Bert",
+      "option_2": "Lewis and Clark",
+      "right": "Lewis and Clark",
+      "subj": "History"
+    },
+    "5": {
+      "question": "Lewis and Clark",
+      "exp": "set off in the year",
+      "option_1": "1828",
+      "option_2": "1804",
+      "right": "1804",
+      "subj": "History"
+    },
+    "6": {
+      "question": "1804",
+      "exp": "is the year when the world witnessed the",
+      "option_1": "First Barbary War",
+      "option_2": "Seven Years' War",
+      "right": "First Barbary War",
+      "subj": "History"
+    },
+    "7": {
+      "question": "First Barbary War",
+      "exp": "took place off the coast of",
+      "option_1": "India",
+      "option_2": "Libya",
+      "right": "Libya",
+      "subj": "History"
+    },
+    "8": {
+      "question": "Libya",
+      "exp": "was the country that saw the rule of Muammar",
+      "option_1": "Ghazali",
+      "option_2": "Gaddafi",
+      "right": "Gaddafi",
+      "subj": "Politics"
+    },
+    "9": {
+      "question": "Gaddafi",
+      "exp": "was born to a family of the nomadic tribe known as",
+      "option_1": "Bin Hamzin",
+      "option_2": "Bedouin",
+      "right": "Bedouin",
+      "subj": "Politics"
+    },
+    "10": {
+      "question": "Bedouin",
+      "exp": "people might be found in the nation of",
+      "option_1": "Kuwait",
+      "option_2": "Tajikistan",
+      "right": "Kuwait",
+      "subj": "Geography"
+    },
+    "11": {
+      "question": "Kuwait",
+      "exp": "is located on the",
+      "option_1": "Persian Gulf",
+      "option_2": "Red Sea",
+      "right": "Persian Gulf",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "Persian Gulf",
+      "exp": "is connected to the Gulf of Oman and the Arabian Sea via the",
+      "option_1": "Strait of Hormuz",
+      "option_2": "Strait of Malacca",
+      "right": "Strait of Hormuz",
+      "subj": "Geography"
     }
   }
 }
