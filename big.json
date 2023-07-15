@@ -1,105 +1,4 @@
-{         
-  "453": {
-    "1": {
-      "question": "Justin Timberlake",
-      "exp": "wrote the song",
-      "option_1": "Up and Down the Town",
-      "option_2": "What Goes Around Comes Around",
-      "right": "What Goes Around Comes Around",
-      "subj": "Pop",
-      "author": ""
-    },
-    "2": {
-      "question": "What Goes Around Comes Around",
-      "exp": "is an",
-      "option_1": "Idiom",
-      "option_2": "Idiot",
-      "right": "Idiom",
-      "subj": "Language"
-    },
-    "3": {
-      "question": "Idiom",
-      "exp": "for example:",
-      "option_1": "Break a leg",
-      "option_2": "Dawn of Don",
-      "right": "Break a leg",
-      "subj": "Language"
-    },
-    "4": {
-      "question": "Break a leg",
-      "exp": "is something you might hear in",
-      "option_1": "Theater",
-      "option_2": "White Collar",
-      "right": "Theater",
-      "subj": "Language"
-    },
-    "5": {
-      "question": "Theater",
-      "exp": "is where one might watch",
-      "option_1": "Our Town",
-      "option_2": "Our House",
-      "right": "Our Town",
-      "subj": "Literature"
-    },
-    "6": {
-      "question": "Our Town",
-      "exp": "is a play by",
-      "option_1": "Franklin Donaghue",
-      "option_2": "Thornton Wilder",
-      "right": "Thornton Wilder",
-      "subj": "Literature"
-    },
-    "7": {
-      "question": "Thornton Wilder",
-      "exp": "won a Pulitzer Prize for the novel",
-      "option_1": "The Power and the Glory",
-      "option_2": "The Bridge of San Luis",
-      "right": "The Bridge of San Luis",
-      "subj": "Literature"
-    },
-    "8": {
-      "question": "The Bridge of San Luis",
-      "exp": "in French would be about",
-      "option_1": "Saint Louis",
-      "option_2": "Saint Dominic",
-      "right": "Saint Louis",
-      "subj": "Language"
-    },
-    "9": {
-      "question": "Saint Louis",
-      "exp": "is home to the MLB team",
-      "option_1": "The Brewers",
-      "option_2": "The Cardinals",
-      "right": "The Cardinals",
-      "subj": "Sports"
-    },
-    "10": {
-      "question": "The Cardinals",
-      "exp": "was the team of",
-      "option_1": "Puyol",
-      "option_2": "Albert Pujols",
-      "right": "Albert Pujols",
-      "subj": "Sports"
-    },
-    "11": {
-      "question": "Albert Pujols",
-      "exp": "was American-",
-      "option_1": "Argentinian",
-      "option_2": "Dominican",
-      "right": "Dominican",
-      "subj": "Sports"
-    },
-    "12": {
-      "question": "Dominican",
-      "exp": "is the type of bachata music given to the world by",
-      "option_1": "Antonio Salazar",
-      "option_2": "Luis Vargas",
-      "right": "Luis Vargas",
-      "subj": "Pop"
-    }
-  },
-
-  
+{   
   "454": {
     "1": {
       "question": "Patrick Mahomes",
@@ -196,6 +95,107 @@
       "option_1": "Strait of Hormuz",
       "option_2": "Strait of Malacca",
       "right": "Strait of Hormuz",
+      "subj": "Geography"
+    }
+  },
+
+  
+  "455": {
+    "1": {
+      "question": "Portugal",
+      "exp": "borders",
+      "option_1": "Ecuador",
+      "option_2": "Spain",
+      "right": "Spain",
+      "subj": "Geography",
+      "author": ""
+    },
+    "2": {
+      "question": "Spain",
+      "exp": "borders",
+      "option_1": "Germany",
+      "option_2": "Andorra",
+      "right": "Andorra",
+      "subj": "Geography"
+    },
+    "3": {
+      "question": "Andorra",
+      "exp": "borders",
+      "option_1": "Slovenia",
+      "option_2": "France",
+      "right": "France",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "France",
+      "exp": "borders",
+      "option_1": "Iceland",
+      "option_2": "Belgium",
+      "right": "Belgium",
+      "subj": "Geography"
+    },
+    "5": {
+      "question": "Belgium",
+      "exp": "borders",
+      "option_1": "Netherlands",
+      "option_2": "Italy",
+      "right": "Netherlands",
+      "subj": "Geography"
+    },
+    "6": {
+      "question": "Netherlands",
+      "exp": "borders",
+      "option_1": "Ireland",
+      "option_2": "Germany",
+      "right": "Germany",
+      "subj": "Geography"
+    },
+    "7": {
+      "question": "Germany",
+      "exp": "borders",
+      "option_1": "Croatia",
+      "option_2": "Austria",
+      "right": "Austria",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "Austria",
+      "exp": "borders",
+      "option_1": "Poland",
+      "option_2": "Hungary",
+      "right": "Hungary",
+      "subj": "Geography"
+    },
+    "9": {
+      "question": "Hungary",
+      "exp": "borders",
+      "option_1": "Romania",
+      "option_2": "Poland",
+      "right": "Romania",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "Romania",
+      "exp": "borders",
+      "option_1": "Moldova",
+      "option_2": "Kosovo",
+      "right": "Moldova",
+      "subj": "Geography"
+    },
+    "11": {
+      "question": "Moldova",
+      "exp": "borders",
+      "option_1": "Russia",
+      "option_2": "Ukraine",
+      "right": "Ukraine",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "Ukraine",
+      "exp": "borders",
+      "option_1": "Lithuania",
+      "option_2": "Russia",
+      "right": "Russia",
       "subj": "Geography"
     }
   }
