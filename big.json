@@ -1,105 +1,4 @@
-{   
-  "454": {
-    "1": {
-      "question": "Patrick Mahomes",
-      "exp": "is the quarterback for the",
-      "option_1": "Titans",
-      "option_2": "Chiefs",
-      "right": "Chiefs",
-      "subj": "Sports",
-      "author": ""
-    },
-    "2": {
-      "question": "Chiefs",
-      "exp": "are the NFL team for",
-      "option_1": "Kansas City",
-      "option_2": "Minneapolis",
-      "right": "Kansas City",
-      "subj": "Sports"
-    },
-    "3": {
-      "question": "Kansas City",
-      "exp": "is a city on the",
-      "option_1": "Missouri River",
-      "option_2": "Mississippi River",
-      "right": "Missouri River",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "Missouri River",
-      "exp": "showed the way for the expedition of",
-      "option_1": "Johnny and Bert",
-      "option_2": "Lewis and Clark",
-      "right": "Lewis and Clark",
-      "subj": "History"
-    },
-    "5": {
-      "question": "Lewis and Clark",
-      "exp": "set off in the year",
-      "option_1": "1828",
-      "option_2": "1804",
-      "right": "1804",
-      "subj": "History"
-    },
-    "6": {
-      "question": "1804",
-      "exp": "is the year when the world witnessed the",
-      "option_1": "First Barbary War",
-      "option_2": "Seven Years' War",
-      "right": "First Barbary War",
-      "subj": "History"
-    },
-    "7": {
-      "question": "First Barbary War",
-      "exp": "took place off the coast of",
-      "option_1": "India",
-      "option_2": "Libya",
-      "right": "Libya",
-      "subj": "History"
-    },
-    "8": {
-      "question": "Libya",
-      "exp": "was the country that saw the rule of Muammar",
-      "option_1": "Ghazali",
-      "option_2": "Gaddafi",
-      "right": "Gaddafi",
-      "subj": "Politics"
-    },
-    "9": {
-      "question": "Gaddafi",
-      "exp": "was born to a family of the nomadic tribe known as",
-      "option_1": "Bin Hamzin",
-      "option_2": "Bedouin",
-      "right": "Bedouin",
-      "subj": "Politics"
-    },
-    "10": {
-      "question": "Bedouin",
-      "exp": "people might be found in the nation of",
-      "option_1": "Kuwait",
-      "option_2": "Tajikistan",
-      "right": "Kuwait",
-      "subj": "Geography"
-    },
-    "11": {
-      "question": "Kuwait",
-      "exp": "is located on the",
-      "option_1": "Persian Gulf",
-      "option_2": "Red Sea",
-      "right": "Persian Gulf",
-      "subj": "Geography"
-    },
-    "12": {
-      "question": "Persian Gulf",
-      "exp": "is connected to the Gulf of Oman and the Arabian Sea via the",
-      "option_1": "Strait of Hormuz",
-      "option_2": "Strait of Malacca",
-      "right": "Strait of Hormuz",
-      "subj": "Geography"
-    }
-  },
-
-  
+{     
   "455": {
     "1": {
       "question": "Portugal",
@@ -197,6 +96,107 @@
       "option_2": "Russia",
       "right": "Russia",
       "subj": "Geography"
+    }
+  },
+
+  
+  "456": {
+    "1": {
+      "question": "Father of the Bride",
+      "exp": "is a film starring Steve",
+      "option_1": "Calvin",
+      "option_2": "Martin",
+      "right": "Martin",
+      "subj": "Pop",
+      "author": ""
+    },
+    "2": {
+      "question": "Martin",
+      "exp": "is the first name of the director",
+      "option_1": "Haulghdegger",
+      "option_2": "Scorsese",
+      "right": "Scorsese",
+      "subj": "Leisure"
+    },
+    "3": {
+      "question": "Scorsese",
+      "exp": "directed",
+      "option_1": "The Godfather",
+      "option_2": "Goodfellas",
+      "right": "Goodfellas",
+      "subj": "Leisure"
+    },
+    "4": {
+      "question": "Goodfellas",
+      "exp": "stars",
+      "option_1": "Ray Liotta",
+      "option_2": "Michael Pantangello",
+      "right": "Ray Liotta",
+      "subj": "Leisure"
+    },
+    "5": {
+      "question": "Ray Liotta",
+      "exp": "has",
+      "option_1": "Passed Away",
+      "option_2": "Alive",
+      "right": "Passed Away",
+      "subj": "Pop"
+    },
+    "6": {
+      "question": "Passed Away",
+      "exp": "is a",
+      "option_1": "Syllogism",
+      "option_2": "Euphemism",
+      "right": "Euphemism",
+      "subj": "Language"
+    },
+    "7": {
+      "question": "Euphemism",
+      "exp": "another example:",
+      "option_1": "Certified Pre-Owned",
+      "option_2": "Down by the Water",
+      "right": "Certified Pre-Owned",
+      "subj": "Language"
+    },
+    "8": {
+      "question": "Certified Pre-Owned",
+      "exp": "might refer to a",
+      "option_1": "Used Car",
+      "option_2": "New Shoes",
+      "right": "Used Car",
+      "subj": "Language"
+    },
+    "9": {
+      "question": "Used Car",
+      "exp": "with defects might be referred to as a",
+      "option_1": "Lemon",
+      "option_2": "Orange",
+      "right": "Lemon",
+      "subj": "Business"
+    },
+    "10": {
+      "question": "Lemon",
+      "exp": "is the last name of the fictional character Liz in the show",
+      "option_1": "30 Rock",
+      "option_2": "Arrested Development",
+      "right": "30 Rock",
+      "subj": "Leisure"
+    },
+    "11": {
+      "question": "30 Rock",
+      "exp": "stars",
+      "option_1": "Tina Fey",
+      "option_2": "Nick Offerman",
+      "right": "Tina Fey",
+      "subj": "Leisure"
+    },
+    "12": {
+      "question": "Tina Fey",
+      "exp": "wrote the memoir",
+      "option_1": "A Man's World",
+      "option_2": "Bossypants",
+      "right": "Bossypants",
+      "subj": "Literature"
     }
   }
 }
