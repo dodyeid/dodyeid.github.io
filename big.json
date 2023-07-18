@@ -1,105 +1,4 @@
-{       
-  "456": {
-    "1": {
-      "question": "Father of the Bride",
-      "exp": "is a film starring Steve",
-      "option_1": "Calvin",
-      "option_2": "Martin",
-      "right": "Martin",
-      "subj": "Pop",
-      "author": ""
-    },
-    "2": {
-      "question": "Martin",
-      "exp": "is the first name of the director",
-      "option_1": "Haulghdegger",
-      "option_2": "Scorsese",
-      "right": "Scorsese",
-      "subj": "Leisure"
-    },
-    "3": {
-      "question": "Scorsese",
-      "exp": "directed",
-      "option_1": "The Godfather",
-      "option_2": "Goodfellas",
-      "right": "Goodfellas",
-      "subj": "Leisure"
-    },
-    "4": {
-      "question": "Goodfellas",
-      "exp": "stars",
-      "option_1": "Ray Liotta",
-      "option_2": "Michael Pantangello",
-      "right": "Ray Liotta",
-      "subj": "Leisure"
-    },
-    "5": {
-      "question": "Ray Liotta",
-      "exp": "has",
-      "option_1": "Passed Away",
-      "option_2": "Alive",
-      "right": "Passed Away",
-      "subj": "Pop"
-    },
-    "6": {
-      "question": "Passed Away",
-      "exp": "is a",
-      "option_1": "Syllogism",
-      "option_2": "Euphemism",
-      "right": "Euphemism",
-      "subj": "Language"
-    },
-    "7": {
-      "question": "Euphemism",
-      "exp": "another example:",
-      "option_1": "Certified Pre-Owned",
-      "option_2": "Down by the Water",
-      "right": "Certified Pre-Owned",
-      "subj": "Language"
-    },
-    "8": {
-      "question": "Certified Pre-Owned",
-      "exp": "might refer to a",
-      "option_1": "Used Car",
-      "option_2": "New Shoes",
-      "right": "Used Car",
-      "subj": "Language"
-    },
-    "9": {
-      "question": "Used Car",
-      "exp": "with defects might be referred to as a",
-      "option_1": "Lemon",
-      "option_2": "Orange",
-      "right": "Lemon",
-      "subj": "Business"
-    },
-    "10": {
-      "question": "Lemon",
-      "exp": "is the last name of the fictional character Liz in the show",
-      "option_1": "30 Rock",
-      "option_2": "Arrested Development",
-      "right": "30 Rock",
-      "subj": "Leisure"
-    },
-    "11": {
-      "question": "30 Rock",
-      "exp": "stars",
-      "option_1": "Tina Fey",
-      "option_2": "Nick Offerman",
-      "right": "Tina Fey",
-      "subj": "Leisure"
-    },
-    "12": {
-      "question": "Tina Fey",
-      "exp": "wrote the memoir",
-      "option_1": "A Man's World",
-      "option_2": "Bossypants",
-      "right": "Bossypants",
-      "subj": "Literature"
-    }
-  },
-
-  
+{        
   "457": {
     "1": {
       "question": "Ed Sheeran",
@@ -197,6 +96,107 @@
       "option_2": "The Batman and the Joker",
       "right": "The Joker and the Queen",
       "subj": "Music"
+    }
+  },
+
+  
+  "458": {
+    "1": {
+      "question": "Nobel Prize",
+      "exp": "was won by",
+      "option_1": "Penny Ferguson",
+      "option_2": "John Steinbeck",
+      "right": "John Steinbeck",
+      "subj": "Literature",
+      "author": ""
+    },
+    "2": {
+      "question": "John Steinbeck",
+      "exp": "wrote",
+      "option_1": "Duel of the Fates",
+      "option_2": "The Grapes of Wrath",
+      "right": "The Grapes of Wrath",
+      "subj": "Literature"
+    },
+    "3": {
+      "question": "The Grapes of Wrath",
+      "exp": "was written by the man who also wrote",
+      "option_1": "West of Eden",
+      "option_2": "East of Eden",
+      "right": "East of Eden",
+      "subj": "Literature"
+    },
+    "4": {
+      "question": "East of Eden",
+      "exp": "was written by the man who also wrote",
+      "option_1": "Of Mice and Men",
+      "option_2": "Of Monsters and Men",
+      "right": "Of Mice and Men",
+      "subj": "Literature"
+    },
+    "5": {
+      "question": "Of Mice and Men",
+      "exp": "was written by the man who also wrote",
+      "option_1": "Tortilla Flat",
+      "option_2": "Pita Flat",
+      "right": "Tortilla Flat",
+      "subj": "Literature"
+    },
+    "6": {
+      "question": "Tortilla Flat",
+      "exp": "was written by the man who also wrote",
+      "option_1": "Cannery Row",
+      "option_2": "Cantina Bow",
+      "right": "Cannery Row",
+      "subj": "Literature"
+    },
+    "7": {
+      "question": "Cannery Row",
+      "exp": "is set during the",
+      "option_1": "Overwhelming Joy",
+      "option_2": "Great Depression",
+      "right": "Great Depression",
+      "subj": "Literature"
+    },
+    "8": {
+      "question": "Great Depression",
+      "exp": "is the backdrop of",
+      "option_1": "Mockingjay",
+      "option_2": "To Kill a Mockingbird",
+      "right": "To Kill a Mockingbird",
+      "subj": "Literature"
+    },
+    "9": {
+      "question": "To Kill a Mockingbird",
+      "exp": "is a novel written by",
+      "option_1": "Harper Lee",
+      "option_2": "Benton Harbor",
+      "right": "Harper Lee",
+      "subj": "Literature"
+    },
+    "10": {
+      "question": "Harper Lee",
+      "exp": "also wrote what was publicized as a sequel but was really a first draft of To Kill a Mockingbird,",
+      "option_1": "Go Set a Watchman",
+      "option_2": "All Along the Watchtower",
+      "right": "Go Set a Watchman",
+      "subj": "Literature"
+    },
+    "11": {
+      "question": "Go Set a Watchman",
+      "exp": "is a title that comes from the",
+      "option_1": "Epic of Gilgamesh",
+      "option_2": "Book of Isaiah",
+      "right": "Book of Isaiah",
+      "subj": "Literature"
+    },
+    "12": {
+      "question": "Book of Isaiah",
+      "exp": "was at least partially written by a purported",
+      "option_1": "Apostle of Christ",
+      "option_2": "Prophet",
+      "right": "Prophet",
+      "subj": "Literature"
     }
   }
 }
