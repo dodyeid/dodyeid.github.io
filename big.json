@@ -1,105 +1,4 @@
-{        
-  "457": {
-    "1": {
-      "question": "Ed Sheeran",
-      "exp": "wrote the song",
-      "option_1": "Thinking Out Loud",
-      "option_2": "Thinking Outside",
-      "right": "Thinking Out Loud",
-      "subj": "Music",
-      "author": ""
-    },
-    "2": {
-      "question": "Thinking Out Loud",
-      "exp": "was written by the guy who also wrote",
-      "option_1": "Perfect",
-      "option_2": "Imperfect",
-      "right": "Perfect",
-      "subj": "Music"
-    },
-    "3": {
-      "question": "Perfect",
-      "exp": "was written by the guy who also wrote",
-      "option_1": "Shape of You",
-      "option_2": "Grape of Gru",
-      "right": "Shape of You",
-      "subj": "Music"
-    },
-    "4": {
-      "question": "Shape of You",
-      "exp": "was written by the guy who also wrote",
-      "option_1": "The A Team",
-      "option_2": "The B Team",
-      "right": "The A Team",
-      "subj": "Music"
-    },
-    "5": {
-      "question": "The A Team",
-      "exp": "was written by the guy who also wrote",
-      "option_1": "Phonograph",
-      "option_2": "Photograph",
-      "right": "Photograph",
-      "subj": "Music"
-    },
-    "6": {
-      "question": "Photograph",
-      "exp": "was written by the guy who also wrote",
-      "option_1": "Good Habits",
-      "option_2": "Bad Habits",
-      "right": "Bad Habits",
-      "subj": "Music"
-    },
-    "7": {
-      "question": "Bad Habits",
-      "exp": "was written by the guy who also wrote",
-      "option_1": "Castle on the Hill",
-      "option_2": "King of the Hill",
-      "right": "Castle on the Hill",
-      "subj": "Music"
-    },
-    "8": {
-      "question": "Castle on the Hill",
-      "exp": "was written by the guy who also wrote",
-      "option_1": "You Are Dead to Me",
-      "option_2": "I Don't Care",
-      "right": "I Don't Care",
-      "subj": "Music"
-    },
-    "9": {
-      "question": "I Don't Care",
-      "exp": "was written by the guy who also wrote",
-      "option_1": "Lego House",
-      "option_2": "Leggo My Eggo",
-      "right": "Lego House",
-      "subj": "Music"
-    },
-    "10": {
-      "question": "Lego House",
-      "exp": "was written by the guy who also wrote",
-      "option_1": "Shivers",
-      "option_2": "Shiver Me Timbers",
-      "right": "Shivers",
-      "subj": "Music"
-    },
-    "11": {
-      "question": "Shivers",
-      "exp": "was written by the guy who also wrote",
-      "option_1": "Beautiful People",
-      "option_2": "Ugly Faces",
-      "right": "Beautiful People",
-      "subj": "Music"
-    },
-    "12": {
-      "question": "Beautiful People",
-      "exp": "was written by the guy who also wrote",
-      "option_1": "The Joker and the Queen",
-      "option_2": "The Batman and the Joker",
-      "right": "The Joker and the Queen",
-      "subj": "Music"
-    }
-  },
-
-  
+{          
   "458": {
     "1": {
       "question": "Nobel Prize",
@@ -197,6 +96,107 @@
       "option_2": "Prophet",
       "right": "Prophet",
       "subj": "Literature"
+    }
+  },
+
+  
+  "459": {
+    "1": {
+      "question": "Democratic Party",
+      "exp": "was the political party of",
+      "option_1": "Jefferson Davis",
+      "option_2": "Abraham Lincoln",
+      "right": "Jefferson Davis",
+      "subj": "History",
+      "author": ""
+    },
+    "2": {
+      "question": "Jefferson Davis",
+      "exp": "was the first and only president of the Confederacy and previously represented, in the U.S. Senate and House, the state of",
+      "option_1": "Mississippi",
+      "option_2": "Missouri",
+      "right": "Mississippi",
+      "subj": "History"
+    },
+    "3": {
+      "question": "Mississippi",
+      "exp": "in the 1930s is the setting of the 2000 comedy drama film",
+      "option_1": "Brother, I Am Legend!",
+      "option_2": "O Brother, Where Art Thou?",
+      "right": "O Brother, Where Art Thou?",
+      "subj": "Leisure"
+    },
+    "4": {
+      "question": "O Brother, Where Art Thou?",
+      "exp": "stars John Turturro, Tim Blake Nelson, and",
+      "option_1": "Ben Stiller",
+      "option_2": "George Clooney",
+      "right": "George Clooney",
+      "subj": "Leisure"
+    },
+    "5": {
+      "question": "George Clooney",
+      "exp": "is the lead voice actor in the whimsical stop motion film",
+      "option_1": "There Will Be Blood",
+      "option_2": "Fantastic Mr. Fox",
+      "right": "Fantastic Mr. Fox",
+      "subj": "Leisure"
+    },
+    "6": {
+      "question": "Fantastic Mr. Fox",
+      "exp": "is one of the many eccentric films created by",
+      "option_1": "Martin Scorsese",
+      "option_2": "Wes Anderson",
+      "right": "Wes Anderson",
+      "subj": "Leisure"
+    },
+    "7": {
+      "question": "Wes Anderson",
+      "exp": "also directed the 2021 anthology newspaper drama",
+      "option_1": "The Martian",
+      "option_2": "The French Dispath",
+      "right": "The French Dispath",
+      "subj": "Leisure"
+    },
+    "8": {
+      "question": "The French Dispath",
+      "exp": "stars the much adored",
+      "option_1": "Timothée Chalamet",
+      "option_2": "Tobey Maguire",
+      "right": "Timothée Chalamet",
+      "subj": "Leisure"
+    },
+    "9": {
+      "question": "Timothée Chalamet",
+      "exp": "also stars with Zendaya in the 2021 epic science fiction film based on a book of the same name,",
+      "option_1": "Dune",
+      "option_2": "The Dark Knight",
+      "right": "Dune",
+      "subj": "Leisure"
+    },
+    "10": {
+      "question": "Dune",
+      "exp": "is something you might find in a",
+      "option_1": "Dessert",
+      "option_2": "Desert",
+      "right": "Desert",
+      "subj": "Geography"
+    },
+    "11": {
+      "question": "Desert",
+      "exp": "is a geographical feature, and a cool one in Africa is called the",
+      "option_1": "Kalahari",
+      "option_2": "Govi",
+      "right": "Kalahari",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "Kalahari",
+      "exp": "is a desert that covers parts of South Africa, Namibia, and much of",
+      "option_1": "Botswana",
+      "option_2": "Cameroon",
+      "right": "Botswana",
+      "subj": "Geography"
     }
   }
 }
