@@ -1,105 +1,4 @@
-{          
-  "458": {
-    "1": {
-      "question": "Nobel Prize",
-      "exp": "was won by",
-      "option_1": "Penny Ferguson",
-      "option_2": "John Steinbeck",
-      "right": "John Steinbeck",
-      "subj": "Literature",
-      "author": ""
-    },
-    "2": {
-      "question": "John Steinbeck",
-      "exp": "wrote",
-      "option_1": "Duel of the Fates",
-      "option_2": "The Grapes of Wrath",
-      "right": "The Grapes of Wrath",
-      "subj": "Literature"
-    },
-    "3": {
-      "question": "The Grapes of Wrath",
-      "exp": "was written by the man who also wrote",
-      "option_1": "West of Eden",
-      "option_2": "East of Eden",
-      "right": "East of Eden",
-      "subj": "Literature"
-    },
-    "4": {
-      "question": "East of Eden",
-      "exp": "was written by the man who also wrote",
-      "option_1": "Of Mice and Men",
-      "option_2": "Of Monsters and Men",
-      "right": "Of Mice and Men",
-      "subj": "Literature"
-    },
-    "5": {
-      "question": "Of Mice and Men",
-      "exp": "was written by the man who also wrote",
-      "option_1": "Tortilla Flat",
-      "option_2": "Pita Flat",
-      "right": "Tortilla Flat",
-      "subj": "Literature"
-    },
-    "6": {
-      "question": "Tortilla Flat",
-      "exp": "was written by the man who also wrote",
-      "option_1": "Cannery Row",
-      "option_2": "Cantina Bow",
-      "right": "Cannery Row",
-      "subj": "Literature"
-    },
-    "7": {
-      "question": "Cannery Row",
-      "exp": "is set during the",
-      "option_1": "Overwhelming Joy",
-      "option_2": "Great Depression",
-      "right": "Great Depression",
-      "subj": "Literature"
-    },
-    "8": {
-      "question": "Great Depression",
-      "exp": "is the backdrop of",
-      "option_1": "Mockingjay",
-      "option_2": "To Kill a Mockingbird",
-      "right": "To Kill a Mockingbird",
-      "subj": "Literature"
-    },
-    "9": {
-      "question": "To Kill a Mockingbird",
-      "exp": "is a novel written by",
-      "option_1": "Harper Lee",
-      "option_2": "Benton Harbor",
-      "right": "Harper Lee",
-      "subj": "Literature"
-    },
-    "10": {
-      "question": "Harper Lee",
-      "exp": "also wrote what was publicized as a sequel but was really a first draft of To Kill a Mockingbird,",
-      "option_1": "Go Set a Watchman",
-      "option_2": "All Along the Watchtower",
-      "right": "Go Set a Watchman",
-      "subj": "Literature"
-    },
-    "11": {
-      "question": "Go Set a Watchman",
-      "exp": "is a title that comes from the",
-      "option_1": "Epic of Gilgamesh",
-      "option_2": "Book of Isaiah",
-      "right": "Book of Isaiah",
-      "subj": "Literature"
-    },
-    "12": {
-      "question": "Book of Isaiah",
-      "exp": "was at least partially written by a purported",
-      "option_1": "Apostle of Christ",
-      "option_2": "Prophet",
-      "right": "Prophet",
-      "subj": "Literature"
-    }
-  },
-
-  
+{            
   "459": {
     "1": {
       "question": "Democratic Party",
@@ -197,6 +96,107 @@
       "option_2": "Cameroon",
       "right": "Botswana",
       "subj": "Geography"
+    }
+  },
+
+  
+  "460": {
+    "1": {
+      "question": "Nelly Furtado",
+      "exp": "is a Canadian singer and songwriter who frequently collaborated with",
+      "option_1": "Jimmy Hendrix",
+      "option_2": "Timbaland",
+      "right": "Timbaland",
+      "subj": "Music",
+      "author": ""
+    },
+    "2": {
+      "question": "Timbaland",
+      "exp": "collaborated frequently with",
+      "option_1": "Tupac",
+      "option_2": "Justin Timberlake",
+      "right": "Justin Timberlake",
+      "subj": "Music"
+    },
+    "3": {
+      "question": "Justin Timberlake",
+      "exp": "was a Mouseketeer on The All-New",
+      "option_1": "Mickey Mouse Club",
+      "option_2": "Jeremiah Reddinghouse",
+      "right": "Mickey Mouse Club",
+      "subj": "Pop"
+    },
+    "4": {
+      "question": "Mickey Mouse Club",
+      "exp": "was created by",
+      "option_1": "Nickolodeon",
+      "option_2": "Disney",
+      "right": "Disney",
+      "subj": "Leisure"
+    },
+    "5": {
+      "question": "Disney",
+      "exp": "gave us the film version of",
+      "option_1": "The Veggie Tales",
+      "option_2": "Narnia",
+      "right": "Narnia",
+      "subj": "Leisure"
+    },
+    "6": {
+      "question": "Narnia",
+      "exp": "was written by",
+      "option_1": "C.S. Lewis",
+      "option_2": "J.R.R. Tolkien",
+      "right": "C.S. Lewis",
+      "subj": "Leisure"
+    },
+    "7": {
+      "question": "C.S. Lewis",
+      "exp": "also wrote Mere",
+      "option_1": "Christianity",
+      "option_2": "Islam",
+      "right": "Christianity",
+      "subj": "History"
+    },
+    "8": {
+      "question": "Christianity",
+      "exp": "was heavily influenced by",
+      "option_1": "Martin Luther",
+      "option_2": "Martin Heidegger King",
+      "right": "Martin Luther",
+      "subj": "History"
+    },
+    "9": {
+      "question": "Martin Luther",
+      "exp": "wrote some Theses, numbering",
+      "option_1": "85",
+      "option_2": "95",
+      "right": "95",
+      "subj": "History"
+    },
+    "10": {
+      "question": "95",
+      "exp": "is",
+      "option_1": "Divisible by 5",
+      "option_2": "Divisible by 3",
+      "right": "Divisible by 5",
+      "subj": "STEM"
+    },
+    "11": {
+      "question": "Divisible by 5",
+      "exp": "characterizes the number",
+      "option_1": "525600",
+      "option_2": "500002",
+      "right": "525600",
+      "subj": "STEM"
+    },
+    "12": {
+      "question": "525600",
+      "exp": "minutes is a memorable line from the Broadway musical",
+      "option_1": "Rent",
+      "option_2": "Mortgage",
+      "right": "Rent",
+      "subj": "Music"
     }
   }
 }
