@@ -1,105 +1,4 @@
-{    
-  "460": {
-    "1": {
-      "question": "Nelly Furtado",
-      "exp": "is a Canadian singer and songwriter who frequently collaborated with",
-      "option_1": "Jimmy Hendrix",
-      "option_2": "Timbaland",
-      "right": "Timbaland",
-      "subj": "Music",
-      "author": ""
-    },
-    "2": {
-      "question": "Timbaland",
-      "exp": "collaborated frequently with",
-      "option_1": "Tupac",
-      "option_2": "Justin Timberlake",
-      "right": "Justin Timberlake",
-      "subj": "Music"
-    },
-    "3": {
-      "question": "Justin Timberlake",
-      "exp": "was a Mouseketeer on The All-New",
-      "option_1": "Mickey Mouse Club",
-      "option_2": "Jeremiah Reddinghouse",
-      "right": "Mickey Mouse Club",
-      "subj": "Pop"
-    },
-    "4": {
-      "question": "Mickey Mouse Club",
-      "exp": "was created by",
-      "option_1": "Nickolodeon",
-      "option_2": "Disney",
-      "right": "Disney",
-      "subj": "Leisure"
-    },
-    "5": {
-      "question": "Disney",
-      "exp": "gave us the film version of",
-      "option_1": "The Veggie Tales",
-      "option_2": "Narnia",
-      "right": "Narnia",
-      "subj": "Leisure"
-    },
-    "6": {
-      "question": "Narnia",
-      "exp": "was written by",
-      "option_1": "C.S. Lewis",
-      "option_2": "J.R.R. Tolkien",
-      "right": "C.S. Lewis",
-      "subj": "Leisure"
-    },
-    "7": {
-      "question": "C.S. Lewis",
-      "exp": "also wrote Mere",
-      "option_1": "Christianity",
-      "option_2": "Islam",
-      "right": "Christianity",
-      "subj": "History"
-    },
-    "8": {
-      "question": "Christianity",
-      "exp": "was heavily influenced by",
-      "option_1": "Martin Luther",
-      "option_2": "Martin Heidegger King",
-      "right": "Martin Luther",
-      "subj": "History"
-    },
-    "9": {
-      "question": "Martin Luther",
-      "exp": "wrote some Theses, numbering",
-      "option_1": "85",
-      "option_2": "95",
-      "right": "95",
-      "subj": "History"
-    },
-    "10": {
-      "question": "95",
-      "exp": "is",
-      "option_1": "Divisible by 5",
-      "option_2": "Divisible by 3",
-      "right": "Divisible by 5",
-      "subj": "STEM"
-    },
-    "11": {
-      "question": "Divisible by 5",
-      "exp": "characterizes the number",
-      "option_1": "525600",
-      "option_2": "500002",
-      "right": "525600",
-      "subj": "STEM"
-    },
-    "12": {
-      "question": "525600",
-      "exp": "minutes is a memorable line from the Broadway musical",
-      "option_1": "Rent",
-      "option_2": "Mortgage",
-      "right": "Rent",
-      "subj": "Music"
-    }
-  },
-
-  
+{      
   "461": {
     "1": {
       "question": "New York City",
@@ -197,6 +96,107 @@
       "option_2": "Amy Klobuchar",
       "right": "Deb Fischer",
       "subj": "Politics"
+    }
+  },
+
+  
+  "462": {
+    "1": {
+      "question": "Oregon",
+      "exp": "is home to part of the",
+      "option_1": "Pacific Crest Trail",
+      "option_2": "Continental Divide Trail",
+      "right": "Pacific Crest Trail",
+      "subj": "Geography",
+      "author": ""
+    },
+    "2": {
+      "question": "Pacific Crest Trail",
+      "exp": "was famously completed by",
+      "option_1": "Cheryl Strayed",
+      "option_2": "Cheryl Found",
+      "right": "Cheryl Strayed",
+      "subj": "Literature"
+    },
+    "3": {
+      "question": "Cheryl Strayed",
+      "exp": "was the subject of the 2014 American biographical adventure drama film",
+      "option_1": "Wild",
+      "option_2": "Tamed",
+      "right": "Wild",
+      "subj": "Leisure"
+    },
+    "4": {
+      "question": "Wild",
+      "exp": "features the actress",
+      "option_1": "Reese Witherspoon",
+      "option_2": "Sandra Bullock",
+      "right": "Reese Witherspoon",
+      "subj": "Pop"
+    },
+    "5": {
+      "question": "Reese Witherspoon",
+      "exp": "stars in",
+      "option_1": "At the Mercy of the Cartel",
+      "option_2": "Legally Blonde",
+      "right": "Legally Blonde",
+      "subj": "Leisure"
+    },
+    "6": {
+      "question": "Legally Blonde",
+      "exp": "is about the Law School at",
+      "option_1": "Yale",
+      "option_2": "Harvard",
+      "right": "Harvard",
+      "subj": "Leisure"
+    },
+    "7": {
+      "question": "Harvard",
+      "exp": "is in",
+      "option_1": "Cambridge",
+      "option_2": "Williamstown",
+      "right": "Cambridge",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "Cambridge",
+      "exp": "University in the UK could be attended for free if you win a",
+      "option_1": "Marshall",
+      "option_2": "Rhodes",
+      "right": "Marshall",
+      "subj": "History"
+    },
+    "9": {
+      "question": "Marshall",
+      "exp": "Court in American History famously decided the case",
+      "option_1": "Marbury v. Madison",
+      "option_2": "Dred Scott v. Sandford",
+      "right": "Marbury v. Madison",
+      "subj": "History"
+    },
+    "10": {
+      "question": "Marbury v. Madison",
+      "exp": "established the principle of",
+      "option_1": "Judicial Review",
+      "option_2": "Judicial Restraint",
+      "right": "Judicial Review",
+      "subj": "History"
+    },
+    "11": {
+      "question": "Judicial Review",
+      "exp": "refers to a court's power to determine a law's",
+      "option_1": "Expediency",
+      "option_2": "Constitutionality",
+      "right": "Constitutionality",
+      "subj": "History"
+    },
+    "12": {
+      "question": "Constitutionality",
+      "exp": "etymologically is of",
+      "option_1": "Greek Origin",
+      "option_2": "Latin Origin",
+      "right": "Latin Origin",
+      "subj": "Language"
     }
   }
 }
