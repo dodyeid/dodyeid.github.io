@@ -1,105 +1,4 @@
 {        
-  "464": {
-    "1": {
-      "question": "Maroon 5",
-      "exp": "wrote the song",
-      "option_1": "Memoirs",
-      "option_2": "Memories",
-      "right": "Memories",
-      "subj": "Music",
-      "author": ""
-    },
-    "2": {
-      "question": "Memories",
-      "exp": "are the focus of the cognitive psychologist",
-      "option_1": "Elizabeth Loftus",
-      "option_2": "Eliza Benito",
-      "right": "Elizabeth Loftus",
-      "subj": "STEM"
-    },
-    "3": {
-      "question": "Elizabeth Loftus",
-      "exp": "is a",
-      "option_1": "Psychologist",
-      "option_2": "Astrologist",
-      "right": "Psychologist",
-      "subj": "STEM"
-    },
-    "4": {
-      "question": "Psychologist",
-      "exp": "is how one might describe",
-      "option_1": "Henry Mattison",
-      "option_2": "William James",
-      "right": "William James",
-      "subj": "STEM"
-    },
-    "5": {
-      "question": "William James",
-      "exp": "established the philosophical school known as",
-      "option_1": "Idealism",
-      "option_2": "Pragmatism",
-      "right": "Pragmatism",
-      "subj": "STEM"
-    },
-    "6": {
-      "question": "Pragmatism",
-      "exp": "is a synonym for",
-      "option_1": "Pragmaduality",
-      "option_2": "Practicality",
-      "right": "Practicality",
-      "subj": "Language"
-    },
-    "7": {
-      "question": "Practicality",
-      "exp": "is a",
-      "option_1": "Adverb",
-      "option_2": "Noun",
-      "right": "Noun",
-      "subj": "Language"
-    },
-    "8": {
-      "question": "Noun",
-      "exp": "e.g.,",
-      "option_1": "Alighted",
-      "option_2": "Ochlocracy",
-      "right": "Ochlocracy",
-      "subj": "Language"
-    },
-    "9": {
-      "question": "Ochlocracy",
-      "exp": "means government by",
-      "option_1": "Rule by Few",
-      "option_2": "Mob Rule",
-      "right": "Mob Rule",
-      "subj": "Language"
-    },
-    "10": {
-      "question": "Mob Rule",
-      "exp": "is derived from the Latin phrase mobile vulgus, meaning 'the fickle crowd' from which the English term 'mob' originally was derived in the 1680s, during the",
-      "option_1": "Glorious Revolution",
-      "option_2": "First Great Awakening",
-      "right": "Glorious Revolution",
-      "subj": "History"
-    },
-    "11": {
-      "question": "Glorious Revolution",
-      "exp": "in England refers to the deposition of",
-      "option_1": "James II",
-      "option_2": "James I",
-      "right": "James II",
-      "subj": "History"
-    },
-    "12": {
-      "question": "James II",
-      "exp": "was",
-      "option_1": "Protestant",
-      "option_2": "Catholic",
-      "right": "Catholic",
-      "subj": "History"
-    }
-  },
-
-  
   "465": {
     "1": {
       "question": "Moldova",
@@ -197,6 +96,107 @@
       "option_2": "Young",
       "right": "Young",
       "subj": "Business"
+    }
+  },
+
+  
+  "466": {
+    "1": {
+      "question": "Mahayana",
+      "exp": "is a branch of",
+      "option_1": "Buddhism",
+      "option_2": "Hinduism",
+      "right": "Buddhism",
+      "subj": "Geography",
+      "author": ""
+    },
+    "2": {
+      "question": "Buddhism",
+      "exp": "paths should ultimately lead one to",
+      "option_1": "Khuryana",
+      "option_2": "Nirvana",
+      "right": "Nirvana",
+      "subj": "Geography"
+    },
+    "3": {
+      "question": "Nirvana",
+      "exp": "is a band that released the song",
+      "option_1": "In Glue",
+      "option_2": "In Bloom",
+      "right": "In Bloom",
+      "subj": "Music"
+    },
+    "4": {
+      "question": "In Bloom",
+      "exp": "was on the album",
+      "option_1": "Nevermind",
+      "option_2": "Dreams",
+      "right": "Nevermind",
+      "subj": "Music"
+    },
+    "5": {
+      "question": "Nevermind",
+      "exp": "was written primarily by",
+      "option_1": "Ian O'Brien",
+      "option_2": "Kurt Cobain",
+      "right": "Kurt Cobain",
+      "subj": "Music"
+    },
+    "6": {
+      "question": "Kurt Cobain",
+      "exp": "died via",
+      "option_1": "Suicide",
+      "option_2": "Car Accident",
+      "right": "Suicide",
+      "subj": "Music"
+    },
+    "7": {
+      "question": "Suicide",
+      "exp": "was the cause of death for",
+      "option_1": "Donald Drumiken",
+      "option_2": "Sylvia Plath",
+      "right": "Sylvia Plath",
+      "subj": "Literature"
+    },
+    "8": {
+      "question": "Sylvia Plath",
+      "exp": "was an",
+      "option_1": "American Architect",
+      "option_2": "American Poet",
+      "right": "American Poet",
+      "subj": "Literature"
+    },
+    "9": {
+      "question": "American Poet",
+      "exp": "is how one might describe",
+      "option_1": "Ira Bertin",
+      "option_2": "Ezra Pound",
+      "right": "Ezra Pound",
+      "subj": "Literature"
+    },
+    "10": {
+      "question": "Ezra Pound",
+      "exp": "left incomplete an 800-page epic poem called",
+      "option_1": "The Joyful Cry of Elysia",
+      "option_2": "The Cantos",
+      "right": "The Cantos",
+      "subj": "Literature"
+    },
+    "11": {
+      "question": "The Cantos",
+      "exp": "is a",
+      "option_1": "Poem",
+      "option_2": "Film",
+      "right": "Poem",
+      "subj": "Literature"
+    },
+    "12": {
+      "question": "Poem",
+      "exp": "is how one would describe the work by T.S. Eliot called",
+      "option_1": "The Farmer's Hand",
+      "option_2": "The Waste Land",
+      "right": "The Waste Land",
+      "subj": "Literature"
     }
   }
 }
