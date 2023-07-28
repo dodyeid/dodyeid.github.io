@@ -1,105 +1,4 @@
-{        
-  "465": {
-    "1": {
-      "question": "Moldova",
-      "exp": "is found on the continent of",
-      "option_1": "Europe",
-      "option_2": "Africa",
-      "right": "Europe",
-      "subj": "Geography",
-      "author": ""
-    },
-    "2": {
-      "question": "Europe",
-      "exp": "is a Swedish rock band that rose to international fame with their 1986 hit",
-      "option_1": "The Final Countdown",
-      "option_2": "We are the Champions",
-      "right": "The Final Countdown",
-      "subj": "Music"
-    },
-    "3": {
-      "question": "The Final Countdown",
-      "exp": "features the lyrics 'We're heading for",
-      "option_1": "Venus",
-      "option_2": "Pluto",
-      "right": "Venus",
-      "subj": "Music"
-    },
-    "4": {
-      "question": "Venus",
-      "exp": "is, in our solar system, the",
-      "option_1": "Largest",
-      "option_2": "Hottest",
-      "right": "Hottest",
-      "subj": "STEM"
-    },
-    "5": {
-      "question": "Hottest",
-      "exp": "temperature ever recorded on earth was recorded at",
-      "option_1": "Taklimakan",
-      "option_2": "Death Valley",
-      "right": "Death Valley",
-      "subj": "Geography"
-    },
-    "6": {
-      "question": "Death Valley",
-      "exp": "is a desert valley in Eastern",
-      "option_1": "Idaho",
-      "option_2": "California",
-      "right": "California",
-      "subj": "Geography"
-    },
-    "7": {
-      "question": "California",
-      "exp": "has, on its flag, a",
-      "option_1": "Bear",
-      "option_2": "Beaver",
-      "right": "Bear",
-      "subj": "Geography"
-    },
-    "8": {
-      "question": "Bear",
-      "exp": "Grylls takes on the elements in the show",
-      "option_1": "Man vs. Wild",
-      "option_2": "Barry Benson",
-      "right": "Man vs. Wild",
-      "subj": "Pop"
-    },
-    "9": {
-      "question": "Man vs. Wild",
-      "exp": "aired on the",
-      "option_1": "TLC",
-      "option_2": "Discovery Channel",
-      "right": "Discovery Channel",
-      "subj": "Pop"
-    },
-    "10": {
-      "question": "Discovery Channel",
-      "exp": "is pairing with HBO to create a new streaming service called",
-      "option_1": "Zumphries",
-      "option_2": "Max",
-      "right": "Max",
-      "subj": "Pop"
-    },
-    "11": {
-      "question": "Max",
-      "exp": "is the first name of German painter, sculptor, printmaker, and pioneer of the Dada movement,",
-      "option_1": "Ernst",
-      "option_2": "Winnifred",
-      "right": "Ernst",
-      "subj": "Art"
-    },
-    "12": {
-      "question": "Ernst",
-      "exp": "is a professional services company when parternered with the name",
-      "option_1": "Old",
-      "option_2": "Young",
-      "right": "Young",
-      "subj": "Business"
-    }
-  },
-
-  
+{      
   "466": {
     "1": {
       "question": "Mahayana",
@@ -196,6 +95,107 @@
       "option_1": "The Farmer's Hand",
       "option_2": "The Waste Land",
       "right": "The Waste Land",
+      "subj": "Literature"
+    }
+  },
+
+  
+  "467": {
+    "1": {
+      "question": "Peanuts",
+      "exp": "is one of the most popular and influential comic strips of all time, created by",
+      "option_1": "Charles Schultz",
+      "option_2": "Jim Davis",
+      "right": "Charles Schultz",
+      "subj": "Literature",
+      "author": ""
+    },
+    "2": {
+      "question": "Charles Schultz",
+      "exp": "has been cited as a major influence on the cartoonist",
+      "option_1": "Jim Davis",
+      "option_2": "Michael Watterson",
+      "right": "Jim Davis",
+      "subj": "Literature"
+    },
+    "3": {
+      "question": "Jim Davis",
+      "exp": "is best known for creating the comic strip",
+      "option_1": "Garfield",
+      "option_2": "Dilbert",
+      "right": "Garfield",
+      "subj": "Leisure"
+    },
+    "4": {
+      "question": "Garfield",
+      "exp": "graduated from",
+      "option_1": "William & Mary",
+      "option_2": "Williams College",
+      "right": "Williams College",
+      "subj": "Pop"
+    },
+    "5": {
+      "question": "Williams College",
+      "exp": "was founded by a man with first name",
+      "option_1": "Ephraim",
+      "option_2": "Gilmud",
+      "right": "Ephraim",
+      "subj": "Leisure"
+    },
+    "6": {
+      "question": "Ephraim",
+      "exp": "is a Biblical name that first appears in the book of",
+      "option_1": "Genesis",
+      "option_2": "Philippians",
+      "right": "Genesis",
+      "subj": "History"
+    },
+    "7": {
+      "question": "Genesis",
+      "exp": "is an English rock band that once included the famous drummer/singer",
+      "option_1": "Eric Donaldson",
+      "option_2": "Phil Collins",
+      "right": "Phil Collins",
+      "subj": "Music"
+    },
+    "8": {
+      "question": "Phil Collins",
+      "exp": "wrote songs for the 1999 Disney film",
+      "option_1": "Tarzan",
+      "option_2": "Snow White",
+      "right": "Tarzan",
+      "subj": "Music"
+    },
+    "9": {
+      "question": "Tarzan",
+      "exp": "has the love interest and future wife",
+      "option_1": "Jean Porter",
+      "option_2": "Jane Porter",
+      "right": "Jane Porter",
+      "subj": "Pop"
+    },
+    "10": {
+      "question": "Jane Porter",
+      "exp": "is also an English historical novelist from, you guessed it,",
+      "option_1": "England",
+      "option_2": "Ireland",
+      "right": "England",
+      "subj": "Literature"
+    },
+    "11": {
+      "question": "England",
+      "exp": "is home to the famous cartoonist",
+      "option_1": "Ronald Searle",
+      "option_2": "Scott Adams",
+      "right": "Ronald Searle",
+      "subj": "Literature"
+    },
+    "12": {
+      "question": "Ronald Searle",
+      "exp": "is best known for creating the wild comic strip",
+      "option_1": "St Trinian's School",
+      "option_2": "St Benedict's Abbey",
+      "right": "St Trinian's School",
       "subj": "Literature"
     }
   }
