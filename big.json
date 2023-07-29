@@ -1,105 +1,4 @@
-{      
-  "466": {
-    "1": {
-      "question": "Mahayana",
-      "exp": "is a branch of",
-      "option_1": "Buddhism",
-      "option_2": "Hinduism",
-      "right": "Buddhism",
-      "subj": "Geography",
-      "author": ""
-    },
-    "2": {
-      "question": "Buddhism",
-      "exp": "paths should ultimately lead one to",
-      "option_1": "Khuryana",
-      "option_2": "Nirvana",
-      "right": "Nirvana",
-      "subj": "Geography"
-    },
-    "3": {
-      "question": "Nirvana",
-      "exp": "is a band that released the song",
-      "option_1": "In Glue",
-      "option_2": "In Bloom",
-      "right": "In Bloom",
-      "subj": "Music"
-    },
-    "4": {
-      "question": "In Bloom",
-      "exp": "was on the album",
-      "option_1": "Nevermind",
-      "option_2": "Dreams",
-      "right": "Nevermind",
-      "subj": "Music"
-    },
-    "5": {
-      "question": "Nevermind",
-      "exp": "was written primarily by",
-      "option_1": "Ian O'Brien",
-      "option_2": "Kurt Cobain",
-      "right": "Kurt Cobain",
-      "subj": "Music"
-    },
-    "6": {
-      "question": "Kurt Cobain",
-      "exp": "died via",
-      "option_1": "Suicide",
-      "option_2": "Car Accident",
-      "right": "Suicide",
-      "subj": "Music"
-    },
-    "7": {
-      "question": "Suicide",
-      "exp": "was the cause of death for",
-      "option_1": "Donald Drumiken",
-      "option_2": "Sylvia Plath",
-      "right": "Sylvia Plath",
-      "subj": "Literature"
-    },
-    "8": {
-      "question": "Sylvia Plath",
-      "exp": "was an",
-      "option_1": "American Architect",
-      "option_2": "American Poet",
-      "right": "American Poet",
-      "subj": "Literature"
-    },
-    "9": {
-      "question": "American Poet",
-      "exp": "is how one might describe",
-      "option_1": "Ira Bertin",
-      "option_2": "Ezra Pound",
-      "right": "Ezra Pound",
-      "subj": "Literature"
-    },
-    "10": {
-      "question": "Ezra Pound",
-      "exp": "left incomplete an 800-page epic poem called",
-      "option_1": "The Joyful Cry of Elysia",
-      "option_2": "The Cantos",
-      "right": "The Cantos",
-      "subj": "Literature"
-    },
-    "11": {
-      "question": "The Cantos",
-      "exp": "is a",
-      "option_1": "Poem",
-      "option_2": "Film",
-      "right": "Poem",
-      "subj": "Literature"
-    },
-    "12": {
-      "question": "Poem",
-      "exp": "is how one would describe the work by T.S. Eliot called",
-      "option_1": "The Farmer's Hand",
-      "option_2": "The Waste Land",
-      "right": "The Waste Land",
-      "subj": "Literature"
-    }
-  },
-
-  
+{        
   "467": {
     "1": {
       "question": "Peanuts",
@@ -197,6 +96,107 @@
       "option_2": "St Benedict's Abbey",
       "right": "St Trinian's School",
       "subj": "Literature"
+    }
+  },
+
+  
+  "468": {
+    "1": {
+      "question": "The Death of Marat",
+      "exp": "was painted during the era of the",
+      "option_1": "Russian Revolution",
+      "option_2": "French Revolution",
+      "right": "French Revolution",
+      "subj": "Art",
+      "author": ""
+    },
+    "2": {
+      "question": "French Revolution",
+      "exp": "was partially fueled by 'The Affair of the Diamond Necklace', portrayed in the 2001 American film ",
+      "option_1": "Louis XIV",
+      "option_2": "The Affair of the Necklace",
+      "right": "The Affair of the Necklace",
+      "subj": "History"
+    },
+    "3": {
+      "question": "The Affair of the Necklace",
+      "exp": "stars the academy award winning actress",
+      "option_1": "Hilary Swank",
+      "option_2": "Hillary Duff",
+      "right": "Hilary Swank",
+      "subj": "Pop"
+    },
+    "4": {
+      "question": "Hilary Swank",
+      "exp": "came to international recognition through her performance as",
+      "option_1": "Kevin McHale",
+      "option_2": "Maggie Fitzgerlad",
+      "right": "Maggie Fitzgerlad",
+      "subj": "Pop"
+    },
+    "5": {
+      "question": "Maggie Fitzgerlad",
+      "exp": "is an aspiring bozer in the film",
+      "option_1": "Million Dollar Baby",
+      "option_2": "Millions",
+      "right": "Million Dollar Baby",
+      "subj": "Pop"
+    },
+    "6": {
+      "question": "Million Dollar Baby",
+      "exp": "is a 2005 sports drama film directed by Clint Eastwood. It's also a 1941 romantic comedy film starring the future president",
+      "option_1": "Ronald Reagan",
+      "option_2": "James Cameron",
+      "right": "Ronald Reagan",
+      "subj": "History"
+    },
+    "7": {
+      "question": "Ronald Reagan",
+      "exp": "suffered for 9 years from",
+      "option_1": "Alzheimer's Disease",
+      "option_2": "Idaho",
+      "right": "Alzheimer's Disease",
+      "subj": "History"
+    },
+    "8": {
+      "question": "Alzheimer's Disease",
+      "exp": "is named after the German psychiatrist and pathologist who first described it in 1906,",
+      "option_1": "Albert",
+      "option_2": "Alois",
+      "right": "Alois",
+      "subj": "STEM"
+    },
+    "9": {
+      "question": "Alois",
+      "exp": "was the middle name of",
+      "option_1": "Franz Ferdinand",
+      "option_2": "Joseph Schumpeter",
+      "right": "Joseph Schumpeter",
+      "subj": "History"
+    },
+    "10": {
+      "question": "Joseph Schumpeter",
+      "exp": "was the finance minister of German-",
+      "option_1": "Australia",
+      "option_2": "Austria",
+      "right": "Austria",
+      "subj": "History"
+    },
+    "11": {
+      "question": "Austria",
+      "exp": "is the setting for perhaps the greatest musical ever created (according to many esteemed intellectuals),",
+      "option_1": "The Sound of Music",
+      "option_2": "Cabaret",
+      "right": "The Sound of Music",
+      "subj": "Leisure"
+    },
+    "12": {
+      "question": "The Sound of Music",
+      "exp": "features the Benedictine monastery",
+      "option_1": "Les Trois Mousquetaires",
+      "option_2": "Nonnberg Abbey",
+      "right": "Nonnberg Abbey",
+      "subj": "Leisure"
     }
   }
 }
