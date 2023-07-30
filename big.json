@@ -1,106 +1,4 @@
-{        
-  "467": {
-    "1": {
-      "question": "Peanuts",
-      "exp": "is one of the most popular and influential comic strips of all time, created by",
-      "option_1": "Charles Schultz",
-      "option_2": "Jim Davis",
-      "right": "Charles Schultz",
-      "subj": "Literature",
-      "author": ""
-    },
-    "2": {
-      "question": "Charles Schultz",
-      "exp": "has been cited as a major influence on the cartoonist",
-      "option_1": "Jim Davis",
-      "option_2": "Michael Watterson",
-      "right": "Jim Davis",
-      "subj": "Literature"
-    },
-    "3": {
-      "question": "Jim Davis",
-      "exp": "is best known for creating the comic strip",
-      "option_1": "Garfield",
-      "option_2": "Dilbert",
-      "right": "Garfield",
-      "subj": "Leisure"
-    },
-    "4": {
-      "question": "Garfield",
-      "exp": "graduated from",
-      "option_1": "William & Mary",
-      "option_2": "Williams College",
-      "right": "Williams College",
-      "subj": "Pop"
-    },
-    "5": {
-      "question": "Williams College",
-      "exp": "was founded by a man with first name",
-      "option_1": "Ephraim",
-      "option_2": "Gilmud",
-      "right": "Ephraim",
-      "subj": "Leisure"
-    },
-    "6": {
-      "question": "Ephraim",
-      "exp": "is a Biblical name that first appears in the book of",
-      "option_1": "Genesis",
-      "option_2": "Philippians",
-      "right": "Genesis",
-      "subj": "History"
-    },
-    "7": {
-      "question": "Genesis",
-      "exp": "is an English rock band that once included the famous drummer/singer",
-      "option_1": "Eric Donaldson",
-      "option_2": "Phil Collins",
-      "right": "Phil Collins",
-      "subj": "Music"
-    },
-    "8": {
-      "question": "Phil Collins",
-      "exp": "wrote songs for the 1999 Disney film",
-      "option_1": "Tarzan",
-      "option_2": "Snow White",
-      "right": "Tarzan",
-      "subj": "Music"
-    },
-    "9": {
-      "question": "Tarzan",
-      "exp": "has the love interest and future wife",
-      "option_1": "Jean Porter",
-      "option_2": "Jane Porter",
-      "right": "Jane Porter",
-      "subj": "Pop"
-    },
-    "10": {
-      "question": "Jane Porter",
-      "exp": "is also an English historical novelist from, you guessed it,",
-      "option_1": "England",
-      "option_2": "Ireland",
-      "right": "England",
-      "subj": "Literature"
-    },
-    "11": {
-      "question": "England",
-      "exp": "is home to the famous cartoonist",
-      "option_1": "Ronald Searle",
-      "option_2": "Scott Adams",
-      "right": "Ronald Searle",
-      "subj": "Literature"
-    },
-    "12": {
-      "question": "Ronald Searle",
-      "exp": "is best known for creating the wild comic strip",
-      "option_1": "St Trinian's School",
-      "option_2": "St Benedict's Abbey",
-      "right": "St Trinian's School",
-      "subj": "Literature"
-    }
-  },
-
-  
-  "468": {
+{"468": {
     "1": {
       "question": "The Death of Marat",
       "exp": "was painted during the era of the",
@@ -198,5 +96,7 @@
       "right": "Nonnberg Abbey",
       "subj": "Leisure"
     }
-  }
+  },
+  "469": {"1":{"question": "Charlotte Brontë", "exp": "famously wrote", "option_1": "Jane Eyre", "option_2": "Sense and Sensibility", "right": "Jane Eyre", "subj": "Literature", "author": ""},"2":{"question": "Jane Eyre", "exp": "features the mysterious", "option_1": "Mr. Rochester", "option_2": "Mr. Darcy", "right": "Mr. Rochester", "subj": "Literature"},"3":{"question": "Mr. Rochester", "exp": "is portrayed in the 2011 film by", "option_1": "Michael Creighton", "option_2": "Michael Fassbender", "right": "Michael Fassbender", "subj": "Pop"},"4":{"question": "Michael Fassbender", "exp": "in a 2015 film portrayed", "option_1": "Henry Mnuchin", "option_2": "Steve Jobs", "right": "Steve Jobs", "subj": "Pop"},"5":{"question": "Steve Jobs", "exp": "founded", "option_1": "Microsoft", "option_2": "Apple", "right": "Apple", "subj": "Business"},"6":{"question": "Apple", "exp": "is the owner of", "option_1": "Premier Pro", "option_2": "Final Cut Pro", "right": "Final Cut Pro", "subj": "STEM"},"7":{"question": "Final Cut Pro", "exp": "is a type of", "option_1": "Software", "option_2": "Hardware", "right": "Software", "subj": "STEM"},"8":{"question": "Software", "exp": "might be supported by the computer science language", "option_1": "Vernixen", "option_2": "Python", "right": "Python", "subj": "STEM"},"9":{"question": "Python", "exp": "are native to the", "option_1": "Western Hemisphere", "option_2": "Eastern Hemisphere", "right": "Eastern Hemisphere", "subj": "Geography"},"10":{"question": "Eastern Hemisphere", "exp": "is where you would find", "option_1": "Lake Titicaca", "option_2": "Lake Eyre", "right": "Lake Eyre", "subj": "Geography"},"11":{"question": "Lake Eyre", "exp": "is the largest lake in", "option_1": "Australia", "option_2": "Thailand", "right": "Australia", "subj": "Geography"},"12":{"question": "Australia", "exp": "is where you would find the city of", "option_1": "Hobart", "option_2": "Christchurch", "right": "Hobart", "subj": "Geography"}}
+
 }
