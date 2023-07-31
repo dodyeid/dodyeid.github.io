@@ -1,104 +1,4 @@
 {
-    "468": {
-    "1": {
-      "question": "The Death of Marat",
-      "exp": "was painted during the era of the",
-      "option_1": "Russian Revolution",
-      "option_2": "French Revolution",
-      "right": "French Revolution",
-      "subj": "Art",
-      "author": ""
-    },
-    "2": {
-      "question": "French Revolution",
-      "exp": "was partially fueled by 'The Affair of the Diamond Necklace', portrayed in the 2001 American film ",
-      "option_1": "Louis XIV",
-      "option_2": "The Affair of the Necklace",
-      "right": "The Affair of the Necklace",
-      "subj": "History"
-    },
-    "3": {
-      "question": "The Affair of the Necklace",
-      "exp": "stars the academy award winning actress",
-      "option_1": "Hilary Swank",
-      "option_2": "Hillary Duff",
-      "right": "Hilary Swank",
-      "subj": "Pop"
-    },
-    "4": {
-      "question": "Hilary Swank",
-      "exp": "came to international recognition through her performance as",
-      "option_1": "Kevin McHale",
-      "option_2": "Maggie Fitzgerlad",
-      "right": "Maggie Fitzgerlad",
-      "subj": "Pop"
-    },
-    "5": {
-      "question": "Maggie Fitzgerlad",
-      "exp": "is an aspiring bozer in the film",
-      "option_1": "Million Dollar Baby",
-      "option_2": "Millions",
-      "right": "Million Dollar Baby",
-      "subj": "Pop"
-    },
-    "6": {
-      "question": "Million Dollar Baby",
-      "exp": "is a 2005 sports drama film directed by Clint Eastwood. It's also a 1941 romantic comedy film starring the future president",
-      "option_1": "Ronald Reagan",
-      "option_2": "James Cameron",
-      "right": "Ronald Reagan",
-      "subj": "History"
-    },
-    "7": {
-      "question": "Ronald Reagan",
-      "exp": "suffered for 9 years from",
-      "option_1": "Alzheimer's Disease",
-      "option_2": "Idaho",
-      "right": "Alzheimer's Disease",
-      "subj": "History"
-    },
-    "8": {
-      "question": "Alzheimer's Disease",
-      "exp": "is named after the German psychiatrist and pathologist who first described it in 1906,",
-      "option_1": "Albert",
-      "option_2": "Alois",
-      "right": "Alois",
-      "subj": "STEM"
-    },
-    "9": {
-      "question": "Alois",
-      "exp": "was the middle name of",
-      "option_1": "Franz Ferdinand",
-      "option_2": "Joseph Schumpeter",
-      "right": "Joseph Schumpeter",
-      "subj": "History"
-    },
-    "10": {
-      "question": "Joseph Schumpeter",
-      "exp": "was the finance minister of German-",
-      "option_1": "Australia",
-      "option_2": "Austria",
-      "right": "Austria",
-      "subj": "History"
-    },
-    "11": {
-      "question": "Austria",
-      "exp": "is the setting for perhaps the greatest musical ever created (according to many esteemed intellectuals),",
-      "option_1": "The Sound of Music",
-      "option_2": "Cabaret",
-      "right": "The Sound of Music",
-      "subj": "Leisure"
-    },
-    "12": {
-      "question": "The Sound of Music",
-      "exp": "features the Benedictine monastery",
-      "option_1": "Les Trois Mousquetaires",
-      "option_2": "Nonnberg Abbey",
-      "right": "Nonnberg Abbey",
-      "subj": "Leisure"
-    }
-  },
-    
   "469": {
     "1": {
       "question": "Charlotte Brontë",
@@ -196,6 +96,107 @@
       "option_2": "Christchurch",
       "right": "Hobart",
       "subj": "Geography"
+    }
+  },
+
+    
+  "470": {
+    "1": {
+      "question": "Probability",
+      "exp": "has a rich and contested history with great thinkers, not the least of which was the English statistician and philosopher",
+      "option_1": "Richard Wolff",
+      "option_2": "Thomas Bayes",
+      "right": "Thomas Bayes",
+      "subj": "STEM",
+      "author": ""
+    },
+    "2": {
+      "question": "Thomas Bayes",
+      "exp": "was also a",
+      "option_1": "Library Employee",
+      "option_2": "Presbyterian Minister",
+      "right": "Presbyterian Minister",
+      "subj": "History"
+    },
+    "3": {
+      "question": "Presbyterian Minister",
+      "exp": "has beliefs dating back to the Reformation and teachings of",
+      "option_1": "John Calvin",
+      "option_2": "John Yazigi",
+      "right": "John Calvin",
+      "subj": "History"
+    },
+    "4": {
+      "question": "John Calvin",
+      "exp": "was born in France but eventually fled to",
+      "option_1": "Kiev",
+      "option_2": "Geneva",
+      "right": "Geneva",
+      "subj": "History"
+    },
+    "5": {
+      "question": "Geneva",
+      "exp": "is the second-most populous (after Zürich) city in",
+      "option_1": "Switzerland",
+      "option_2": "France",
+      "right": "Switzerland",
+      "subj": "Geography"
+    },
+    "6": {
+      "question": "Switzerland",
+      "exp": "did not join the United Nations until 2002, and is known for its ardent",
+      "option_1": "Joined U.N. in 1955",
+      "option_2": "Neutrality",
+      "right": "Neutrality",
+      "subj": "Geography"
+    },
+    "7": {
+      "question": "Neutrality",
+      "exp": "could not have anything to do with Matt Lambarton because I made that name up… but it was the position of the United States (at first) during World War I under President",
+      "option_1": "Woodrow Wilson",
+      "option_2": "Matt Lambarton",
+      "right": "Woodrow Wilson",
+      "subj": "History"
+    },
+    "8": {
+      "question": "Woodrow Wilson",
+      "exp": "unsuccessfully presented, to the Senate, the",
+      "option_1": "Treaty of Berlin",
+      "option_2": "Treaty of Versailles",
+      "right": "Treaty of Versailles",
+      "subj": "History"
+    },
+    "9": {
+      "question": "Treaty of Versailles",
+      "exp": "was signed in the famous",
+      "option_1": "Hall of Chandeliers",
+      "option_2": "Hall of Mirrors",
+      "right": "Hall of Mirrors",
+      "subj": "History"
+    },
+    "10": {
+      "question": "Hall of Mirrors",
+      "exp": "was built during the reign of French monarch",
+      "option_1": "Louis XII",
+      "option_2": "Louis XIV",
+      "right": "Louis XIV",
+      "subj": "History"
+    },
+    "11": {
+      "question": "Louis XIV",
+      "exp": "did not say 'Après moi, le déluge' (that was his great grandson, Louis XV), but is apocryphally believed to have said",
+      "option_1": "L'État, c'est moi",
+      "option_2": "Après moi, le déluge",
+      "right": "L'État, c'est moi",
+      "subj": "History"
+    },
+    "12": {
+      "question": "L'État, c'est moi",
+      "exp": "is french for",
+      "option_1": "Power or nothing",
+      "option_2": "I am the state",
+      "right": "I am the state",
+      "subj": "History"
     }
   }
 }
