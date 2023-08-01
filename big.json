@@ -1,105 +1,4 @@
-{
-  "469": {
-    "1": {
-      "question": "Charlotte Brontë",
-      "exp": "famously wrote",
-      "option_1": "Jane Eyre",
-      "option_2": "Sense and Sensibility",
-      "right": "Jane Eyre",
-      "subj": "Literature",
-      "author": ""
-    },
-    "2": {
-      "question": "Jane Eyre",
-      "exp": "features the mysterious",
-      "option_1": "Mr. Rochester",
-      "option_2": "Mr. Darcy",
-      "right": "Mr. Rochester",
-      "subj": "Literature"
-    },
-    "3": {
-      "question": "Mr. Rochester",
-      "exp": "is portrayed in the 2011 film by",
-      "option_1": "Michael Creighton",
-      "option_2": "Michael Fassbender",
-      "right": "Michael Fassbender",
-      "subj": "Pop"
-    },
-    "4": {
-      "question": "Michael Fassbender",
-      "exp": "in a 2015 film portrayed",
-      "option_1": "Henry Mnuchin",
-      "option_2": "Steve Jobs",
-      "right": "Steve Jobs",
-      "subj": "Pop"
-    },
-    "5": {
-      "question": "Steve Jobs",
-      "exp": "founded",
-      "option_1": "Microsoft",
-      "option_2": "Apple",
-      "right": "Apple",
-      "subj": "Business"
-    },
-    "6": {
-      "question": "Apple",
-      "exp": "is the owner of",
-      "option_1": "Premier Pro",
-      "option_2": "Final Cut Pro",
-      "right": "Final Cut Pro",
-      "subj": "STEM"
-    },
-    "7": {
-      "question": "Final Cut Pro",
-      "exp": "is a type of",
-      "option_1": "Software",
-      "option_2": "Hardware",
-      "right": "Software",
-      "subj": "STEM"
-    },
-    "8": {
-      "question": "Software",
-      "exp": "might be supported by the computer science language",
-      "option_1": "Vernixen",
-      "option_2": "Python",
-      "right": "Python",
-      "subj": "STEM"
-    },
-    "9": {
-      "question": "Python",
-      "exp": "are native to the",
-      "option_1": "Western Hemisphere",
-      "option_2": "Eastern Hemisphere",
-      "right": "Eastern Hemisphere",
-      "subj": "Geography"
-    },
-    "10": {
-      "question": "Eastern Hemisphere",
-      "exp": "is where you would find",
-      "option_1": "Lake Titicaca",
-      "option_2": "Lake Eyre",
-      "right": "Lake Eyre",
-      "subj": "Geography"
-    },
-    "11": {
-      "question": "Lake Eyre",
-      "exp": "is the largest lake in",
-      "option_1": "Australia",
-      "option_2": "Thailand",
-      "right": "Australia",
-      "subj": "Geography"
-    },
-    "12": {
-      "question": "Australia",
-      "exp": "is where you would find the city of",
-      "option_1": "Hobart",
-      "option_2": "Christchurch",
-      "right": "Hobart",
-      "subj": "Geography"
-    }
-  },
-
-    
+{    
   "470": {
     "1": {
       "question": "Probability",
@@ -197,6 +96,107 @@
       "option_2": "I am the state",
       "right": "I am the state",
       "subj": "History"
+    }
+  },
+
+  
+  "471": {
+    "1": {
+      "question": "Theodore Roosevelt",
+      "exp": "loved",
+      "option_1": "Wendy Stein",
+      "option_2": "The Bully Pulpit",
+      "right": "The Bully Pulpit",
+      "subj": "History",
+      "author": ""
+    },
+    "2": {
+      "question": "The Bully Pulpit",
+      "exp": "was written by",
+      "option_1": "Doris Kearns Goodwin",
+      "option_2": "Lou Mangelli",
+      "right": "Doris Kearns Goodwin",
+      "subj": "History"
+    },
+    "3": {
+      "question": "Doris Kearns Goodwin",
+      "exp": "was born in",
+      "option_1": "1843",
+      "option_2": "1943",
+      "right": "1943",
+      "subj": "History"
+    },
+    "4": {
+      "question": "1943",
+      "exp": "was the year which saw the end of the",
+      "option_1": "Battle of Hiroshima",
+      "option_2": "Battle of Stalingrad",
+      "right": "Battle of Stalingrad",
+      "subj": "History"
+    },
+    "5": {
+      "question": "Battle of Stalingrad",
+      "exp": "took place in current day",
+      "option_1": "Vladivostok",
+      "option_2": "Volgograd ",
+      "right": "Volgograd ",
+      "subj": "History"
+    },
+    "6": {
+      "question": "Volgograd ",
+      "exp": "is on the",
+      "option_1": "Werhaus River",
+      "option_2": "Volga River",
+      "right": "Volga River",
+      "subj": "Geography"
+    },
+    "7": {
+      "question": "Volga River",
+      "exp": "flows into the sea named",
+      "option_1": "Caspian",
+      "option_2": "North",
+      "right": "Caspian",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "Caspian",
+      "exp": "is part of the title of a major film and novel in the series",
+      "option_1": "Lord of the Rings",
+      "option_2": "Narnia",
+      "right": "Narnia",
+      "subj": "Literature"
+    },
+    "9": {
+      "question": "Narnia",
+      "exp": "was written by",
+      "option_1": "C.S. Lewis",
+      "option_2": "D.E. Shaw",
+      "right": "C.S. Lewis",
+      "subj": "Literature"
+    },
+    "10": {
+      "question": "C.S. Lewis",
+      "exp": "also wrote",
+      "option_1": "Till We Have Faces",
+      "option_2": "Haitian Divorce",
+      "right": "Till We Have Faces",
+      "subj": "Literature"
+    },
+    "11": {
+      "question": "Till We Have Faces",
+      "exp": "is a retelling of the myth of Cupid and",
+      "option_1": "Welma",
+      "option_2": "Psyche",
+      "right": "Psyche",
+      "subj": "Literature"
+    },
+    "12": {
+      "question": "Psyche",
+      "exp": "is the Greek goddess of the",
+      "option_1": "Vineyards",
+      "option_2": "Soul",
+      "right": "Soul",
+      "subj": "Literature"
     }
   }
 }
