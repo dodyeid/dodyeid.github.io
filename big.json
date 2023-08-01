@@ -1,104 +1,4 @@
 {    
-  "470": {
-    "1": {
-      "question": "Probability",
-      "exp": "has a rich and contested history with great thinkers, not the least of which was the English statistician and philosopher",
-      "option_1": "Richard Wolff",
-      "option_2": "Thomas Bayes",
-      "right": "Thomas Bayes",
-      "subj": "STEM",
-      "author": ""
-    },
-    "2": {
-      "question": "Thomas Bayes",
-      "exp": "was also a",
-      "option_1": "Library Employee",
-      "option_2": "Presbyterian Minister",
-      "right": "Presbyterian Minister",
-      "subj": "History"
-    },
-    "3": {
-      "question": "Presbyterian Minister",
-      "exp": "has beliefs dating back to the Reformation and teachings of",
-      "option_1": "John Calvin",
-      "option_2": "John Yazigi",
-      "right": "John Calvin",
-      "subj": "History"
-    },
-    "4": {
-      "question": "John Calvin",
-      "exp": "was born in France but eventually fled to",
-      "option_1": "Kiev",
-      "option_2": "Geneva",
-      "right": "Geneva",
-      "subj": "History"
-    },
-    "5": {
-      "question": "Geneva",
-      "exp": "is the second-most populous (after Zürich) city in",
-      "option_1": "Switzerland",
-      "option_2": "France",
-      "right": "Switzerland",
-      "subj": "Geography"
-    },
-    "6": {
-      "question": "Switzerland",
-      "exp": "did not join the United Nations until 2002, and is known for its ardent",
-      "option_1": "Joined U.N. in 1955",
-      "option_2": "Neutrality",
-      "right": "Neutrality",
-      "subj": "Geography"
-    },
-    "7": {
-      "question": "Neutrality",
-      "exp": "could not have anything to do with Matt Lambarton because I made that name up… but it was the position of the United States (at first) during World War I under President",
-      "option_1": "Woodrow Wilson",
-      "option_2": "Matt Lambarton",
-      "right": "Woodrow Wilson",
-      "subj": "History"
-    },
-    "8": {
-      "question": "Woodrow Wilson",
-      "exp": "unsuccessfully presented, to the Senate, the",
-      "option_1": "Treaty of Berlin",
-      "option_2": "Treaty of Versailles",
-      "right": "Treaty of Versailles",
-      "subj": "History"
-    },
-    "9": {
-      "question": "Treaty of Versailles",
-      "exp": "was signed in the famous",
-      "option_1": "Hall of Chandeliers",
-      "option_2": "Hall of Mirrors",
-      "right": "Hall of Mirrors",
-      "subj": "History"
-    },
-    "10": {
-      "question": "Hall of Mirrors",
-      "exp": "was built during the reign of French monarch",
-      "option_1": "Louis XII",
-      "option_2": "Louis XIV",
-      "right": "Louis XIV",
-      "subj": "History"
-    },
-    "11": {
-      "question": "Louis XIV",
-      "exp": "did not say 'Après moi, le déluge' (that was his great grandson, Louis XV), but is apocryphally believed to have said",
-      "option_1": "L'État, c'est moi",
-      "option_2": "Après moi, le déluge",
-      "right": "L'État, c'est moi",
-      "subj": "History"
-    },
-    "12": {
-      "question": "L'État, c'est moi",
-      "exp": "is french for",
-      "option_1": "Power or nothing",
-      "option_2": "I am the state",
-      "right": "I am the state",
-      "subj": "History"
-    }
-  },
-
   
   "471": {
     "1": {
@@ -197,6 +97,107 @@
       "option_2": "Soul",
       "right": "Soul",
       "subj": "Literature"
+    }
+  },
+
+  
+  "472": {
+    "1": {
+      "question": "Set Fire to the Rain",
+      "exp": "is a song by",
+      "option_1": "Adele",
+      "option_2": "Taylor Swift",
+      "right": "Adele",
+      "subj": "Music",
+      "author": ""
+    },
+    "2": {
+      "question": "Adele",
+      "exp": "wrote the dramatic song",
+      "option_1": "Rolling in the Deep",
+      "option_2": "Foaming at the Cheeks",
+      "right": "Rolling in the Deep",
+      "subj": "Music"
+    },
+    "3": {
+      "question": "Rolling in the Deep",
+      "exp": "was written by",
+      "option_1": "Adele",
+      "option_2": "Taylor Swift",
+      "right": "Adele",
+      "subj": "Music"
+    },
+    "4": {
+      "question": "Adele",
+      "exp": "wrote the dramatic song",
+      "option_1": "Crazy on You",
+      "option_2": "Easy on Me",
+      "right": "Easy on Me",
+      "subj": "Music"
+    },
+    "5": {
+      "question": "Easy on Me",
+      "exp": "was written by",
+      "option_1": "Adele",
+      "option_2": "Taylor Swift",
+      "right": "Adele",
+      "subj": "Music"
+    },
+    "6": {
+      "question": "Adele",
+      "exp": "wrote the poetic song",
+      "option_1": "Loving the Light",
+      "option_2": "Love in the Dark",
+      "right": "Love in the Dark",
+      "subj": "Music"
+    },
+    "7": {
+      "question": "Love in the Dark",
+      "exp": "was written by",
+      "option_1": "Taylor Swift",
+      "option_2": "Adele",
+      "right": "Adele",
+      "subj": "Music"
+    },
+    "8": {
+      "question": "Adele",
+      "exp": "wrote the wild song",
+      "option_1": "Rumour Has It",
+      "option_2": "Zoomer Has It",
+      "right": "Rumour Has It",
+      "subj": "Music"
+    },
+    "9": {
+      "question": "Rumour Has It",
+      "exp": "was written by",
+      "option_1": "Taylor Swift",
+      "option_2": "Adele",
+      "right": "Adele",
+      "subj": "Music"
+    },
+    "10": {
+      "question": "Adele",
+      "exp": "wrote the melodramatic song",
+      "option_1": "Hello",
+      "option_2": "Goodbye",
+      "right": "Hello",
+      "subj": "Music"
+    },
+    "11": {
+      "question": "Hello",
+      "exp": "is in the title of a popular song by",
+      "option_1": "The Eagles",
+      "option_2": "The Beatles",
+      "right": "The Beatles",
+      "subj": "Music"
+    },
+    "12": {
+      "question": "The Beatles",
+      "exp": "wrote the murderous song",
+      "option_1": "Mr. Custard",
+      "option_2": "Maxwell's Silver Hammer",
+      "right": "Maxwell's Silver Hammer",
+      "subj": "Music"
     }
   }
 }
