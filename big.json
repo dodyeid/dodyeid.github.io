@@ -1,106 +1,4 @@
-{    
-  
-  "471": {
-    "1": {
-      "question": "Theodore Roosevelt",
-      "exp": "loved",
-      "option_1": "Wendy Stein",
-      "option_2": "The Bully Pulpit",
-      "right": "The Bully Pulpit",
-      "subj": "History",
-      "author": ""
-    },
-    "2": {
-      "question": "The Bully Pulpit",
-      "exp": "was written by",
-      "option_1": "Doris Kearns Goodwin",
-      "option_2": "Lou Mangelli",
-      "right": "Doris Kearns Goodwin",
-      "subj": "History"
-    },
-    "3": {
-      "question": "Doris Kearns Goodwin",
-      "exp": "was born in",
-      "option_1": "1843",
-      "option_2": "1943",
-      "right": "1943",
-      "subj": "History"
-    },
-    "4": {
-      "question": "1943",
-      "exp": "was the year which saw the end of the",
-      "option_1": "Battle of Hiroshima",
-      "option_2": "Battle of Stalingrad",
-      "right": "Battle of Stalingrad",
-      "subj": "History"
-    },
-    "5": {
-      "question": "Battle of Stalingrad",
-      "exp": "took place in current day",
-      "option_1": "Vladivostok",
-      "option_2": "Volgograd ",
-      "right": "Volgograd ",
-      "subj": "History"
-    },
-    "6": {
-      "question": "Volgograd ",
-      "exp": "is on the",
-      "option_1": "Werhaus River",
-      "option_2": "Volga River",
-      "right": "Volga River",
-      "subj": "Geography"
-    },
-    "7": {
-      "question": "Volga River",
-      "exp": "flows into the sea named",
-      "option_1": "Caspian",
-      "option_2": "North",
-      "right": "Caspian",
-      "subj": "Geography"
-    },
-    "8": {
-      "question": "Caspian",
-      "exp": "is part of the title of a major film and novel in the series",
-      "option_1": "Lord of the Rings",
-      "option_2": "Narnia",
-      "right": "Narnia",
-      "subj": "Literature"
-    },
-    "9": {
-      "question": "Narnia",
-      "exp": "was written by",
-      "option_1": "C.S. Lewis",
-      "option_2": "D.E. Shaw",
-      "right": "C.S. Lewis",
-      "subj": "Literature"
-    },
-    "10": {
-      "question": "C.S. Lewis",
-      "exp": "also wrote",
-      "option_1": "Till We Have Faces",
-      "option_2": "Haitian Divorce",
-      "right": "Till We Have Faces",
-      "subj": "Literature"
-    },
-    "11": {
-      "question": "Till We Have Faces",
-      "exp": "is a retelling of the myth of Cupid and",
-      "option_1": "Welma",
-      "option_2": "Psyche",
-      "right": "Psyche",
-      "subj": "Literature"
-    },
-    "12": {
-      "question": "Psyche",
-      "exp": "is the Greek goddess of the",
-      "option_1": "Vineyards",
-      "option_2": "Soul",
-      "right": "Soul",
-      "subj": "Literature"
-    }
-  },
-
-  
+{      
   "472": {
     "1": {
       "question": "Set Fire to the Rain",
@@ -198,6 +96,107 @@
       "option_2": "Maxwell's Silver Hammer",
       "right": "Maxwell's Silver Hammer",
       "subj": "Music"
+    }
+  },
+
+  
+  "473": {
+    "1": {
+      "question": "The Creation of Adam",
+      "exp": "is a famous painting on the ceiling of the",
+      "option_1": "Sistine Chapel",
+      "option_2": "Cambrusia",
+      "right": "Sistine Chapel",
+      "subj": "Art",
+      "author": ""
+    },
+    "2": {
+      "question": "Sistine Chapel",
+      "exp": "ceiling was painted by",
+      "option_1": "Donatello",
+      "option_2": "Michelangelo",
+      "right": "Michelangelo",
+      "subj": "Art"
+    },
+    "3": {
+      "question": "Michelangelo",
+      "exp": "sculpted",
+      "option_1": "Danillo",
+      "option_2": "David",
+      "right": "David",
+      "subj": "Art"
+    },
+    "4": {
+      "question": "David",
+      "exp": "was sculpted by the sculptor of",
+      "option_1": "Maradonna",
+      "option_2": "Moses",
+      "right": "Moses",
+      "subj": "Art"
+    },
+    "5": {
+      "question": "Moses",
+      "exp": "was sculpted by the sculptor of the",
+      "option_1": "Pita",
+      "option_2": "Pietà",
+      "right": "Pietà",
+      "subj": "Art"
+    },
+    "6": {
+      "question": "Pietà",
+      "exp": "was sculpted by the painter of",
+      "option_1": "The Last Judgement",
+      "option_2": "The Final Frontier",
+      "right": "The Last Judgement",
+      "subj": "Art"
+    },
+    "7": {
+      "question": "The Last Judgement",
+      "exp": "was painted by the sculptor of the",
+      "option_1": "Dying Slave",
+      "option_2": "Rising Figs",
+      "right": "Dying Slave",
+      "subj": "Art"
+    },
+    "8": {
+      "question": "Dying Slave",
+      "exp": "was scuplted by the sculptor of",
+      "option_1": "Bacchus",
+      "option_2": "Bochum",
+      "right": "Bacchus",
+      "subj": "Art"
+    },
+    "9": {
+      "question": "Bacchus",
+      "exp": "was scuplted by the sculptor of",
+      "option_1": "Madonna of Bruges",
+      "option_2": "Cartugulous",
+      "right": "Madonna of Bruges",
+      "subj": "Art"
+    },
+    "10": {
+      "question": "Madonna of Bruges",
+      "exp": "shares part of its name with the film",
+      "option_1": "In Bruges",
+      "option_2": "Brugencio Baptista",
+      "right": "In Bruges",
+      "subj": "Art"
+    },
+    "11": {
+      "question": "In Bruges",
+      "exp": "is a comedy starring",
+      "option_1": "Robin Williams",
+      "option_2": "Colin Farrell",
+      "right": "Colin Farrell",
+      "subj": "Leisure"
+    },
+    "12": {
+      "question": "Colin Farrell",
+      "exp": "plays the lead role in",
+      "option_1": "Anonymous Ingolstadt",
+      "option_2": "Total Recall",
+      "right": "Total Recall",
+      "subj": "Leisure"
     }
   }
 }
