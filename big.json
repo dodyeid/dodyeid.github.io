@@ -1,105 +1,4 @@
-{      
-  "472": {
-    "1": {
-      "question": "Set Fire to the Rain",
-      "exp": "is a song by",
-      "option_1": "Adele",
-      "option_2": "Taylor Swift",
-      "right": "Adele",
-      "subj": "Music",
-      "author": ""
-    },
-    "2": {
-      "question": "Adele",
-      "exp": "wrote the dramatic song",
-      "option_1": "Rolling in the Deep",
-      "option_2": "Foaming at the Cheeks",
-      "right": "Rolling in the Deep",
-      "subj": "Music"
-    },
-    "3": {
-      "question": "Rolling in the Deep",
-      "exp": "was written by",
-      "option_1": "Adele",
-      "option_2": "Taylor Swift",
-      "right": "Adele",
-      "subj": "Music"
-    },
-    "4": {
-      "question": "Adele",
-      "exp": "wrote the dramatic song",
-      "option_1": "Crazy on You",
-      "option_2": "Easy on Me",
-      "right": "Easy on Me",
-      "subj": "Music"
-    },
-    "5": {
-      "question": "Easy on Me",
-      "exp": "was written by",
-      "option_1": "Adele",
-      "option_2": "Taylor Swift",
-      "right": "Adele",
-      "subj": "Music"
-    },
-    "6": {
-      "question": "Adele",
-      "exp": "wrote the poetic song",
-      "option_1": "Loving the Light",
-      "option_2": "Love in the Dark",
-      "right": "Love in the Dark",
-      "subj": "Music"
-    },
-    "7": {
-      "question": "Love in the Dark",
-      "exp": "was written by",
-      "option_1": "Taylor Swift",
-      "option_2": "Adele",
-      "right": "Adele",
-      "subj": "Music"
-    },
-    "8": {
-      "question": "Adele",
-      "exp": "wrote the wild song",
-      "option_1": "Rumour Has It",
-      "option_2": "Zoomer Has It",
-      "right": "Rumour Has It",
-      "subj": "Music"
-    },
-    "9": {
-      "question": "Rumour Has It",
-      "exp": "was written by",
-      "option_1": "Taylor Swift",
-      "option_2": "Adele",
-      "right": "Adele",
-      "subj": "Music"
-    },
-    "10": {
-      "question": "Adele",
-      "exp": "wrote the melodramatic song",
-      "option_1": "Hello",
-      "option_2": "Goodbye",
-      "right": "Hello",
-      "subj": "Music"
-    },
-    "11": {
-      "question": "Hello",
-      "exp": "is in the title of a popular song by",
-      "option_1": "The Eagles",
-      "option_2": "The Beatles",
-      "right": "The Beatles",
-      "subj": "Music"
-    },
-    "12": {
-      "question": "The Beatles",
-      "exp": "wrote the murderous song",
-      "option_1": "Mr. Custard",
-      "option_2": "Maxwell's Silver Hammer",
-      "right": "Maxwell's Silver Hammer",
-      "subj": "Music"
-    }
-  },
-
-  
+{        
   "473": {
     "1": {
       "question": "The Creation of Adam",
@@ -197,6 +96,107 @@
       "option_2": "Total Recall",
       "right": "Total Recall",
       "subj": "Leisure"
+    }
+  },
+
+  
+  "474": {
+    "1": {
+      "question": "Brazil",
+      "exp": "is home to the cities of",
+      "option_1": "Barcelona",
+      "option_2": "Rio de Janeiro",
+      "right": "Rio de Janeiro",
+      "subj": "Geography",
+      "author": ""
+    },
+    "2": {
+      "question": "Rio de Janeiro",
+      "exp": "",
+      "option_1": "Helanka",
+      "option_2": "São Paulo",
+      "right": "São Paulo",
+      "subj": "Geography"
+    },
+    "3": {
+      "question": "São Paulo",
+      "exp": "",
+      "option_1": "Salvador",
+      "option_2": "Artala",
+      "right": "Salvador",
+      "subj": "Geography"
+    },
+    "4": {
+      "question": "Salvador",
+      "exp": "",
+      "option_1": "Belo Horizonte",
+      "option_2": "Hollonda",
+      "right": "Belo Horizonte",
+      "subj": "Geography"
+    },
+    "5": {
+      "question": "Belo Horizonte",
+      "exp": "",
+      "option_1": "Fuerto Novo",
+      "option_2": "Brasilia",
+      "right": "Brasilia",
+      "subj": "Geography"
+    },
+    "6": {
+      "question": "Brasilia",
+      "exp": "",
+      "option_1": "Manaus",
+      "option_2": "Maunoa Ajorta",
+      "right": "Manaus",
+      "subj": "Geography"
+    },
+    "7": {
+      "question": "Manaus",
+      "exp": "",
+      "option_1": "Eotia",
+      "option_2": "Curitiba",
+      "right": "Curitiba",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "Curitiba",
+      "exp": "",
+      "option_1": "Croatia",
+      "option_2": "Recife",
+      "right": "Recife",
+      "subj": "Geography"
+    },
+    "9": {
+      "question": "Recife",
+      "exp": "",
+      "option_1": "Porto Frica",
+      "option_2": "Porto Alegre",
+      "right": "Porto Alegre",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "Porto Alegre",
+      "exp": "",
+      "option_1": "Fortaleza",
+      "option_2": "Porto Globo",
+      "right": "Fortaleza",
+      "subj": "Geography"
+    },
+    "11": {
+      "question": "Fortaleza",
+      "exp": "",
+      "option_1": "Natal",
+      "option_2": "Narraunil",
+      "right": "Natal",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "Natal",
+      "exp": "",
+      "option_1": "Colona",
+      "option_2": "Cuiabá",
+      "right": "Cuiabá",
+      "subj": "Geography"
     }
   }
 }
