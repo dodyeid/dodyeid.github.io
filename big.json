@@ -1,104 +1,4 @@
-{        
-  "473": {
-    "1": {
-      "question": "The Creation of Adam",
-      "exp": "is a famous painting on the ceiling of the",
-      "option_1": "Sistine Chapel",
-      "option_2": "Cambrusia",
-      "right": "Sistine Chapel",
-      "subj": "Art",
-      "author": ""
-    },
-    "2": {
-      "question": "Sistine Chapel",
-      "exp": "ceiling was painted by",
-      "option_1": "Donatello",
-      "option_2": "Michelangelo",
-      "right": "Michelangelo",
-      "subj": "Art"
-    },
-    "3": {
-      "question": "Michelangelo",
-      "exp": "sculpted",
-      "option_1": "Danillo",
-      "option_2": "David",
-      "right": "David",
-      "subj": "Art"
-    },
-    "4": {
-      "question": "David",
-      "exp": "was sculpted by the sculptor of",
-      "option_1": "Maradonna",
-      "option_2": "Moses",
-      "right": "Moses",
-      "subj": "Art"
-    },
-    "5": {
-      "question": "Moses",
-      "exp": "was sculpted by the sculptor of the",
-      "option_1": "Pita",
-      "option_2": "Pietà",
-      "right": "Pietà",
-      "subj": "Art"
-    },
-    "6": {
-      "question": "Pietà",
-      "exp": "was sculpted by the painter of",
-      "option_1": "The Last Judgement",
-      "option_2": "The Final Frontier",
-      "right": "The Last Judgement",
-      "subj": "Art"
-    },
-    "7": {
-      "question": "The Last Judgement",
-      "exp": "was painted by the sculptor of the",
-      "option_1": "Dying Slave",
-      "option_2": "Rising Figs",
-      "right": "Dying Slave",
-      "subj": "Art"
-    },
-    "8": {
-      "question": "Dying Slave",
-      "exp": "was scuplted by the sculptor of",
-      "option_1": "Bacchus",
-      "option_2": "Bochum",
-      "right": "Bacchus",
-      "subj": "Art"
-    },
-    "9": {
-      "question": "Bacchus",
-      "exp": "was scuplted by the sculptor of",
-      "option_1": "Madonna of Bruges",
-      "option_2": "Cartugulous",
-      "right": "Madonna of Bruges",
-      "subj": "Art"
-    },
-    "10": {
-      "question": "Madonna of Bruges",
-      "exp": "shares part of its name with the film",
-      "option_1": "In Bruges",
-      "option_2": "Brugencio Baptista",
-      "right": "In Bruges",
-      "subj": "Art"
-    },
-    "11": {
-      "question": "In Bruges",
-      "exp": "is a comedy starring",
-      "option_1": "Robin Williams",
-      "option_2": "Colin Farrell",
-      "right": "Colin Farrell",
-      "subj": "Leisure"
-    },
-    "12": {
-      "question": "Colin Farrell",
-      "exp": "plays the lead role in",
-      "option_1": "Anonymous Ingolstadt",
-      "option_2": "Total Recall",
-      "right": "Total Recall",
-      "subj": "Leisure"
-    }
-  },
-
+{      
   
   "474": {
     "1": {
@@ -196,6 +96,107 @@
       "option_1": "Colona",
       "option_2": "Cuiabá",
       "right": "Cuiabá",
+      "subj": "Geography"
+    }
+  },
+
+  
+  "475": {
+    "1": {
+      "question": "15",
+      "exp": "is divisible by",
+      "option_1": "5",
+      "option_2": "JFK Jr. Lifespan",
+      "right": "5",
+      "subj": "STEM",
+      "author": ""
+    },
+    "2": {
+      "question": "5",
+      "exp": "goes into",
+      "option_1": "100",
+      "option_2": "years in one presidential term",
+      "right": "100",
+      "subj": "STEM"
+    },
+    "3": {
+      "question": "100",
+      "exp": "is represented in roman numerals by",
+      "option_1": "C",
+      "option_2": "XL",
+      "right": "C",
+      "subj": "Language"
+    },
+    "4": {
+      "question": "C",
+      "exp": "is pronouned in English as",
+      "option_1": "See",
+      "option_2": "Pee",
+      "right": "See",
+      "subj": "Language"
+    },
+    "5": {
+      "question": "See",
+      "exp": "is done by the",
+      "option_1": "Pinky",
+      "option_2": "Eye",
+      "right": "Eye",
+      "subj": "STEM"
+    },
+    "6": {
+      "question": "Eye",
+      "exp": "has the part called the",
+      "option_1": "Retina",
+      "option_2": "Plateela",
+      "right": "Retina",
+      "subj": "STEM"
+    },
+    "7": {
+      "question": "Retina",
+      "exp": "display can be found on products made by",
+      "option_1": "Microsoft",
+      "option_2": "Apple",
+      "right": "Apple",
+      "subj": "STEM"
+    },
+    "8": {
+      "question": "Apple",
+      "exp": "has many varieties, one of which is",
+      "option_1": "Branburn",
+      "option_2": "Fuji",
+      "right": "Fuji",
+      "subj": "STEM"
+    },
+    "9": {
+      "question": "Fuji",
+      "exp": "is a stratovolcano in",
+      "option_1": "Philippines",
+      "option_2": "Japan",
+      "right": "Japan",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "Japan",
+      "exp": "is home to the island of",
+      "option_1": "Hokkaido",
+      "option_2": "Kyulutannaka",
+      "right": "Hokkaido",
+      "subj": "Geography"
+    },
+    "11": {
+      "question": "Hokkaido",
+      "exp": "is home to lots of forestry and national parks, as well as the large city of",
+      "option_1": "Fukuoka",
+      "option_2": "Sapporo",
+      "right": "Sapporo",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "Sapporo",
+      "exp": "is where you might find the individuals descending from the",
+      "option_1": "Karaguosa",
+      "option_2": "Ainu",
+      "right": "Ainu",
       "subj": "Geography"
     }
   }
