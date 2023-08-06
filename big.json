@@ -1,106 +1,5 @@
 {      
-  
-  "474": {
-    "1": {
-      "question": "Brazil",
-      "exp": "is home to the cities of",
-      "option_1": "Barcelona",
-      "option_2": "Rio de Janeiro",
-      "right": "Rio de Janeiro",
-      "subj": "Geography",
-      "author": ""
-    },
-    "2": {
-      "question": "Rio de Janeiro",
-      "exp": "",
-      "option_1": "Helanka",
-      "option_2": "São Paulo",
-      "right": "São Paulo",
-      "subj": "Geography"
-    },
-    "3": {
-      "question": "São Paulo",
-      "exp": "",
-      "option_1": "Salvador",
-      "option_2": "Artala",
-      "right": "Salvador",
-      "subj": "Geography"
-    },
-    "4": {
-      "question": "Salvador",
-      "exp": "",
-      "option_1": "Belo Horizonte",
-      "option_2": "Hollonda",
-      "right": "Belo Horizonte",
-      "subj": "Geography"
-    },
-    "5": {
-      "question": "Belo Horizonte",
-      "exp": "",
-      "option_1": "Fuerto Novo",
-      "option_2": "Brasilia",
-      "right": "Brasilia",
-      "subj": "Geography"
-    },
-    "6": {
-      "question": "Brasilia",
-      "exp": "",
-      "option_1": "Manaus",
-      "option_2": "Maunoa Ajorta",
-      "right": "Manaus",
-      "subj": "Geography"
-    },
-    "7": {
-      "question": "Manaus",
-      "exp": "",
-      "option_1": "Eotia",
-      "option_2": "Curitiba",
-      "right": "Curitiba",
-      "subj": "Geography"
-    },
-    "8": {
-      "question": "Curitiba",
-      "exp": "",
-      "option_1": "Croatia",
-      "option_2": "Recife",
-      "right": "Recife",
-      "subj": "Geography"
-    },
-    "9": {
-      "question": "Recife",
-      "exp": "",
-      "option_1": "Porto Frica",
-      "option_2": "Porto Alegre",
-      "right": "Porto Alegre",
-      "subj": "Geography"
-    },
-    "10": {
-      "question": "Porto Alegre",
-      "exp": "",
-      "option_1": "Fortaleza",
-      "option_2": "Porto Globo",
-      "right": "Fortaleza",
-      "subj": "Geography"
-    },
-    "11": {
-      "question": "Fortaleza",
-      "exp": "",
-      "option_1": "Natal",
-      "option_2": "Narraunil",
-      "right": "Natal",
-      "subj": "Geography"
-    },
-    "12": {
-      "question": "Natal",
-      "exp": "",
-      "option_1": "Colona",
-      "option_2": "Cuiabá",
-      "right": "Cuiabá",
-      "subj": "Geography"
-    }
-  },
-
-  
+   
   "475": {
     "1": {
       "question": "15",
@@ -198,6 +97,107 @@
       "option_2": "Ainu",
       "right": "Ainu",
       "subj": "Geography"
+    }
+  },
+
+  
+  "476": {
+    "1": {
+      "question": "Howard Schultz",
+      "exp": "served as the chairman and CEO of",
+      "option_1": "eBay",
+      "option_2": "Starbucks",
+      "right": "Starbucks",
+      "subj": "Business",
+      "author": ""
+    },
+    "2": {
+      "question": "Starbucks",
+      "exp": "is named after the chief mate in the novel",
+      "option_1": "Moby Dick",
+      "option_2": "The Last Mohican",
+      "right": "Moby Dick",
+      "subj": "Literature"
+    },
+    "3": {
+      "question": "Moby Dick",
+      "exp": "opens with the famous line",
+      "option_1": "Call me maybe",
+      "option_2": "Call me Ishmael",
+      "right": "Call me Ishmael",
+      "subj": "Literature"
+    },
+    "4": {
+      "question": "Call me Ishmael",
+      "exp": "is a name derived from Biblical stories symbolizing orphans, social outcasts, and",
+      "option_1": "Spendthrifts",
+      "option_2": "Exiles",
+      "right": "Exiles",
+      "subj": "Literature"
+    },
+    "5": {
+      "question": "Exiles",
+      "exp": "sent to a prison colony were the first Europeans to make up",
+      "option_1": "Conifers",
+      "option_2": "Australia",
+      "right": "Australia",
+      "subj": "History"
+    },
+    "6": {
+      "question": "Australia",
+      "exp": "contains the city of",
+      "option_1": "Wellington",
+      "option_2": "Perth",
+      "right": "Perth",
+      "subj": "Geography"
+    },
+    "7": {
+      "question": "Perth",
+      "exp": "lies on a river named",
+      "option_1": "Swansea",
+      "option_2": "Swan",
+      "right": "Swan",
+      "subj": "Geography"
+    },
+    "8": {
+      "question": "Swan",
+      "exp": "Lake is a ballet composed by Pyotr Ilyich",
+      "option_1": "Tchaikovsky",
+      "option_2": "Shostakovich",
+      "right": "Tchaikovsky",
+      "subj": "Music"
+    },
+    "9": {
+      "question": "Tchaikovsky",
+      "exp": "wrote the",
+      "option_1": "Prelude on the Danube",
+      "option_2": "1812 Overture",
+      "right": "1812 Overture",
+      "subj": "Music"
+    },
+    "10": {
+      "question": "1812 Overture",
+      "exp": "commemorates the successful Russian defense against the invasion of",
+      "option_1": "Otto von Bismarck",
+      "option_2": "Napoleon",
+      "right": "Napoleon",
+      "subj": "History"
+    },
+    "11": {
+      "question": "Napoleon",
+      "exp": "was painted many times by monumental historical artist",
+      "option_1": "Jacques-Louis David",
+      "option_2": "Frederic Galatin",
+      "right": "Jacques-Louis David",
+      "subj": "Art"
+    },
+    "12": {
+      "question": "Jacques-Louis David",
+      "exp": "depicted his murdered friend and revolutionary leader in the iconic",
+      "option_1": "The Death of Marat",
+      "option_2": "Liberty Leading the People",
+      "right": "The Death of Marat",
+      "subj": "Art"
     }
   }
 }
