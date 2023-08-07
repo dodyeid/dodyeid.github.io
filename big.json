@@ -1,106 +1,5 @@
 {      
-   
-  "475": {
-    "1": {
-      "question": "15",
-      "exp": "is divisible by",
-      "option_1": "5",
-      "option_2": "JFK Jr. Lifespan",
-      "right": "5",
-      "subj": "STEM",
-      "author": ""
-    },
-    "2": {
-      "question": "5",
-      "exp": "goes into",
-      "option_1": "100",
-      "option_2": "years in one presidential term",
-      "right": "100",
-      "subj": "STEM"
-    },
-    "3": {
-      "question": "100",
-      "exp": "is represented in roman numerals by",
-      "option_1": "C",
-      "option_2": "XL",
-      "right": "C",
-      "subj": "Language"
-    },
-    "4": {
-      "question": "C",
-      "exp": "is pronouned in English as",
-      "option_1": "See",
-      "option_2": "Pee",
-      "right": "See",
-      "subj": "Language"
-    },
-    "5": {
-      "question": "See",
-      "exp": "is done by the",
-      "option_1": "Pinky",
-      "option_2": "Eye",
-      "right": "Eye",
-      "subj": "STEM"
-    },
-    "6": {
-      "question": "Eye",
-      "exp": "has the part called the",
-      "option_1": "Retina",
-      "option_2": "Plateela",
-      "right": "Retina",
-      "subj": "STEM"
-    },
-    "7": {
-      "question": "Retina",
-      "exp": "display can be found on products made by",
-      "option_1": "Microsoft",
-      "option_2": "Apple",
-      "right": "Apple",
-      "subj": "STEM"
-    },
-    "8": {
-      "question": "Apple",
-      "exp": "has many varieties, one of which is",
-      "option_1": "Branburn",
-      "option_2": "Fuji",
-      "right": "Fuji",
-      "subj": "STEM"
-    },
-    "9": {
-      "question": "Fuji",
-      "exp": "is a stratovolcano in",
-      "option_1": "Philippines",
-      "option_2": "Japan",
-      "right": "Japan",
-      "subj": "Geography"
-    },
-    "10": {
-      "question": "Japan",
-      "exp": "is home to the island of",
-      "option_1": "Hokkaido",
-      "option_2": "Kyulutannaka",
-      "right": "Hokkaido",
-      "subj": "Geography"
-    },
-    "11": {
-      "question": "Hokkaido",
-      "exp": "is home to lots of forestry and national parks, as well as the large city of",
-      "option_1": "Fukuoka",
-      "option_2": "Sapporo",
-      "right": "Sapporo",
-      "subj": "Geography"
-    },
-    "12": {
-      "question": "Sapporo",
-      "exp": "is where you might find the individuals descending from the",
-      "option_1": "Karaguosa",
-      "option_2": "Ainu",
-      "right": "Ainu",
-      "subj": "Geography"
-    }
-  },
-
-  
+     
   "476": {
     "1": {
       "question": "Howard Schultz",
@@ -198,6 +97,106 @@
       "option_2": "Liberty Leading the People",
       "right": "The Death of Marat",
       "subj": "Art"
+    }
+  },
+   
+  "477": {
+    "1": {
+      "question": "Circumnavigation of the World",
+      "exp": "was completed by the ship",
+      "option_1": "The Golden Hind",
+      "option_2": "The Golden Kind",
+      "right": "The Golden Hind",
+      "subj": "History",
+      "author": ""
+    },
+    "2": {
+      "question": "The Golden Hind",
+      "exp": "was captained by Sir Francis",
+      "option_1": "Sir Duke",
+      "option_2": "Drake",
+      "right": "Drake",
+      "subj": "History"
+    },
+    "3": {
+      "question": "Drake",
+      "exp": "wrote the songs",
+      "option_1": "One Dance",
+      "option_2": "One Chance",
+      "right": "One Dance",
+      "subj": "Music"
+    },
+    "4": {
+      "question": "One Dance",
+      "exp": "",
+      "option_1": "God's Plan",
+      "option_2": "On Human Inquiry",
+      "right": "God's Plan",
+      "subj": "Music"
+    },
+    "5": {
+      "question": "God's Plan",
+      "exp": "",
+      "option_1": "Hotline Bling",
+      "option_2": "Landline Ching",
+      "right": "Hotline Bling",
+      "subj": "Music"
+    },
+    "6": {
+      "question": "Hotline Bling",
+      "exp": "",
+      "option_1": "Bland Vegetable",
+      "option_2": "Passionfruit",
+      "right": "Passionfruit",
+      "subj": "Music"
+    },
+    "7": {
+      "question": "Passionfruit",
+      "exp": "",
+      "option_1": "Stopped",
+      "option_2": "Nonstop",
+      "right": "Nonstop",
+      "subj": "Music"
+    },
+    "8": {
+      "question": "Nonstop",
+      "exp": "",
+      "option_1": "Mean for a Reason",
+      "option_2": "Nice for What",
+      "right": "Nice for What",
+      "subj": "Music"
+    },
+    "9": {
+      "question": "Nice for What",
+      "exp": "",
+      "option_1": "Child's Play",
+      "option_2": "Adult Time",
+      "right": "Child's Play",
+      "subj": "Music"
+    },
+    "10": {
+      "question": "Child's Play",
+      "exp": "",
+      "option_1": "Hierarchy and its Proponents",
+      "option_2": "Started from the Bottom",
+      "right": "Started from the Bottom",
+      "subj": "Music"
+    },
+    "11": {
+      "question": "Started from the Bottom",
+      "exp": "",
+      "option_1": "Outside the Box",
+      "option_2": "In My Feelings",
+      "right": "In My Feelings",
+      "subj": "Music"
+    },
+    "12": {
+      "question": "In My Feelings",
+      "exp": "",
+      "option_1": "Money in the Knave",
+      "option_2": "Money In The Grave",
+      "right": "Money In The Grave",
+      "subj": "Music"
     }
   }
 }
