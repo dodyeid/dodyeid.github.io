@@ -1,105 +1,4 @@
 {     
-  "477": {
-    "1": {
-      "question": "Circumnavigation of the World",
-      "exp": "was completed by the ship",
-      "option_1": "The Golden Hind",
-      "option_2": "The Golden Kind",
-      "right": "The Golden Hind",
-      "subj": "History",
-      "author": ""
-    },
-    "2": {
-      "question": "The Golden Hind",
-      "exp": "was captained by Sir Francis",
-      "option_1": "Sir Duke",
-      "option_2": "Drake",
-      "right": "Drake",
-      "subj": "History"
-    },
-    "3": {
-      "question": "Drake",
-      "exp": "wrote the songs",
-      "option_1": "One Dance",
-      "option_2": "One Chance",
-      "right": "One Dance",
-      "subj": "Music"
-    },
-    "4": {
-      "question": "One Dance",
-      "exp": "",
-      "option_1": "God's Plan",
-      "option_2": "On Human Inquiry",
-      "right": "God's Plan",
-      "subj": "Music"
-    },
-    "5": {
-      "question": "God's Plan",
-      "exp": "",
-      "option_1": "Hotline Bling",
-      "option_2": "Landline Ching",
-      "right": "Hotline Bling",
-      "subj": "Music"
-    },
-    "6": {
-      "question": "Hotline Bling",
-      "exp": "",
-      "option_1": "Bland Vegetable",
-      "option_2": "Passionfruit",
-      "right": "Passionfruit",
-      "subj": "Music"
-    },
-    "7": {
-      "question": "Passionfruit",
-      "exp": "",
-      "option_1": "Stopped",
-      "option_2": "Nonstop",
-      "right": "Nonstop",
-      "subj": "Music"
-    },
-    "8": {
-      "question": "Nonstop",
-      "exp": "",
-      "option_1": "Mean for a Reason",
-      "option_2": "Nice for What",
-      "right": "Nice for What",
-      "subj": "Music"
-    },
-    "9": {
-      "question": "Nice for What",
-      "exp": "",
-      "option_1": "Child's Play",
-      "option_2": "Adult Time",
-      "right": "Child's Play",
-      "subj": "Music"
-    },
-    "10": {
-      "question": "Child's Play",
-      "exp": "",
-      "option_1": "Hierarchy and its Proponents",
-      "option_2": "Started from the Bottom",
-      "right": "Started from the Bottom",
-      "subj": "Music"
-    },
-    "11": {
-      "question": "Started from the Bottom",
-      "exp": "",
-      "option_1": "Outside the Box",
-      "option_2": "In My Feelings",
-      "right": "In My Feelings",
-      "subj": "Music"
-    },
-    "12": {
-      "question": "In My Feelings",
-      "exp": "",
-      "option_1": "Money in the Knave",
-      "option_2": "Money In The Grave",
-      "right": "Money In The Grave",
-      "subj": "Music"
-    }
-  },
-
-
   "478": {
     "1": {
       "question": "Kanye",
@@ -197,6 +96,107 @@
       "option_2": "Death of Michael Jackson",
       "right": "Lithuanian Litas",
       "subj": "Politics"
+    }
+  },
+
+  
+  "479": {
+    "1": {
+      "question": "Lawrence",
+      "exp": "is where you'd find",
+      "option_1": "University of Kansas",
+      "option_2": "University of Arabia",
+      "right": "University of Kansas",
+      "subj": "Geography",
+      "author": ""
+    },
+    "2": {
+      "question": "University of Kansas",
+      "exp": "has the mascot",
+      "option_1": "Jayhawks",
+      "option_2": "Redhawks",
+      "right": "Jayhawks",
+      "subj": "Sports"
+    },
+    "3": {
+      "question": "Jayhawks",
+      "exp": "have many notable alumni, including",
+      "option_1": "James Naismith",
+      "option_2": "Robin Williams",
+      "right": "James Naismith",
+      "subj": "Sports"
+    },
+    "4": {
+      "question": "James Naismith",
+      "exp": "invented",
+      "option_1": "Basketball",
+      "option_2": "Football",
+      "right": "Basketball",
+      "subj": "Sports"
+    },
+    "5": {
+      "question": "Basketball",
+      "exp": "is the sport of the team",
+      "option_1": "The Oilers",
+      "option_2": "The Magic",
+      "right": "The Magic",
+      "subj": "Sports"
+    },
+    "6": {
+      "question": "The Magic",
+      "exp": "are based in",
+      "option_1": "New Orleans",
+      "option_2": "Orlando",
+      "right": "Orlando",
+      "subj": "Sports"
+    },
+    "7": {
+      "question": "Orlando",
+      "exp": "is the location of",
+      "option_1": "Disney Land",
+      "option_2": "Disney World",
+      "right": "Disney World",
+      "subj": "Leisure"
+    },
+    "8": {
+      "question": "Disney World",
+      "exp": "is home to the ride",
+      "option_1": "Expedition Everest",
+      "option_2": "Extortion of Cinderella",
+      "right": "Expedition Everest",
+      "subj": "Leisure"
+    },
+    "9": {
+      "question": "Expedition Everest",
+      "exp": "in the real world takes place in the",
+      "option_1": "Andes",
+      "option_2": "Himalayas",
+      "right": "Himalayas",
+      "subj": "Geography"
+    },
+    "10": {
+      "question": "Himalayas",
+      "exp": "are partially in",
+      "option_1": "Tibet",
+      "option_2": "Uzbekistan",
+      "right": "Tibet",
+      "subj": "Geography"
+    },
+    "11": {
+      "question": "Tibet",
+      "exp": "has its capital at",
+      "option_1": "Lhasa",
+      "option_2": "Kintarna",
+      "right": "Lhasa",
+      "subj": "Geography"
+    },
+    "12": {
+      "question": "Lhasa",
+      "exp": "is the first word in the dog breed",
+      "option_1": "Apso",
+      "option_2": "Arlatto",
+      "right": "Apso",
+      "subj": "STEM"
     }
   }
 }
