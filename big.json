@@ -1,105 +1,4 @@
 {     
-  "478": {
-    "1": {
-      "question": "Kanye",
-      "exp": "wrote the song",
-      "option_1": "Friends in Paris",
-      "option_2": "Gold Digger",
-      "right": "Gold Digger",
-      "subj": "Music",
-      "author": ""
-    },
-    "2": {
-      "question": "Gold Digger",
-      "exp": "is built around a sample of the song",
-      "option_1": "I Got a Woman",
-      "option_2": "I am a Man",
-      "right": "I Got a Woman",
-      "subj": "Music"
-    },
-    "3": {
-      "question": "I Got a Woman",
-      "exp": "is a song written by",
-      "option_1": "Ray Charles",
-      "option_2": "Steve Kornacki",
-      "right": "Ray Charles",
-      "subj": "Music"
-    },
-    "4": {
-      "question": "Ray Charles",
-      "exp": "had something on His Mind. He tells us it was",
-      "option_1": "Oklahoma",
-      "option_2": "Georgia",
-      "right": "Georgia",
-      "subj": "Music"
-    },
-    "5": {
-      "question": "Georgia",
-      "exp": "is the home state of",
-      "option_1": "Tashkent",
-      "option_2": "Jaylen Brown",
-      "right": "Jaylen Brown",
-      "subj": "Sports"
-    },
-    "6": {
-      "question": "Jaylen Brown",
-      "exp": "plays for the",
-      "option_1": "Boston Celtics",
-      "option_2": "San Antonio Spurs",
-      "right": "Boston Celtics",
-      "subj": "Sports"
-    },
-    "7": {
-      "question": "Boston Celtics",
-      "exp": "were formerly coached by",
-      "option_1": "Steve Kerr",
-      "option_2": "Ime Udoka",
-      "right": "Ime Udoka",
-      "subj": "Sports"
-    },
-    "8": {
-      "question": "Ime Udoka",
-      "exp": "has a unique relationship with",
-      "option_1": "Jayson Tatum",
-      "option_2": "Mickaël Piétrus",
-      "right": "Jayson Tatum",
-      "subj": "Sports"
-    },
-    "9": {
-      "question": "Jayson Tatum",
-      "exp": "played college basketball as a Blue Devil at",
-      "option_1": "Marquette",
-      "option_2": "Duke",
-      "right": "Duke",
-      "subj": "Sports"
-    },
-    "10": {
-      "question": "Duke",
-      "exp": "was led to five national college basketball titles under the famous coach",
-      "option_1": "Mike Wazowski",
-      "option_2": "Mike Krzyzewski",
-      "right": "Mike Krzyzewski",
-      "subj": "Sports"
-    },
-    "11": {
-      "question": "Mike Krzyzewski",
-      "exp": "won his last NCAA title in",
-      "option_1": "1919",
-      "option_2": "2015",
-      "right": "2015",
-      "subj": "Sports"
-    },
-    "12": {
-      "question": "2015",
-      "exp": "was the year in which the Euro replaced the",
-      "option_1": "Lithuanian Litas",
-      "option_2": "Death of Michael Jackson",
-      "right": "Lithuanian Litas",
-      "subj": "Politics"
-    }
-  },
-
-  
   "479": {
     "1": {
       "question": "Lawrence",
@@ -197,6 +96,107 @@
       "option_2": "Arlatto",
       "right": "Apso",
       "subj": "STEM"
+    }
+  },
+
+  
+  "480": {
+    "1": {
+      "question": "United States Senator",
+      "exp": "is a position that has been held by 2,002 people, including:",
+      "option_1": "Christopher Neils",
+      "option_2": "Chris Van Hollen",
+      "right": "Chris Van Hollen",
+      "subj": "Politics",
+      "author": ""
+    },
+    "2": {
+      "question": "Chris Van Hollen",
+      "exp": "",
+      "option_1": "Mike Braun",
+      "option_2": "Mike Fawn",
+      "right": "Mike Braun",
+      "subj": "Politics"
+    },
+    "3": {
+      "question": "Mike Braun",
+      "exp": "",
+      "option_1": "Margaret Hasten",
+      "option_2": "Maggie Hassan",
+      "right": "Maggie Hassan",
+      "subj": "Politics"
+    },
+    "4": {
+      "question": "Maggie Hassan",
+      "exp": "",
+      "option_1": "Ronald John Jr.",
+      "option_2": "John Kennedy",
+      "right": "John Kennedy",
+      "subj": "Politics"
+    },
+    "5": {
+      "question": "John Kennedy",
+      "exp": "",
+      "option_1": "Mazie Hirono",
+      "option_2": "Marmie Fontana",
+      "right": "Mazie Hirono",
+      "subj": "Politics"
+    },
+    "6": {
+      "question": "Mazie Hirono",
+      "exp": "",
+      "option_1": "William Crawdley",
+      "option_2": "Bill Cassidy",
+      "right": "Bill Cassidy",
+      "subj": "Politics"
+    },
+    "7": {
+      "question": "Bill Cassidy",
+      "exp": "",
+      "option_1": "Tina Smith",
+      "option_2": "Ting Sings",
+      "right": "Tina Smith",
+      "subj": "Politics"
+    },
+    "8": {
+      "question": "Tina Smith",
+      "exp": "",
+      "option_1": "Kermit Crumen",
+      "option_2": "Kevin Cramer",
+      "right": "Kevin Cramer",
+      "subj": "Politics"
+    },
+    "9": {
+      "question": "Kevin Cramer",
+      "exp": "",
+      "option_1": "Jacky Rosen",
+      "option_2": "Jacky O'Nickel",
+      "right": "Jacky Rosen",
+      "subj": "Politics"
+    },
+    "10": {
+      "question": "Jacky Rosen",
+      "exp": "",
+      "option_1": "James McCarty",
+      "option_2": "James Lankford",
+      "right": "James Lankford",
+      "subj": "Politics"
+    },
+    "11": {
+      "question": "James Lankford",
+      "exp": "",
+      "option_1": "Jon Tester",
+      "option_2": "Hardly Knew Her",
+      "right": "Jon Tester",
+      "subj": "Politics"
+    },
+    "12": {
+      "question": "Jon Tester",
+      "exp": "",
+      "option_1": "Cindy Hyde-Smith",
+      "option_2": "Clyde Edwards-Helaire",
+      "right": "Cindy Hyde-Smith",
+      "subj": "Politics"
     }
   }
 }
