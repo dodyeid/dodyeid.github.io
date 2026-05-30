@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kristen</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --cream: #F7F4EF;
+      --ink: #1A1814;
+      --ink-light: #6B6760;
+      --accent: #2C4A3E;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-size: 16px; -webkit-font-smoothing: antialiased; }
+    body {
+      background-color: var(--cream);
+      color: var(--ink);
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 300;
+      min-height: 100vh;
+      padding: 80px 24px 120px;
+    }
+    .container { max-width: 680px; margin: 0 auto; }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(22px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .fade-1 { animation: fadeUp 0.7s ease both; animation-delay: 0.1s; }
+    .fade-2 { animation: fadeUp 0.7s ease both; animation-delay: 0.3s; }
+    .fade-3 { animation: fadeUp 0.7s ease both; animation-delay: 0.5s; }
+    .fade-4 { animation: fadeUp 0.7s ease both; animation-delay: 0.7s; }
+    .fade-5 { animation: fadeUp 0.7s ease both; animation-delay: 0.9s; }
+    .fade-6 { animation: fadeUp 0.7s ease both; animation-delay: 1.1s; }
+    .fade-7 { animation: fadeUp 0.7s ease both; animation-delay: 1.3s; }
+
+    .page-header { margin-bottom: 72px; }
+    .page-header h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 300;
+      font-size: clamp(3rem, 8vw, 4.5rem);
+      letter-spacing: -0.01em;
+      line-height: 1;
+      color: var(--ink);
+    }
+    .page-header .subhead {
+      margin-top: 10px;
+      font-size: 0.8rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+    }
+
+    .divider { width: 40px; height: 1px; background: var(--accent); margin: 52px 0; opacity: 0.5; }
+
+    .lead {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(1.25rem, 3vw, 1.55rem);
+      font-weight: 400;
+      line-height: 1.65;
+      color: var(--ink);
+    }
+    .lead em { font-style: italic; }
+
+    p { font-size: 0.975rem; line-height: 1.75; color: var(--ink); margin-top: 1.2em; }
+    p:first-child { margin-top: 0; }
+
+    .section-label {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.7rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 20px;
+      font-weight: 500;
+    }
+
+    .stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 28px; }
+    @media (max-width: 480px) { .stat-grid { grid-template-columns: 1fr; } }
+
+    .stat-card {
+      border: 1px solid rgba(44, 74, 62, 0.18);
+      border-radius: 6px;
+      padding: 22px 24px;
+      background: rgba(255,255,255,0.45);
+    }
+    .stat-card .stat-number {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 2.6rem;
+      font-weight: 300;
+      color: var(--accent);
+      line-height: 1;
+    }
+    .stat-card .stat-label { font-size: 0.78rem; color: var(--ink-light); margin-top: 6px; line-height: 1.4; }
+
+    .weather-table { width: 100%; border-collapse: collapse; margin-top: 28px; font-size: 0.88rem; }
+    .weather-table th {
+      text-align: left;
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 500;
+      font-size: 0.7rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+      padding: 10px 0;
+      border-bottom: 1px solid rgba(26, 24, 20, 0.1);
+    }
+    .weather-table td {
+      padding: 12px 0;
+      border-bottom: 1px solid rgba(26, 24, 20, 0.06);
+      color: var(--ink);
+      line-height: 1.4;
+    }
+    .weather-table td:last-child { text-align: right; color: var(--ink-light); font-size: 0.83rem; }
+    .weather-table tr.highlight td { color: var(--accent); font-weight: 500; }
+    .weather-table tr.highlight td:last-child { color: var(--accent); }
+
+    .verdict {
+      border-left: 3px solid var(--accent);
+      padding: 18px 24px;
+      margin-top: 32px;
+      background: rgba(44, 74, 62, 0.05);
+      border-radius: 0 4px 4px 0;
+    }
+    .verdict p { color: var(--ink); font-size: 0.93rem; line-height: 1.7; margin-top: 0; }
+
+    .witch-section {
+      background: rgba(255,255,255,0.5);
+      border: 1px solid rgba(26, 24, 20, 0.08);
+      border-radius: 8px;
+      padding: 36px;
+    }
+    @media (max-width: 480px) { .witch-section { padding: 24px 20px; } }
+
+    .witch-reviews { margin-top: 24px; display: flex; flex-direction: column; gap: 16px; }
+    .review-card {
+      padding: 18px 20px;
+      background: var(--cream);
+      border-radius: 6px;
+      border: 1px solid rgba(26, 24, 20, 0.07);
+    }
+    .review-stars { color: var(--accent); font-size: 0.85rem; letter-spacing: 0.05em; margin-bottom: 6px; }
+    .review-text { font-size: 0.875rem; line-height: 1.65; color: var(--ink); font-style: italic; }
+    .review-author { margin-top: 8px; font-size: 0.75rem; color: var(--ink-light); letter-spacing: 0.05em; }
+
+    .blessing { text-align: center; margin-top: 64px; padding-top: 48px; border-top: 1px solid rgba(26, 24, 20, 0.08); }
+    .blessing .blessing-text {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(1.1rem, 3vw, 1.35rem);
+      font-weight: 400;
+      font-style: italic;
+      color: var(--ink-light);
+      line-height: 1.7;
+    }
+    .blessing .attribution { margin-top: 14px; font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-light); opacity: 0.6; }
+
+    .footnote { margin-top: 48px; font-size: 0.72rem; color: var(--ink-light); opacity: 0.55; line-height: 1.65; }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <header class="page-header fade-1">
+      <h1>Kristen</h1>
+      <div class="subhead">A weather report &middot; spiritual counsel &middot; light witchcraft review</div>
+    </header>
+
+    <section class="fade-2">
+      <p class="lead">
+        There is a woman in Cleveland who has planned every detail of her wedding &mdash; the flowers, the vows, the seating chart, the playlist &mdash; and is now lying awake at 2am Googling <em>&ldquo;June 7 Cleveland rain probability&rdquo;</em> and browsing Etsy for weather witches.
+      </p>
+      <p class="lead" style="margin-top:1em;">
+        That woman is you. This page is for you.
+      </p>
+    </section>
+
+    <div class="divider fade-2"></div>
+
+    <section class="fade-3">
+      <div class="section-label">On the matter of control</div>
+      <p>
+        Here is a thing the Church has understood for two thousand years and meteorologists have understood for about forty: you cannot control the weather. Jeremiah didn&rsquo;t know what the weekend looked like. The disciples didn&rsquo;t check AccuWeather before setting out on the Sea of Galilee. And yet &mdash; somehow &mdash; the days that mattered still happened. The wine ran out at Cana and someone handled it.
+      </p>
+      <p>
+        There is a particular kind of faith, the kind practiced by brides and farmers and sailors, that says: <em>I have done everything I can. The rest is not mine to hold.</em> It is, arguably, the whole point.
+      </p>
+      <p>
+        Also, it&rsquo;s June in Cleveland, and the forecast is actually quite good. But we&rsquo;ll get to that.
+      </p>
+    </section>
+
+    <div class="divider fade-3"></div>
+
+    <section class="fade-4">
+      <div class="section-label">The actual meteorological situation</div>
+      <p>
+        Before we consult the Etsy coven, let us consult the data. Herewith: a proper analysis of what Cleveland in early June actually looks like, climatologically speaking.
+      </p>
+
+      <div class="stat-grid">
+        <div class="stat-card">
+          <div class="stat-number">35%</div>
+          <div class="stat-label">Forecast chance of precipitation on June 7, 2026 specifically</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">77&deg;F</div>
+          <div class="stat-label">Forecast high for June 7 &mdash; genuinely lovely weather</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">45%</div>
+          <div class="stat-label">Average rain probability on any given June day in Cleveland (your day is below average)</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">10.8h</div>
+          <div class="stat-label">Average daily sunshine in June &mdash; more sun than you&rsquo;d expect from this city</div>
+        </div>
+      </div>
+
+      <table class="weather-table" style="margin-top:36px;">
+        <thead>
+          <tr>
+            <th>Metric</th>
+            <th style="text-align:right;">Value</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Average June high temperature</td>
+            <td>75&deg;F (24&deg;C)</td>
+          </tr>
+          <tr>
+            <td>Average June low temperature</td>
+            <td>62&deg;F (17&deg;C)</td>
+          </tr>
+          <tr>
+            <td>Rainy days in a typical June</td>
+            <td>~14 out of 30</td>
+          </tr>
+          <tr>
+            <td>Days that are NOT rainy in a typical June</td>
+            <td>~16 out of 30 (53%)</td>
+          </tr>
+          <tr>
+            <td>Average daylight hours in June</td>
+            <td>15h 6min (glorious)</td>
+          </tr>
+          <tr>
+            <td>Sky clear or partly cloudy (June avg.)</td>
+            <td>~49% of daytime hours</td>
+          </tr>
+          <tr class="highlight">
+            <td>June 7, 2026 &mdash; forecast precipitation chance</td>
+            <td>35% (below average)</td>
+          </tr>
+          <tr class="highlight">
+            <td>June 7, 2026 &mdash; chance it does NOT rain</td>
+            <td>65%</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="verdict">
+        <p>
+          <strong>The bottom line:</strong> A 35% chance of rain means a 65% chance of no rain. By the standards of Cleveland &mdash; a city that once went 331 consecutive days without a fully sunny sky and considers this a personality trait &mdash; June 7 is shaping up quite favorably. Partly cloudy, 77&deg;F, winds from the southwest. This is, statistically, a better day than the average June day in this city.
+        </p>
+      </div>
+
+      <p style="margin-top: 24px;">
+        What does a 35% rain chance actually mean in practice? It means that if you ran this exact day 100 times across parallel universes, 65 of those Kristens had a beautiful outdoor moment and 35 of them danced in the rain and later said it was their favorite part. Both outcomes, it turns out, make for extraordinary photos.
+      </p>
+    </section>
+
+    <div class="divider fade-4"></div>
+
+    <section class="fade-5">
+      <div class="witch-section">
+        <div class="section-label">Appendix A: The Etsy Witch Question</div>
+        <p>
+          You mentioned &mdash; and we are quoting you here &mdash; that you are &ldquo;considering hiring a witch from Etsy.&rdquo; As responsible weather analysts, we feel obligated to subject this option to the same rigorous scrutiny we applied to the climate data.
+        </p>
+        <p style="margin-top: 16px;">
+          After extensive research (we searched &ldquo;weather spell wedding Etsy&rdquo;), we can confirm that this is, in fact, a real and thriving product category. Listings range from $12 for a &ldquo;simple sunshine candle ritual&rdquo; to $85 for a &ldquo;premium clear skies working with petition paper, charged crystals, and same-day dispatch.&rdquo; Several sellers offer rush processing. At least one accepts PayPal.
+        </p>
+
+        <p style="margin-top: 16px; font-size: 0.82rem; color: var(--ink-light);">
+          A statistical breakdown of Etsy weather spell efficacy, based on completely fabricated but spiritually plausible data:
+        </p>
+
+        <table class="weather-table" style="margin-top: 14px;">
+          <thead>
+            <tr>
+              <th>Outcome</th>
+              <th style="text-align:right;">Reported rate*</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Weather was good; witch gets full credit</td>
+              <td>61%</td>
+            </tr>
+            <tr>
+              <td>Weather was fine; witch gets partial credit</td>
+              <td>19%</td>
+            </tr>
+            <tr>
+              <td>It rained anyway; seller blamed Mercury retrograde</td>
+              <td>14%</td>
+            </tr>
+            <tr>
+              <td>Buyer left 1-star review; seller responded with a curse</td>
+              <td>4%</td>
+            </tr>
+            <tr>
+              <td>Unexplained outcome; both parties agreed to move on</td>
+              <td>2%</td>
+            </tr>
+          </tbody>
+        </table>
+        <p style="font-size: 0.7rem; color: var(--ink-light); margin-top: 8px;">*figures derived from vibes-based modeling and a cursory scroll through seller reviews</p>
+
+        <div class="witch-reviews">
+          <div class="review-card">
+            <div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+            <p class="review-text">&ldquo;Ordered the Sunshine &amp; Clear Skies Ritual Bundle for my outdoor wedding. It rained in the morning but stopped exactly one hour before the ceremony. Coincidence? I think not. Will order again for the vow renewal.&rdquo;</p>
+            <div class="review-author">&mdash; BrideOfMayFlower_Bethany, verified purchase</div>
+          </div>
+          <div class="review-card">
+            <div class="review-stars">&#9733;&#9733;&#9733;&#9734;&#9734;</div>
+            <p class="review-text">&ldquo;The candle smelled incredible and my mother-in-law seemed slightly cursed the whole weekend, which wasn&rsquo;t part of the plan but also wasn&rsquo;t entirely unwelcome. Weather was overcast but no rain. Three stars because I&rsquo;m not sure which outcome I actually paid for.&rdquo;</p>
+            <div class="review-author">&mdash; WeddingWitchSkeptic_Donna, verified purchase</div>
+          </div>
+          <div class="review-card">
+            <div class="review-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+            <p class="review-text">&ldquo;I&rsquo;m a meteorologist. I know this shouldn&rsquo;t work. It worked. I don&rsquo;t want to talk about it.&rdquo;</p>
+            <div class="review-author">&mdash; NWSEmployee_Anonymous, verified purchase</div>
+          </div>
+        </div>
+
+        <p style="margin-top: 24px;">
+          Our official recommendation: the $18 candle is fine as a coping mechanism and a genuinely good story to tell at your ten-year anniversary. Whether it moves the clouds is left as an exercise for the universe, which &mdash; as noted above &mdash; has a reasonably good track record with days like this.
+        </p>
+      </div>
+    </section>
+
+    <div class="divider fade-5"></div>
+
+    <section class="fade-6">
+      <div class="section-label">In conclusion</div>
+      <p>
+        June 7 in Cleveland is forecast to be partly cloudy, 77&deg;F, with a 35% chance of rain &mdash; a perfectly good day and better than statistical average for this city. More importantly: you are getting married. You are choosing a person in front of everyone you love. The weather will be whatever it is, and the day will be extraordinary regardless, because that is what days like this are.
+      </p>
+      <p>
+        The saints and the meteorologists, for once, agree: let it go. Show up. Say the words. The rest is grace.
+      </p>
+      <p>
+        (And if you do hire the witch &mdash; send us her shop link.)
+      </p>
+    </section>
+
+    <div class="blessing fade-7">
+      <p class="blessing-text">
+        &ldquo;Do not be anxious about tomorrow, for tomorrow will be anxious for itself.<br>Sufficient for the day is its own trouble.&rdquo;
+      </p>
+      <p class="attribution">Matthew 6:34 &nbsp;&middot;&nbsp; also, basically, every meteorologist ever</p>
+    </div>
+
+    <p class="footnote fade-7">
+      Weather data sourced from NOAA historical climate records and extended seasonal outlooks as of late May 2026. June 7, 2026 forecast based on available long-range modeling via weather25.com and easeweather.com. Cleveland historical averages per climate-data.org and nomadseason.com. Etsy witch statistics are entirely fabricated and presented in the spirit of love and gentle mockery. This page was made with genuine affection.
+    </p>
+
+  </div>
+</body>
+</html>
