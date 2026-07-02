@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Trivial — Analytics</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0b0f14;
+    --surface: #121820;
+    --surface2: #1a222d;
+    --border: #232e3c;
+    --text: #e8eef5;
+    --muted: #8fa1b3;
+    --accent: #34d399;
+    --trivial: #4ade80;
+    --popsicle: #f472b6;
+    --sportle: #60a5fa;
+    --literal: #a78bfa;
+    --global: #fbbf24;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    min-height: 100vh; padding: 24px 16px 64px;
+  }
+  .wrap { max-width: 1060px; margin: 0 auto; }
+  header { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 6px; }
+  h1 { font-size: 22px; letter-spacing: 3px; text-transform: uppercase; font-weight: 700; }
+  h1 span { color: var(--accent); }
+  .sub { color: var(--muted); font-size: 12px; }
+  .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 18px 0; }
+  .card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 14px; padding: 18px 20px;
+  }
+  .card .label { color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: 1.5px; }
+  .card .value { font-size: 30px; font-weight: 700; margin-top: 6px; font-variant-numeric: tabular-nums; }
+  .ranges { display: flex; gap: 8px; margin: 4px 0 16px; }
+  .ranges button {
+    background: var(--surface); color: var(--muted); border: 1px solid var(--border);
+    border-radius: 999px; padding: 6px 16px; font-size: 12px; cursor: pointer; font-weight: 600;
+  }
+  .ranges button.active { background: var(--accent); color: #06281c; border-color: var(--accent); }
+  .panel {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 14px; padding: 18px 20px; margin-bottom: 16px;
+  }
+  .panel h2 { font-size: 13px; text-transform: uppercase; letter-spacing: 1.5px; color: var(--muted); margin-bottom: 12px; }
+  .panel .note { color: var(--muted); font-size: 11px; margin-top: 10px; line-height: 1.5; }
+  .chartbox { position: relative; height: 300px; }
+  .chartbox.tall { height: 340px; }
+  #gate {
+    position: fixed; inset: 0; background: var(--bg); z-index: 10;
+    display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 14px; padding: 20px;
+  }
+  #gate h1 { margin-bottom: 6px; }
+  #gate input {
+    background: var(--surface2); border: 1px solid var(--border); color: var(--text);
+    border-radius: 10px; padding: 12px 16px; font-size: 15px; width: 280px; text-align: center; outline: none;
+  }
+  #gate input:focus { border-color: var(--accent); }
+  #gate button {
+    background: var(--accent); color: #06281c; border: none; border-radius: 10px;
+    padding: 12px 32px; font-size: 14px; font-weight: 700; cursor: pointer;
+  }
+  #gateErr { color: #f87171; font-size: 13px; min-height: 18px; }
+  #loading { color: var(--muted); text-align: center; padding: 60px 0; font-size: 14px; }
+  .hidden { display: none !important; }
+  @media (max-width: 700px) {
+    .cards { grid-template-columns: 1fr; }
+    .chartbox, .chartbox.tall { height: 240px; }
+  }
+</style>
+</head>
+<body>
+
+<div id="gate">
+  <h1>TRIVIAL <span>ANALYTICS</span></h1>
+  <div class="sub">Enter the dashboard password</div>
+  <input id="pw" type="password" placeholder="Password" autocomplete="current-password">
+  <div id="gateErr"></div>
+  <button id="pwGo">View dashboard</button>
+</div>
+
+<div class="wrap hidden" id="app">
+  <header>
+    <h1>TRIVIAL <span>ANALYTICS</span></h1>
+    <div class="sub" id="refreshed"></div>
+  </header>
+  <div class="sub">Old app + v2 unified · players deduped across the migration · dates US/Eastern</div>
+
+  <div class="cards">
+    <div class="card"><div class="label">Total puzzles played</div><div class="value" id="statPlays">—</div></div>
+    <div class="card"><div class="label">Total players</div><div class="value" id="statPlayers">—</div></div>
+    <div class="card"><div class="label">7-day avg DAU</div><div class="value" id="statDau">—</div></div>
+  </div>
+
+  <div class="ranges" id="ranges">
+    <button data-days="30">30D</button>
+    <button data-days="90">90D</button>
+    <button data-days="365">1Y</button>
+    <button data-days="all" class="active">All</button>
+  </div>
+
+  <div id="loading">Loading…</div>
+
+  <div id="charts" class="hidden">
+    <div class="panel">
+      <h2>Daily Active Users</h2>
+      <div class="chartbox"><canvas id="cDau"></canvas></div>
+    </div>
+    <div class="panel">
+      <h2>DAU by Puzzle</h2>
+      <div class="chartbox"><canvas id="cDauQuiz"></canvas></div>
+      <div class="note">Before the v2 launch (May 2026) the app had a single daily puzzle, counted under trivial.</div>
+    </div>
+    <div class="panel">
+      <h2>New Players per Day</h2>
+      <div class="chartbox"><canvas id="cNew"></canvas></div>
+      <div class="note">A "new player" = first-ever puzzle played that day (consistent across both eras).</div>
+    </div>
+    <div class="panel">
+      <h2>Retention Curve</h2>
+      <div class="chartbox tall"><canvas id="cRet"></canvas></div>
+      <div class="note">X-day retention = of players whose first play was ≥ X days ago, the % who played any
+      puzzle X or more days after their first play. Snapshot over all players, all-time (not affected by the
+      date range above).</div>
+    </div>
+  </div>
+</div>
+
+<script>
+const SUPABASE_URL = "https://kfqbutzmgomvxywwqenp.supabase.co";
+const ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtmcWJ1dHptZ29tdnh5d3dxZW5wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc3Njg4NDgsImV4cCI6MjA2MzM0NDg0OH0.0yOaI4MLC7q3dqCMPTuQ2XPLbqAP1sedtngk1t5v_DI";
+
+const $ = (id) => document.getElementById(id);
+const fmt = (n) => n == null ? "—" : Number(n).toLocaleString("en-US");
+let charts = {};
+let currentRange = "all";
+
+Chart.defaults.color = "#8fa1b3";
+Chart.defaults.borderColor = "#232e3c";
+Chart.defaults.font.family = '"Helvetica Neue", Helvetica, Arial, sans-serif';
+
+async function fetchData(secret, rangeDays) {
+  const body = { p_secret: secret };
+  if (rangeDays !== "all") {
+    const d = new Date(Date.now() - rangeDays * 86400000);
+    body.p_start = d.toISOString().slice(0, 10);
+  }
+  const res = await fetch(SUPABASE_URL + "/rest/v1/rpc/trivial_analytics", {
+    method: "POST",
+    headers: { apikey: ANON_KEY, Authorization: "Bearer " + ANON_KEY, "Content-Type": "application/json" },
+    body: JSON.stringify(body),
+  });
+  if (!res.ok) throw new Error("HTTP " + res.status);
+  const json = await res.json();
+  if (json && json.error === "unauthorized") throw new Error("unauthorized");
+  return json;
+}
+
+function line(ctx, labels, datasets, opts = {}) {
+  return new Chart(ctx, {
+    type: opts.type || "line",
+    data: { labels, datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false, animation: false,
+      interaction: { mode: "index", intersect: false },
+      plugins: {
+        legend: { display: datasets.length > 1, labels: { boxWidth: 12, boxHeight: 12 } },
+        tooltip: { backgroundColor: "#1a222d", borderColor: "#232e3c", borderWidth: 1 },
+      },
+      scales: {
+        x: { grid: { display: false }, ticks: { maxTicksLimit: 10, maxRotation: 0 } },
+        y: { beginAtZero: true, grid: { color: "#1a222d" } },
+        ...(opts.scales || {}),
+      },
+      ...(opts.extra || {}),
+    },
+  });
+}
+
+function render(data) {
+  $("statPlays").textContent = fmt(data.totals?.total_plays);
+  $("statPlayers").textContent = fmt(data.totals?.total_players);
+  $("statDau").textContent = fmt(data.totals?.avg_dau_7d);
+  if (data.totals?.refreshed_at) {
+    const mins = Math.max(0, Math.round((Date.now() - new Date(data.totals.refreshed_at)) / 60000));
+    $("refreshed").textContent = "Data refreshed " + (mins < 60 ? mins + "m" : Math.round(mins / 60) + "h") + " ago · auto-updates every 30 min";
+  }
+
+  Object.values(charts).forEach((c) => c.destroy());
+  charts = {};
+
+  const days = data.dau.map((r) => r.d);
+  const ds = (key, color, extra = {}) => ({
+    label: key, data: data.dau.map((r) => r[key]), borderColor: color,
+    backgroundColor: color + "33", borderWidth: 2, pointRadius: 0, tension: 0.25, ...extra,
+  });
+
+  charts.dau = line($("cDau"), days, [ds("total", "#34d399", { label: "DAU", fill: true })]);
+  charts.dauQuiz = line($("cDauQuiz"), days, [
+    ds("trivial", "#4ade80"), ds("popsicle", "#f472b6"), ds("sportle", "#60a5fa"),
+    ds("literal", "#a78bfa"), ds("global", "#fbbf24"),
+  ]);
+
+  const nDays = data.new_players.map((r) => r.d);
+  charts.newp = line($("cNew"), nDays, [{
+    label: "New players", data: data.new_players.map((r) => r.n),
+    backgroundColor: "#60a5fa", borderRadius: 3, barPercentage: 1, categoryPercentage: 0.9,
+  }], { type: "bar" });
+
+  const ret = data.retention || [];
+  charts.ret = new Chart($("cRet"), {
+    type: "line",
+    data: {
+      labels: ret.map((r) => "D" + r.days),
+      datasets: [{
+        label: "Retention %", data: ret.map((r) => r.pct),
+        borderColor: "#34d399", backgroundColor: "#34d39933", fill: true,
+        borderWidth: 2.5, pointRadius: 5, pointBackgroundColor: "#34d399", tension: 0.3,
+      }],
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false, animation: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: "#1a222d", borderColor: "#232e3c", borderWidth: 1,
+          callbacks: {
+            label: (c) => {
+              const r = ret[c.dataIndex];
+              return r.pct + "%  (" + fmt(r.numer) + " of " + fmt(r.denom) + " players)";
+            },
+          },
+        },
+      },
+      scales: {
+        x: { grid: { display: false } },
+        y: { beginAtZero: true, max: 100, grid: { color: "#1a222d" }, ticks: { callback: (v) => v + "%" } },
+      },
+    },
+  });
+
+  $("loading").classList.add("hidden");
+  $("charts").classList.remove("hidden");
+}
+
+async function load(rangeDays) {
+  const secret = localStorage.getItem("ta_secret");
+  if (!secret) return showGate("");
+  $("gate").classList.add("hidden");
+  $("app").classList.remove("hidden");
+  $("loading").classList.remove("hidden");
+  $("charts").classList.add("hidden");
+  try {
+    render(await fetchData(secret, rangeDays));
+  } catch (e) {
+    if (e.message === "unauthorized") {
+      localStorage.removeItem("ta_secret");
+      showGate("Wrong password — try again.");
+    } else {
+      $("loading").textContent = "Failed to load (" + e.message + "). Refresh to retry.";
+    }
+  }
+}
+
+function showGate(msg) {
+  $("app").classList.add("hidden");
+  $("gate").classList.remove("hidden");
+  $("gateErr").textContent = msg;
+  $("pw").focus();
+}
+
+$("pwGo").addEventListener("click", () => {
+  const v = $("pw").value.trim();
+  if (!v) return;
+  localStorage.setItem("ta_secret", v);
+  load(currentRange);
+});
+$("pw").addEventListener("keydown", (e) => { if (e.key === "Enter") $("pwGo").click(); });
+
+$("ranges").addEventListener("click", (e) => {
+  const btn = e.target.closest("button");
+  if (!btn) return;
+  document.querySelectorAll("#ranges button").forEach((b) => b.classList.remove("active"));
+  btn.classList.add("active");
+  currentRange = btn.dataset.days === "all" ? "all" : Number(btn.dataset.days);
+  load(currentRange);
+});
+
+load(currentRange);
+</script>
+</body>
+</html>
