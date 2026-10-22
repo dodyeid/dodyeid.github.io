@@ -176,14 +176,27 @@ function ask(html, ok = 'OK', { danger = false } = {}) {
 }
 
 // ---------- load ----------
-async function loadDate() {
-  $('#date').value = isoOf(date);
-  info = await call({ action: 'status', dates: [keyOf(date)] }).then((r) => r[keyOf(date)]).catch((e) => (toast(e.message), {}));
-  renderTypes();
-  await loadPuzzle();
+// Lock the form while loading so nothing typed gets overwritten.
+let loadId = 0;
+function setLoading(on) {
+  document.querySelectorAll('.cols input, #save, #clear').forEach((el) => (el.disabled = on));
+  $('.cols').style.opacity = on ? 0.5 : '';
+  if (on) { $('#status').className = ''; $('#status').textContent = 'Loading…'; }
 }
-async function loadPuzzle() {
+async function loadDate() {
+  const id = ++loadId;
+  $('#date').value = isoOf(date);
+  setLoading(true);
+  const r = await call({ action: 'status', dates: [keyOf(date)] }).then((r) => r[keyOf(date)]).catch((e) => (toast(e.message), {}));
+  if (id !== loadId) return;
+  info = r;
+  await loadPuzzle(id);
+}
+async function loadPuzzle(id = ++loadId) {
+  setLoading(true);
   const rows = info[type] ? await call({ action: 'get', date: keyOf(date), type }).catch((e) => (toast(e.message), [])) : [];
+  if (id !== loadId) return;
+  renderTypes();
   p = blank();
   for (const r of rows) {
     if (r.question_number === 1) p.keystone = r.first_word || '';
@@ -192,6 +205,7 @@ async function loadPuzzle() {
   }
   dirty = false;
   renderForm();
+  setLoading(false);
 }
 async function okToLeave() { return !dirty || ask('<p>Discard your changes?</p>', 'Discard'); }
 
