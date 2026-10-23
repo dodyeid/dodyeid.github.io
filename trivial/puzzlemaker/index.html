@@ -19,6 +19,7 @@
   input{width:100%;padding:10px 12px;border-radius:10px;border:1px solid var(--line);background:var(--panel);outline:none}
   input:focus{border-color:var(--accent)}
   button{cursor:pointer;border:1px solid var(--line);background:var(--panel);border-radius:10px;padding:10px 14px}
+  button:disabled{opacity:.4;cursor:default}
   .primary{background:var(--accent);border-color:var(--accent);color:#2a0b27;font-weight:700}
 
   /* gate */
@@ -55,9 +56,14 @@
   #warnings{margin:12px 0;font-size:14px}
   #warnings div{color:var(--warn);padding:2px 0}
   #warnings .ok{color:var(--good)}
-  .bar{display:flex;gap:10px;align-items:center;margin-top:8px}
+  .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:8px}
   .bar .grow{flex:1}
-  #save{padding:12px 28px;font-size:16px}
+  /* Save: faint until something changes, solid pink with changes, green flash once saved */
+  #save{padding:12px 28px;font-size:16px;font-weight:700;background:transparent;color:var(--dim);transition:background .2s,border-color .2s,color .2s}
+  #save:disabled{opacity:.5}
+  #save.ready{background:var(--accent);border-color:var(--accent);color:#2a0b27;opacity:1}
+  #save.done{background:var(--good);border-color:var(--good);color:#06230f;opacity:1;animation:pop .35s ease}
+  @keyframes pop{40%{transform:scale(1.08)}}
 
   dialog{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:14px;max-width:400px;padding:20px}
   dialog::backdrop{background:rgba(0,0,0,.6)}
@@ -69,6 +75,7 @@
     .link{grid-template-columns:20px 1fr}
     .link .n{grid-row:span 4}
     .link .ex{grid-column:2}
+    #save{width:100%}
   }
 </style>
 </head>
@@ -100,9 +107,12 @@
     <div id="links"></div>
     <div id="warnings"></div>
     <div class="bar">
+      <button id="copy">Copy</button>
+      <button id="paste" class="hidden">Paste</button>
+      <button id="undo" disabled>Undo</button>
       <button id="clear">Clear</button>
       <span class="grow"></span>
-      <button id="save" class="primary">Save</button>
+      <button id="save" disabled>Save</button>
     </div>
   </div>
 </div>
@@ -129,15 +139,23 @@ let password = sessionStorage.getItem('pm_pw') || '';
 let date = new Date(); date.setDate(date.getDate() + 1);   // start on tomorrow
 let type = 'trivial';
 let info = {};          // what's saved for the shown date, per quiz
-let dirty = false;
-let p = blank();
+let p = blank();        // the puzzle in the boxes
+let saved = snap();     // the puzzle as last loaded or saved; p differs from it = unsaved changes
+let history = [];       // undo steps (earlier versions of p)
+let pending = null;     // version of p when a box got focus; becomes an undo step on its first edit
+let clip = JSON.parse(sessionStorage.getItem('pm_clip') || 'null');   // copied puzzle
+let loading = false, saving = false, justSaved = false, savedTimer;
 
 function blank() { return { keystone: '', author: '', links: Array.from({length: 7}, () => ({answer: '', wrong1: '', wrong2: '', explanation: ''})) }; }
+function snap() { return JSON.stringify(p); }
+const BLANK = JSON.stringify(blank());
+const isDirty = () => snap() !== saved;
 const pad = (n) => String(n).padStart(2, '0');
 const keyOf = (d) => `game_${pad(d.getMonth() + 1)}-${pad(d.getDate())}-${d.getFullYear()}`;
 const isoOf = (d) => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
 // The app uses each phone's local date, so a day is live once it starts anywhere (UTC+14).
 const isLive = (d) => isoOf(d) <= new Date(Date.now() + 14 * 3600e3).toISOString().slice(0, 10);
+const slot = () => `${keyOf(date)}|${type}`;
 
 async function call(body) {
   const r = await fetch(FN, { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({ password, ...body }) });
@@ -163,9 +181,11 @@ function ask(html, ok = 'OK', { danger = false } = {}) {
 // Lock the form while loading so nothing typed gets overwritten.
 let loadId = 0;
 function setLoading(on) {
-  document.querySelectorAll('#editor input, #save, #clear').forEach((el) => (el.disabled = on));
+  loading = on;
+  document.querySelectorAll('#editor input').forEach((el) => (el.disabled = on));
   $('#editor').style.opacity = on ? 0.5 : '';
   if (on) { $('#status').className = ''; $('#status').textContent = 'Loading…'; }
+  renderBar();
 }
 async function loadDate() {
   const id = ++loadId;
@@ -187,11 +207,12 @@ async function loadPuzzle(id = ++loadId) {
     p.author ||= r.author || '';
     p.links[r.question_number - 1] = { answer: r.right_answer, wrong1: r.wrong_option_1, wrong2: r.wrong_option_2, explanation: r.explanation || '' };
   }
-  dirty = false;
+  saved = snap();
+  history = [];
   renderForm();
   setLoading(false);
 }
-async function okToLeave() { return !dirty || ask('<p>Discard your changes?</p>', 'Discard'); }
+async function okToLeave() { return !isDirty() || ask('<p>Discard your changes?</p>', 'Discard'); }
 
 // ---------- render ----------
 function renderTypes() {
@@ -213,12 +234,30 @@ function renderForm() {
       <input data-f="wrong1" placeholder="Wrong" value="${esc(l.wrong1)}">
       <input data-f="wrong2" placeholder="Wrong" value="${esc(l.wrong2)}">
     </div>`).join('');
+  pending = snap();
   renderChecks();
 }
 function renderChecks() {
-  const w = warnings();
+  const empty = snap() === BLANK;   // nothing typed yet: no warnings
+  const w = empty ? [] : warnings();
   document.querySelectorAll('.link').forEach((el) => el.classList.toggle('flag', w.some((x) => x.n === +el.dataset.i + 1)));
-  $('#warnings').innerHTML = w.length ? w.map((x) => `<div>${x.n ? `Link ${x.n}: ` : ''}${esc(x.m)}</div>`).join('') : '<div class="ok">✓ Looks good</div>';
+  $('#warnings').innerHTML = empty ? '' : w.length ? w.map((x) => `<div>${x.n ? `Link ${x.n}: ` : ''}${esc(x.m)}</div>`).join('') : '<div class="ok">✓ Looks good</div>';
+  renderBar();
+}
+function renderBar() {
+  const changed = !loading && isDirty();
+  const done = justSaved && !changed;
+  const s = $('#save');
+  s.className = done ? 'done' : changed || saving ? 'ready' : '';
+  s.textContent = saving ? 'Saving…' : done ? 'Saved ✓' : 'Save';
+  s.disabled = saving || !changed;
+  $('#undo').disabled = loading || !history.length;
+  $('#copy').disabled = $('#clear').disabled = loading || snap() === BLANK;
+  // Paste shows on any other date/quiz until the copied puzzle is in the boxes.
+  const canPaste = !!clip && clip.from !== slot() && clip.data !== snap();
+  $('#paste').classList.toggle('hidden', !canPaste);
+  $('#paste').disabled = loading;
+  $('#paste').title = canPaste ? `Paste ${clip.label}` : '';
 }
 
 // ---------- checks (warn only) ----------
@@ -244,9 +283,30 @@ function warnings() {
 }
 
 // ---------- events ----------
-$('#links').oninput = (e) => { const c = e.target.closest('.link'); p.links[+c.dataset.i][e.target.dataset.f] = e.target.value; dirty = true; renderChecks(); };
-$('#key').oninput = (e) => { p.keystone = e.target.value; dirty = true; renderChecks(); };
-$('#author').oninput = (e) => { p.author = e.target.value; dirty = true; renderChecks(); };
+// Each stretch of typing in one box is one undo step.
+$('#editor').addEventListener('focusin', (e) => { if (e.target.tagName === 'INPUT') pending = snap(); });
+$('#editor').oninput = (e) => {
+  const t = e.target;
+  if (pending !== null) { history.push(pending); pending = null; }
+  if (t.id === 'key') p.keystone = t.value;
+  else if (t.id === 'author') p.author = t.value;
+  else p.links[+t.closest('.link').dataset.i][t.dataset.f] = t.value;
+  renderChecks();
+};
+function replaceAll(next) { history.push(snap()); p = next; renderForm(); }
+$('#copy').onclick = () => {
+  const label = TYPES.find(([id]) => id === type)[1];
+  clip = { from: slot(), data: snap(), label: `${date.toLocaleDateString(undefined, { month: 'short', day: 'numeric' })} ${label}` };
+  sessionStorage.setItem('pm_clip', JSON.stringify(clip));
+  const b = $('#copy');
+  b.textContent = 'Copied ✓';
+  clearTimeout(b.t);
+  b.t = setTimeout(() => (b.textContent = 'Copy'), 1500);
+  renderBar();
+};
+$('#paste').onclick = () => replaceAll(JSON.parse(clip.data));
+$('#clear').onclick = () => replaceAll(blank());
+$('#undo').onclick = () => { if (history.length) { p = JSON.parse(history.pop()); renderForm(); } };
 $('#types').onclick = async (e) => {
   const b = e.target.closest('.type'); if (!b || b.dataset.t === type || !(await okToLeave())) return;
   type = b.dataset.t; renderTypes(); loadPuzzle();
@@ -255,7 +315,6 @@ async function moveTo(d) { if (!(await okToLeave())) { $('#date').value = isoOf(
 $('#date').onchange = (e) => { const [y, m, d] = e.target.value.split('-'); if (y) moveTo(new Date(+y, m - 1, +d)); };
 $('#prev').onclick = () => { const d = new Date(date); d.setDate(d.getDate() - 1); moveTo(d); };
 $('#next').onclick = () => { const d = new Date(date); d.setDate(d.getDate() + 1); moveTo(d); };
-$('#clear').onclick = async () => { if (await ask('<p>Clear all fields?</p>', 'Clear')) { p = blank(); dirty = true; renderForm(); } };
 
 $('#save').onclick = async () => {
   const w = warnings();
@@ -266,17 +325,24 @@ $('#save').onclick = async () => {
   } else if (cur) {
     if (!(await ask(`<p>Replace the puzzle by ${esc(cur.author || '?')}?</p>`, 'Replace'))) return;
   }
-  const btn = $('#save'); btn.disabled = true; btn.textContent = 'Saving…';
+  const sending = snap(), at = slot();
+  saving = true; renderBar();
   try {
-    await call({ action: 'save', puzzle: { game_date: keyOf(date), quiz_type: type, ...p } });
-    dirty = false;
-    toast('Saved');
-    info = await call({ action: 'status', dates: [keyOf(date)] }).then((r) => r[keyOf(date)]);
-    renderTypes();
+    await call({ action: 'save', puzzle: { game_date: keyOf(date), quiz_type: type, ...JSON.parse(sending) } });
+    saving = false;
+    if (slot() === at) {
+      saved = sending;
+      justSaved = true;
+      clearTimeout(savedTimer);
+      savedTimer = setTimeout(() => { justSaved = false; renderBar(); }, 1800);
+      renderBar();
+      info = await call({ action: 'status', dates: [keyOf(date)] }).then((r) => r[keyOf(date)]).catch(() => info);
+      renderTypes();
+    }
   } catch (e) { toast(e.message); }
-  btn.disabled = false; btn.textContent = 'Save';
+  saving = false; renderBar();
 };
-window.onbeforeunload = () => (dirty ? true : undefined);
+window.onbeforeunload = () => (isDirty() ? true : undefined);
 
 // ---------- gate ----------
 async function enter() {
