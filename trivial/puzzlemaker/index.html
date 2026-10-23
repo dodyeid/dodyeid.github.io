@@ -84,12 +84,12 @@
 </head>
 <body>
 
-<div id="gate">
+<form id="gate">
   <h1>Puzzle <span>Maker</span></h1>
   <input id="pw" type="password" placeholder="Password" autocomplete="current-password">
-  <button id="enter" class="primary">Enter</button>
+  <button class="primary">Enter</button>
   <div id="gateErr"></div>
-</div>
+</form>
 
 <div id="app" class="wrap hidden">
   <h1 class="top">Puzzle <span>Maker</span></h1>
@@ -322,8 +322,7 @@ async function enter() {
     loadDate();
   } catch (e) { $('#gateErr').textContent = e.message; }
 }
-$('#enter').onclick = enter;
-$('#pw').onkeydown = (e) => e.key === 'Enter' && enter();
+$('#gate').onsubmit = (e) => { e.preventDefault(); enter(); };
 if (password) enter();
 </script>
 </body>
