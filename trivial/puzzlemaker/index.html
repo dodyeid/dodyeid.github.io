@@ -253,8 +253,8 @@ function renderBar() {
   s.disabled = saving || !changed;
   $('#undo').disabled = loading || !history.length;
   $('#copy').disabled = $('#clear').disabled = loading || snap() === BLANK;
-  // Paste shows on any other date/quiz until the copied puzzle is in the boxes.
-  const canPaste = !!clip && clip.from !== slot() && clip.data !== snap();
+  // Paste shows on any date/quiz other than the one copied from.
+  const canPaste = !!clip && clip.from !== slot();
   $('#paste').classList.toggle('hidden', !canPaste);
   $('#paste').disabled = loading;
   $('#paste').title = canPaste ? `Paste ${clip.label}` : '';
@@ -304,7 +304,7 @@ $('#copy').onclick = () => {
   b.t = setTimeout(() => (b.textContent = 'Copy'), 1500);
   renderBar();
 };
-$('#paste').onclick = () => replaceAll(JSON.parse(clip.data));
+$('#paste').onclick = () => { if (clip.data !== snap()) replaceAll(JSON.parse(clip.data)); };
 $('#clear').onclick = () => replaceAll(blank());
 $('#undo').onclick = () => { if (history.length) { p = JSON.parse(history.pop()); renderForm(); } };
 $('#types').onclick = async (e) => {
